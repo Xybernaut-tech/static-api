@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:46 PM 16-06-2025",
+  "last update time": "01:43 AM 17-06-2025",
   "matches": [
     {
       "title": "South Africa vs Australia, Final",
@@ -130,15 +130,6 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_119144.json"
     },
     {
-      "title": "Kolhapur Tuskers vs Raigad Royals, 20th Match",
-      "team1": "Kolhapur Tuskers",
-      "team2": "Raigad Royals",
-      "match_id": "120035",
-      "match_date": "15/6/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://cricdynasty.vercel.app/cricbuzz/m_120035.json"
-    },
-    {
       "title": "Yorkshire vs Durham, North Group",
       "team1": "Yorkshire",
       "team2": "Durham",
@@ -146,6 +137,15 @@
       "match_date": "15/6/2025",
       "match_time": "7:00:00 pm",
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_110649.json"
+    },
+    {
+      "title": "Kolhapur Tuskers vs Raigad Royals, 20th Match",
+      "team1": "Kolhapur Tuskers",
+      "team2": "Raigad Royals",
+      "match_id": "120035",
+      "match_date": "15/6/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://cricdynasty.vercel.app/cricbuzz/m_120035.json"
     },
     {
       "title": "Nellai Royal Kings vs Salem Spartans, 13th Match",
@@ -157,6 +157,15 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_119153.json"
     },
     {
+      "title": "Ireland vs West Indies, 3rd T20I",
+      "team1": "Ireland",
+      "team2": "West Indies",
+      "match_id": "114690",
+      "match_date": "15/6/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.vercel.app/cricbuzz/m_114690.json"
+    },
+    {
       "title": "Bhopal Leopards vs Bundelkhand Bulls, 7th Match",
       "team1": "Bhopal Leopards",
       "team2": "Bundelkhand Bulls",
@@ -164,15 +173,6 @@
       "match_date": "15/6/2025",
       "match_time": "7:30:00 pm",
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_120773.json"
-    },
-    {
-      "title": "Scotland vs Netherlands, 1st Match",
-      "team1": "Scotland",
-      "team2": "Netherlands",
-      "match_id": "118217",
-      "match_date": "15/6/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.vercel.app/cricbuzz/m_118217.json"
     },
     {
       "title": "Finland vs Norway, Only T20I",
@@ -184,13 +184,13 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_121015.json"
     },
     {
-      "title": "Ireland vs West Indies, 3rd T20I",
-      "team1": "Ireland",
-      "team2": "West Indies",
-      "match_id": "114690",
+      "title": "Scotland vs Netherlands, 1st Match",
+      "team1": "Scotland",
+      "team2": "Netherlands",
+      "match_id": "118217",
       "match_date": "15/6/2025",
       "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.vercel.app/cricbuzz/m_114690.json"
+      "details": "https://cricdynasty.vercel.app/cricbuzz/m_118217.json"
     },
     {
       "title": "Raipur Rhinos vs Rajnandgaon Panthers, Final",
@@ -211,15 +211,6 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_120575.json"
     },
     {
-      "title": "Gloucestershire vs Glamorgan, South Group",
-      "team1": "Gloucestershire",
-      "team2": "Glamorgan",
-      "match_id": "110633",
-      "match_date": "15/6/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://cricdynasty.vercel.app/cricbuzz/m_110633.json"
-    },
-    {
       "title": "Leicestershire vs Worcestershire, North Group",
       "team1": "Leicestershire",
       "team2": "Worcestershire",
@@ -227,6 +218,15 @@
       "match_date": "15/6/2025",
       "match_time": "8:30:00 pm",
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_110637.json"
+    },
+    {
+      "title": "Gloucestershire vs Glamorgan, South Group",
+      "team1": "Gloucestershire",
+      "team2": "Glamorgan",
+      "match_id": "110633",
+      "match_date": "15/6/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://cricdynasty.vercel.app/cricbuzz/m_110633.json"
     },
     {
       "title": "Somerset vs Kent, South Group",
@@ -265,15 +265,6 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_117107.json"
     },
     {
-      "title": "Papua New Guinea Women vs Vanuatu Women, 2nd Match",
-      "team1": "Papua New Guinea Women",
-      "team2": "Vanuatu Women",
-      "match_id": "121032",
-      "match_date": "16/6/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://cricdynasty.vercel.app/cricbuzz/m_121032.json"
-    },
-    {
       "title": "Ratnagiri Jets vs Raigad Royals, 21st Match",
       "team1": "Ratnagiri Jets",
       "team2": "Raigad Royals",
@@ -281,6 +272,15 @@
       "match_date": "16/6/2025",
       "match_time": "9:30:00 am",
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_120041.json"
+    },
+    {
+      "title": "Papua New Guinea Women vs Vanuatu Women, 2nd Match",
+      "team1": "Papua New Guinea Women",
+      "team2": "Vanuatu Women",
+      "match_id": "121032",
+      "match_date": "16/6/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://cricdynasty.vercel.app/cricbuzz/m_121032.json"
     },
     {
       "title": "Kolhapur Tuskers vs Eagle Nashik Titans, 22nd Match",
@@ -373,15 +373,6 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_121428.json"
     },
     {
-      "title": "Papua New Guinea Women vs Samoa Women, 3rd Match",
-      "team1": "Papua New Guinea Women",
-      "team2": "Samoa Women",
-      "match_id": "121043",
-      "match_date": "17/6/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://cricdynasty.vercel.app/cricbuzz/m_121043.json"
-    },
-    {
       "title": "Sri Lanka vs Bangladesh, 1st Test",
       "team1": "Sri Lanka",
       "team2": "Bangladesh",
@@ -409,6 +400,15 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_120806.json"
     },
     {
+      "title": "Papua New Guinea Women vs Samoa Women, 3rd Match",
+      "team1": "Papua New Guinea Women",
+      "team2": "Samoa Women",
+      "match_id": "121043",
+      "match_date": "17/6/2025",
+      "match_time": "5:30:00 pm",
+      "details": "https://cricdynasty.vercel.app/cricbuzz/m_121043.json"
+    },
+    {
       "title": "Raigad Royals vs Satara Warriors, 25th Match",
       "team1": "Raigad Royals",
       "team2": "Satara Warriors",
@@ -425,6 +425,15 @@
       "match_date": "17/6/2025",
       "match_time": "7:15:00 pm",
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_119162.json"
+    },
+    {
+      "title": "Rewa Jaguars vs Bhopal Leopards, 11th Match",
+      "team1": "Rewa Jaguars",
+      "team2": "Bhopal Leopards",
+      "match_id": "120812",
+      "match_date": "17/6/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.vercel.app/cricbuzz/m_120812.json"
     },
     {
       "title": "Scotland vs Nepal, 3rd Match",
@@ -445,21 +454,12 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_114715.json"
     },
     {
-      "title": "Rewa Jaguars vs Bhopal Leopards, 11th Match",
-      "team1": "Rewa Jaguars",
-      "team2": "Bhopal Leopards",
-      "match_id": "120812",
-      "match_date": "17/6/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.vercel.app/cricbuzz/m_120812.json"
-    },
-    {
       "title": "Hampshire vs Surrey, South Group",
       "team1": "Hampshire",
       "team2": "Surrey",
       "match_id": "110653",
       "match_date": "17/6/2025",
-      "match_time": "11:00:00 pm",
+      "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_110653.json"
     },
     {
@@ -508,15 +508,6 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_119168.json"
     },
     {
-      "title": "Jabalpur Royal Lions vs Chambal Ghariyals, 13th Match",
-      "team1": "Jabalpur Royal Lions",
-      "team2": "Chambal Ghariyals",
-      "match_id": "120828",
-      "match_date": "18/6/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.vercel.app/cricbuzz/m_120828.json"
-    },
-    {
       "title": "Scotland vs Netherlands, 4th Match",
       "team1": "Scotland",
       "team2": "Netherlands",
@@ -524,6 +515,15 @@
       "match_date": "18/6/2025",
       "match_time": "7:30:00 pm",
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_118232.json"
+    },
+    {
+      "title": "Jabalpur Royal Lions vs Chambal Ghariyals, 13th Match",
+      "team1": "Jabalpur Royal Lions",
+      "team2": "Chambal Ghariyals",
+      "match_id": "120828",
+      "match_date": "18/6/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.vercel.app/cricbuzz/m_120828.json"
     },
     {
       "title": "Bermuda vs Cayman Islands, 5th Match",
@@ -544,6 +544,15 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_110661.json"
     },
     {
+      "title": "Surrey vs Sussex, South Group",
+      "team1": "Surrey",
+      "team2": "Sussex",
+      "match_id": "110669",
+      "match_date": "18/6/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.vercel.app/cricbuzz/m_110669.json"
+    },
+    {
       "title": "Worcestershire vs Durham, North Group",
       "team1": "Worcestershire",
       "team2": "Durham",
@@ -553,13 +562,13 @@
       "details": "https://cricdynasty.vercel.app/cricbuzz/m_110673.json"
     },
     {
-      "title": "Surrey vs Sussex, South Group",
-      "team1": "Surrey",
-      "team2": "Sussex",
-      "match_id": "110669",
-      "match_date": "18/6/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.vercel.app/cricbuzz/m_110669.json"
+      "title": "Canada vs Bahamas, 6th Match",
+      "team1": "Canada",
+      "team2": "Bahamas",
+      "match_id": "120625",
+      "match_date": "19/6/2025",
+      "match_time": "1:00:00 am",
+      "details": "https://cricdynasty.vercel.app/cricbuzz/m_120625.json"
     }
   ]
 }
