@@ -1,0 +1,128 @@
+name: Update Cricbuzz Matches Data for AllRounder
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Runs at minute 0 past every 2nd hour
+  workflow_dispatch:
+
+jobs:
+  update-matches:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        run: |
+          git clone https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git .
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Set up Python
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3 python3-pip
+          python3 -m pip install --upgrade pip
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 pytz
+
+      - name: Fetch and update matches data
+        run: |
+          python3 - <<EOF
+          import requests
+          from bs4 import BeautifulSoup
+          import json
+          from datetime import datetime
+          import re
+          import os
+          import pytz
+
+          # Load existing data if file exists
+          file_path = 'cricbuzz/live.json'
+          existing_data = {}
+          if os.path.exists(file_path):
+              with open(file_path, 'r') as f:
+                  try:
+                      existing_data = json.load(f)
+                  except:
+                      existing_data = {}
+
+          # Get current time in IST
+          ist = pytz.timezone('Asia/Kolkata')
+          current_time = datetime.now(ist).strftime("%I:%M %p %d-%m-%Y")
+
+          # Update last update time regardless of other changes
+          output_data = {
+              "name": existing_data.get("name", "Fancode Live Matches Data in Json"),
+              "telegram": existing_data.get("telegram", "https://t.me/CricDynasty"),
+              "last update time": current_time,
+              "matches": existing_data.get("matches", [])
+          }
+
+          try:
+              # Fetch Cricbuzz homepage to find match IDs
+              cricbuzz_url = "https://www.cricbuzz.com/"
+              response = requests.get(cricbuzz_url)
+              soup = BeautifulSoup(response.text, 'html.parser')
+
+              # Find all match IDs (6-digit numbers after /live-cricket-scores/)
+              match_ids = set()
+              for link in soup.find_all('a', href=True):
+                  match = re.search(r'/live-cricket-scores/(\d{6})/', link['href'])
+                  if match:
+                      match_ids.add(match.group(1))
+
+              matches = []
+              api_url = "https://allrounderscoreboard.onrender.com/score?id={}"
+
+              for match_id in match_ids:
+                  try:
+                      # Fetch match details from API
+                      response = requests.get(api_url.format(match_id))
+                      if response.status_code == 200:
+                          match_data = response.json()
+                          
+                          # Extract time from matchDate
+                          match_date_str = match_data['matchDate'].replace("Date: ", "")
+                          date_part, time_part = match_date_str.split(", ")
+                          
+                          # Create match entry
+                          match_entry = {
+                              "title": match_data['title'],
+                              "team1": match_data['title'].split(" vs ")[0],
+                              "team2": match_data['title'].split(" vs ")[1].split(",")[0],
+                              "match_id": match_id,
+                              "match_date": date_part,
+                              "match_time": time_part,
+                              "details": f"https://cricdynasty.vercel.app/cricbuzz/m_{match_id}.json",
+                              # Add datetime object for sorting
+                              "_sort_key": datetime.strptime(f"{date_part} {time_part}", "%d/%m/%Y %I:%M:%S %p")
+                          }
+                          matches.append(match_entry)
+                  except Exception as e:
+                      print(f"Error processing match {match_id}: {e}")
+
+              # Update matches if we found any
+              if matches:
+                  # Sort matches by date and time (earliest first)
+                  matches.sort(key=lambda x: x["_sort_key"])
+                  # Remove the temporary sort key
+                  for match in matches:
+                      del match["_sort_key"]
+                  output_data["matches"] = matches
+
+          except Exception as e:
+              print(f"Error fetching new match data: {e}")
+              # Continue with updating just the timestamp
+
+          # Ensure directory exists
+          os.makedirs('cricbuzz', exist_ok=True)
+          
+          # Write to file
+          with open(file_path, 'w') as f:
+              json.dump(output_data, f, indent=2)
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git add cricbuzz/live.json
+          git commit -m "Update matches data" || echo "No changes to commit"
+          git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }} || echo "Push failed"
