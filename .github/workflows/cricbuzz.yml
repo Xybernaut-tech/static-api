@@ -124,5 +124,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add cricbuzz/matches.json
-          git commit -m "Update matches data [skip ci]" || echo "No changes to commit"
+          git commit -m "Update Cricbuzz matches data" || echo "No changes to commit"
           git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }} || echo "Push failed"
