@@ -1,0 +1,17 @@
+{
+    "name": "Fancode Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "10:50:08 AM 16-06-2025",
+    "matches": [
+      {
+        "title": "San Francisco Unicorns vs MI New York, 6th Match",
+        "match_id": "117107",
+        "details": "https://allrounderscoreboard.onrender.com/score?id=117107"
+      },
+      {
+        "title": "Los Angeles Knight Riders vs Texas Super Kings, 5th Match",
+        "match_id": "117101",
+        "details": "https://allrounderscoreboard.onrender.com/score?id=117101"
+      }
+   ]
+}
