@@ -8,6 +8,8 @@
         "team1": "San Francisco Unicorns",
         "team2": "MI New York",
         "match_id": "117107",
+        "match_date": "16/6/2025",
+        "match_time": "6:30:00 am",
         "details": "http://cricdynasty.vercel.app/cricbuzz/m_117107.json"
       },
       {
@@ -15,6 +17,8 @@
         "team1": "Los Angeles Knight Riders",
         "team2": "Texas Super Kings",
         "match_id": "117101",
+        "match_date": "16/6/2025",
+        "match_time": "2:30:00 am",
         "details": "http://cricdynasty.vercel.app/cricbuzz/m_117101.json"
       }
    ]
