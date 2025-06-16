@@ -5,11 +5,15 @@
     "matches": [
       {
         "title": "San Francisco Unicorns vs MI New York, 6th Match",
+        "team1": "San Francisco Unicorns",
+        "team2": "MI New York",
         "match_id": "117107",
         "details": "http://cricdynasty.vercel.app/cricbuzz/m_117107.json"
       },
       {
         "title": "Los Angeles Knight Riders vs Texas Super Kings, 5th Match",
+        "team1": "Los Angeles Knight Riders",
+        "team2": "Texas Super Kings",
         "match_id": "117101",
         "details": "http://cricdynasty.vercel.app/cricbuzz/m_117101.json"
       }
