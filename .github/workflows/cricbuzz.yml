@@ -92,7 +92,7 @@ jobs:
                               "match_id": match_id,
                               "match_date": date_part,
                               "match_time": time_part,
-                              "details": f"https://cricdynasty.vercel.app/cricbuzz/m_{match_id}.json",
+                              "details": f"https://cricdynasty.onrender.com/cricbuzz/match.php?id={match_id}",
                               # Add datetime object for sorting
                               "_sort_key": datetime.strptime(f"{date_part} {time_part}", "%d/%m/%Y %I:%M:%S %p")
                           }
