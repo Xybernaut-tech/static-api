@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:56 PM 17-06-2025",
+  "last update time": "03:50 PM 17-06-2025",
   "matches": [
     {
       "title": "Kolhapur Tuskers vs Eagle Nashik Titans, 22nd Match",
@@ -191,6 +191,24 @@
       "match_date": "18/6/2025",
       "match_time": "6:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=117119"
+    },
+    {
+      "title": "Raigad Royals vs Eagle Nashik Titans, 26th Match",
+      "team1": "Raigad Royals",
+      "team2": "Eagle Nashik Titans",
+      "match_id": "120071",
+      "match_date": "18/6/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=120071"
+    },
+    {
+      "title": "Bundelkhand Bulls vs Indore Pink Panthers, 12th Match",
+      "team1": "Bundelkhand Bulls",
+      "team2": "Indore Pink Panthers",
+      "match_id": "120817",
+      "match_date": "18/6/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=120817"
     }
   ]
 }
