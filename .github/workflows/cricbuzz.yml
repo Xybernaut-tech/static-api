@@ -51,7 +51,7 @@ jobs:
 
           # Update last update time regardless of other changes
           output_data = {
-              "name": existing_data.get("name", "Fancode Live Matches Data in Json"),
+              "name": existing_data.get("name", "Cricbuzz Live Matches Data in Json"),
               "telegram": existing_data.get("telegram", "https://t.me/CricDynasty"),
               "last update time": current_time,
               "matches": existing_data.get("matches", [])
