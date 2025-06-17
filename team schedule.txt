@@ -1,71 +1,71 @@
 19-06-2025
-Karnataka vs Tamil Nadu
-Rajasthan vs Arunachal Pradesh
+Match 1: Karnataka vs Tamil Nadu
+Match 2: Rajasthan vs Arunachal Pradesh
 
 20-06-2025
-Bihar vs Madhya Pradesh
-Odisha vs Punjab
+Match 3: Bihar vs Madhya Pradesh
+Match 4: Odisha vs Punjab
 
 21-06-2025
-Arunachal Pradesh vs Chhattisgarh
-Karnataka vs Uttar Pradesh
+Match 5: Arunachal Pradesh vs Chhattisgarh
+Match 6: Karnataka vs Uttar Pradesh
 
 22-06-2025
-Tamil Nadu vs Bihar
-Rajasthan vs Punjab
+Match 7: Tamil Nadu vs Bihar
+Match 8: Rajasthan vs Punjab
 
 23-06-2025
-Chhattisgarh vs Kerala
-Tamil Nadu vs Arunachal Pradesh
+Match 9: Chhattisgarh vs Kerala
+Match 10: Tamil Nadu vs Arunachal Pradesh
 
 24-06-2025
-Madhya Pradesh vs Himachal Pradesh
-Bihar vs Uttar Pradesh
+Match 11: Madhya Pradesh vs Himachal Pradesh
+Match 12: Bihar vs Uttar Pradesh
 
 25-06-2025
-Punjab vs Kerala
-Odisha vs Madhya Pradesh
+Match 13: Punjab vs Kerala
+Match 14: Odisha vs Madhya Pradesh
 
 26-06-2025
-Karnataka vs Bihar
-Chhattisgarh vs Kerala
+Match 15: Karnataka vs Bihar
+Match 16: Chhattisgarh vs Kerala
 
 27-06-2025
-Arunachal Pradesh vs Himachal Pradesh
-Karnataka vs Rajasthan
+Match 17: Arunachal Pradesh vs Himachal Pradesh
+Match 18: Karnataka vs Rajasthan
 
 28-06-2025
-Arunachal Pradesh vs Punjab
-Tamil Nadu vs Odisha
+Match 19: Arunachal Pradesh vs Punjab
+Match 20: Tamil Nadu vs Odisha
 
 29-06-2025
-Uttar Pradesh vs Kerala
-Bihar vs Chhattisgarh
+Match 21: Uttar Pradesh vs Kerala
+Match 22: Bihar vs Chhattisgarh
 
 30-06-2025
-Punjab vs Himachal Pradesh
-Rajasthan vs Kerala
+Match 23: Punjab vs Himachal Pradesh
+Match 24: Rajasthan vs Kerala
 
 01-07-2025
-Tamil Nadu vs Madhya Pradesh
-Bihar vs Odisha
+Match 25: Tamil Nadu vs Madhya Pradesh
+Match 26: Bihar vs Odisha
 
 02-07-2025
-Rajasthan vs Chhattisgarh
-Karnataka vs Madhya Pradesh
+Match 27: Rajasthan vs Chhattisgarh
+Match 28: Karnataka vs Madhya Pradesh
 
 03-07-2025
-Kerala vs Himachal Pradesh
-Chhattisgarh vs Punjab
+Match 29: Kerala vs Himachal Pradesh
+Match 30: Chhattisgarh vs Punjab
 
 04-07-2025
-Tamil Nadu vs Uttar Pradesh
-Rajasthan vs Himachal Pradesh
+Match 31: Tamil Nadu vs Uttar Pradesh
+Match 32: Rajasthan vs Himachal Pradesh
 
 05-07-2025
-Karnataka vs Odisha
-Uttar Pradesh vs Madhya Pradesh
+Match 33: Karnataka vs Odisha
+Match 34: Uttar Pradesh vs Madhya Pradesh
 
 06-07-2025
-Chhattisgarh vs Himachal Pradesh
-Odisha vs Uttar Pradesh
+Match 35: Chhattisgarh vs Himachal Pradesh
+Match 36: Odisha vs Uttar Pradesh
