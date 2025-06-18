@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:41 AM 18-06-2025",
+  "last update time": "09:51 AM 18-06-2025",
   "matches": [
     {
       "title": "Texas Super Kings vs Seattle Orcas, 7th Match",
@@ -67,6 +67,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119162"
     },
     {
+      "title": "Rewa Jaguars vs Bhopal Leopards, 11th Match",
+      "team1": "Rewa Jaguars",
+      "team2": "Bhopal Leopards",
+      "match_id": "120812",
+      "match_date": "17/6/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120812"
+    },
+    {
       "title": "West Indies Women vs South Africa Women, 3rd ODI",
       "team1": "West Indies Women",
       "team2": "South Africa Women",
@@ -83,15 +92,6 @@
       "match_date": "17/6/2025",
       "match_time": "7:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118226"
-    },
-    {
-      "title": "Rewa Jaguars vs Bhopal Leopards, 11th Match",
-      "team1": "Rewa Jaguars",
-      "team2": "Bhopal Leopards",
-      "match_id": "120812",
-      "match_date": "17/6/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120812"
     },
     {
       "title": "Hampshire vs Surrey, South Group",
@@ -218,6 +218,24 @@
       "match_date": "19/6/2025",
       "match_time": "6:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117125"
+    },
+    {
+      "title": "Samoa Women vs Vanuatu Women, 4th Match",
+      "team1": "Samoa Women",
+      "team2": "Vanuatu Women",
+      "match_id": "121048",
+      "match_date": "19/6/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121048"
+    },
+    {
+      "title": "Kolhapur Tuskers vs Raigad Royals, 28th Match",
+      "team1": "Kolhapur Tuskers",
+      "team2": "Raigad Royals",
+      "match_id": "120080",
+      "match_date": "19/6/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120080"
     }
   ]
 }
