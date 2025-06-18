@@ -24,24 +24,24 @@
   {
     "team": "Bihar",
     "id": "3",
-    "in_runs": 50,
-    "in_balls": 30,
-    "ag_runs": 33,
-    "ag_balls": 30,
-    "matches": 1,
-    "won": 1,
+    "in_runs": 0,
+    "in_balls": 0,
+    "ag_runs": 0,
+    "ag_balls": 0,
+    "matches": 0,
+    "won": 0,
     "lost": 0
   },
   {
     "team": "Odisha",
     "id": "4",
-    "in_runs": 33,
-    "in_balls": 30,
-    "ag_runs": 50,
-    "ag_balls": 30,
-    "matches": 1,
+    "in_runs": 0,
+    "in_balls": 0,
+    "ag_runs": 0,
+    "ag_balls": 0,
+    "matches": 0,
     "won": 0,
-    "lost": 1
+    "lost": 0
   },
   {
     "team": "Uttar Pradesh",
