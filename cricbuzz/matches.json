@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:50 AM 19-06-2025",
+  "last update time": "11:47 AM 19-06-2025",
   "matches": [
     {
       "title": "Sri Lanka vs Bangladesh, 1st Test",
@@ -11,15 +11,6 @@
       "match_date": "17/6/2025",
       "match_time": "10:00:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118586"
-    },
-    {
-      "title": "Washington Freedom vs Los Angeles Knight Riders, 8th Match",
-      "team1": "Washington Freedom",
-      "team2": "Los Angeles Knight Riders",
-      "match_id": "117119",
-      "match_date": "18/6/2025",
-      "match_time": "6:30:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117119"
     },
     {
       "title": "Raigad Royals vs Eagle Nashik Titans, 26th Match",
@@ -94,15 +85,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110673"
     },
     {
-      "title": "Kent vs Gloucestershire, South Group",
-      "team1": "Kent",
-      "team2": "Gloucestershire",
-      "match_id": "110661",
-      "match_date": "18/6/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110661"
-    },
-    {
       "title": "Surrey vs Sussex, South Group",
       "team1": "Surrey",
       "team2": "Sussex",
@@ -110,6 +92,15 @@
       "match_date": "18/6/2025",
       "match_time": "11:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110669"
+    },
+    {
+      "title": "Kent vs Gloucestershire, South Group",
+      "team1": "Kent",
+      "team2": "Gloucestershire",
+      "match_id": "110661",
+      "match_date": "18/6/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110661"
     },
     {
       "title": "Canada vs Bahamas, 6th Match",
@@ -130,15 +121,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117125"
     },
     {
-      "title": "Kolhapur Tuskers vs Raigad Royals, 28th Match",
-      "team1": "Kolhapur Tuskers",
-      "team2": "Raigad Royals",
-      "match_id": "120080",
-      "match_date": "19/6/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120080"
-    },
-    {
       "title": "Samoa Women vs Vanuatu Women, 4th Match",
       "team1": "Samoa Women",
       "team2": "Vanuatu Women",
@@ -146,6 +128,15 @@
       "match_date": "19/6/2025",
       "match_time": "9:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121048"
+    },
+    {
+      "title": "Kolhapur Tuskers vs Raigad Royals, 28th Match",
+      "team1": "Kolhapur Tuskers",
+      "team2": "Raigad Royals",
+      "match_id": "120080",
+      "match_date": "19/6/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120080"
     },
     {
       "title": "Puneri Bappa vs Satara Warriors, 29th Match",
@@ -220,15 +211,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110685"
     },
     {
-      "title": "Somerset vs Hampshire, South Group",
-      "team1": "Somerset",
-      "team2": "Hampshire",
-      "match_id": "110693",
-      "match_date": "19/6/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110693"
-    },
-    {
       "title": "Leicestershire vs Nottinghamshire, North Group",
       "team1": "Leicestershire",
       "team2": "Nottinghamshire",
@@ -236,6 +218,15 @@
       "match_date": "19/6/2025",
       "match_time": "11:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110677"
+    },
+    {
+      "title": "Somerset vs Hampshire, South Group",
+      "team1": "Somerset",
+      "team2": "Hampshire",
+      "match_id": "110693",
+      "match_date": "19/6/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110693"
     },
     {
       "title": "Canada vs Cayman Islands, 8th Match",
