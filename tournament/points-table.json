@@ -68,6 +68,17 @@
   {
     "team": "Rajasthan",
     "id": "7",
+    "in_runs": 0,
+    "in_balls": 0,
+    "ag_runs": 38,
+    "ag_balls": 28,
+    "matches": 1,
+    "won": 0,
+    "lost": 1
+  },
+  {
+    "team": "Arunachal Pradesh",
+    "id": "8",
     "in_runs": 38,
     "in_balls": 28,
     "ag_runs": 0,
@@ -75,17 +86,6 @@
     "matches": 1,
     "won": 1,
     "lost": 0
-  },
-  {
-    "team": "Arunachal Pradesh",
-    "id": "8",
-    "in_runs": 0,
-    "in_balls": 0,
-    "ag_runs": 38,
-    "ag_balls": 23,
-    "matches": 1,
-    "won": 0,
-    "lost": 1
   },
   {
     "team": "Chhattisgarh",
