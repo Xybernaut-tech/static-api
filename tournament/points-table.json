@@ -2,24 +2,24 @@
   {
     "team": "Karnataka",
     "id": "1",
-    "in_runs": 0,
-    "in_balls": 0,
-    "ag_runs": 0,
-    "ag_balls": 0,
-    "matches": 0,
-    "won": 0,
+    "in_runs": 41,
+    "in_balls": 18,
+    "ag_runs": 40,
+    "ag_balls": 30,
+    "matches": 1,
+    "won": 1,
     "lost": 0
   },
   {
     "team": "Tamil Nadu",
     "id": "2",
-    "in_runs": 0,
-    "in_balls": 0,
-    "ag_runs": 0,
-    "ag_balls": 0,
-    "matches": 0,
+    "in_runs": 40,
+    "in_balls": 30,
+    "ag_runs": 41,
+    "ag_balls": 18,
+    "matches": 1,
     "won": 0,
-    "lost": 0
+    "lost": 1
   },
   {
     "team": "Bihar",
