@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:42 PM 20-06-2025",
+  "last update time": "05:53 PM 20-06-2025",
   "matches": [
     {
       "title": "Sri Lanka vs Bangladesh, 1st Test",
@@ -11,15 +11,6 @@
       "match_date": "17/6/2025",
       "match_time": "10:00:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118586"
-    },
-    {
-      "title": "Puneri Bappa vs Satara Warriors, 29th Match",
-      "team1": "Puneri Bappa",
-      "team2": "Satara Warriors",
-      "match_id": "120089",
-      "match_date": "19/6/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120089"
     },
     {
       "title": "Chambal Ghariyals vs Bhopal Leopards, 14th Match",
@@ -85,15 +76,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110685"
     },
     {
-      "title": "Somerset vs Hampshire, South Group",
-      "team1": "Somerset",
-      "team2": "Hampshire",
-      "match_id": "110693",
-      "match_date": "19/6/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110693"
-    },
-    {
       "title": "Leicestershire vs Nottinghamshire, North Group",
       "team1": "Leicestershire",
       "team2": "Nottinghamshire",
@@ -101,6 +83,15 @@
       "match_date": "19/6/2025",
       "match_time": "11:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110677"
+    },
+    {
+      "title": "Somerset vs Hampshire, South Group",
+      "team1": "Somerset",
+      "team2": "Hampshire",
+      "match_id": "110693",
+      "match_date": "19/6/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110693"
     },
     {
       "title": "Canada vs Cayman Islands, 8th Match",
@@ -211,24 +202,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110741"
     },
     {
-      "title": "West Indies Women vs South Africa Women, 1st T20I",
-      "team1": "West Indies Women",
-      "team2": "South Africa Women",
-      "match_id": "114724",
-      "match_date": "20/6/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114724"
-    },
-    {
-      "title": "Essex vs Kent, South Group",
-      "team1": "Essex",
-      "team2": "Kent",
-      "match_id": "110717",
-      "match_date": "20/6/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110717"
-    },
-    {
       "title": "Derbyshire vs Lancashire, North Group",
       "team1": "Derbyshire",
       "team2": "Lancashire",
@@ -247,6 +220,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110697"
     },
     {
+      "title": "Essex vs Kent, South Group",
+      "team1": "Essex",
+      "team2": "Kent",
+      "match_id": "110717",
+      "match_date": "20/6/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110717"
+    },
+    {
       "title": "Gloucestershire vs Hampshire, South Group",
       "team1": "Gloucestershire",
       "team2": "Hampshire",
@@ -254,6 +236,15 @@
       "match_date": "20/6/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110729"
+    },
+    {
+      "title": "West Indies Women vs South Africa Women, 1st T20I",
+      "team1": "West Indies Women",
+      "team2": "South Africa Women",
+      "match_id": "114724",
+      "match_date": "20/6/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114724"
     },
     {
       "title": "Texas Super Kings vs San Francisco Unicorns, 10th Match",
@@ -299,6 +290,15 @@
       "match_date": "21/6/2025",
       "match_time": "3:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120878"
+    },
+    {
+      "title": "Hungary vs Slovenia, 2nd Match",
+      "team1": "Hungary",
+      "team2": "Slovenia",
+      "match_id": "119702",
+      "match_date": "21/6/2025",
+      "match_time": "4:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119702"
     }
   ]
 }
