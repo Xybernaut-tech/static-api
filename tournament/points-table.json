@@ -35,12 +35,12 @@
   {
     "team": "Odisha",
     "id": "4",
-    "in_runs": 0,
-    "in_balls": 0,
-    "ag_runs": 0,
-    "ag_balls": 0,
-    "matches": 0,
-    "won": 0,
+    "in_runs": 67,
+    "in_balls": 30,
+    "ag_runs": 22,
+    "ag_balls": 30,
+    "matches": 1,
+    "won": 1,
     "lost": 0
   },
   {
@@ -101,13 +101,13 @@
   {
     "team": "Punjab",
     "id": "10",
-    "in_runs": 0,
-    "in_balls": 0,
-    "ag_runs": 0,
-    "ag_balls": 0,
-    "matches": 0,
+    "in_runs": 22,
+    "in_balls": 30,
+    "ag_runs": 67,
+    "ag_balls": 30,
+    "matches": 1,
     "won": 0,
-    "lost": 0
+    "lost": 1
   },
   {
     "team": "Gujrat",
