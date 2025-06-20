@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:41 AM 20-06-2025",
+  "last update time": "09:49 AM 20-06-2025",
   "matches": [
     {
       "title": "Sri Lanka vs Bangladesh, 1st Test",
@@ -76,15 +76,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119171"
     },
     {
-      "title": "Indore Pink Panthers vs Gwalior Cheetahs, 15th Match",
-      "team1": "Indore Pink Panthers",
-      "team2": "Gwalior Cheetahs",
-      "match_id": "120845",
-      "match_date": "19/6/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120845"
-    },
-    {
       "title": "Nepal vs Netherlands, 5th Match",
       "team1": "Nepal",
       "team2": "Netherlands",
@@ -92,6 +83,15 @@
       "match_date": "19/6/2025",
       "match_time": "7:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118241"
+    },
+    {
+      "title": "Indore Pink Panthers vs Gwalior Cheetahs, 15th Match",
+      "team1": "Indore Pink Panthers",
+      "team2": "Gwalior Cheetahs",
+      "match_id": "120845",
+      "match_date": "19/6/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120845"
     },
     {
       "title": "Bahamas vs Bermuda, 7th Match",
@@ -112,15 +112,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110685"
     },
     {
-      "title": "Somerset vs Hampshire, South Group",
-      "team1": "Somerset",
-      "team2": "Hampshire",
-      "match_id": "110693",
-      "match_date": "19/6/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110693"
-    },
-    {
       "title": "Leicestershire vs Nottinghamshire, North Group",
       "team1": "Leicestershire",
       "team2": "Nottinghamshire",
@@ -130,6 +121,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110677"
     },
     {
+      "title": "Somerset vs Hampshire, South Group",
+      "team1": "Somerset",
+      "team2": "Hampshire",
+      "match_id": "110693",
+      "match_date": "19/6/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110693"
+    },
+    {
       "title": "Canada vs Cayman Islands, 8th Match",
       "team1": "Canada",
       "team2": "Cayman Islands",
@@ -137,15 +137,6 @@
       "match_date": "20/6/2025",
       "match_time": "1:00:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120636"
-    },
-    {
-      "title": "Texas Super Kings vs San Francisco Unicorns, 10th Match",
-      "team1": "Texas Super Kings",
-      "team2": "San Francisco Unicorns",
-      "match_id": "117128",
-      "match_date": "20/6/2025",
-      "match_time": "5:30:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117128"
     },
     {
       "title": "Eagle Nashik Titans vs Puneri Bappa, Qualifier 1",
@@ -193,15 +184,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120104"
     },
     {
-      "title": "Scotland vs Nepal, 6th Match",
-      "team1": "Scotland",
-      "team2": "Nepal",
-      "match_id": "118244",
-      "match_date": "20/6/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118244"
-    },
-    {
       "title": "Bhopal Leopards vs Gwalior Cheetahs, 17th Match",
       "team1": "Bhopal Leopards",
       "team2": "Gwalior Cheetahs",
@@ -209,6 +191,15 @@
       "match_date": "20/6/2025",
       "match_time": "7:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120867"
+    },
+    {
+      "title": "Scotland vs Nepal, 6th Match",
+      "team1": "Scotland",
+      "team2": "Nepal",
+      "match_id": "118244",
+      "match_date": "20/6/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118244"
     },
     {
       "title": "Northamptonshire vs Nottinghamshire, North Group",
@@ -220,15 +211,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110733"
     },
     {
-      "title": "Glamorgan vs Somerset, South Group",
-      "team1": "Glamorgan",
-      "team2": "Somerset",
-      "match_id": "110725",
-      "match_date": "20/6/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110725"
-    },
-    {
       "title": "Durham vs Yorkshire, North Group",
       "team1": "Durham",
       "team2": "Yorkshire",
@@ -236,6 +218,15 @@
       "match_date": "20/6/2025",
       "match_time": "11:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110713"
+    },
+    {
+      "title": "Glamorgan vs Somerset, South Group",
+      "team1": "Glamorgan",
+      "team2": "Somerset",
+      "match_id": "110725",
+      "match_date": "20/6/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110725"
     },
     {
       "title": "Surrey vs Middlesex, South Group",
@@ -247,6 +238,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110741"
     },
     {
+      "title": "Gloucestershire vs Hampshire, South Group",
+      "team1": "Gloucestershire",
+      "team2": "Hampshire",
+      "match_id": "110729",
+      "match_date": "20/6/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110729"
+    },
+    {
       "title": "Essex vs Kent, South Group",
       "team1": "Essex",
       "team2": "Kent",
@@ -254,24 +254,6 @@
       "match_date": "20/6/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110717"
-    },
-    {
-      "title": "West Indies Women vs South Africa Women, 1st T20I",
-      "team1": "West Indies Women",
-      "team2": "South Africa Women",
-      "match_id": "114724",
-      "match_date": "20/6/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114724"
-    },
-    {
-      "title": "Warwickshire vs Worcestershire, North Group",
-      "team1": "Warwickshire",
-      "team2": "Worcestershire",
-      "match_id": "110697",
-      "match_date": "20/6/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110697"
     },
     {
       "title": "Derbyshire vs Lancashire, North Group",
@@ -283,13 +265,40 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110705"
     },
     {
-      "title": "Gloucestershire vs Hampshire, South Group",
-      "team1": "Gloucestershire",
-      "team2": "Hampshire",
-      "match_id": "110729",
+      "title": "Warwickshire vs Worcestershire, North Group",
+      "team1": "Warwickshire",
+      "team2": "Worcestershire",
+      "match_id": "110697",
       "match_date": "20/6/2025",
       "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110729"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110697"
+    },
+    {
+      "title": "West Indies Women vs South Africa Women, 1st T20I",
+      "team1": "West Indies Women",
+      "team2": "South Africa Women",
+      "match_id": "114724",
+      "match_date": "20/6/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114724"
+    },
+    {
+      "title": "Texas Super Kings vs San Francisco Unicorns, 10th Match",
+      "team1": "Texas Super Kings",
+      "team2": "San Francisco Unicorns",
+      "match_id": "117128",
+      "match_date": "21/6/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117128"
+    },
+    {
+      "title": "Papua New Guinea Women vs Samoa Women, 6th Match",
+      "team1": "Papua New Guinea Women",
+      "team2": "Samoa Women",
+      "match_id": "121059",
+      "match_date": "21/6/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121059"
     }
   ]
 }
