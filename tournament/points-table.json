@@ -79,12 +79,12 @@
   {
     "team": "Arunachal Pradesh",
     "id": "8",
-    "in_runs": 38,
-    "in_balls": 28,
+    "in_runs": 93,
+    "in_balls": 53,
     "ag_runs": 0,
     "ag_balls": 0,
-    "matches": 1,
-    "won": 1,
+    "matches": 2,
+    "won": 2,
     "lost": 0
   },
   {
@@ -92,11 +92,11 @@
     "id": "9",
     "in_runs": 0,
     "in_balls": 0,
-    "ag_runs": 0,
-    "ag_balls": 0,
-    "matches": 0,
+    "ag_runs": 55,
+    "ag_balls": 25,
+    "matches": 1,
     "won": 0,
-    "lost": 0
+    "lost": 1
   },
   {
     "team": "Punjab",
