@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:27 AM 21-06-2025",
+  "last update time": "08:37 AM 21-06-2025",
   "matches": [
     {
       "title": "Sri Lanka vs Bangladesh, 1st Test",
@@ -130,6 +130,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110717"
     },
     {
+      "title": "Warwickshire vs Worcestershire, North Group",
+      "team1": "Warwickshire",
+      "team2": "Worcestershire",
+      "match_id": "110697",
+      "match_date": "20/6/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110697"
+    },
+    {
       "title": "Derbyshire vs Lancashire, North Group",
       "team1": "Derbyshire",
       "team2": "Lancashire",
@@ -146,15 +155,6 @@
       "match_date": "20/6/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110729"
-    },
-    {
-      "title": "Warwickshire vs Worcestershire, North Group",
-      "team1": "Warwickshire",
-      "team2": "Worcestershire",
-      "match_id": "110697",
-      "match_date": "20/6/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110697"
     },
     {
       "title": "Texas Super Kings vs San Francisco Unicorns, 10th Match",
@@ -265,8 +265,8 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120658"
     },
     {
-      "title": "Mi New York vs Washington Freedom, 11th Match",
-      "team1": "Mi New York",
+      "title": "MI New York vs Washington Freedom, 11th Match",
+      "team1": "MI New York",
       "team2": "Washington Freedom",
       "match_id": "117137",
       "match_date": "22/6/2025",
