@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:42 PM 21-06-2025",
+  "last update time": "11:44 PM 21-06-2025",
   "matches": [
     {
       "title": "Sri Lanka vs Bangladesh, 1st Test",
@@ -22,31 +22,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105762"
     },
     {
-      "title": "Raigad Royals vs Kolhapur Tuskers, Eliminator",
-      "team1": "Raigad Royals",
-      "team2": "Kolhapur Tuskers",
-      "match_id": "120104",
+      "title": "Durham vs Yorkshire, North Group",
+      "team1": "Durham",
+      "team2": "Yorkshire",
+      "match_id": "110713",
       "match_date": "20/6/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120104"
-    },
-    {
-      "title": "Scotland vs Nepal, 6th Match",
-      "team1": "Scotland",
-      "team2": "Nepal",
-      "match_id": "118244",
-      "match_date": "20/6/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118244"
-    },
-    {
-      "title": "Bhopal Leopards vs Gwalior Cheetahs, 17th Match",
-      "team1": "Bhopal Leopards",
-      "team2": "Gwalior Cheetahs",
-      "match_id": "120867",
-      "match_date": "20/6/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120867"
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110713"
     },
     {
       "title": "Northamptonshire vs Nottinghamshire, North Group",
@@ -56,15 +38,6 @@
       "match_date": "20/6/2025",
       "match_time": "11:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110733"
-    },
-    {
-      "title": "Durham vs Yorkshire, North Group",
-      "team1": "Durham",
-      "team2": "Yorkshire",
-      "match_id": "110713",
-      "match_date": "20/6/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110713"
     },
     {
       "title": "Glamorgan vs Somerset, South Group",
@@ -94,6 +67,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110697"
     },
     {
+      "title": "Derbyshire vs Lancashire, North Group",
+      "team1": "Derbyshire",
+      "team2": "Lancashire",
+      "match_id": "110705",
+      "match_date": "20/6/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110705"
+    },
+    {
       "title": "Gloucestershire vs Hampshire, South Group",
       "team1": "Gloucestershire",
       "team2": "Hampshire",
@@ -119,15 +101,6 @@
       "match_date": "20/6/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114724"
-    },
-    {
-      "title": "Derbyshire vs Lancashire, North Group",
-      "team1": "Derbyshire",
-      "team2": "Lancashire",
-      "match_id": "110705",
-      "match_date": "20/6/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110705"
     },
     {
       "title": "Texas Super Kings vs San Francisco Unicorns, 10th Match",
@@ -292,24 +265,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113499"
     },
     {
-      "title": "Lancashire vs Kent, 32nd Match",
-      "team1": "Lancashire",
-      "team2": "Kent",
-      "match_id": "113505",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113505"
-    },
-    {
-      "title": "Leicestershire vs Glamorgan, 30th Match",
-      "team1": "Leicestershire",
-      "team2": "Glamorgan",
-      "match_id": "113496",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113496"
-    },
-    {
       "title": "Warwickshire vs Somerset, 38th Match",
       "team1": "Warwickshire",
       "team2": "Somerset",
@@ -319,13 +274,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113073"
     },
     {
-      "title": "Worcestershire vs Surrey, 39th Match",
-      "team1": "Worcestershire",
-      "team2": "Surrey",
-      "match_id": "113082",
+      "title": "Lancashire vs Kent, 32nd Match",
+      "team1": "Lancashire",
+      "team2": "Kent",
+      "match_id": "113505",
       "match_date": "22/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113082"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113505"
     },
     {
       "title": "Nottinghamshire vs Yorkshire, 40th Match",
@@ -335,6 +290,15 @@
       "match_date": "22/6/2025",
       "match_time": "3:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113085"
+    },
+    {
+      "title": "Durham vs Sussex, 36th Match",
+      "team1": "Durham",
+      "team2": "Sussex",
+      "match_id": "113058",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113058"
     },
     {
       "title": "Essex vs Hampshire, 37th Match",
@@ -355,18 +319,27 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113490"
     },
     {
-      "title": "Durham vs Sussex, 36th Match",
-      "team1": "Durham",
-      "team2": "Sussex",
-      "match_id": "113058",
+      "title": "Leicestershire vs Glamorgan, 30th Match",
+      "team1": "Leicestershire",
+      "team2": "Glamorgan",
+      "match_id": "113496",
       "match_date": "22/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113058"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113496"
     },
     {
-      "title": "Eagle Nashik Titans vs Tbc, Final",
+      "title": "Worcestershire vs Surrey, 39th Match",
+      "team1": "Worcestershire",
+      "team2": "Surrey",
+      "match_id": "113082",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113082"
+    },
+    {
+      "title": "Eagle Nashik Titans vs Raigad Royals, Final",
       "team1": "Eagle Nashik Titans",
-      "team2": "Tbc",
+      "team2": "Raigad Royals",
       "match_id": "120122",
       "match_date": "22/6/2025",
       "match_time": "7:00:00 pm",
@@ -380,6 +353,15 @@
       "match_date": "22/6/2025",
       "match_time": "7:15:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119195"
+    },
+    {
+      "title": "West Indies Women vs South Africa Women, 2nd T20I",
+      "team1": "West Indies Women",
+      "team2": "South Africa Women",
+      "match_id": "114726",
+      "match_date": "22/6/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114726"
     },
     {
       "title": "Chambal Ghariyals vs Bundelkhand Bulls, 21st Match",
