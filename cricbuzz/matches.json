@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:40 AM 23-06-2025",
+  "last update time": "06:32 AM 23-06-2025",
   "matches": [
     {
       "title": "England vs India, 1st Test",
@@ -11,15 +11,6 @@
       "match_date": "20/6/2025",
       "match_time": "3:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105762"
-    },
-    {
-      "title": "Bermuda vs Cayman Islands, 10th Match",
-      "team1": "Bermuda",
-      "team2": "Cayman Islands",
-      "match_id": "120658",
-      "match_date": "22/6/2025",
-      "match_time": "1:00:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120658"
     },
     {
       "title": "MI New York vs Washington Freedom, 11th Match",
@@ -67,13 +58,31 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119189"
     },
     {
-      "title": "Warwickshire vs Somerset, 38th Match",
-      "team1": "Warwickshire",
-      "team2": "Somerset",
-      "match_id": "113073",
+      "title": "Essex vs Hampshire, 37th Match",
+      "team1": "Essex",
+      "team2": "Hampshire",
+      "match_id": "113067",
       "match_date": "22/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113073"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113067"
+    },
+    {
+      "title": "Leicestershire vs Glamorgan, 30th Match",
+      "team1": "Leicestershire",
+      "team2": "Glamorgan",
+      "match_id": "113496",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113496"
+    },
+    {
+      "title": "Gloucestershire vs Derbyshire, 31st Match",
+      "team1": "Gloucestershire",
+      "team2": "Derbyshire",
+      "match_id": "113499",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113499"
     },
     {
       "title": "Lancashire vs Kent, 32nd Match",
@@ -94,24 +103,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113058"
     },
     {
-      "title": "Gloucestershire vs Derbyshire, 31st Match",
-      "team1": "Gloucestershire",
-      "team2": "Derbyshire",
-      "match_id": "113499",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113499"
-    },
-    {
-      "title": "Nottinghamshire vs Yorkshire, 40th Match",
-      "team1": "Nottinghamshire",
-      "team2": "Yorkshire",
-      "match_id": "113085",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113085"
-    },
-    {
       "title": "Northamptonshire vs Middlesex, 29th Match",
       "team1": "Northamptonshire",
       "team2": "Middlesex",
@@ -130,22 +121,22 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113082"
     },
     {
-      "title": "Essex vs Hampshire, 37th Match",
-      "team1": "Essex",
-      "team2": "Hampshire",
-      "match_id": "113067",
+      "title": "Nottinghamshire vs Yorkshire, 40th Match",
+      "team1": "Nottinghamshire",
+      "team2": "Yorkshire",
+      "match_id": "113085",
       "match_date": "22/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113067"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113085"
     },
     {
-      "title": "Leicestershire vs Glamorgan, 30th Match",
-      "team1": "Leicestershire",
-      "team2": "Glamorgan",
-      "match_id": "113496",
+      "title": "Warwickshire vs Somerset, 38th Match",
+      "team1": "Warwickshire",
+      "team2": "Somerset",
+      "match_id": "113073",
       "match_date": "22/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113496"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113073"
     },
     {
       "title": "Eagle Nashik Titans vs Raigad Royals, Final",
@@ -254,6 +245,15 @@
       "match_date": "23/6/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114735"
+    },
+    {
+      "title": "Mi New York vs San Francisco Unicorns, 14th Match",
+      "team1": "Mi New York",
+      "team2": "San Francisco Unicorns",
+      "match_id": "117161",
+      "match_date": "24/6/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117161"
     }
   ]
 }
