@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:58 AM 24-06-2025",
+  "last update time": "11:59 AM 24-06-2025",
   "matches": [
     {
       "title": "England vs India, 1st Test",
@@ -13,24 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=105762"
     },
     {
-      "title": "Lancashire vs Kent, 32nd Match",
-      "team1": "Lancashire",
-      "team2": "Kent",
-      "match_id": "113505",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113505"
-    },
-    {
-      "title": "Northamptonshire vs Middlesex, 29th Match",
-      "team1": "Northamptonshire",
-      "team2": "Middlesex",
-      "match_id": "113490",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113490"
-    },
-    {
       "title": "Essex vs Hampshire, 37th Match",
       "team1": "Essex",
       "team2": "Hampshire",
@@ -40,24 +22,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113067"
     },
     {
-      "title": "Leicestershire vs Glamorgan, 30th Match",
-      "team1": "Leicestershire",
-      "team2": "Glamorgan",
-      "match_id": "113496",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113496"
-    },
-    {
-      "title": "Worcestershire vs Surrey, 39th Match",
-      "team1": "Worcestershire",
-      "team2": "Surrey",
-      "match_id": "113082",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113082"
-    },
-    {
       "title": "Nottinghamshire vs Yorkshire, 40th Match",
       "team1": "Nottinghamshire",
       "team2": "Yorkshire",
@@ -65,6 +29,15 @@
       "match_date": "22/6/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113085"
+    },
+    {
+      "title": "Lancashire vs Kent, 32nd Match",
+      "team1": "Lancashire",
+      "team2": "Kent",
+      "match_id": "113505",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113505"
     },
     {
       "title": "Gloucestershire vs Derbyshire, 31st Match",
@@ -94,13 +67,31 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113073"
     },
     {
-      "title": "Washington Freedom vs Texas Super Kings, 13th Match",
-      "team1": "Washington Freedom",
-      "team2": "Texas Super Kings",
-      "match_id": "117152",
-      "match_date": "23/6/2025",
-      "match_time": "5:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=117152"
+      "title": "Worcestershire vs Surrey, 39th Match",
+      "team1": "Worcestershire",
+      "team2": "Surrey",
+      "match_id": "113082",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113082"
+    },
+    {
+      "title": "Leicestershire vs Glamorgan, 30th Match",
+      "team1": "Leicestershire",
+      "team2": "Glamorgan",
+      "match_id": "113496",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113496"
+    },
+    {
+      "title": "Northamptonshire vs Middlesex, 29th Match",
+      "team1": "Northamptonshire",
+      "team2": "Middlesex",
+      "match_id": "113490",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113490"
     },
     {
       "title": "Rewa Jaguars vs Bhopal Leopards, 1st Semi Final (1vs4)",
@@ -173,6 +164,15 @@
       "match_date": "25/6/2025",
       "match_time": "5:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=117164"
+    },
+    {
+      "title": "Sri Lanka vs Bangladesh, 2nd Test",
+      "team1": "Sri Lanka",
+      "team2": "Bangladesh",
+      "match_id": "118592",
+      "match_date": "25/6/2025",
+      "match_time": "10:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=118592"
     }
   ]
 }
