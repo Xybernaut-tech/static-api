@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:48 AM 24-06-2025",
+  "last update time": "07:07 AM 24-06-2025",
   "matches": [
     {
       "title": "England vs India, 1st Test",
@@ -13,60 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=105762"
     },
     {
-      "title": "Gloucestershire vs Derbyshire, 31st Match",
-      "team1": "Gloucestershire",
-      "team2": "Derbyshire",
-      "match_id": "113499",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113499"
-    },
-    {
-      "title": "Leicestershire vs Glamorgan, 30th Match",
-      "team1": "Leicestershire",
-      "team2": "Glamorgan",
-      "match_id": "113496",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113496"
-    },
-    {
-      "title": "Nottinghamshire vs Yorkshire, 40th Match",
-      "team1": "Nottinghamshire",
-      "team2": "Yorkshire",
-      "match_id": "113085",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113085"
-    },
-    {
-      "title": "Worcestershire vs Surrey, 39th Match",
-      "team1": "Worcestershire",
-      "team2": "Surrey",
-      "match_id": "113082",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113082"
-    },
-    {
-      "title": "Essex vs Hampshire, 37th Match",
-      "team1": "Essex",
-      "team2": "Hampshire",
-      "match_id": "113067",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113067"
-    },
-    {
-      "title": "Warwickshire vs Somerset, 38th Match",
-      "team1": "Warwickshire",
-      "team2": "Somerset",
-      "match_id": "113073",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113073"
-    },
-    {
       "title": "Northamptonshire vs Middlesex, 29th Match",
       "team1": "Northamptonshire",
       "team2": "Middlesex",
@@ -74,15 +20,6 @@
       "match_date": "22/6/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113490"
-    },
-    {
-      "title": "Lancashire vs Kent, 32nd Match",
-      "team1": "Lancashire",
-      "team2": "Kent",
-      "match_id": "113505",
-      "match_date": "22/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113505"
     },
     {
       "title": "Durham vs Sussex, 36th Match",
@@ -94,22 +31,67 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113058"
     },
     {
-      "title": "Canada vs Bermuda, 12th Match",
-      "team1": "Canada",
-      "team2": "Bermuda",
-      "match_id": "120674",
-      "match_date": "23/6/2025",
-      "match_time": "1:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=120674"
+      "title": "Warwickshire vs Somerset, 38th Match",
+      "team1": "Warwickshire",
+      "team2": "Somerset",
+      "match_id": "113073",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113073"
     },
     {
-      "title": "Seattle Orcas vs Los Angeles Knight Riders, 12th Match",
-      "team1": "Seattle Orcas",
-      "team2": "Los Angeles Knight Riders",
-      "match_id": "117146",
-      "match_date": "23/6/2025",
-      "match_time": "1:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=117146"
+      "title": "Leicestershire vs Glamorgan, 30th Match",
+      "team1": "Leicestershire",
+      "team2": "Glamorgan",
+      "match_id": "113496",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113496"
+    },
+    {
+      "title": "Lancashire vs Kent, 32nd Match",
+      "team1": "Lancashire",
+      "team2": "Kent",
+      "match_id": "113505",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113505"
+    },
+    {
+      "title": "Nottinghamshire vs Yorkshire, 40th Match",
+      "team1": "Nottinghamshire",
+      "team2": "Yorkshire",
+      "match_id": "113085",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113085"
+    },
+    {
+      "title": "Essex vs Hampshire, 37th Match",
+      "team1": "Essex",
+      "team2": "Hampshire",
+      "match_id": "113067",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113067"
+    },
+    {
+      "title": "Worcestershire vs Surrey, 39th Match",
+      "team1": "Worcestershire",
+      "team2": "Surrey",
+      "match_id": "113082",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113082"
+    },
+    {
+      "title": "Gloucestershire vs Derbyshire, 31st Match",
+      "team1": "Gloucestershire",
+      "team2": "Derbyshire",
+      "match_id": "113499",
+      "match_date": "22/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113499"
     },
     {
       "title": "Washington Freedom vs Texas Super Kings, 13th Match",
@@ -182,6 +164,15 @@
       "match_date": "24/6/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=120933"
+    },
+    {
+      "title": "Texas Super Kings vs Los Angeles Knight Riders, 15th Match",
+      "team1": "Texas Super Kings",
+      "team2": "Los Angeles Knight Riders",
+      "match_id": "117164",
+      "match_date": "25/6/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=117164"
     }
   ]
 }
