@@ -28,8 +28,8 @@
     "in_balls": 60,
     "ag_runs": 110,
     "ag_balls": 60,
-    "matches": 2,
-    "won": 1,
+    "matches": 3,
+    "won": 2,
     "lost": 1
   },
   {
@@ -50,19 +50,19 @@
     "in_balls": 30,
     "ag_runs": 36,
     "ag_balls": 30,
-    "matches": 1,
+    "matches": 2,
     "won": 1,
-    "lost": 0
+    "lost": 1
   },
   {
     "team": "Madhya Pradesh",
     "id": "6",
-    "in_runs": 66,
-    "in_balls": 30,
-    "ag_runs": 48,
-    "ag_balls": 30,
-    "matches": 1,
-    "won": 1,
+    "in_runs": 104,
+    "in_balls": 44,
+    "ag_runs": 85,
+    "ag_balls": 60,
+    "matches": 2,
+    "won": 2,
     "lost": 0
   },
   {
@@ -123,12 +123,12 @@
   {
     "team": "Himachal Pradesh",
     "id": "12",
-    "in_runs": 0,
-    "in_balls": 0,
-    "ag_runs": 0,
-    "ag_balls": 0,
-    "matches": 0,
+    "in_runs": 37,
+    "in_balls": 30,
+    "ag_runs": 38,
+    "ag_balls": 14,
+    "matches": 1,
     "won": 0,
-    "lost": 0
+    "lost": 1
   }
 ]
