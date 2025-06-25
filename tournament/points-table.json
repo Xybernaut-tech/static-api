@@ -13,13 +13,13 @@
   {
     "team": "Tamil Nadu",
     "id": "2",
-    "in_runs": 84,
-    "in_balls": 60,
-    "ag_runs": 92,
-    "ag_balls": 48,
-    "matches": 2,
+    "in_runs": 125,
+    "in_balls": 90,
+    "ag_runs": 137,
+    "ag_balls": 78,
+    "matches": 3,
     "won": 0,
-    "lost": 2
+    "lost": 3
   },
   {
     "team": "Bihar",
@@ -79,12 +79,12 @@
   {
     "team": "Arunachal Pradesh",
     "id": "8",
-    "in_runs": 93,
-    "in_balls": 53,
-    "ag_runs": 0,
-    "ag_balls": 0,
-    "matches": 2,
-    "won": 2,
+    "in_runs": 134,
+    "in_balls": 83,
+    "ag_runs": 41,
+    "ag_balls": 30,
+    "matches": 3,
+    "won": 3,
     "lost": 0
   },
   {
@@ -94,7 +94,7 @@
     "in_balls": 0,
     "ag_runs": 55,
     "ag_balls": 25,
-    "matches": 1,
+    "matches": 2,
     "won": 0,
     "lost": 1
   },
@@ -116,7 +116,7 @@
     "in_balls": 0,
     "ag_runs": 0,
     "ag_balls": 0,
-    "matches": 0,
+    "matches": 1,
     "won": 0,
     "lost": 0
   },
