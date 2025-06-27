@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:49 AM 27-06-2025",
+  "last update time": "01:47 PM 27-06-2025",
   "matches": [
     {
       "title": "Sri Lanka vs Bangladesh, 2nd Test",
@@ -119,6 +119,15 @@
       "match_date": "28/6/2025",
       "match_time": "11:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122902"
+    },
+    {
+      "title": "Zimbabwe vs South Africa, 1st Test",
+      "team1": "Zimbabwe",
+      "team2": "South Africa",
+      "match_id": "116831",
+      "match_date": "28/6/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=116831"
     }
   ]
 }
