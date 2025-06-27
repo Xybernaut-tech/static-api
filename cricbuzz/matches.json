@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:41 AM 27-06-2025",
+  "last update time": "06:30 AM 27-06-2025",
   "matches": [
     {
       "title": "Sri Lanka vs Bangladesh, 2nd Test",
@@ -110,6 +110,15 @@
       "match_date": "27/6/2025",
       "match_time": "7:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122236"
+    },
+    {
+      "title": "Seattle Orcas vs Mi New York, 18th Match",
+      "team1": "Seattle Orcas",
+      "team2": "Mi New York",
+      "match_id": "117182",
+      "match_date": "28/6/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117182"
     }
   ]
 }
