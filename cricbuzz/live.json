@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:49 AM 28-06-2025",
+  "last update time": "06:56 AM 28-06-2025",
   "matches": [
     {
       "title": "Sri Lanka vs Bangladesh, 2nd Test",
@@ -144,8 +144,17 @@
       "team2": "San Francisco Unicorns",
       "match_id": "117188",
       "match_date": "29/6/2025",
-      "match_time": "12:30:00 am",
+      "match_time": "1:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=117188"
+    },
+    {
+      "title": "Los Angeles Knight Riders vs Seattle Orcas, 20th Match",
+      "team1": "Los Angeles Knight Riders",
+      "team2": "Seattle Orcas",
+      "match_id": "117191",
+      "match_date": "29/6/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=117191"
     }
   ]
 }
