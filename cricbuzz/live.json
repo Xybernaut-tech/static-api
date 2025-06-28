@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:05 PM 28-06-2025",
+  "last update time": "07:45 PM 28-06-2025",
   "matches": [
     {
       "title": "Sri Lanka vs Bangladesh, 2nd Test",
@@ -29,15 +29,6 @@
       "match_date": "27/6/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=119537"
-    },
-    {
-      "title": "Belgium vs France, 5th Match, Group B",
-      "team1": "Belgium",
-      "team2": "France",
-      "match_id": "122231",
-      "match_date": "27/6/2025",
-      "match_time": "3:45:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=122231"
     },
     {
       "title": "Romania vs Hungary, 6th Match, Group A",
@@ -166,6 +157,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113517"
     },
     {
+      "title": "Glamorgan vs Gloucestershire, 36th Match",
+      "team1": "Glamorgan",
+      "team2": "Gloucestershire",
+      "match_id": "113532",
+      "match_date": "29/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113532"
+    },
+    {
       "title": "Leicestershire vs Middlesex, 33rd Match",
       "team1": "Leicestershire",
       "team2": "Middlesex",
@@ -173,33 +173,6 @@
       "match_date": "29/6/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113514"
-    },
-    {
-      "title": "Sussex vs Warwickshire, 45th Match",
-      "team1": "Sussex",
-      "team2": "Warwickshire",
-      "match_id": "113127",
-      "match_date": "29/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113127"
-    },
-    {
-      "title": "Hampshire vs Worcestershire, 44th Match",
-      "team1": "Hampshire",
-      "team2": "Worcestershire",
-      "match_id": "113118",
-      "match_date": "29/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113118"
-    },
-    {
-      "title": "Yorkshire vs Essex, 41st Match",
-      "team1": "Yorkshire",
-      "team2": "Essex",
-      "match_id": "113094",
-      "match_date": "29/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113094"
     },
     {
       "title": "Somerset vs Nottinghamshire, 43rd Match",
@@ -211,22 +184,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113109"
     },
     {
-      "title": "Glamorgan vs Gloucestershire, 36th Match",
-      "team1": "Glamorgan",
-      "team2": "Gloucestershire",
-      "match_id": "113532",
+      "title": "Hampshire vs Worcestershire, 44th Match",
+      "team1": "Hampshire",
+      "team2": "Worcestershire",
+      "match_id": "113118",
       "match_date": "29/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113532"
-    },
-    {
-      "title": "Surrey vs Durham, 42nd Match",
-      "team1": "Surrey",
-      "team2": "Durham",
-      "match_id": "113103",
-      "match_date": "29/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113103"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113118"
     },
     {
       "title": "Derbyshire vs Lancashire, 35th Match",
@@ -238,6 +202,33 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113523"
     },
     {
+      "title": "Yorkshire vs Essex, 41st Match",
+      "team1": "Yorkshire",
+      "team2": "Essex",
+      "match_id": "113094",
+      "match_date": "29/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113094"
+    },
+    {
+      "title": "Sussex vs Warwickshire, 45th Match",
+      "team1": "Sussex",
+      "team2": "Warwickshire",
+      "match_id": "113127",
+      "match_date": "29/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113127"
+    },
+    {
+      "title": "Surrey vs Durham, 42nd Match",
+      "team1": "Surrey",
+      "team2": "Durham",
+      "match_id": "113103",
+      "match_date": "29/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113103"
+    },
+    {
       "title": "Tbc vs Tbc, 3rd Place Play-off",
       "team1": "Tbc",
       "team2": "Tbc",
@@ -245,6 +236,15 @@
       "match_date": "29/6/2025",
       "match_time": "4:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=122929"
+    },
+    {
+      "title": "Dindigul Dragons vs Trichy Grand Cholas, 28th Match",
+      "team1": "Dindigul Dragons",
+      "team2": "Trichy Grand Cholas",
+      "match_id": "119249",
+      "match_date": "29/6/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=119249"
     }
   ]
 }
