@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:09 PM 01-07-2025",
+  "last update time": "07:48 PM 01-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 1st Test",
@@ -13,6 +13,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116831"
     },
     {
+      "title": "Glamorgan vs Gloucestershire, 36th Match",
+      "team1": "Glamorgan",
+      "team2": "Gloucestershire",
+      "match_id": "113532",
+      "match_date": "29/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113532"
+    },
+    {
       "title": "Leicestershire vs Middlesex, 33rd Match",
       "team1": "Leicestershire",
       "team2": "Middlesex",
@@ -22,22 +31,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113514"
     },
     {
-      "title": "Surrey vs Durham, 42nd Match",
-      "team1": "Surrey",
-      "team2": "Durham",
-      "match_id": "113103",
+      "title": "Somerset vs Nottinghamshire, 43rd Match",
+      "team1": "Somerset",
+      "team2": "Nottinghamshire",
+      "match_id": "113109",
       "match_date": "29/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113103"
-    },
-    {
-      "title": "Kent vs Northamptonshire, 34th Match",
-      "team1": "Kent",
-      "team2": "Northamptonshire",
-      "match_id": "113517",
-      "match_date": "29/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113517"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113109"
     },
     {
       "title": "Sussex vs Warwickshire, 45th Match",
@@ -49,15 +49,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113127"
     },
     {
-      "title": "Hampshire vs Worcestershire, 44th Match",
-      "team1": "Hampshire",
-      "team2": "Worcestershire",
-      "match_id": "113118",
-      "match_date": "29/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113118"
-    },
-    {
       "title": "Derbyshire vs Lancashire, 35th Match",
       "team1": "Derbyshire",
       "team2": "Lancashire",
@@ -67,13 +58,31 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113523"
     },
     {
-      "title": "Glamorgan vs Gloucestershire, 36th Match",
-      "team1": "Glamorgan",
-      "team2": "Gloucestershire",
-      "match_id": "113532",
+      "title": "Kent vs Northamptonshire, 34th Match",
+      "team1": "Kent",
+      "team2": "Northamptonshire",
+      "match_id": "113517",
       "match_date": "29/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113532"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113517"
+    },
+    {
+      "title": "Surrey vs Durham, 42nd Match",
+      "team1": "Surrey",
+      "team2": "Durham",
+      "match_id": "113103",
+      "match_date": "29/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113103"
+    },
+    {
+      "title": "Hampshire vs Worcestershire, 44th Match",
+      "team1": "Hampshire",
+      "team2": "Worcestershire",
+      "match_id": "113118",
+      "match_date": "29/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113118"
     },
     {
       "title": "Yorkshire vs Essex, 41st Match",
@@ -83,15 +92,6 @@
       "match_date": "29/6/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113094"
-    },
-    {
-      "title": "Somerset vs Nottinghamshire, 43rd Match",
-      "team1": "Somerset",
-      "team2": "Nottinghamshire",
-      "match_id": "113109",
-      "match_date": "29/6/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113109"
     },
     {
       "title": "England U19 vs India U19, 2nd Youth ODI",
@@ -164,6 +164,15 @@
       "match_date": "2/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105770"
+    },
+    {
+      "title": "Dindigul Dragons vs Trichy Grand Cholas, Eliminator",
+      "team1": "Dindigul Dragons",
+      "team2": "Trichy Grand Cholas",
+      "match_id": "119267",
+      "match_date": "2/7/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=119267"
     }
   ]
 }
