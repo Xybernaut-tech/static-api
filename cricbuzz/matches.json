@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:45 PM 02-07-2025",
+  "last update time": "11:47 PM 02-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 1st Test",
@@ -13,13 +13,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=116831"
     },
     {
-      "title": "Sussex vs Warwickshire, 45th Match",
-      "team1": "Sussex",
-      "team2": "Warwickshire",
-      "match_id": "113127",
+      "title": "Hampshire vs Worcestershire, 44th Match",
+      "team1": "Hampshire",
+      "team2": "Worcestershire",
+      "match_id": "113118",
       "match_date": "29/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113127"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113118"
     },
     {
       "title": "Leicestershire vs Middlesex, 33rd Match",
@@ -31,22 +31,31 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113514"
     },
     {
-      "title": "Somerset vs Nottinghamshire, 43rd Match",
-      "team1": "Somerset",
-      "team2": "Nottinghamshire",
-      "match_id": "113109",
+      "title": "Kent vs Northamptonshire, 34th Match",
+      "team1": "Kent",
+      "team2": "Northamptonshire",
+      "match_id": "113517",
       "match_date": "29/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113109"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113517"
     },
     {
-      "title": "Hampshire vs Worcestershire, 44th Match",
-      "team1": "Hampshire",
-      "team2": "Worcestershire",
-      "match_id": "113118",
+      "title": "Derbyshire vs Lancashire, 35th Match",
+      "team1": "Derbyshire",
+      "team2": "Lancashire",
+      "match_id": "113523",
       "match_date": "29/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113118"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113523"
+    },
+    {
+      "title": "Yorkshire vs Essex, 41st Match",
+      "team1": "Yorkshire",
+      "team2": "Essex",
+      "match_id": "113094",
+      "match_date": "29/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113094"
     },
     {
       "title": "Surrey vs Durham, 42nd Match",
@@ -58,22 +67,58 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113103"
     },
     {
-      "title": "Kent vs Northamptonshire, 34th Match",
-      "team1": "Kent",
-      "team2": "Northamptonshire",
-      "match_id": "113517",
+      "title": "Glamorgan vs Gloucestershire, 36th Match",
+      "team1": "Glamorgan",
+      "team2": "Gloucestershire",
+      "match_id": "113532",
       "match_date": "29/6/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113517"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113532"
     },
     {
-      "title": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans, Qualifier 1",
-      "team1": "Chepauk Super Gillies",
-      "team2": "IDream Tiruppur Tamizhans",
-      "match_id": "119258",
+      "title": "Sussex vs Warwickshire, 45th Match",
+      "team1": "Sussex",
+      "team2": "Warwickshire",
+      "match_id": "113127",
+      "match_date": "29/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113127"
+    },
+    {
+      "title": "Somerset vs Nottinghamshire, 43rd Match",
+      "team1": "Somerset",
+      "team2": "Nottinghamshire",
+      "match_id": "113109",
+      "match_date": "29/6/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=113109"
+    },
+    {
+      "title": "England Women vs India Women, 2nd T20I",
+      "team1": "England Women",
+      "team2": "India Women",
+      "match_id": "105900",
       "match_date": "1/7/2025",
-      "match_time": "7:15:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119258"
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105900"
+    },
+    {
+      "title": "San Francisco Unicorns vs Seattle Orcas, 22nd Match",
+      "team1": "San Francisco Unicorns",
+      "team2": "Seattle Orcas",
+      "match_id": "117206",
+      "match_date": "2/7/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117206"
+    },
+    {
+      "title": "Singapore Women vs Indonesia Women, 1st T20I",
+      "team1": "Singapore Women",
+      "team2": "Indonesia Women",
+      "match_id": "122049",
+      "match_date": "2/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122049"
     },
     {
       "title": "Sri Lanka vs Bangladesh, 1st ODI",
@@ -85,6 +130,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118595"
     },
     {
+      "title": "England U19 vs India U19, 3rd Youth ODI",
+      "team1": "England U19",
+      "team2": "India U19",
+      "match_id": "119546",
+      "match_date": "2/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119546"
+    },
+    {
       "title": "England vs India, 2nd Test",
       "team1": "England",
       "team2": "India",
@@ -92,6 +146,15 @@
       "match_date": "2/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105770"
+    },
+    {
+      "title": "Dindigul Dragons vs Trichy Grand Cholas, Eliminator",
+      "team1": "Dindigul Dragons",
+      "team2": "Trichy Grand Cholas",
+      "match_id": "119267",
+      "match_date": "2/7/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119267"
     },
     {
       "title": "Texas Super Kings vs Washington Freedom, 23rd Match",
