@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:29 AM 04-07-2025",
+  "last update time": "08:44 AM 04-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -11,15 +11,6 @@
       "match_date": "2/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105770"
-    },
-    {
-      "title": "Texas Super Kings vs Washington Freedom, 23rd Match",
-      "team1": "Texas Super Kings",
-      "team2": "Washington Freedom",
-      "match_id": "117209",
-      "match_date": "3/7/2025",
-      "match_time": "4:30:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117209"
     },
     {
       "title": "Singapore Women vs Indonesia Women, 2nd T20I",
@@ -76,13 +67,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110769"
     },
     {
-      "title": "Somerset vs Glamorgan, South Group",
-      "team1": "Somerset",
-      "team2": "Glamorgan",
-      "match_id": "110777",
+      "title": "Durham vs Nottinghamshire, North Group",
+      "team1": "Durham",
+      "team2": "Nottinghamshire",
+      "match_id": "110745",
       "match_date": "4/7/2025",
       "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110777"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110745"
     },
     {
       "title": "Kent vs Sussex, South Group",
@@ -92,6 +83,15 @@
       "match_date": "4/7/2025",
       "match_time": "11:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110761"
+    },
+    {
+      "title": "Somerset vs Glamorgan, South Group",
+      "team1": "Somerset",
+      "team2": "Glamorgan",
+      "match_id": "110777",
+      "match_date": "4/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110777"
     },
     {
       "title": "Leicestershire vs Warwickshire, North Group",
@@ -110,15 +110,6 @@
       "match_date": "4/7/2025",
       "match_time": "11:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110781"
-    },
-    {
-      "title": "Durham vs Nottinghamshire, North Group",
-      "team1": "Durham",
-      "team2": "Nottinghamshire",
-      "match_id": "110745",
-      "match_date": "4/7/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110745"
     },
     {
       "title": "Essex vs Gloucestershire, South Group",
@@ -155,6 +146,15 @@
       "match_date": "5/7/2025",
       "match_time": "4:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117224"
+    },
+    {
+      "title": "Singapore Women vs Indonesia Women, 3rd T20I",
+      "team1": "Singapore Women",
+      "team2": "Indonesia Women",
+      "match_id": "122071",
+      "match_date": "5/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122071"
     }
   ]
 }
