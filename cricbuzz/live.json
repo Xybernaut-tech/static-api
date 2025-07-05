@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:48 PM 05-07-2025",
+  "last update time": "09:52 PM 05-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -31,6 +31,24 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=119276"
     },
     {
+      "title": "Durham vs Nottinghamshire, North Group",
+      "team1": "Durham",
+      "team2": "Nottinghamshire",
+      "match_id": "110745",
+      "match_date": "4/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110745"
+    },
+    {
+      "title": "Somerset vs Glamorgan, South Group",
+      "team1": "Somerset",
+      "team2": "Glamorgan",
+      "match_id": "110777",
+      "match_date": "4/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110777"
+    },
+    {
       "title": "Northamptonshire vs Lancashire, North Group",
       "team1": "Northamptonshire",
       "team2": "Lancashire",
@@ -40,13 +58,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=110769"
     },
     {
-      "title": "Durham vs Nottinghamshire, North Group",
-      "team1": "Durham",
-      "team2": "Nottinghamshire",
-      "match_id": "110745",
+      "title": "Leicestershire vs Warwickshire, North Group",
+      "team1": "Leicestershire",
+      "team2": "Warwickshire",
+      "match_id": "110765",
       "match_date": "4/7/2025",
       "match_time": "11:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110745"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110765"
     },
     {
       "title": "Kent vs Sussex, South Group",
@@ -65,24 +83,6 @@
       "match_date": "4/7/2025",
       "match_time": "11:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110781"
-    },
-    {
-      "title": "Leicestershire vs Warwickshire, North Group",
-      "team1": "Leicestershire",
-      "team2": "Warwickshire",
-      "match_id": "110765",
-      "match_date": "4/7/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110765"
-    },
-    {
-      "title": "Somerset vs Glamorgan, South Group",
-      "team1": "Somerset",
-      "team2": "Glamorgan",
-      "match_id": "110777",
-      "match_date": "4/7/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110777"
     },
     {
       "title": "England Women vs India Women, 3rd T20I",
@@ -130,15 +130,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122071"
     },
     {
-      "title": "Malawi vs Germany, 1st Match",
-      "team1": "Malawi",
-      "team2": "Germany",
-      "match_id": "122979",
-      "match_date": "5/7/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=122979"
-    },
-    {
       "title": "Netherlands vs Jersey, 1st Match",
       "team1": "Netherlands",
       "team2": "Jersey",
@@ -175,13 +166,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122990"
     },
     {
-      "title": "Italy vs Guernsey, 2nd Match",
-      "team1": "Italy",
-      "team2": "Guernsey",
-      "match_id": "121697",
+      "title": "Malawi vs Germany, 1st Match",
+      "team1": "Malawi",
+      "team2": "Germany",
+      "match_id": "122979",
       "match_date": "5/7/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121697"
+      "match_time": "5:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=122979"
     },
     {
       "title": "Lancashire vs Derbyshire, North Group",
@@ -191,6 +182,15 @@
       "match_date": "5/7/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110789"
+    },
+    {
+      "title": "Italy vs Guernsey, 2nd Match",
+      "team1": "Italy",
+      "team2": "Guernsey",
+      "match_id": "121697",
+      "match_date": "5/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=121697"
     },
     {
       "title": "Sussex vs Hampshire, South Group",
@@ -272,6 +272,96 @@
       "match_date": "6/7/2025",
       "match_time": "5:15:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123001"
+    },
+    {
+      "title": "IDream Tiruppur Tamizhans vs Dindigul Dragons, Final",
+      "team1": "IDream Tiruppur Tamizhans",
+      "team2": "Dindigul Dragons",
+      "match_id": "119279",
+      "match_date": "6/7/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=119279"
+    },
+    {
+      "title": "Italy vs Jersey, 4th Match",
+      "team1": "Italy",
+      "team2": "Jersey",
+      "match_id": "121714",
+      "match_date": "6/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=121714"
+    },
+    {
+      "title": "Hampshire vs Somerset, South Group",
+      "team1": "Hampshire",
+      "team2": "Somerset",
+      "match_id": "110821",
+      "match_date": "6/7/2025",
+      "match_time": "9:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110821"
+    },
+    {
+      "title": "Surrey vs Essex, South Group",
+      "team1": "Surrey",
+      "team2": "Essex",
+      "match_id": "110841",
+      "match_date": "6/7/2025",
+      "match_time": "9:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110841"
+    },
+    {
+      "title": "Northamptonshire vs Worcestershire, North Group",
+      "team1": "Northamptonshire",
+      "team2": "Worcestershire",
+      "match_id": "110829",
+      "match_date": "6/7/2025",
+      "match_time": "9:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110829"
+    },
+    {
+      "title": "Nottinghamshire vs Leicestershire, North Group",
+      "team1": "Nottinghamshire",
+      "team2": "Leicestershire",
+      "match_id": "110833",
+      "match_date": "6/7/2025",
+      "match_time": "9:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110833"
+    },
+    {
+      "title": "Durham vs Warwickshire, North Group",
+      "team1": "Durham",
+      "team2": "Warwickshire",
+      "match_id": "110805",
+      "match_date": "6/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110805"
+    },
+    {
+      "title": "Glamorgan vs Kent, South Group",
+      "team1": "Glamorgan",
+      "team2": "Kent",
+      "match_id": "110813",
+      "match_date": "6/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110813"
+    },
+    {
+      "title": "Gloucestershire vs Middlesex, South Group",
+      "team1": "Gloucestershire",
+      "team2": "Middlesex",
+      "match_id": "110817",
+      "match_date": "6/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110817"
+    },
+    {
+      "title": "Derbyshire vs Yorkshire, North Group",
+      "team1": "Derbyshire",
+      "team2": "Yorkshire",
+      "match_id": "110801",
+      "match_date": "6/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110801"
     }
   ]
 }
