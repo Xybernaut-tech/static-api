@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:41 AM 05-07-2025",
+  "last update time": "06:27 AM 05-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -58,13 +58,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110761"
     },
     {
-      "title": "Leicestershire vs Warwickshire, North Group",
-      "team1": "Leicestershire",
-      "team2": "Warwickshire",
-      "match_id": "110765",
+      "title": "Somerset vs Glamorgan, South Group",
+      "team1": "Somerset",
+      "team2": "Glamorgan",
+      "match_id": "110777",
       "match_date": "4/7/2025",
       "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110765"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110777"
     },
     {
       "title": "Yorkshire vs Worcestershire, North Group",
@@ -76,6 +76,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110781"
     },
     {
+      "title": "Leicestershire vs Warwickshire, North Group",
+      "team1": "Leicestershire",
+      "team2": "Warwickshire",
+      "match_id": "110765",
+      "match_date": "4/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110765"
+    },
+    {
       "title": "Durham vs Nottinghamshire, North Group",
       "team1": "Durham",
       "team2": "Nottinghamshire",
@@ -83,15 +92,6 @@
       "match_date": "4/7/2025",
       "match_time": "11:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110745"
-    },
-    {
-      "title": "Somerset vs Glamorgan, South Group",
-      "team1": "Somerset",
-      "team2": "Glamorgan",
-      "match_id": "110777",
-      "match_date": "4/7/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110777"
     },
     {
       "title": "Northamptonshire vs Lancashire, North Group",
@@ -227,6 +227,24 @@
       "match_date": "6/7/2025",
       "match_time": "12:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117227"
+    },
+    {
+      "title": "Seattle Orcas vs Texas Super Kings, 28th Match",
+      "team1": "Seattle Orcas",
+      "team2": "Texas Super Kings",
+      "match_id": "117236",
+      "match_date": "6/7/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117236"
+    },
+    {
+      "title": "Australia A vs Sri Lanka A, 2nd Unofficial ODI",
+      "team1": "Australia A",
+      "team2": "Sri Lanka A",
+      "match_id": "120691",
+      "match_date": "6/7/2025",
+      "match_time": "6:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120691"
     }
   ]
 }
