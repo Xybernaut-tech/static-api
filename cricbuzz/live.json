@@ -1,34 +1,25 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:05 PM 06-07-2025",
+  "last update time": "07:46 PM 06-07-2025",
   "matches": [
     {
-      "title": "England vs India, 2nd Test",
-      "team1": "England",
-      "team2": "India",
-      "match_id": "105770",
-      "match_date": "2/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=105770"
+      "title": "Guernsey vs Scotland, 3rd Match",
+      "team1": "Guernsey",
+      "team2": "Scotland",
+      "match_id": "121703",
+      "match_date": "6/7/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=121703"
     },
     {
-      "title": "Indonesia vs Philippines, 3rd Match",
-      "team1": "Indonesia",
-      "team2": "Philippines",
-      "match_id": "122275",
-      "match_date": "7/7/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=122275"
-    },
-    {
-      "title": "Malawi vs Bahrain, 5th Match",
-      "team1": "Malawi",
-      "team2": "Bahrain",
-      "match_id": "123017",
-      "match_date": "7/7/2025",
-      "match_time": "5:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123017"
+      "title": "Durham vs Warwickshire, North Group",
+      "team1": "Durham",
+      "team2": "Warwickshire",
+      "match_id": "110805",
+      "match_date": "6/7/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110805"
     }
   ]
 }
