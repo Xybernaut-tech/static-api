@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:40 AM 06-07-2025",
+  "last update time": "06:34 AM 06-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -20,15 +20,6 @@
       "match_date": "3/7/2025",
       "match_time": "7:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114591"
-    },
-    {
-      "title": "San Francisco Unicorns vs Texas Super Kings, 25th Match",
-      "team1": "San Francisco Unicorns",
-      "team2": "Texas Super Kings",
-      "match_id": "117218",
-      "match_date": "5/7/2025",
-      "match_time": "12:30:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117218"
     },
     {
       "title": "Washington Freedom vs Seattle Orcas, 26th Match",
@@ -76,15 +67,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119549"
     },
     {
-      "title": "Bahrain vs Tanzania, 2nd Match",
-      "team1": "Bahrain",
-      "team2": "Tanzania",
-      "match_id": "122990",
-      "match_date": "5/7/2025",
-      "match_time": "5:15:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122990"
-    },
-    {
       "title": "Malawi vs Germany, 1st Match",
       "team1": "Malawi",
       "team2": "Germany",
@@ -92,6 +74,15 @@
       "match_date": "5/7/2025",
       "match_time": "5:15:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122979"
+    },
+    {
+      "title": "Bahrain vs Tanzania, 2nd Match",
+      "team1": "Bahrain",
+      "team2": "Tanzania",
+      "match_id": "122990",
+      "match_date": "5/7/2025",
+      "match_time": "5:15:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122990"
     },
     {
       "title": "Lancashire vs Derbyshire, North Group",
@@ -193,15 +184,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123001"
     },
     {
-      "title": "Durham vs Warwickshire, North Group",
-      "team1": "Durham",
-      "team2": "Warwickshire",
-      "match_id": "110805",
-      "match_date": "6/7/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110805"
-    },
-    {
       "title": "Glamorgan vs Kent, South Group",
       "team1": "Glamorgan",
       "team2": "Kent",
@@ -209,6 +191,15 @@
       "match_date": "6/7/2025",
       "match_time": "7:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110813"
+    },
+    {
+      "title": "Durham vs Warwickshire, North Group",
+      "team1": "Durham",
+      "team2": "Warwickshire",
+      "match_id": "110805",
+      "match_date": "6/7/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110805"
     },
     {
       "title": "Derbyshire vs Yorkshire, North Group",
@@ -229,22 +220,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119279"
     },
     {
-      "title": "Northamptonshire vs Worcestershire, North Group",
-      "team1": "Northamptonshire",
-      "team2": "Worcestershire",
-      "match_id": "110829",
+      "title": "Italy vs Jersey, 4th Match",
+      "team1": "Italy",
+      "team2": "Jersey",
+      "match_id": "121714",
       "match_date": "6/7/2025",
       "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110829"
-    },
-    {
-      "title": "Hampshire vs Somerset, South Group",
-      "team1": "Hampshire",
-      "team2": "Somerset",
-      "match_id": "110821",
-      "match_date": "6/7/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110821"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121714"
     },
     {
       "title": "Nottinghamshire vs Leicestershire, North Group",
@@ -256,13 +238,22 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110833"
     },
     {
-      "title": "Italy vs Jersey, 4th Match",
-      "team1": "Italy",
-      "team2": "Jersey",
-      "match_id": "121714",
+      "title": "Hampshire vs Somerset, South Group",
+      "team1": "Hampshire",
+      "team2": "Somerset",
+      "match_id": "110821",
       "match_date": "6/7/2025",
       "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121714"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110821"
+    },
+    {
+      "title": "Northamptonshire vs Worcestershire, North Group",
+      "team1": "Northamptonshire",
+      "team2": "Worcestershire",
+      "match_id": "110829",
+      "match_date": "6/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110829"
     },
     {
       "title": "Gloucestershire vs Middlesex, South Group",
@@ -283,13 +274,22 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110841"
     },
     {
-      "title": "Washington Freedom vs Mi New York, 29th Match",
+      "title": "Washington Freedom vs MI New York, 29th Match",
       "team1": "Washington Freedom",
-      "team2": "Mi New York",
+      "team2": "MI New York",
       "match_id": "117242",
       "match_date": "7/7/2025",
       "match_time": "12:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117242"
+    },
+    {
+      "title": "Los Angeles Knight Riders vs San Francisco Unicorns, 30th Match",
+      "team1": "Los Angeles Knight Riders",
+      "team2": "San Francisco Unicorns",
+      "match_id": "117245",
+      "match_date": "7/7/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117245"
     }
   ]
 }
