@@ -1,8 +1,44 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:43 PM 06-07-2025",
+  "last update time": "11:45 PM 06-07-2025",
   "matches": [
+    {
+      "title": "England vs India, 2nd Test",
+      "team1": "England",
+      "team2": "India",
+      "match_id": "105770",
+      "match_date": "2/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105770"
+    },
+    {
+      "title": "West Indies vs Australia, 2nd Test",
+      "team1": "West Indies",
+      "team2": "Australia",
+      "match_id": "114591",
+      "match_date": "3/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114591"
+    },
+    {
+      "title": "Sussex vs Hampshire, South Group",
+      "team1": "Sussex",
+      "team2": "Hampshire",
+      "match_id": "110793",
+      "match_date": "5/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110793"
+    },
+    {
+      "title": "MI New York vs Los Angeles Knight Riders, 27th Match",
+      "team1": "MI New York",
+      "team2": "Los Angeles Knight Riders",
+      "match_id": "117227",
+      "match_date": "6/7/2025",
+      "match_time": "12:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117227"
+    },
     {
       "title": "Seattle Orcas vs Texas Super Kings, 28th Match",
       "team1": "Seattle Orcas",
@@ -13,6 +49,60 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117236"
     },
     {
+      "title": "Australia A vs Sri Lanka A, 2nd Unofficial ODI",
+      "team1": "Australia A",
+      "team2": "Sri Lanka A",
+      "match_id": "120691",
+      "match_date": "6/7/2025",
+      "match_time": "6:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120691"
+    },
+    {
+      "title": "Indonesia vs Philippines, 1st Match",
+      "team1": "Indonesia",
+      "team2": "Philippines",
+      "match_id": "122247",
+      "match_date": "6/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122247"
+    },
+    {
+      "title": "Bahrain vs Germany, 3rd Match",
+      "team1": "Bahrain",
+      "team2": "Germany",
+      "match_id": "123001",
+      "match_date": "6/7/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123001"
+    },
+    {
+      "title": "Zimbabwe vs South Africa, 2nd Test",
+      "team1": "Zimbabwe",
+      "team2": "South Africa",
+      "match_id": "116840",
+      "match_date": "6/7/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=116840"
+    },
+    {
+      "title": "Guernsey vs Scotland, 3rd Match",
+      "team1": "Guernsey",
+      "team2": "Scotland",
+      "match_id": "121703",
+      "match_date": "6/7/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121703"
+    },
+    {
+      "title": "Malawi vs Tanzania, 2nd Match",
+      "team1": "Malawi",
+      "team2": "Tanzania",
+      "match_id": "122995",
+      "match_date": "6/7/2025",
+      "match_time": "5:15:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122995"
+    },
+    {
       "title": "Ossudu Accord Warriors vs Ruby White Town Legends, 1st Match",
       "team1": "Ossudu Accord Warriors",
       "team2": "Ruby White Town Legends",
@@ -20,6 +110,204 @@
       "match_date": "6/7/2025",
       "match_time": "6:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123826"
+    },
+    {
+      "title": "Derbyshire vs Yorkshire, North Group",
+      "team1": "Derbyshire",
+      "team2": "Yorkshire",
+      "match_id": "110801",
+      "match_date": "6/7/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110801"
+    },
+    {
+      "title": "Durham vs Warwickshire, North Group",
+      "team1": "Durham",
+      "team2": "Warwickshire",
+      "match_id": "110805",
+      "match_date": "6/7/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110805"
+    },
+    {
+      "title": "Glamorgan vs Kent, South Group",
+      "team1": "Glamorgan",
+      "team2": "Kent",
+      "match_id": "110813",
+      "match_date": "6/7/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110813"
+    },
+    {
+      "title": "IDream Tiruppur Tamizhans vs Dindigul Dragons, Final",
+      "team1": "IDream Tiruppur Tamizhans",
+      "team2": "Dindigul Dragons",
+      "match_id": "119279",
+      "match_date": "6/7/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119279"
+    },
+    {
+      "title": "Italy vs Jersey, 4th Match",
+      "team1": "Italy",
+      "team2": "Jersey",
+      "match_id": "121714",
+      "match_date": "6/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121714"
+    },
+    {
+      "title": "Hampshire vs Somerset, South Group",
+      "team1": "Hampshire",
+      "team2": "Somerset",
+      "match_id": "110821",
+      "match_date": "6/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110821"
+    },
+    {
+      "title": "Northamptonshire vs Worcestershire, North Group",
+      "team1": "Northamptonshire",
+      "team2": "Worcestershire",
+      "match_id": "110829",
+      "match_date": "6/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110829"
+    },
+    {
+      "title": "Nottinghamshire vs Leicestershire, North Group",
+      "team1": "Nottinghamshire",
+      "team2": "Leicestershire",
+      "match_id": "110833",
+      "match_date": "6/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110833"
+    },
+    {
+      "title": "Gloucestershire vs Middlesex, South Group",
+      "team1": "Gloucestershire",
+      "team2": "Middlesex",
+      "match_id": "110817",
+      "match_date": "6/7/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110817"
+    },
+    {
+      "title": "Surrey vs Essex, South Group",
+      "team1": "Surrey",
+      "team2": "Essex",
+      "match_id": "110841",
+      "match_date": "6/7/2025",
+      "match_time": "9:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110841"
+    },
+    {
+      "title": "Washington Freedom vs MI New York, 29th Match",
+      "team1": "Washington Freedom",
+      "team2": "MI New York",
+      "match_id": "117242",
+      "match_date": "7/7/2025",
+      "match_time": "12:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117242"
+    },
+    {
+      "title": "Los Angeles Knight Riders vs San Francisco Unicorns, 30th Match",
+      "team1": "Los Angeles Knight Riders",
+      "team2": "San Francisco Unicorns",
+      "match_id": "117245",
+      "match_date": "7/7/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117245"
+    },
+    {
+      "title": "Greece Women vs Turkey Women, 1st Match",
+      "team1": "Greece Women",
+      "team2": "Turkey Women",
+      "match_id": "122363",
+      "match_date": "7/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122363"
+    },
+    {
+      "title": "Philippines vs South Korea, 2nd Match",
+      "team1": "Philippines",
+      "team2": "South Korea",
+      "match_id": "122264",
+      "match_date": "7/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122264"
+    },
+    {
+      "title": "Indonesia vs Philippines, 3rd Match",
+      "team1": "Indonesia",
+      "team2": "Philippines",
+      "match_id": "122275",
+      "match_date": "7/7/2025",
+      "match_time": "11:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122275"
+    },
+    {
+      "title": "Germany vs Tanzania, 4th Match",
+      "team1": "Germany",
+      "team2": "Tanzania",
+      "match_id": "123006",
+      "match_date": "7/7/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123006"
+    },
+    {
+      "title": "Karaikal Kniights vs Mahe Megalo Strikers, 2nd Match",
+      "team1": "Karaikal Kniights",
+      "team2": "Mahe Megalo Strikers",
+      "match_id": "123837",
+      "match_date": "7/7/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123837"
+    },
+    {
+      "title": "England U19 vs India U19, 5th Youth ODI",
+      "team1": "England U19",
+      "team2": "India U19",
+      "match_id": "119558",
+      "match_date": "7/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119558"
+    },
+    {
+      "title": "Bulgaria Women vs Serbia Women, 2nd Match",
+      "team1": "Bulgaria Women",
+      "team2": "Serbia Women",
+      "match_id": "122374",
+      "match_date": "7/7/2025",
+      "match_time": "3:45:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122374"
+    },
+    {
+      "title": "Malawi vs Bahrain, 5th Match",
+      "team1": "Malawi",
+      "team2": "Bahrain",
+      "match_id": "123017",
+      "match_date": "7/7/2025",
+      "match_time": "5:15:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123017"
+    },
+    {
+      "title": "Genid Yanam Royals vs Villianur Mohit Kings, 3rd Match",
+      "team1": "Genid Yanam Royals",
+      "team2": "Villianur Mohit Kings",
+      "match_id": "123842",
+      "match_date": "7/7/2025",
+      "match_time": "6:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123842"
+    },
+    {
+      "title": "Turkey Women vs Serbia Women, 3rd Match",
+      "team1": "Turkey Women",
+      "team2": "Serbia Women",
+      "match_id": "122379",
+      "match_date": "7/7/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122379"
     }
   ]
 }
