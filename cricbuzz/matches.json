@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:57 AM 06-07-2025",
+  "last update time": "11:47 AM 06-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -22,13 +22,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114591"
     },
     {
-      "title": "Singapore Women vs Indonesia Women, 3rd T20I",
-      "team1": "Singapore Women",
-      "team2": "Indonesia Women",
-      "match_id": "122071",
+      "title": "Netherlands vs Jersey, 1st Match",
+      "team1": "Netherlands",
+      "team2": "Jersey",
+      "match_id": "121692",
       "match_date": "5/7/2025",
-      "match_time": "7:00:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122071"
+      "match_time": "2:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121692"
     },
     {
       "title": "Sri Lanka vs Bangladesh, 2nd ODI",
@@ -38,15 +38,6 @@
       "match_date": "5/7/2025",
       "match_time": "2:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118604"
-    },
-    {
-      "title": "Netherlands vs Jersey, 1st Match",
-      "team1": "Netherlands",
-      "team2": "Jersey",
-      "match_id": "121692",
-      "match_date": "5/7/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121692"
     },
     {
       "title": "England U19 vs India U19, 4th Youth ODI",
@@ -166,15 +157,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123001"
     },
     {
-      "title": "Durham vs Warwickshire, North Group",
-      "team1": "Durham",
-      "team2": "Warwickshire",
-      "match_id": "110805",
-      "match_date": "6/7/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110805"
-    },
-    {
       "title": "Derbyshire vs Yorkshire, North Group",
       "team1": "Derbyshire",
       "team2": "Yorkshire",
@@ -193,6 +175,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110813"
     },
     {
+      "title": "Durham vs Warwickshire, North Group",
+      "team1": "Durham",
+      "team2": "Warwickshire",
+      "match_id": "110805",
+      "match_date": "6/7/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110805"
+    },
+    {
       "title": "IDream Tiruppur Tamizhans vs Dindigul Dragons, Final",
       "team1": "IDream Tiruppur Tamizhans",
       "team2": "Dindigul Dragons",
@@ -200,15 +191,6 @@
       "match_date": "6/7/2025",
       "match_time": "7:15:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119279"
-    },
-    {
-      "title": "Italy vs Jersey, 4th Match",
-      "team1": "Italy",
-      "team2": "Jersey",
-      "match_id": "121714",
-      "match_date": "6/7/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121714"
     },
     {
       "title": "Hampshire vs Somerset, South Group",
@@ -220,6 +202,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110821"
     },
     {
+      "title": "Nottinghamshire vs Leicestershire, North Group",
+      "team1": "Nottinghamshire",
+      "team2": "Leicestershire",
+      "match_id": "110833",
+      "match_date": "6/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110833"
+    },
+    {
       "title": "Northamptonshire vs Worcestershire, North Group",
       "team1": "Northamptonshire",
       "team2": "Worcestershire",
@@ -229,13 +220,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110829"
     },
     {
-      "title": "Nottinghamshire vs Leicestershire, North Group",
-      "team1": "Nottinghamshire",
-      "team2": "Leicestershire",
-      "match_id": "110833",
+      "title": "Italy vs Jersey, 4th Match",
+      "team1": "Italy",
+      "team2": "Jersey",
+      "match_id": "121714",
       "match_date": "6/7/2025",
       "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110833"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121714"
     },
     {
       "title": "Gloucestershire vs Middlesex, South Group",
@@ -281,6 +272,24 @@
       "match_date": "7/7/2025",
       "match_time": "7:00:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122264"
+    },
+    {
+      "title": "Greece Women vs Turkey Women, 1st Match",
+      "team1": "Greece Women",
+      "team2": "Turkey Women",
+      "match_id": "122363",
+      "match_date": "7/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122363"
+    },
+    {
+      "title": "Indonesia vs Philippines, 3rd Match",
+      "team1": "Indonesia",
+      "team2": "Philippines",
+      "match_id": "122275",
+      "match_date": "7/7/2025",
+      "match_time": "11:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122275"
     }
   ]
 }
