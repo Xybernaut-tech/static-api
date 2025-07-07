@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:33 AM 07-07-2025",
+  "last update time": "08:49 AM 07-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -20,15 +20,6 @@
       "match_date": "3/7/2025",
       "match_time": "7:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114591"
-    },
-    {
-      "title": "Seattle Orcas vs Texas Super Kings, 28th Match",
-      "team1": "Seattle Orcas",
-      "team2": "Texas Super Kings",
-      "match_id": "117236",
-      "match_date": "6/7/2025",
-      "match_time": "4:30:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117236"
     },
     {
       "title": "Australia A vs Sri Lanka A, 2nd Unofficial ODI",
@@ -94,15 +85,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123826"
     },
     {
-      "title": "Glamorgan vs Kent, South Group",
-      "team1": "Glamorgan",
-      "team2": "Kent",
-      "match_id": "110813",
-      "match_date": "6/7/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110813"
-    },
-    {
       "title": "Durham vs Warwickshire, North Group",
       "team1": "Durham",
       "team2": "Warwickshire",
@@ -121,6 +103,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110801"
     },
     {
+      "title": "Glamorgan vs Kent, South Group",
+      "team1": "Glamorgan",
+      "team2": "Kent",
+      "match_id": "110813",
+      "match_date": "6/7/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110813"
+    },
+    {
       "title": "IDream Tiruppur Tamizhans vs Dindigul Dragons, Final",
       "team1": "IDream Tiruppur Tamizhans",
       "team2": "Dindigul Dragons",
@@ -128,6 +119,15 @@
       "match_date": "6/7/2025",
       "match_time": "7:15:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119279"
+    },
+    {
+      "title": "Northamptonshire vs Worcestershire, North Group",
+      "team1": "Northamptonshire",
+      "team2": "Worcestershire",
+      "match_id": "110829",
+      "match_date": "6/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110829"
     },
     {
       "title": "Italy vs Jersey, 4th Match",
@@ -155,15 +155,6 @@
       "match_date": "6/7/2025",
       "match_time": "7:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110833"
-    },
-    {
-      "title": "Northamptonshire vs Worcestershire, North Group",
-      "team1": "Northamptonshire",
-      "team2": "Worcestershire",
-      "match_id": "110829",
-      "match_date": "6/7/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110829"
     },
     {
       "title": "Gloucestershire vs Middlesex, South Group",
@@ -202,15 +193,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117245"
     },
     {
-      "title": "Greece Women vs Turkey Women, 1st Match",
-      "team1": "Greece Women",
-      "team2": "Turkey Women",
-      "match_id": "122363",
-      "match_date": "7/7/2025",
-      "match_time": "7:00:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122363"
-    },
-    {
       "title": "Philippines vs South Korea, 2nd Match",
       "team1": "Philippines",
       "team2": "South Korea",
@@ -218,6 +200,15 @@
       "match_date": "7/7/2025",
       "match_time": "7:00:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122264"
+    },
+    {
+      "title": "Greece Women vs Turkey Women, 1st Match",
+      "team1": "Greece Women",
+      "team2": "Turkey Women",
+      "match_id": "122363",
+      "match_date": "7/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122363"
     },
     {
       "title": "Indonesia vs Philippines, 3rd Match",
@@ -290,6 +281,15 @@
       "match_date": "7/7/2025",
       "match_time": "7:15:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122379"
+    },
+    {
+      "title": "Indonesia vs South Korea, 4th Match",
+      "team1": "Indonesia",
+      "team2": "South Korea",
+      "match_id": "122280",
+      "match_date": "8/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122280"
     }
   ]
 }
