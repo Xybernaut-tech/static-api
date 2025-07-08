@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:57 PM 08-07-2025",
+  "last update time": "01:51 AM 09-07-2025",
   "matches": [
     {
       "title": "West Indies vs Australia, 2nd Test",
@@ -252,17 +252,8 @@
       "team2": "Surrey",
       "match_id": "110857",
       "match_date": "9/7/2025",
-      "match_time": "11:00:00 pm",
+      "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110857"
-    },
-    {
-      "title": "Sussex vs Kent, South Group",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "110865",
-      "match_date": "9/7/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
     },
     {
       "title": "Warwickshire vs Lancashire, North Group",
@@ -270,8 +261,17 @@
       "team2": "Lancashire",
       "match_id": "110849",
       "match_date": "9/7/2025",
-      "match_time": "11:00:00 pm",
+      "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110849"
+    },
+    {
+      "title": "Sussex vs Kent, South Group",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "110865",
+      "match_date": "9/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
     }
   ]
 }
