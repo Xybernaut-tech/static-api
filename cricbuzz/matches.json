@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:43 PM 08-07-2025",
+  "last update time": "05:55 PM 08-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -29,24 +29,6 @@
       "match_date": "6/7/2025",
       "match_time": "1:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=116840"
-    },
-    {
-      "title": "Germany vs Tanzania, 4th Match",
-      "team1": "Germany",
-      "team2": "Tanzania",
-      "match_id": "123006",
-      "match_date": "7/7/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123006"
-    },
-    {
-      "title": "Karaikal Kniights vs Mahe Megalo Strikers, 2nd Match",
-      "team1": "Karaikal Kniights",
-      "team2": "Mahe Megalo Strikers",
-      "match_id": "123837",
-      "match_date": "7/7/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123837"
     },
     {
       "title": "England U19 vs India U19, 5th Youth ODI",
@@ -263,6 +245,24 @@
       "match_date": "9/7/2025",
       "match_time": "2:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121736"
+    },
+    {
+      "title": "Tbc vs Tbc, Final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "122418",
+      "match_date": "9/7/2025",
+      "match_time": "3:45:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122418"
+    },
+    {
+      "title": "Bahrain vs Germany, 8th Match",
+      "team1": "Bahrain",
+      "team2": "Germany",
+      "match_id": "123034",
+      "match_date": "9/7/2025",
+      "match_time": "5:15:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123034"
     }
   ]
 }
