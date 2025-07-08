@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:53 AM 08-07-2025",
+  "last update time": "11:49 AM 08-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -38,15 +38,6 @@
       "match_date": "7/7/2025",
       "match_time": "4:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117245"
-    },
-    {
-      "title": "Philippines vs South Korea, 2nd Match",
-      "team1": "Philippines",
-      "team2": "South Korea",
-      "match_id": "122264",
-      "match_date": "7/7/2025",
-      "match_time": "7:00:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122264"
     },
     {
       "title": "Indonesia vs Philippines, 3rd Match",
@@ -238,6 +229,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117251"
     },
     {
+      "title": "Australia A vs Sri Lanka A, 3rd unofficial ODI",
+      "team1": "Australia A",
+      "team2": "Sri Lanka A",
+      "match_id": "120696",
+      "match_date": "9/7/2025",
+      "match_time": "6:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120696"
+    },
+    {
       "title": "Philippines vs South Korea, 5th Match",
       "team1": "Philippines",
       "team2": "South Korea",
@@ -247,13 +247,22 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122291"
     },
     {
-      "title": "Australia A vs Sri Lanka A, 3rd unofficial ODI",
-      "team1": "Australia A",
-      "team2": "Sri Lanka A",
-      "match_id": "120696",
+      "title": "Indonesia vs South Korea, 6th Match",
+      "team1": "Indonesia",
+      "team2": "South Korea",
+      "match_id": "122302",
       "match_date": "9/7/2025",
-      "match_time": "6:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120696"
+      "match_time": "11:30:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122302"
+    },
+    {
+      "title": "Tbc vs Tbc, 3rd place play off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "122412",
+      "match_date": "9/7/2025",
+      "match_time": "11:45:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122412"
     }
   ]
 }
