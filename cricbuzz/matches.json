@@ -1,17 +1,8 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:46 PM 08-07-2025",
+  "last update time": "11:46 PM 08-07-2025",
   "matches": [
-    {
-      "title": "England vs India, 2nd Test",
-      "team1": "England",
-      "team2": "India",
-      "match_id": "105770",
-      "match_date": "2/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105770"
-    },
     {
       "title": "West Indies vs Australia, 2nd Test",
       "team1": "West Indies",
@@ -29,24 +20,6 @@
       "match_date": "6/7/2025",
       "match_time": "1:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=116840"
-    },
-    {
-      "title": "England U19 vs India U19, 5th Youth ODI",
-      "team1": "England U19",
-      "team2": "India U19",
-      "match_id": "119558",
-      "match_date": "7/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119558"
-    },
-    {
-      "title": "Turkey Women vs Serbia Women, 3rd Match",
-      "team1": "Turkey Women",
-      "team2": "Serbia Women",
-      "match_id": "122379",
-      "match_date": "7/7/2025",
-      "match_time": "7:45:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122379"
     },
     {
       "title": "Indonesia vs South Korea, 4th Match",
@@ -256,6 +229,24 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121747"
     },
     {
+      "title": "Sussex vs Kent, South Group",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "110865",
+      "match_date": "9/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110865"
+    },
+    {
+      "title": "Warwickshire vs Lancashire, North Group",
+      "team1": "Warwickshire",
+      "team2": "Lancashire",
+      "match_id": "110849",
+      "match_date": "9/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110849"
+    },
+    {
       "title": "Middlesex vs Hampshire, South Group",
       "team1": "Middlesex",
       "team2": "Hampshire",
@@ -263,6 +254,24 @@
       "match_date": "9/7/2025",
       "match_time": "11:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110861"
+    },
+    {
+      "title": "Gloucestershire vs Surrey, South Group",
+      "team1": "Gloucestershire",
+      "team2": "Surrey",
+      "match_id": "110857",
+      "match_date": "9/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110857"
+    },
+    {
+      "title": "England Women vs India Women, 4th T20I",
+      "team1": "England Women",
+      "team2": "India Women",
+      "match_id": "105916",
+      "match_date": "9/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105916"
     }
   ]
 }
