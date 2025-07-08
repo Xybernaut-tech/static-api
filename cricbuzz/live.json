@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:59 AM 08-07-2025",
+  "last update time": "01:56 PM 08-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -29,15 +29,6 @@
       "match_date": "6/7/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116840"
-    },
-    {
-      "title": "Los Angeles Knight Riders vs San Francisco Unicorns, 30th Match",
-      "team1": "Los Angeles Knight Riders",
-      "team2": "San Francisco Unicorns",
-      "match_id": "117245",
-      "match_date": "7/7/2025",
-      "match_time": "4:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=117245"
     },
     {
       "title": "Indonesia vs Philippines, 3rd Match",
@@ -263,6 +254,15 @@
       "match_date": "9/7/2025",
       "match_time": "11:45:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=122412"
+    },
+    {
+      "title": "Malawi vs Tanzania, 7th Match",
+      "team1": "Malawi",
+      "team2": "Tanzania",
+      "match_id": "123028",
+      "match_date": "9/7/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123028"
     }
   ]
 }
