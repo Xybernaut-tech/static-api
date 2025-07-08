@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:47 PM 08-07-2025",
+  "last update time": "03:43 PM 08-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -29,24 +29,6 @@
       "match_date": "6/7/2025",
       "match_time": "1:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=116840"
-    },
-    {
-      "title": "Indonesia vs Philippines, 3rd Match",
-      "team1": "Indonesia",
-      "team2": "Philippines",
-      "match_id": "122275",
-      "match_date": "7/7/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122275"
-    },
-    {
-      "title": "Greece Women vs Turkey Women, 1st Match",
-      "team1": "Greece Women",
-      "team2": "Turkey Women",
-      "match_id": "122363",
-      "match_date": "7/7/2025",
-      "match_time": "11:45:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122363"
     },
     {
       "title": "Germany vs Tanzania, 4th Match",
@@ -263,6 +245,24 @@
       "match_date": "9/7/2025",
       "match_time": "1:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123028"
+    },
+    {
+      "title": "Ruby White Town Legends vs Genid Yanam Royals, 6th Match",
+      "team1": "Ruby White Town Legends",
+      "team2": "Genid Yanam Royals",
+      "match_id": "123864",
+      "match_date": "9/7/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123864"
+    },
+    {
+      "title": "Italy vs Scotland, 7th Match",
+      "team1": "Italy",
+      "team2": "Scotland",
+      "match_id": "121736",
+      "match_date": "9/7/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121736"
     }
   ]
 }
