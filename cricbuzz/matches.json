@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:29 AM 08-07-2025",
+  "last update time": "08:45 AM 08-07-2025",
   "matches": [
     {
       "title": "England vs India, 2nd Test",
@@ -236,6 +236,15 @@
       "match_date": "9/7/2025",
       "match_time": "5:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117251"
+    },
+    {
+      "title": "Philippines vs South Korea, 5th Match",
+      "team1": "Philippines",
+      "team2": "South Korea",
+      "match_id": "122291",
+      "match_date": "9/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122291"
     },
     {
       "title": "Australia A vs Sri Lanka A, 3rd unofficial ODI",
