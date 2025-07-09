@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:48 PM 09-07-2025",
+  "last update time": "09:53 PM 09-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -20,24 +20,6 @@
       "match_date": "8/7/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=118610"
-    },
-    {
-      "title": "Bahrain vs Tanzania, 6th Match",
-      "team1": "Bahrain",
-      "team2": "Tanzania",
-      "match_id": "122990",
-      "match_date": "8/7/2025",
-      "match_time": "5:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=122990"
-    },
-    {
-      "title": "Genid Yanam Royals vs Mahe Megalo Strikers, 5th Match",
-      "team1": "Genid Yanam Royals",
-      "team2": "Mahe Megalo Strikers",
-      "match_id": "123859",
-      "match_date": "8/7/2025",
-      "match_time": "6:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123859"
     },
     {
       "title": "Scotland vs Netherlands, 6th Match",
@@ -193,15 +175,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=105916"
     },
     {
-      "title": "Gloucestershire vs Surrey, South Group",
-      "team1": "Gloucestershire",
-      "team2": "Surrey",
-      "match_id": "110857",
-      "match_date": "9/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110857"
-    },
-    {
       "title": "Warwickshire vs Lancashire, North Group",
       "team1": "Warwickshire",
       "team2": "Lancashire",
@@ -209,6 +182,15 @@
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110849"
+    },
+    {
+      "title": "Gloucestershire vs Surrey, South Group",
+      "team1": "Gloucestershire",
+      "team2": "Surrey",
+      "match_id": "110857",
+      "match_date": "9/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110857"
     },
     {
       "title": "Sussex vs Kent, South Group",
