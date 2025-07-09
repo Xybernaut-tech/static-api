@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:30 AM 09-07-2025",
+  "last update time": "08:46 AM 09-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -148,9 +148,9 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122302"
     },
     {
-      "title": "Tbc vs Tbc, 3rd place play off",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Bulgaria Women vs Serbia Women, 3rd place play off",
+      "team1": "Bulgaria Women",
+      "team2": "Serbia Women",
       "match_id": "122412",
       "match_date": "9/7/2025",
       "match_time": "11:45:00 am",
@@ -184,9 +184,9 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121736"
     },
     {
-      "title": "Tbc vs Tbc, Final",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Greece Women vs Turkey Women, Final",
+      "team1": "Greece Women",
+      "team2": "Turkey Women",
       "match_id": "122418",
       "match_date": "9/7/2025",
       "match_time": "3:45:00 pm",
@@ -247,15 +247,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110849"
     },
     {
-      "title": "Sussex vs Kent, South Group",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "110865",
-      "match_date": "9/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110865"
-    },
-    {
       "title": "Gloucestershire vs Surrey, South Group",
       "team1": "Gloucestershire",
       "team2": "Surrey",
@@ -265,6 +256,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110857"
     },
     {
+      "title": "Sussex vs Kent, South Group",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "110865",
+      "match_date": "9/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110865"
+    },
+    {
       "title": "San Francisco Unicorns vs MI New York, Eliminator (3v4)",
       "team1": "San Francisco Unicorns",
       "team2": "MI New York",
@@ -272,6 +272,15 @@
       "match_date": "10/7/2025",
       "match_time": "5:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117260"
+    },
+    {
+      "title": "Indonesia vs Philippines, 7th Match",
+      "team1": "Indonesia",
+      "team2": "Philippines",
+      "match_id": "122308",
+      "match_date": "10/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122308"
     }
   ]
 }
