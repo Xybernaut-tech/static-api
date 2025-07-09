@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:57 PM 09-07-2025",
+  "last update time": "01:50 AM 10-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -157,15 +157,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=110849"
     },
     {
-      "title": "Sussex vs Kent, South Group",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "110865",
-      "match_date": "9/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
-    },
-    {
       "title": "Gloucestershire vs Surrey, South Group",
       "team1": "Gloucestershire",
       "team2": "Surrey",
@@ -173,6 +164,15 @@
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110857"
+    },
+    {
+      "title": "Sussex vs Kent, South Group",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "110865",
+      "match_date": "9/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
     },
     {
       "title": "San Francisco Unicorns vs MI New York, Eliminator (3v4)",
