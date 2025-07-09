@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:42 PM 09-07-2025",
+  "last update time": "11:47 PM 09-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -11,33 +11,6 @@
       "match_date": "6/7/2025",
       "match_time": "1:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=116840"
-    },
-    {
-      "title": "Sri Lanka vs Bangladesh, 3rd ODI",
-      "team1": "Sri Lanka",
-      "team2": "Bangladesh",
-      "match_id": "118610",
-      "match_date": "8/7/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118610"
-    },
-    {
-      "title": "Scotland vs Netherlands, 6th Match",
-      "team1": "Scotland",
-      "team2": "Netherlands",
-      "match_id": "121730",
-      "match_date": "8/7/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121730"
-    },
-    {
-      "title": "Turkey Women vs Bulgaria Women, 6th Match",
-      "team1": "Turkey Women",
-      "team2": "Bulgaria Women",
-      "match_id": "122401",
-      "match_date": "8/7/2025",
-      "match_time": "7:45:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122401"
     },
     {
       "title": "Somerset vs Essex, South Group",
@@ -175,13 +148,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105916"
     },
     {
-      "title": "Warwickshire vs Lancashire, North Group",
-      "team1": "Warwickshire",
-      "team2": "Lancashire",
-      "match_id": "110849",
+      "title": "Gloucestershire vs Surrey, South Group",
+      "team1": "Gloucestershire",
+      "team2": "Surrey",
+      "match_id": "110857",
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110849"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110857"
     },
     {
       "title": "Sussex vs Kent, South Group",
@@ -193,13 +166,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110865"
     },
     {
-      "title": "Gloucestershire vs Surrey, South Group",
-      "team1": "Gloucestershire",
-      "team2": "Surrey",
-      "match_id": "110857",
+      "title": "Warwickshire vs Lancashire, North Group",
+      "team1": "Warwickshire",
+      "team2": "Lancashire",
+      "match_id": "110849",
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110857"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110849"
     },
     {
       "title": "San Francisco Unicorns vs MI New York, Eliminator (3v4)",
@@ -308,6 +281,33 @@
       "match_date": "10/7/2025",
       "match_time": "7:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119459"
+    },
+    {
+      "title": "Hampshire vs Glamorgan, South Group",
+      "team1": "Hampshire",
+      "team2": "Glamorgan",
+      "match_id": "110877",
+      "match_date": "10/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110877"
+    },
+    {
+      "title": "Derbyshire vs Worcestershire, North Group",
+      "team1": "Derbyshire",
+      "team2": "Worcestershire",
+      "match_id": "110869",
+      "match_date": "10/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110869"
+    },
+    {
+      "title": "Lancashire vs Northamptonshire, North Group",
+      "team1": "Lancashire",
+      "team2": "Northamptonshire",
+      "match_id": "110881",
+      "match_date": "10/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110881"
     }
   ]
 }
