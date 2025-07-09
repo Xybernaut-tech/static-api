@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:51 PM 09-07-2025",
+  "last update time": "06:09 PM 09-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -13,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116840"
     },
     {
-      "title": "Ruby White Town Legends vs Villianur Mohit Kings, 4th Match",
-      "team1": "Ruby White Town Legends",
-      "team2": "Villianur Mohit Kings",
-      "match_id": "123848",
-      "match_date": "8/7/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123848"
-    },
-    {
       "title": "Sri Lanka vs Bangladesh, 3rd ODI",
       "team1": "Sri Lanka",
       "team2": "Bangladesh",
@@ -29,15 +20,6 @@
       "match_date": "8/7/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=118610"
-    },
-    {
-      "title": "Guernsey vs Jersey, 5th Match",
-      "team1": "Guernsey",
-      "team2": "Jersey",
-      "match_id": "121725",
-      "match_date": "8/7/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121725"
     },
     {
       "title": "Greece Women vs Serbia Women, 5th Match",
@@ -229,15 +211,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
     },
     {
-      "title": "Warwickshire vs Lancashire, North Group",
-      "team1": "Warwickshire",
-      "team2": "Lancashire",
-      "match_id": "110849",
-      "match_date": "9/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110849"
-    },
-    {
       "title": "Gloucestershire vs Surrey, South Group",
       "team1": "Gloucestershire",
       "team2": "Surrey",
@@ -245,6 +218,15 @@
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110857"
+    },
+    {
+      "title": "Warwickshire vs Lancashire, North Group",
+      "team1": "Warwickshire",
+      "team2": "Lancashire",
+      "match_id": "110849",
+      "match_date": "9/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110849"
     },
     {
       "title": "San Francisco Unicorns vs MI New York, Eliminator (3v4)",
@@ -308,6 +290,33 @@
       "match_date": "10/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105772"
+    },
+    {
+      "title": "Bulgaria vs Turkey, 2nd Match",
+      "team1": "Bulgaria",
+      "team2": "Turkey",
+      "match_id": "122440",
+      "match_date": "10/7/2025",
+      "match_time": "4:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=122440"
+    },
+    {
+      "title": "Malawi vs Germany, 10th Match",
+      "team1": "Malawi",
+      "team2": "Germany",
+      "match_id": "123045",
+      "match_date": "10/7/2025",
+      "match_time": "5:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123045"
+    },
+    {
+      "title": "Villianur Mohit Kings vs Karaikal Kniights, 9th Match",
+      "team1": "Villianur Mohit Kings",
+      "team2": "Karaikal Kniights",
+      "match_id": "123892",
+      "match_date": "10/7/2025",
+      "match_time": "6:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123892"
     }
   ]
 }
