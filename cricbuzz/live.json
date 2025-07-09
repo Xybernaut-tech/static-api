@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:50 AM 10-07-2025",
+  "last update time": "03:48 AM 10-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -11,15 +11,6 @@
       "match_date": "6/7/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116840"
-    },
-    {
-      "title": "Somerset vs Essex, South Group",
-      "team1": "Somerset",
-      "team2": "Essex",
-      "match_id": "110845",
-      "match_date": "8/7/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110845"
     },
     {
       "title": "Washington Freedom vs Texas Super Kings, Qualifier (1v2)",
@@ -148,6 +139,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=105916"
     },
     {
+      "title": "Sussex vs Kent, South Group",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "110865",
+      "match_date": "9/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
+    },
+    {
       "title": "Warwickshire vs Lancashire, North Group",
       "team1": "Warwickshire",
       "team2": "Lancashire",
@@ -164,15 +164,6 @@
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110857"
-    },
-    {
-      "title": "Sussex vs Kent, South Group",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "110865",
-      "match_date": "9/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
     },
     {
       "title": "San Francisco Unicorns vs MI New York, Eliminator (3v4)",
@@ -283,8 +274,8 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=119459"
     },
     {
-      "title": "Lancashire vs Northamptonshire, North Group",
-      "team1": "Lancashire",
+      "title": "Leicestershire vs Northamptonshire, North Group",
+      "team1": "Leicestershire",
       "team2": "Northamptonshire",
       "match_id": "110881",
       "match_date": "10/7/2025",
@@ -297,7 +288,7 @@
       "team2": "Worcestershire",
       "match_id": "110869",
       "match_date": "10/7/2025",
-      "match_time": "11:00:00 pm",
+      "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110869"
     },
     {
@@ -306,7 +297,7 @@
       "team2": "Glamorgan",
       "match_id": "110877",
       "match_date": "10/7/2025",
-      "match_time": "11:00:00 pm",
+      "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110877"
     }
   ]
