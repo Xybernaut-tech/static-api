@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:46 PM 09-07-2025",
+  "last update time": "03:43 PM 09-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -13,15 +13,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=116840"
     },
     {
-      "title": "Bulgaria Women vs Greece Women, 4th Match",
-      "team1": "Bulgaria Women",
-      "team2": "Greece Women",
-      "match_id": "122385",
-      "match_date": "8/7/2025",
-      "match_time": "11:45:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122385"
-    },
-    {
       "title": "Ruby White Town Legends vs Villianur Mohit Kings, 4th Match",
       "team1": "Ruby White Town Legends",
       "team2": "Villianur Mohit Kings",
@@ -31,15 +22,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123848"
     },
     {
-      "title": "Guernsey vs Jersey, 5th Match",
-      "team1": "Guernsey",
-      "team2": "Jersey",
-      "match_id": "121725",
-      "match_date": "8/7/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121725"
-    },
-    {
       "title": "Sri Lanka vs Bangladesh, 3rd ODI",
       "team1": "Sri Lanka",
       "team2": "Bangladesh",
@@ -47,6 +29,15 @@
       "match_date": "8/7/2025",
       "match_time": "2:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=118610"
+    },
+    {
+      "title": "Guernsey vs Jersey, 5th Match",
+      "team1": "Guernsey",
+      "team2": "Jersey",
+      "match_id": "121725",
+      "match_date": "8/7/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121725"
     },
     {
       "title": "Greece Women vs Serbia Women, 5th Match",
@@ -229,13 +220,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105916"
     },
     {
-      "title": "Sussex vs Kent, South Group",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "110865",
+      "title": "Gloucestershire vs Surrey, South Group",
+      "team1": "Gloucestershire",
+      "team2": "Surrey",
+      "match_id": "110857",
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110865"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110857"
     },
     {
       "title": "Warwickshire vs Lancashire, North Group",
@@ -247,13 +238,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110849"
     },
     {
-      "title": "Gloucestershire vs Surrey, South Group",
-      "team1": "Gloucestershire",
-      "team2": "Surrey",
-      "match_id": "110857",
+      "title": "Sussex vs Kent, South Group",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "110865",
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110857"
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110865"
     },
     {
       "title": "San Francisco Unicorns vs MI New York, Eliminator (3v4)",
@@ -299,6 +290,24 @@
       "match_date": "10/7/2025",
       "match_time": "1:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123039"
+    },
+    {
+      "title": "Mahe Megalo Strikers vs Ossudu Accord Warriors, 8th Match",
+      "team1": "Mahe Megalo Strikers",
+      "team2": "Ossudu Accord Warriors",
+      "match_id": "123886",
+      "match_date": "10/7/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123886"
+    },
+    {
+      "title": "England vs India, 3rd Test",
+      "team1": "England",
+      "team2": "India",
+      "match_id": "105772",
+      "match_date": "10/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105772"
     }
   ]
 }
