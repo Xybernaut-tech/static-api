@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:48 AM 09-07-2025",
+  "last update time": "07:09 AM 09-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -40,15 +40,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123848"
     },
     {
-      "title": "Sri Lanka vs Bangladesh, 3rd ODI",
-      "team1": "Sri Lanka",
-      "team2": "Bangladesh",
-      "match_id": "118610",
-      "match_date": "8/7/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=118610"
-    },
-    {
       "title": "Guernsey vs Jersey, 5th Match",
       "team1": "Guernsey",
       "team2": "Jersey",
@@ -56,6 +47,15 @@
       "match_date": "8/7/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121725"
+    },
+    {
+      "title": "Sri Lanka vs Bangladesh, 3rd ODI",
+      "team1": "Sri Lanka",
+      "team2": "Bangladesh",
+      "match_id": "118610",
+      "match_date": "8/7/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=118610"
     },
     {
       "title": "Greece Women vs Serbia Women, 5th Match",
@@ -148,9 +148,9 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122302"
     },
     {
-      "title": "Tbc vs Tbc, 3rd place play off",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Bulgaria Women vs Serbia Women, 3rd place play off",
+      "team1": "Bulgaria Women",
+      "team2": "Serbia Women",
       "match_id": "122412",
       "match_date": "9/7/2025",
       "match_time": "11:45:00 am",
@@ -184,9 +184,9 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121736"
     },
     {
-      "title": "Tbc vs Tbc, Final",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Greece Women vs Turkey Women, Final",
+      "team1": "Greece Women",
+      "team2": "Turkey Women",
       "match_id": "122418",
       "match_date": "9/7/2025",
       "match_time": "3:45:00 pm",
@@ -238,15 +238,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=105916"
     },
     {
-      "title": "Sussex vs Kent, South Group",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "110865",
-      "match_date": "9/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
-    },
-    {
       "title": "Warwickshire vs Lancashire, North Group",
       "team1": "Warwickshire",
       "team2": "Lancashire",
@@ -256,6 +247,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=110849"
     },
     {
+      "title": "Sussex vs Kent, South Group",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "110865",
+      "match_date": "9/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
+    },
+    {
       "title": "Gloucestershire vs Surrey, South Group",
       "team1": "Gloucestershire",
       "team2": "Surrey",
@@ -263,6 +263,24 @@
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110857"
+    },
+    {
+      "title": "San Francisco Unicorns vs MI New York, Eliminator (3v4)",
+      "team1": "San Francisco Unicorns",
+      "team2": "MI New York",
+      "match_id": "117260",
+      "match_date": "10/7/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=117260"
+    },
+    {
+      "title": "Indonesia vs Philippines, 7th Match",
+      "team1": "Indonesia",
+      "team2": "Philippines",
+      "match_id": "122308",
+      "match_date": "10/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=122308"
     }
   ]
 }
