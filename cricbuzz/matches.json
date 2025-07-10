@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:43 PM 10-07-2025",
+  "last update time": "05:53 PM 10-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -11,33 +11,6 @@
       "match_date": "6/7/2025",
       "match_time": "1:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=116840"
-    },
-    {
-      "title": "Washington Freedom vs Texas Super Kings, Qualifier (1v2)",
-      "team1": "Washington Freedom",
-      "team2": "Texas Super Kings",
-      "match_id": "117251",
-      "match_date": "9/7/2025",
-      "match_time": "5:30:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117251"
-    },
-    {
-      "title": "Malawi vs Tanzania, 7th Match",
-      "team1": "Malawi",
-      "team2": "Tanzania",
-      "match_id": "123028",
-      "match_date": "9/7/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123028"
-    },
-    {
-      "title": "Ruby White Town Legends vs Genid Yanam Royals, 6th Match",
-      "team1": "Ruby White Town Legends",
-      "team2": "Genid Yanam Royals",
-      "match_id": "123864",
-      "match_date": "9/7/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123864"
     },
     {
       "title": "Italy vs Scotland, 7th Match",
@@ -247,15 +220,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110881"
     },
     {
-      "title": "Derbyshire vs Worcestershire, North Group",
-      "team1": "Derbyshire",
-      "team2": "Worcestershire",
-      "match_id": "110869",
-      "match_date": "10/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110869"
-    },
-    {
       "title": "Hampshire vs Glamorgan, South Group",
       "team1": "Hampshire",
       "team2": "Glamorgan",
@@ -263,6 +227,15 @@
       "match_date": "10/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110877"
+    },
+    {
+      "title": "Derbyshire vs Worcestershire, North Group",
+      "team1": "Derbyshire",
+      "team2": "Worcestershire",
+      "match_id": "110869",
+      "match_date": "10/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110869"
     },
     {
       "title": "Guyana Amazon Warriors vs Rangpur Riders, 2nd Match",
@@ -299,6 +272,15 @@
       "match_date": "11/7/2025",
       "match_time": "2:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121758"
+    },
+    {
+      "title": "Gibraltar vs Bulgaria, 4th Match",
+      "team1": "Gibraltar",
+      "team2": "Bulgaria",
+      "match_id": "122456",
+      "match_date": "11/7/2025",
+      "match_time": "4:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122456"
     }
   ]
 }
