@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:55 AM 10-07-2025",
+  "last update time": "11:48 AM 10-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -29,15 +29,6 @@
       "match_date": "9/7/2025",
       "match_time": "6:00:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120696"
-    },
-    {
-      "title": "Philippines vs South Korea, 5th Match",
-      "team1": "Philippines",
-      "team2": "South Korea",
-      "match_id": "122291",
-      "match_date": "9/7/2025",
-      "match_time": "7:00:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122291"
     },
     {
       "title": "Indonesia vs South Korea, 6th Match",
@@ -283,15 +274,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110881"
     },
     {
-      "title": "Hampshire vs Glamorgan, South Group",
-      "team1": "Hampshire",
-      "team2": "Glamorgan",
-      "match_id": "110877",
-      "match_date": "10/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110877"
-    },
-    {
       "title": "Derbyshire vs Worcestershire, North Group",
       "team1": "Derbyshire",
       "team2": "Worcestershire",
@@ -299,6 +281,15 @@
       "match_date": "10/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110869"
+    },
+    {
+      "title": "Hampshire vs Glamorgan, South Group",
+      "team1": "Hampshire",
+      "team2": "Glamorgan",
+      "match_id": "110877",
+      "match_date": "10/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110877"
     },
     {
       "title": "Guyana Amazon Warriors vs Rangpur Riders, 2nd Match",
