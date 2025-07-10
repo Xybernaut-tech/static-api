@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:50 PM 10-07-2025",
+  "last update time": "06:09 PM 10-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -11,33 +11,6 @@
       "match_date": "6/7/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116840"
-    },
-    {
-      "title": "Malawi vs Tanzania, 7th Match",
-      "team1": "Malawi",
-      "team2": "Tanzania",
-      "match_id": "123028",
-      "match_date": "9/7/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123028"
-    },
-    {
-      "title": "Ruby White Town Legends vs Genid Yanam Royals, 6th Match",
-      "team1": "Ruby White Town Legends",
-      "team2": "Genid Yanam Royals",
-      "match_id": "123864",
-      "match_date": "9/7/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123864"
-    },
-    {
-      "title": "Italy vs Scotland, 7th Match",
-      "team1": "Italy",
-      "team2": "Scotland",
-      "match_id": "121736",
-      "match_date": "9/7/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121736"
     },
     {
       "title": "Greece Women vs Turkey Women, Final",
@@ -94,15 +67,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=105916"
     },
     {
-      "title": "Sussex vs Kent, South Group",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "110865",
-      "match_date": "9/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
-    },
-    {
       "title": "Gloucestershire vs Surrey, South Group",
       "team1": "Gloucestershire",
       "team2": "Surrey",
@@ -119,6 +83,15 @@
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110849"
+    },
+    {
+      "title": "Sussex vs Kent, South Group",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "110865",
+      "match_date": "9/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110865"
     },
     {
       "title": "San Francisco Unicorns vs MI New York, Eliminator (3v4)",
@@ -238,15 +211,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=110881"
     },
     {
-      "title": "Hampshire vs Glamorgan, South Group",
-      "team1": "Hampshire",
-      "team2": "Glamorgan",
-      "match_id": "110877",
-      "match_date": "10/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110877"
-    },
-    {
       "title": "Derbyshire vs Worcestershire, North Group",
       "team1": "Derbyshire",
       "team2": "Worcestershire",
@@ -254,6 +218,15 @@
       "match_date": "10/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110869"
+    },
+    {
+      "title": "Hampshire vs Glamorgan, South Group",
+      "team1": "Hampshire",
+      "team2": "Glamorgan",
+      "match_id": "110877",
+      "match_date": "10/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110877"
     },
     {
       "title": "Guyana Amazon Warriors vs Rangpur Riders, 2nd Match",
@@ -290,6 +263,24 @@
       "match_date": "11/7/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121758"
+    },
+    {
+      "title": "Gibraltar vs Bulgaria, 4th Match",
+      "team1": "Gibraltar",
+      "team2": "Bulgaria",
+      "match_id": "122456",
+      "match_date": "11/7/2025",
+      "match_time": "4:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=122456"
+    },
+    {
+      "title": "Mahe Megalo Strikers vs Ruby White Town Legends, 11th Match",
+      "team1": "Mahe Megalo Strikers",
+      "team2": "Ruby White Town Legends",
+      "match_id": "123908",
+      "match_date": "11/7/2025",
+      "match_time": "6:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123908"
     }
   ]
 }
