@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:47 PM 10-07-2025",
+  "last update time": "03:43 PM 10-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -20,33 +20,6 @@
       "match_date": "9/7/2025",
       "match_time": "5:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117251"
-    },
-    {
-      "title": "Australia A vs Sri Lanka A, 3rd unofficial ODI",
-      "team1": "Australia A",
-      "team2": "Sri Lanka A",
-      "match_id": "120696",
-      "match_date": "9/7/2025",
-      "match_time": "6:00:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120696"
-    },
-    {
-      "title": "Indonesia vs South Korea, 6th Match",
-      "team1": "Indonesia",
-      "team2": "South Korea",
-      "match_id": "122302",
-      "match_date": "9/7/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122302"
-    },
-    {
-      "title": "Bulgaria Women vs Serbia Women, 3rd place play off",
-      "team1": "Bulgaria Women",
-      "team2": "Serbia Women",
-      "match_id": "122412",
-      "match_date": "9/7/2025",
-      "match_time": "11:45:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122412"
     },
     {
       "title": "Malawi vs Tanzania, 7th Match",
@@ -130,15 +103,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=105916"
     },
     {
-      "title": "Gloucestershire vs Surrey, South Group",
-      "team1": "Gloucestershire",
-      "team2": "Surrey",
-      "match_id": "110857",
-      "match_date": "9/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110857"
-    },
-    {
       "title": "Warwickshire vs Lancashire, North Group",
       "team1": "Warwickshire",
       "team2": "Lancashire",
@@ -155,6 +119,15 @@
       "match_date": "9/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110865"
+    },
+    {
+      "title": "Gloucestershire vs Surrey, South Group",
+      "team1": "Gloucestershire",
+      "team2": "Surrey",
+      "match_id": "110857",
+      "match_date": "9/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110857"
     },
     {
       "title": "San Francisco Unicorns vs MI New York, Eliminator (3v4)",
@@ -274,15 +247,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110881"
     },
     {
-      "title": "Hampshire vs Glamorgan, South Group",
-      "team1": "Hampshire",
-      "team2": "Glamorgan",
-      "match_id": "110877",
-      "match_date": "10/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110877"
-    },
-    {
       "title": "Derbyshire vs Worcestershire, North Group",
       "team1": "Derbyshire",
       "team2": "Worcestershire",
@@ -290,6 +254,15 @@
       "match_date": "10/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110869"
+    },
+    {
+      "title": "Hampshire vs Glamorgan, South Group",
+      "team1": "Hampshire",
+      "team2": "Glamorgan",
+      "match_id": "110877",
+      "match_date": "10/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110877"
     },
     {
       "title": "Guyana Amazon Warriors vs Rangpur Riders, 2nd Match",
@@ -308,6 +281,24 @@
       "match_date": "11/7/2025",
       "match_time": "12:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122451"
+    },
+    {
+      "title": "Ossudu Accord Warriors vs Genid Yanam Royals, 10th Match",
+      "team1": "Ossudu Accord Warriors",
+      "team2": "Genid Yanam Royals",
+      "match_id": "123903",
+      "match_date": "11/7/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=123903"
+    },
+    {
+      "title": "Scotland vs Jersey, 9th Match",
+      "team1": "Scotland",
+      "team2": "Jersey",
+      "match_id": "121758",
+      "match_date": "11/7/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=121758"
     }
   ]
 }
