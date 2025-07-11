@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:51 AM 11-07-2025",
+  "last update time": "09:59 AM 11-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -11,15 +11,6 @@
       "match_date": "6/7/2025",
       "match_time": "1:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=116840"
-    },
-    {
-      "title": "San Francisco Unicorns vs MI New York, Eliminator (3v4)",
-      "team1": "San Francisco Unicorns",
-      "team2": "MI New York",
-      "match_id": "117260",
-      "match_date": "10/7/2025",
-      "match_time": "5:30:00 am",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117260"
     },
     {
       "title": "Indonesia vs Philippines, 7th Match",
@@ -130,15 +121,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110881"
     },
     {
-      "title": "Hampshire vs Glamorgan, South Group",
-      "team1": "Hampshire",
-      "team2": "Glamorgan",
-      "match_id": "110877",
-      "match_date": "10/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110877"
-    },
-    {
       "title": "Derbyshire vs Worcestershire, North Group",
       "team1": "Derbyshire",
       "team2": "Worcestershire",
@@ -146,6 +128,15 @@
       "match_date": "10/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110869"
+    },
+    {
+      "title": "Hampshire vs Glamorgan, South Group",
+      "team1": "Hampshire",
+      "team2": "Glamorgan",
+      "match_id": "110877",
+      "match_date": "10/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110877"
     },
     {
       "title": "Guyana Amazon Warriors vs Rangpur Riders, 2nd Match",
@@ -247,15 +238,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110925"
     },
     {
-      "title": "Kent vs Somerset, South Group",
-      "team1": "Kent",
-      "team2": "Somerset",
-      "match_id": "110889",
-      "match_date": "11/7/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110889"
-    },
-    {
       "title": "Nottinghamshire vs Durham, North Group",
       "team1": "Nottinghamshire",
       "team2": "Durham",
@@ -272,6 +254,15 @@
       "match_date": "11/7/2025",
       "match_time": "11:00:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110909"
+    },
+    {
+      "title": "Kent vs Somerset, South Group",
+      "team1": "Kent",
+      "team2": "Somerset",
+      "match_id": "110889",
+      "match_date": "11/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110889"
     },
     {
       "title": "Essex vs Sussex, South Group",
