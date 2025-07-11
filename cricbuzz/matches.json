@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:30 AM 11-07-2025",
+  "last update time": "08:51 AM 11-07-2025",
   "matches": [
     {
       "title": "Zimbabwe vs South Africa, 2nd Test",
@@ -130,15 +130,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110881"
     },
     {
-      "title": "Derbyshire vs Worcestershire, North Group",
-      "team1": "Derbyshire",
-      "team2": "Worcestershire",
-      "match_id": "110869",
-      "match_date": "10/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110869"
-    },
-    {
       "title": "Hampshire vs Glamorgan, South Group",
       "team1": "Hampshire",
       "team2": "Glamorgan",
@@ -146,6 +137,15 @@
       "match_date": "10/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110877"
+    },
+    {
+      "title": "Derbyshire vs Worcestershire, North Group",
+      "team1": "Derbyshire",
+      "team2": "Worcestershire",
+      "match_id": "110869",
+      "match_date": "10/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110869"
     },
     {
       "title": "Guyana Amazon Warriors vs Rangpur Riders, 2nd Match",
@@ -238,24 +238,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110933"
     },
     {
-      "title": "Northamptonshire vs Derbyshire, North Group",
-      "team1": "Northamptonshire",
-      "team2": "Derbyshire",
-      "match_id": "110909",
-      "match_date": "11/7/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110909"
-    },
-    {
-      "title": "Nottinghamshire vs Durham, North Group",
-      "team1": "Nottinghamshire",
-      "team2": "Durham",
-      "match_id": "110917",
-      "match_date": "11/7/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110917"
-    },
-    {
       "title": "Surrey vs Glamorgan, South Group",
       "team1": "Surrey",
       "team2": "Glamorgan",
@@ -274,13 +256,22 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110889"
     },
     {
-      "title": "Lancashire vs Yorkshire, North Group",
-      "team1": "Lancashire",
-      "team2": "Yorkshire",
-      "match_id": "110893",
+      "title": "Nottinghamshire vs Durham, North Group",
+      "team1": "Nottinghamshire",
+      "team2": "Durham",
+      "match_id": "110917",
       "match_date": "11/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110893"
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110917"
+    },
+    {
+      "title": "Northamptonshire vs Derbyshire, North Group",
+      "team1": "Northamptonshire",
+      "team2": "Derbyshire",
+      "match_id": "110909",
+      "match_date": "11/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110909"
     },
     {
       "title": "Essex vs Sussex, South Group",
@@ -292,6 +283,15 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110885"
     },
     {
+      "title": "Lancashire vs Yorkshire, North Group",
+      "team1": "Lancashire",
+      "team2": "Yorkshire",
+      "match_id": "110893",
+      "match_date": "11/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110893"
+    },
+    {
       "title": "Guyana Amazon Warriors vs Central Districts, 4th Match",
       "team1": "Guyana Amazon Warriors",
       "team2": "Central Districts",
@@ -301,13 +301,22 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=119477"
     },
     {
-      "title": "Texas Super Kings vs Mi New York, Challenger (Loser of Q v Winner of E)",
+      "title": "Texas Super Kings vs MI New York, Challenger (Loser of Q v Winner of E)",
       "team1": "Texas Super Kings",
-      "team2": "Mi New York",
+      "team2": "MI New York",
       "match_id": "117263",
       "match_date": "12/7/2025",
       "match_time": "5:30:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=117263"
+    },
+    {
+      "title": "Indonesia vs South Korea, 9th Match",
+      "team1": "Indonesia",
+      "team2": "South Korea",
+      "match_id": "122324",
+      "match_date": "12/7/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=122324"
     }
   ]
 }
