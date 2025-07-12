@@ -1,7 +1,7 @@
 {
   "name": "Cricbuzz Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:41 AM 12-07-2025",
+  "last update time": "06:31 AM 12-07-2025",
   "matches": [
     {
       "title": "England vs India, 3rd Test",
@@ -103,15 +103,6 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110933"
     },
     {
-      "title": "Nottinghamshire vs Durham, North Group",
-      "team1": "Nottinghamshire",
-      "team2": "Durham",
-      "match_id": "110917",
-      "match_date": "11/7/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110917"
-    },
-    {
       "title": "Northamptonshire vs Derbyshire, North Group",
       "team1": "Northamptonshire",
       "team2": "Derbyshire",
@@ -139,13 +130,13 @@
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110889"
     },
     {
-      "title": "Essex vs Sussex, South Group",
-      "team1": "Essex",
-      "team2": "Sussex",
-      "match_id": "110885",
+      "title": "Nottinghamshire vs Durham, North Group",
+      "team1": "Nottinghamshire",
+      "team2": "Durham",
+      "match_id": "110917",
       "match_date": "11/7/2025",
-      "match_time": "11:30:00 pm",
-      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110885"
+      "match_time": "11:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110917"
     },
     {
       "title": "Lancashire vs Yorkshire, North Group",
@@ -155,6 +146,15 @@
       "match_date": "11/7/2025",
       "match_time": "11:30:00 pm",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110893"
+    },
+    {
+      "title": "Essex vs Sussex, South Group",
+      "team1": "Essex",
+      "team2": "Sussex",
+      "match_id": "110885",
+      "match_date": "11/7/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=110885"
     },
     {
       "title": "Guyana Amazon Warriors vs Central Districts, 4th Match",
@@ -272,6 +272,15 @@
       "match_date": "13/7/2025",
       "match_time": "12:00:00 am",
       "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=114600"
+    },
+    {
+      "title": "Australia A vs Sri Lanka A, 1st Unofficial Test",
+      "team1": "Australia A",
+      "team2": "Sri Lanka A",
+      "match_id": "120707",
+      "match_date": "13/7/2025",
+      "match_time": "6:00:00 pm",
+      "details": "https://cricdynasty.onrender.com/cricbuzz/match.php?id=120707"
     }
   ]
 }
