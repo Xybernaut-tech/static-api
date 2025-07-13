@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:50 PM 13-07-2025",
+  "last update time": "06:06 PM 13-07-2025",
   "matches": [
     {
       "title": "England vs India, 3rd Test",
@@ -11,33 +11,6 @@
       "match_date": "10/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105772"
-    },
-    {
-      "title": "Turkey vs Bulgaria, 5th Match",
-      "team1": "Turkey",
-      "team2": "Bulgaria",
-      "match_id": "122467",
-      "match_date": "12/7/2025",
-      "match_time": "12:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=122467"
-    },
-    {
-      "title": "Malawi vs Bahrain, 11th Match",
-      "team1": "Malawi",
-      "team2": "Bahrain",
-      "match_id": "123050",
-      "match_date": "12/7/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123050"
-    },
-    {
-      "title": "Ruby White Town Legends vs Karaikal Kniights, 12th Match",
-      "team1": "Ruby White Town Legends",
-      "team2": "Karaikal Kniights",
-      "match_id": "123919",
-      "match_date": "12/7/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123919"
     },
     {
       "title": "England U19 vs India U19, 1st Youth Test",
@@ -121,18 +94,18 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122357"
     },
     {
-      "title": "Tbc vs Tbc, Final",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Gibraltar vs Bulgaria, Final",
+      "team1": "Gibraltar",
+      "team2": "Bulgaria",
       "match_id": "122489",
       "match_date": "13/7/2025",
       "match_time": "12:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=122489"
     },
     {
-      "title": "Tbc vs Tbc, 3rd Place Play off",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Malawi vs Germany, 3rd Place Play off",
+      "team1": "Malawi",
+      "team2": "Germany",
       "match_id": "123061",
       "match_date": "13/7/2025",
       "match_time": "1:00:00 pm",
@@ -148,9 +121,9 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123936"
     },
     {
-      "title": "Tbc vs Tbc, Final",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Bahrain vs Tanzania, Final",
+      "team1": "Bahrain",
+      "team2": "Tanzania",
       "match_id": "123067",
       "match_date": "13/7/2025",
       "match_time": "5:15:00 pm",
@@ -166,15 +139,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123941"
     },
     {
-      "title": "Sri Lanka vs Bangladesh, 2nd T20I",
-      "team1": "Sri Lanka",
-      "team2": "Bangladesh",
-      "match_id": "118628",
-      "match_date": "13/7/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=118628"
-    },
-    {
       "title": "Worcestershire vs Leicestershire, North Group",
       "team1": "Worcestershire",
       "team2": "Leicestershire",
@@ -182,6 +146,15 @@
       "match_date": "13/7/2025",
       "match_time": "7:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110977"
+    },
+    {
+      "title": "Sri Lanka vs Bangladesh, 2nd T20I",
+      "team1": "Sri Lanka",
+      "team2": "Bangladesh",
+      "match_id": "118628",
+      "match_date": "13/7/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=118628"
     },
     {
       "title": "Hobart Hurricanes vs Rangpur Riders, 5th Match",
@@ -211,15 +184,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=110937"
     },
     {
-      "title": "Hampshire vs Sussex, South Group",
-      "team1": "Hampshire",
-      "team2": "Sussex",
-      "match_id": "110949",
-      "match_date": "13/7/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=110949"
-    },
-    {
       "title": "Glamorgan vs Gloucestershire, South Group",
       "team1": "Glamorgan",
       "team2": "Gloucestershire",
@@ -236,6 +200,15 @@
       "match_date": "13/7/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=110985"
+    },
+    {
+      "title": "Hampshire vs Sussex, South Group",
+      "team1": "Hampshire",
+      "team2": "Sussex",
+      "match_id": "110949",
+      "match_date": "13/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110949"
     },
     {
       "title": "Surrey vs Somerset, South Group",
@@ -272,6 +245,15 @@
       "match_date": "14/7/2025",
       "match_time": "5:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=117272"
+    },
+    {
+      "title": "Zimbabwe vs South Africa, 1st Match",
+      "team1": "Zimbabwe",
+      "team2": "South Africa",
+      "match_id": "116864",
+      "match_date": "14/7/2025",
+      "match_time": "4:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116864"
     }
   ]
 }
