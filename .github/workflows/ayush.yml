@@ -29,5 +29,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add assets/ayush.svg
-          git commit -m "Update GitHub stats SVG [skip ci]" || echo "No changes to commit"
+          git commit -m "Update GitHub stats SVG" || echo "No changes to commit"
           git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }} || echo "Push failed"
