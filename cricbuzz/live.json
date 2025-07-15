@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:10 PM 15-07-2025",
+  "last update time": "07:48 PM 15-07-2025",
   "matches": [
     {
       "title": "England vs India, 3rd Test",
@@ -38,15 +38,6 @@
       "match_date": "13/7/2025",
       "match_time": "6:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=120707"
-    },
-    {
-      "title": "Washington Freedom vs MI New York, Final",
-      "team1": "Washington Freedom",
-      "team2": "MI New York",
-      "match_id": "117272",
-      "match_date": "14/7/2025",
-      "match_time": "5:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=117272"
     },
     {
       "title": "Zimbabwe vs South Africa, 1st Match",
@@ -128,6 +119,24 @@
       "match_date": "16/7/2025",
       "match_time": "6:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123969"
+    },
+    {
+      "title": "Sri Lanka vs Bangladesh, 3rd T20I",
+      "team1": "Sri Lanka",
+      "team2": "Bangladesh",
+      "match_id": "118637",
+      "match_date": "16/7/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=118637"
+    },
+    {
+      "title": "Dubai Capitals vs Rangpur Riders, 8th Match",
+      "team1": "Dubai Capitals",
+      "team2": "Rangpur Riders",
+      "match_id": "119504",
+      "match_date": "16/7/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=119504"
     }
   ]
 }
