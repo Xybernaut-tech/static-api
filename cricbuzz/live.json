@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:00 PM 15-07-2025",
+  "last update time": "01:56 PM 15-07-2025",
   "matches": [
     {
       "title": "England vs India, 3rd Test",
@@ -74,6 +74,15 @@
       "match_date": "15/7/2025",
       "match_time": "6:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123958"
+    },
+    {
+      "title": "Durham vs Leicestershire, North Group",
+      "team1": "Durham",
+      "team2": "Leicestershire",
+      "match_id": "110989",
+      "match_date": "15/7/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=110989"
     },
     {
       "title": "Central Districts vs Hobart Hurricanes, 7th Match",
