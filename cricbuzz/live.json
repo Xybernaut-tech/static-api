@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:00 PM 17-07-2025",
+  "last update time": "01:57 PM 17-07-2025",
   "matches": [
     {
       "title": "West Indies vs Australia, 3rd Test",
@@ -11,15 +11,6 @@
       "match_date": "13/7/2025",
       "match_time": "12:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=114600"
-    },
-    {
-      "title": "Australia A vs Sri Lanka A, 1st Unofficial Test",
-      "team1": "Australia A",
-      "team2": "Sri Lanka A",
-      "match_id": "120707",
-      "match_date": "13/7/2025",
-      "match_time": "6:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=120707"
     },
     {
       "title": "Villianur Mohit Kings vs Mahe Megalo Strikers, 18th Match",
@@ -182,6 +173,15 @@
       "match_date": "18/7/2025",
       "match_time": "11:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=127142"
+    },
+    {
+      "title": "Uganda vs Nigeria, 2nd Match",
+      "team1": "Uganda",
+      "team2": "Nigeria",
+      "match_id": "127038",
+      "match_date": "18/7/2025",
+      "match_time": "12:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=127038"
     }
   ]
 }
