@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:07 PM 20-07-2025",
+  "last update time": "07:47 PM 20-07-2025",
   "matches": [
     {
       "title": "England Women vs India Women, 2nd ODI",
@@ -11,15 +11,6 @@
       "match_date": "19/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105938"
-    },
-    {
-      "title": "Finland Women vs Switzerland Women, 4th Match",
-      "team1": "Finland Women",
-      "team2": "Switzerland Women",
-      "match_id": "127340",
-      "match_date": "19/7/2025",
-      "match_time": "4:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127340"
     },
     {
       "title": "Uganda vs United Arab Emirates, 4th Match",
@@ -67,15 +58,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=127351"
     },
     {
-      "title": "Qatar vs Saudi Arabia, 2nd Match",
-      "team1": "Qatar",
-      "team2": "Saudi Arabia",
-      "match_id": "127258",
-      "match_date": "19/7/2025",
-      "match_time": "9:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127258"
-    },
-    {
       "title": "England Champions vs Australia Champions, 3rd Match",
       "team1": "England Champions",
       "team2": "Australia Champions",
@@ -83,6 +65,15 @@
       "match_date": "19/7/2025",
       "match_time": "9:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=125113"
+    },
+    {
+      "title": "Qatar vs Saudi Arabia, 2nd Match",
+      "team1": "Qatar",
+      "team2": "Saudi Arabia",
+      "match_id": "127258",
+      "match_date": "19/7/2025",
+      "match_time": "9:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=127258"
     },
     {
       "title": "Australia A vs Sri Lanka A, 2nd Unofficial Test",
