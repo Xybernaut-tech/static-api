@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:48 AM 20-07-2025",
+  "last update time": "07:20 AM 20-07-2025",
   "matches": [
     {
       "title": "Guyana Amazon Warriors vs Rangpur Riders, Final",
@@ -121,15 +121,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=127351"
     },
     {
-      "title": "England Champions vs Australia Champions, 3rd Match",
-      "team1": "England Champions",
-      "team2": "Australia Champions",
-      "match_id": "125113",
-      "match_date": "19/7/2025",
-      "match_time": "9:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=125113"
-    },
-    {
       "title": "Qatar vs Saudi Arabia, 2nd Match",
       "team1": "Qatar",
       "team2": "Saudi Arabia",
@@ -137,6 +128,15 @@
       "match_date": "19/7/2025",
       "match_time": "9:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=127258"
+    },
+    {
+      "title": "England Champions vs Australia Champions, 3rd Match",
+      "team1": "England Champions",
+      "team2": "Australia Champions",
+      "match_id": "125113",
+      "match_date": "19/7/2025",
+      "match_time": "9:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=125113"
     },
     {
       "title": "Australia A vs Sri Lanka A, 2nd Unofficial Test",
@@ -184,15 +184,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=127522"
     },
     {
-      "title": "Botswana Women vs Eswatini Women, 2nd Match, Group B",
-      "team1": "Botswana Women",
-      "team2": "Eswatini Women",
-      "match_id": "123485",
-      "match_date": "20/7/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123485"
-    },
-    {
       "title": "Rwanda Women vs Lesotho Women, 1st Match, Group A",
       "team1": "Rwanda Women",
       "team2": "Lesotho Women",
@@ -200,6 +191,15 @@
       "match_date": "20/7/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123479"
+    },
+    {
+      "title": "Botswana Women vs Eswatini Women, 2nd Match, Group B",
+      "team1": "Botswana Women",
+      "team2": "Eswatini Women",
+      "match_id": "123485",
+      "match_date": "20/7/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123485"
     },
     {
       "title": "Villianur Mohit Kings vs Ruby White Town Legends, 25th Match",
@@ -247,15 +247,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=127527"
     },
     {
-      "title": "Malawi Women vs Cameroon Women, 3rd Match, Group A",
-      "team1": "Malawi Women",
-      "team2": "Cameroon Women",
-      "match_id": "123490",
-      "match_date": "20/7/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123490"
-    },
-    {
       "title": "Mozambique Women vs Sierra Leone Women, 4th Match, Group B",
       "team1": "Mozambique Women",
       "team2": "Sierra Leone Women",
@@ -263,6 +254,15 @@
       "match_date": "20/7/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123501"
+    },
+    {
+      "title": "Malawi Women vs Cameroon Women, 3rd Match, Group A",
+      "team1": "Malawi Women",
+      "team2": "Cameroon Women",
+      "match_id": "123490",
+      "match_date": "20/7/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123490"
     },
     {
       "title": "Bangladesh vs Pakistan, 1st T20I",
@@ -299,6 +299,15 @@
       "match_date": "20/7/2025",
       "match_time": "9:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=125124"
+    },
+    {
+      "title": "West Indies vs Australia, 1st T20I",
+      "team1": "West Indies",
+      "team2": "Australia",
+      "match_id": "114607",
+      "match_date": "21/7/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114607"
     }
   ]
 }
