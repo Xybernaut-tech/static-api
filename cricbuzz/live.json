@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:12 AM 21-07-2025",
+  "last update time": "12:00 PM 21-07-2025",
   "matches": [
     {
       "title": "Australia A vs Sri Lanka A, 2nd Unofficial Test",
@@ -40,15 +40,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=127522"
     },
     {
-      "title": "Botswana Women vs Eswatini Women, 2nd Match, Group B",
-      "team1": "Botswana Women",
-      "team2": "Eswatini Women",
-      "match_id": "123485",
-      "match_date": "20/7/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123485"
-    },
-    {
       "title": "Rwanda Women vs Lesotho Women, 1st Match, Group A",
       "team1": "Rwanda Women",
       "team2": "Lesotho Women",
@@ -56,6 +47,15 @@
       "match_date": "20/7/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123479"
+    },
+    {
+      "title": "Botswana Women vs Eswatini Women, 2nd Match, Group B",
+      "team1": "Botswana Women",
+      "team2": "Eswatini Women",
+      "match_id": "123485",
+      "match_date": "20/7/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123485"
     },
     {
       "title": "Villianur Mohit Kings vs Ruby White Town Legends, 25th Match",
@@ -103,15 +103,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=127527"
     },
     {
-      "title": "Mozambique Women vs Sierra Leone Women, 4th Match, Group B",
-      "team1": "Mozambique Women",
-      "team2": "Sierra Leone Women",
-      "match_id": "123501",
-      "match_date": "20/7/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123501"
-    },
-    {
       "title": "Malawi Women vs Cameroon Women, 3rd Match, Group A",
       "team1": "Malawi Women",
       "team2": "Cameroon Women",
@@ -119,6 +110,15 @@
       "match_date": "20/7/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123490"
+    },
+    {
+      "title": "Mozambique Women vs Sierra Leone Women, 4th Match, Group B",
+      "team1": "Mozambique Women",
+      "team2": "Sierra Leone Women",
+      "match_id": "123501",
+      "match_date": "20/7/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123501"
     },
     {
       "title": "Bangladesh vs Pakistan, 1st T20I",
@@ -171,17 +171,8 @@
       "team2": "United Arab Emirates",
       "match_id": "127065",
       "match_date": "21/7/2025",
-      "match_time": "12:30:00 pm",
+      "match_time": "12:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=127065"
-    },
-    {
-      "title": "Botswana Women vs Mozambique Women, 5th Match, Group B",
-      "team1": "Botswana Women",
-      "team2": "Mozambique Women",
-      "match_id": "123507",
-      "match_date": "21/7/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123507"
     },
     {
       "title": "Rwanda Women vs Malawi Women, 6th Match, Group A",
@@ -191,6 +182,15 @@
       "match_date": "21/7/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123518"
+    },
+    {
+      "title": "Botswana Women vs Mozambique Women, 5th Match, Group B",
+      "team1": "Botswana Women",
+      "team2": "Mozambique Women",
+      "match_id": "123507",
+      "match_date": "21/7/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123507"
     },
     {
       "title": "Karaikal Kniights vs Ossudu Accord Warriors, 27th Match",
@@ -254,6 +254,15 @@
       "match_date": "22/7/2025",
       "match_time": "6:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=127186"
+    },
+    {
+      "title": "Singapore vs Samoa, 8th Match",
+      "team1": "Singapore",
+      "team2": "Samoa",
+      "match_id": "127192",
+      "match_date": "22/7/2025",
+      "match_time": "11:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=127192"
     }
   ]
 }
