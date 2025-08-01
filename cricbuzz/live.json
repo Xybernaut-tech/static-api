@@ -1,367 +1,133 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:49 AM 01-08-2025",
+  "last update time": "07:24 AM 01-08-2025",
   "matches": [
     {
-      "title": "Australia A vs Sri Lanka A, 2nd Unofficial Test",
-      "team1": "Australia A",
-      "team2": "Sri Lanka A",
-      "match_id": "120713",
-      "match_date": "20/7/2025",
-      "match_time": "6:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=120713"
-    },
-    {
-      "title": "England U19 vs India U19, 2nd Youth Test",
-      "team1": "England U19",
-      "team2": "India U19",
-      "match_id": "119573",
-      "match_date": "20/7/2025",
+      "title": "Northamptonshire vs Derbyshire, 41st Match",
+      "team1": "Northamptonshire",
+      "team2": "Derbyshire",
+      "match_id": "113571",
+      "match_date": "29/7/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=119573"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113571"
     },
     {
-      "title": "Hong Kong vs Malaysia, 7th Match",
-      "team1": "Hong Kong",
-      "team2": "Malaysia",
-      "match_id": "127186",
-      "match_date": "22/7/2025",
-      "match_time": "6:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127186"
-    },
-    {
-      "title": "Singapore vs Samoa, 8th Match",
-      "team1": "Singapore",
-      "team2": "Samoa",
-      "match_id": "127192",
-      "match_date": "22/7/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127192"
-    },
-    {
-      "title": "Rwanda vs Malawi, 6th Match",
-      "team1": "Rwanda",
-      "team2": "Malawi",
-      "match_id": "127533",
-      "match_date": "22/7/2025",
-      "match_time": "12:45:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127533"
-    },
-    {
-      "title": "Ossudu Accord Warriors vs Mahe Megalo Strikers, 29th Match",
-      "team1": "Ossudu Accord Warriors",
-      "team2": "Mahe Megalo Strikers",
-      "match_id": "124062",
-      "match_date": "22/7/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124062"
-    },
-    {
-      "title": "Glamorgan vs Kent, 37th Match",
-      "team1": "Glamorgan",
-      "team2": "Kent",
-      "match_id": "113541",
-      "match_date": "22/7/2025",
+      "title": "Lancashire vs Glamorgan, 43rd Match",
+      "team1": "Lancashire",
+      "team2": "Glamorgan",
+      "match_id": "113589",
+      "match_date": "29/7/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113541"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113589"
     },
     {
-      "title": "Middlesex vs Northamptonshire, 38th Match",
-      "team1": "Middlesex",
-      "team2": "Northamptonshire",
-      "match_id": "113550",
-      "match_date": "22/7/2025",
+      "title": "Worcestershire vs Hampshire, 54th Match",
+      "team1": "Worcestershire",
+      "team2": "Hampshire",
+      "match_id": "113181",
+      "match_date": "29/7/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113550"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113181"
     },
     {
-      "title": "Sussex vs Essex, 48th Match",
-      "team1": "Sussex",
-      "team2": "Essex",
-      "match_id": "113145",
-      "match_date": "22/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113145"
-    },
-    {
-      "title": "Gloucestershire vs Lancashire, 40th Match",
-      "team1": "Gloucestershire",
-      "team2": "Lancashire",
-      "match_id": "113568",
-      "match_date": "22/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113568"
-    },
-    {
-      "title": "Warwickshire vs Worcestershire, 50th Match",
-      "team1": "Warwickshire",
-      "team2": "Worcestershire",
-      "match_id": "113157",
-      "match_date": "22/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113157"
-    },
-    {
-      "title": "Derbyshire vs Leicestershire, 39th Match",
-      "team1": "Derbyshire",
-      "team2": "Leicestershire",
-      "match_id": "113559",
-      "match_date": "22/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113559"
-    },
-    {
-      "title": "Hampshire vs Nottinghamshire, 47th Match",
-      "team1": "Hampshire",
-      "team2": "Nottinghamshire",
-      "match_id": "113136",
-      "match_date": "22/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113136"
-    },
-    {
-      "title": "Somerset vs Durham, 46th Match",
-      "team1": "Somerset",
-      "team2": "Durham",
-      "match_id": "113130",
-      "match_date": "22/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113130"
-    },
-    {
-      "title": "Yorkshire vs Surrey, 49th Match",
+      "title": "Yorkshire vs Sussex, 53rd Match",
       "team1": "Yorkshire",
-      "team2": "Surrey",
-      "match_id": "113148",
-      "match_date": "22/7/2025",
+      "team2": "Sussex",
+      "match_id": "113175",
+      "match_date": "29/7/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113148"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113175"
     },
     {
-      "title": "Uganda vs Nigeria, 7th Match",
-      "team1": "Uganda",
-      "team2": "Nigeria",
-      "match_id": "127082",
-      "match_date": "22/7/2025",
-      "match_time": "4:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127082"
+      "title": "Durham vs Surrey, 51st Match",
+      "team1": "Durham",
+      "team2": "Surrey",
+      "match_id": "113163",
+      "match_date": "29/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113163"
     },
     {
-      "title": "New Zealand vs South Africa, 5th Match",
-      "team1": "New Zealand",
-      "team2": "South Africa",
-      "match_id": "116891",
-      "match_date": "22/7/2025",
-      "match_time": "4:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116891"
+      "title": "Essex vs Warwickshire, 52nd Match",
+      "team1": "Essex",
+      "team2": "Warwickshire",
+      "match_id": "113166",
+      "match_date": "29/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113166"
     },
     {
-      "title": "England Champions vs West Indies Champions, 5th Match",
-      "team1": "England Champions",
-      "team2": "West Indies Champions",
-      "match_id": "125135",
-      "match_date": "22/7/2025",
-      "match_time": "5:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=125135"
+      "title": "Gloucestershire vs Middlesex, 42nd Match",
+      "team1": "Gloucestershire",
+      "team2": "Middlesex",
+      "match_id": "113580",
+      "match_date": "29/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113580"
     },
     {
-      "title": "Rwanda vs Bahrain, 7th Match",
-      "team1": "Rwanda",
-      "team2": "Bahrain",
-      "match_id": "127544",
-      "match_date": "22/7/2025",
-      "match_time": "5:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127544"
+      "title": "Kent vs Leicestershire, 44th Match",
+      "team1": "Kent",
+      "team2": "Leicestershire",
+      "match_id": "113598",
+      "match_date": "29/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113598"
     },
     {
-      "title": "Bangladesh vs Pakistan, 2nd T20I",
-      "team1": "Bangladesh",
-      "team2": "Pakistan",
-      "match_id": "122880",
-      "match_date": "22/7/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=122880"
+      "title": "Nottinghamshire vs Somerset, 55th Match",
+      "team1": "Nottinghamshire",
+      "team2": "Somerset",
+      "match_id": "113190",
+      "match_date": "29/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113190"
     },
     {
-      "title": "England Women vs India Women, 3rd ODI",
-      "team1": "England Women",
-      "team2": "India Women",
-      "match_id": "105946",
-      "match_date": "22/7/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=105946"
+      "title": "Zimbabwe vs New Zealand, 1st Test",
+      "team1": "Zimbabwe",
+      "team2": "New Zealand",
+      "match_id": "116849",
+      "match_date": "30/7/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116849"
     },
     {
-      "title": "Karaikal Kniights vs Villianur Mohit Kings, 30th Match",
-      "team1": "Karaikal Kniights",
-      "team2": "Villianur Mohit Kings",
-      "match_id": "124073",
-      "match_date": "22/7/2025",
-      "match_time": "6:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124073"
-    },
-    {
-      "title": "Ireland Women vs Zimbabwe Women, 2nd T20I",
-      "team1": "Ireland Women",
-      "team2": "Zimbabwe Women",
-      "match_id": "121076",
-      "match_date": "22/7/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121076"
-    },
-    {
-      "title": "Qatar vs Saudi Arabia, 4th Match",
-      "team1": "Qatar",
-      "team2": "Saudi Arabia",
-      "match_id": "127274",
-      "match_date": "22/7/2025",
-      "match_time": "9:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127274"
-    },
-    {
-      "title": "India Champions vs South Africa Champions, 6th Match",
-      "team1": "India Champions",
-      "team2": "South Africa Champions",
-      "match_id": "125146",
-      "match_date": "22/7/2025",
-      "match_time": "9:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=125146"
-    },
-    {
-      "title": "West Indies vs Australia, 2nd T20I",
-      "team1": "West Indies",
-      "team2": "Australia",
-      "match_id": "114616",
-      "match_date": "23/7/2025",
-      "match_time": "5:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114616"
-    },
-    {
-      "title": "Hong Kong vs Samoa, 9th Match",
-      "team1": "Hong Kong",
-      "team2": "Samoa",
-      "match_id": "127203",
-      "match_date": "23/7/2025",
-      "match_time": "6:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127203"
-    },
-    {
-      "title": "Singapore vs Malaysia, 10th Match",
-      "team1": "Singapore",
-      "team2": "Malaysia",
-      "match_id": "127208",
-      "match_date": "23/7/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127208"
-    },
-    {
-      "title": "Kenya vs United Arab Emirates, 8th Match",
-      "team1": "Kenya",
-      "team2": "United Arab Emirates",
-      "match_id": "127087",
-      "match_date": "23/7/2025",
-      "match_time": "12:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127087"
-    },
-    {
-      "title": "Rwanda vs Malawi, 8th Match",
-      "team1": "Rwanda",
-      "team2": "Malawi",
-      "match_id": "127555",
-      "match_date": "23/7/2025",
-      "match_time": "12:45:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127555"
-    },
-    {
-      "title": "Eswatini Women vs Mozambique Women, 10th Match, Group B",
-      "team1": "Eswatini Women",
-      "team2": "Mozambique Women",
-      "match_id": "123556",
-      "match_date": "23/7/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123556"
-    },
-    {
-      "title": "Malawi Women vs Lesotho Women, 9th Match, Group A",
-      "team1": "Malawi Women",
-      "team2": "Lesotho Women",
-      "match_id": "123545",
-      "match_date": "23/7/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123545"
-    },
-    {
-      "title": "England vs India, 4th Test",
+      "title": "England vs India, 5th Test",
       "team1": "England",
       "team2": "India",
-      "match_id": "105778",
-      "match_date": "23/7/2025",
+      "match_id": "105780",
+      "match_date": "31/7/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=105778"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=105780"
     },
     {
-      "title": "Bahrain vs Malawi, 9th Match",
-      "team1": "Bahrain",
-      "team2": "Malawi",
-      "match_id": "127566",
-      "match_date": "23/7/2025",
-      "match_time": "5:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127566"
+      "title": "Pakistan Champions vs India Champions, 1st Semi Final",
+      "team1": "Pakistan Champions",
+      "team2": "India Champions",
+      "match_id": "125228",
+      "match_date": "31/7/2025",
+      "match_time": "5:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=125228"
     },
     {
-      "title": "Botswana Women vs Sierra Leone Women, 11th Match, Group B",
-      "team1": "Botswana Women",
-      "team2": "Sierra Leone Women",
-      "match_id": "123562",
-      "match_date": "23/7/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123562"
-    },
-    {
-      "title": "Rwanda Women vs Cameroon Women, 12th Match, Group A",
-      "team1": "Rwanda Women",
-      "team2": "Cameroon Women",
-      "match_id": "123567",
-      "match_date": "23/7/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123567"
-    },
-    {
-      "title": "Ireland Women vs Zimbabwe Women, 3rd T20I",
-      "team1": "Ireland Women",
-      "team2": "Zimbabwe Women",
-      "match_id": "121087",
-      "match_date": "23/7/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121087"
-    },
-    {
-      "title": "Australia Champions vs West Indies Champions, 7th Match",
-      "team1": "Australia Champions",
-      "team2": "West Indies Champions",
-      "match_id": "125157",
-      "match_date": "23/7/2025",
+      "title": "South Africa Champions vs Australia Champions, 2nd Semi Final",
+      "team1": "South Africa Champions",
+      "team2": "Australia Champions",
+      "match_id": "125239",
+      "match_date": "31/7/2025",
       "match_time": "9:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=125157"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=125239"
     },
     {
-      "title": "Qatar vs Saudi Arabia, 5th Match",
-      "team1": "Qatar",
-      "team2": "Saudi Arabia",
-      "match_id": "127280",
-      "match_date": "23/7/2025",
-      "match_time": "9:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127280"
-    },
-    {
-      "title": "Malaysia vs Samoa, 11th Match",
-      "team1": "Malaysia",
-      "team2": "Samoa",
-      "match_id": "127219",
-      "match_date": "24/7/2025",
-      "match_time": "6:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127219"
+      "title": "West Indies vs Pakistan, 1st T20I",
+      "team1": "West Indies",
+      "team2": "Pakistan",
+      "match_id": "114636",
+      "match_date": "1/8/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114636"
     }
   ]
 }
