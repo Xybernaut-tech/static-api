@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:51 PM 01-08-2025",
+  "last update time": "09:56 PM 01-08-2025",
   "matches": [
-    {
-      "title": "Lancashire vs Glamorgan, 43rd Match",
-      "team1": "Lancashire",
-      "team2": "Glamorgan",
-      "match_id": "113589",
-      "match_date": "29/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113589"
-    },
     {
       "title": "Gloucestershire vs Middlesex, 42nd Match",
       "team1": "Gloucestershire",
@@ -22,40 +13,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113580"
     },
     {
-      "title": "Yorkshire vs Sussex, 53rd Match",
-      "team1": "Yorkshire",
-      "team2": "Sussex",
-      "match_id": "113175",
+      "title": "Lancashire vs Glamorgan, 43rd Match",
+      "team1": "Lancashire",
+      "team2": "Glamorgan",
+      "match_id": "113589",
       "match_date": "29/7/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113175"
-    },
-    {
-      "title": "Essex vs Warwickshire, 52nd Match",
-      "team1": "Essex",
-      "team2": "Warwickshire",
-      "match_id": "113166",
-      "match_date": "29/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113166"
-    },
-    {
-      "title": "Nottinghamshire vs Somerset, 55th Match",
-      "team1": "Nottinghamshire",
-      "team2": "Somerset",
-      "match_id": "113190",
-      "match_date": "29/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113190"
-    },
-    {
-      "title": "Kent vs Leicestershire, 44th Match",
-      "team1": "Kent",
-      "team2": "Leicestershire",
-      "match_id": "113598",
-      "match_date": "29/7/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113598"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113589"
     },
     {
       "title": "Northamptonshire vs Derbyshire, 41st Match",
@@ -67,13 +31,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113571"
     },
     {
-      "title": "Durham vs Surrey, 51st Match",
-      "team1": "Durham",
-      "team2": "Surrey",
-      "match_id": "113163",
+      "title": "Nottinghamshire vs Somerset, 55th Match",
+      "team1": "Nottinghamshire",
+      "team2": "Somerset",
+      "match_id": "113190",
       "match_date": "29/7/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113163"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113190"
+    },
+    {
+      "title": "Essex vs Warwickshire, 52nd Match",
+      "team1": "Essex",
+      "team2": "Warwickshire",
+      "match_id": "113166",
+      "match_date": "29/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113166"
     },
     {
       "title": "Worcestershire vs Hampshire, 54th Match",
@@ -83,6 +56,33 @@
       "match_date": "29/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113181"
+    },
+    {
+      "title": "Yorkshire vs Sussex, 53rd Match",
+      "team1": "Yorkshire",
+      "team2": "Sussex",
+      "match_id": "113175",
+      "match_date": "29/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113175"
+    },
+    {
+      "title": "Kent vs Leicestershire, 44th Match",
+      "team1": "Kent",
+      "team2": "Leicestershire",
+      "match_id": "113598",
+      "match_date": "29/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113598"
+    },
+    {
+      "title": "Durham vs Surrey, 51st Match",
+      "team1": "Durham",
+      "team2": "Surrey",
+      "match_id": "113163",
+      "match_date": "29/7/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113163"
     },
     {
       "title": "Zimbabwe vs New Zealand, 1st Test",
@@ -101,15 +101,6 @@
       "match_date": "31/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105780"
-    },
-    {
-      "title": "Pakistan Champions vs India Champions, 1st Semi Final",
-      "team1": "Pakistan Champions",
-      "team2": "India Champions",
-      "match_id": "125228",
-      "match_date": "31/7/2025",
-      "match_time": "5:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=125228"
     },
     {
       "title": "South Africa Champions vs Australia Champions, 2nd Semi Final",
@@ -139,6 +130,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130525"
     },
     {
+      "title": "Estonia Women vs Gibraltar Women, 2nd Match",
+      "team1": "Estonia Women",
+      "team2": "Gibraltar Women",
+      "match_id": "130531",
+      "match_date": "2/8/2025",
+      "match_time": "5:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130531"
+    },
+    {
       "title": "Estonia vs Switzerland, 1st T20I",
       "team1": "Estonia",
       "team2": "Switzerland",
@@ -148,13 +148,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=127467"
     },
     {
-      "title": "Estonia Women vs Gibraltar Women, 2nd Match",
-      "team1": "Estonia Women",
-      "team2": "Gibraltar Women",
-      "match_id": "130531",
+      "title": "South Delhi Superstarz vs East Delhi Riders, 1st Match",
+      "team1": "South Delhi Superstarz",
+      "team2": "East Delhi Riders",
+      "match_id": "129656",
       "match_date": "2/8/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130531"
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129656"
+    },
+    {
+      "title": "Pakistan Champions vs South Africa Champions, Final",
+      "team1": "Pakistan Champions",
+      "team2": "South Africa Champions",
+      "match_id": "125250",
+      "match_date": "2/8/2025",
+      "match_time": "9:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=125250"
     }
   ]
 }
