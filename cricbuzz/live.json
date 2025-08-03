@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:49 PM 03-08-2025",
+  "last update time": "06:09 PM 03-08-2025",
   "matches": [
     {
       "title": "Zimbabwe vs New Zealand, 1st Test",
@@ -20,15 +20,6 @@
       "match_date": "31/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105780"
-    },
-    {
-      "title": "Estonia Women vs Gibraltar Women, 1st Match",
-      "team1": "Estonia Women",
-      "team2": "Gibraltar Women",
-      "match_id": "130525",
-      "match_date": "2/8/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130525"
     },
     {
       "title": "Estonia vs Switzerland, 1st T20I",
