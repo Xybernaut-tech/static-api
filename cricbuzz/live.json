@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:47 PM 03-08-2025",
+  "last update time": "09:53 PM 03-08-2025",
   "matches": [
     {
       "title": "Zimbabwe vs New Zealand, 1st Test",
@@ -20,24 +20,6 @@
       "match_date": "31/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105780"
-    },
-    {
-      "title": "Estonia Women vs Gibraltar Women, 2nd Match",
-      "team1": "Estonia Women",
-      "team2": "Gibraltar Women",
-      "match_id": "130531",
-      "match_date": "2/8/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130531"
-    },
-    {
-      "title": "Estonia vs Switzerland, 1st T20I",
-      "team1": "Estonia",
-      "team2": "Switzerland",
-      "match_id": "127467",
-      "match_date": "2/8/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=127467"
     },
     {
       "title": "South Delhi Superstarz vs East Delhi Riders, 1st Match",
