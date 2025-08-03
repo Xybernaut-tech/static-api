@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:57 PM 03-08-2025",
+  "last update time": "01:51 AM 04-08-2025",
   "matches": [
     {
       "title": "Zimbabwe vs New Zealand, 1st Test",
@@ -20,15 +20,6 @@
       "match_date": "31/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105780"
-    },
-    {
-      "title": "Pakistan Champions vs South Africa Champions, Final",
-      "team1": "Pakistan Champions",
-      "team2": "South Africa Champions",
-      "match_id": "125250",
-      "match_date": "2/8/2025",
-      "match_time": "9:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=125250"
     },
     {
       "title": "West Indies vs Pakistan, 2nd T20I",
