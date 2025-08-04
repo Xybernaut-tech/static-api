@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:22 AM 04-08-2025",
+  "last update time": "09:25 AM 04-08-2025",
   "matches": [
     {
       "title": "Zimbabwe vs New Zealand, 1st Test",
@@ -20,15 +20,6 @@
       "match_date": "31/7/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105780"
-    },
-    {
-      "title": "West Indies vs Pakistan, 2nd T20I",
-      "team1": "West Indies",
-      "team2": "Pakistan",
-      "match_id": "114643",
-      "match_date": "3/8/2025",
-      "match_time": "5:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114643"
     },
     {
       "title": "Estonia vs Switzerland, 2nd T20I",
