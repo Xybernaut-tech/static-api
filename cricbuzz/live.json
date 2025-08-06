@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:02 PM 06-08-2025",
+  "last update time": "01:58 PM 06-08-2025",
   "matches": [
     {
       "title": "England vs India, 5th Test",
@@ -31,13 +31,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111533"
     },
     {
-      "title": "Yorkshire vs Warwickshire, Group B",
-      "team1": "Yorkshire",
-      "team2": "Warwickshire",
-      "match_id": "111565",
+      "title": "Lancashire vs Northamptonshire, Group B",
+      "team1": "Lancashire",
+      "team2": "Northamptonshire",
+      "match_id": "111553",
       "match_date": "5/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111565"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111553"
     },
     {
       "title": "Gloucestershire vs Derbyshire, Group A",
@@ -58,13 +58,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111557"
     },
     {
-      "title": "Lancashire vs Northamptonshire, Group B",
-      "team1": "Lancashire",
-      "team2": "Northamptonshire",
-      "match_id": "111553",
+      "title": "Yorkshire vs Warwickshire, Group B",
+      "team1": "Yorkshire",
+      "team2": "Warwickshire",
+      "match_id": "111565",
       "match_date": "5/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111553"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111565"
     },
     {
       "title": "Glamorgan vs Hampshire, Group A",
@@ -164,6 +164,33 @@
       "match_date": "6/8/2025",
       "match_time": "11:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113866"
+    },
+    {
+      "title": "Croatia vs Cyprus, 1st Match",
+      "team1": "Croatia",
+      "team2": "Cyprus",
+      "match_id": "130415",
+      "match_date": "7/8/2025",
+      "match_time": "12:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130415"
+    },
+    {
+      "title": "Zimbabwe vs New Zealand, 2nd Test",
+      "team1": "Zimbabwe",
+      "team2": "New Zealand",
+      "match_id": "116855",
+      "match_date": "7/8/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116855"
+    },
+    {
+      "title": "Sweden vs France, Only T20I",
+      "team1": "Sweden",
+      "team2": "France",
+      "match_id": "130443",
+      "match_date": "7/8/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130443"
     }
   ]
 }
