@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:02 PM 07-08-2025",
+  "last update time": "01:58 PM 07-08-2025",
   "matches": [
     {
       "title": "New Delhi Tigers vs East Delhi Riders, 8th Match",
@@ -13,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129711"
     },
     {
-      "title": "Surrey vs Leicestershire, Group A",
-      "team1": "Surrey",
-      "team2": "Leicestershire",
-      "match_id": "111577",
-      "match_date": "6/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111577"
-    },
-    {
       "title": "Middlesex vs Somerset, Group B",
       "team1": "Middlesex",
       "team2": "Somerset",
@@ -29,6 +20,15 @@
       "match_date": "6/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111573"
+    },
+    {
+      "title": "Surrey vs Leicestershire, Group A",
+      "team1": "Surrey",
+      "team2": "Leicestershire",
+      "match_id": "111577",
+      "match_date": "6/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111577"
     },
     {
       "title": "North Delhi Strikers vs Outer Delhi Warriors, 9th Match",
@@ -76,15 +76,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130415"
     },
     {
-      "title": "Zimbabwe vs New Zealand, 2nd Test",
-      "team1": "Zimbabwe",
-      "team2": "New Zealand",
-      "match_id": "116855",
-      "match_date": "7/8/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116855"
-    },
-    {
       "title": "Sweden vs France, Only T20I",
       "team1": "Sweden",
       "team2": "France",
@@ -92,6 +83,15 @@
       "match_date": "7/8/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130443"
+    },
+    {
+      "title": "Zimbabwe vs New Zealand, 2nd Test",
+      "team1": "Zimbabwe",
+      "team2": "New Zealand",
+      "match_id": "116855",
+      "match_date": "7/8/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116855"
     },
     {
       "title": "Purani Dilli 6 vs West Delhi Lions, 10th Match",
@@ -112,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130454"
     },
     {
-      "title": "Sussex vs Kent, Group B",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "111597",
-      "match_date": "7/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111597"
-    },
-    {
       "title": "Hampshire vs Essex, Group A",
       "team1": "Hampshire",
       "team2": "Essex",
@@ -130,13 +121,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111585"
     },
     {
-      "title": "Nottinghamshire vs Worcestershire, Group A",
-      "team1": "Nottinghamshire",
-      "team2": "Worcestershire",
-      "match_id": "111589",
+      "title": "Sussex vs Kent, Group B",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "111597",
       "match_date": "7/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111589"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111597"
     },
     {
       "title": "Glamorgan vs Derbyshire, Group A",
@@ -146,6 +137,15 @@
       "match_date": "7/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111581"
+    },
+    {
+      "title": "Nottinghamshire vs Worcestershire, Group A",
+      "team1": "Nottinghamshire",
+      "team2": "Worcestershire",
+      "match_id": "111589",
+      "match_date": "7/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111589"
     },
     {
       "title": "Croatia vs Cyprus, 2nd Match",
@@ -191,6 +191,15 @@
       "match_date": "7/8/2025",
       "match_time": "11:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113872"
+    },
+    {
+      "title": "Croatia vs Cyprus, 3rd Match",
+      "team1": "Croatia",
+      "team2": "Cyprus",
+      "match_id": "130432",
+      "match_date": "8/8/2025",
+      "match_time": "12:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130432"
     }
   ]
 }
