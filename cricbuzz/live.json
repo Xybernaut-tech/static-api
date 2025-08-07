@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:51 PM 07-08-2025",
+  "last update time": "06:12 PM 07-08-2025",
   "matches": [
-    {
-      "title": "New Delhi Tigers vs East Delhi Riders, 8th Match",
-      "team1": "New Delhi Tigers",
-      "team2": "East Delhi Riders",
-      "match_id": "129711",
-      "match_date": "6/8/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129711"
-    },
     {
       "title": "Middlesex vs Somerset, Group B",
       "team1": "Middlesex",
@@ -103,13 +94,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129722"
     },
     {
-      "title": "Sussex vs Kent, Group B",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "111597",
+      "title": "Hampshire vs Essex, Group A",
+      "team1": "Hampshire",
+      "team2": "Essex",
+      "match_id": "111585",
       "match_date": "7/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111597"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111585"
     },
     {
       "title": "Nottinghamshire vs Worcestershire, Group A",
@@ -121,6 +112,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111589"
     },
     {
+      "title": "Sussex vs Kent, Group B",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "111597",
+      "match_date": "7/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111597"
+    },
+    {
       "title": "Glamorgan vs Derbyshire, Group A",
       "team1": "Glamorgan",
       "team2": "Derbyshire",
@@ -128,15 +128,6 @@
       "match_date": "7/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111581"
-    },
-    {
-      "title": "Hampshire vs Essex, Group A",
-      "team1": "Hampshire",
-      "team2": "Essex",
-      "match_id": "111585",
-      "match_date": "7/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111585"
     },
     {
       "title": "Croatia vs Cyprus, 2nd Match",
@@ -211,6 +202,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130476"
     },
     {
+      "title": "Northamptonshire vs Yorkshire, Group B",
+      "team1": "Northamptonshire",
+      "team2": "Yorkshire",
+      "match_id": "111605",
+      "match_date": "8/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111605"
+    },
+    {
       "title": "Somerset vs Durham, Group B",
       "team1": "Somerset",
       "team2": "Durham",
@@ -229,13 +229,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111613"
     },
     {
-      "title": "Northamptonshire vs Yorkshire, Group B",
-      "team1": "Northamptonshire",
-      "team2": "Yorkshire",
-      "match_id": "111605",
+      "title": "Croatia vs Cyprus, 4th Match",
+      "team1": "Croatia",
+      "team2": "Cyprus",
+      "match_id": "130437",
       "match_date": "8/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111605"
+      "match_time": "5:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130437"
+    },
+    {
+      "title": "France vs Norway, 4th Match",
+      "team1": "France",
+      "team2": "Norway",
+      "match_id": "130481",
+      "match_date": "8/8/2025",
+      "match_time": "6:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130481"
     }
   ]
 }
