@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:58 PM 07-08-2025",
+  "last update time": "03:51 PM 07-08-2025",
   "matches": [
     {
       "title": "New Delhi Tigers vs East Delhi Riders, 8th Match",
@@ -76,15 +76,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130415"
     },
     {
-      "title": "Sweden vs France, Only T20I",
-      "team1": "Sweden",
-      "team2": "France",
-      "match_id": "130443",
-      "match_date": "7/8/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130443"
-    },
-    {
       "title": "Zimbabwe vs New Zealand, 2nd Test",
       "team1": "Zimbabwe",
       "team2": "New Zealand",
@@ -92,15 +83,6 @@
       "match_date": "7/8/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116855"
-    },
-    {
-      "title": "Purani Dilli 6 vs West Delhi Lions, 10th Match",
-      "team1": "Purani Dilli 6",
-      "team2": "West Delhi Lions",
-      "match_id": "129722",
-      "match_date": "7/8/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129722"
     },
     {
       "title": "Austria vs Norway, 1st Match",
@@ -112,13 +94,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130454"
     },
     {
-      "title": "Hampshire vs Essex, Group A",
-      "team1": "Hampshire",
-      "team2": "Essex",
-      "match_id": "111585",
+      "title": "Purani Dilli 6 vs West Delhi Lions, 10th Match",
+      "team1": "Purani Dilli 6",
+      "team2": "West Delhi Lions",
+      "match_id": "129722",
       "match_date": "7/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111585"
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129722"
     },
     {
       "title": "Sussex vs Kent, Group B",
@@ -130,6 +112,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111597"
     },
     {
+      "title": "Nottinghamshire vs Worcestershire, Group A",
+      "team1": "Nottinghamshire",
+      "team2": "Worcestershire",
+      "match_id": "111589",
+      "match_date": "7/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111589"
+    },
+    {
       "title": "Glamorgan vs Derbyshire, Group A",
       "team1": "Glamorgan",
       "team2": "Derbyshire",
@@ -139,13 +130,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111581"
     },
     {
-      "title": "Nottinghamshire vs Worcestershire, Group A",
-      "team1": "Nottinghamshire",
-      "team2": "Worcestershire",
-      "match_id": "111589",
+      "title": "Hampshire vs Essex, Group A",
+      "team1": "Hampshire",
+      "team2": "Essex",
+      "match_id": "111585",
       "match_date": "7/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111589"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111585"
     },
     {
       "title": "Croatia vs Cyprus, 2nd Match",
@@ -200,6 +191,51 @@
       "match_date": "8/8/2025",
       "match_time": "12:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130432"
+    },
+    {
+      "title": "East Delhi Riders vs Outer Delhi Warriors, 12th Match",
+      "team1": "East Delhi Riders",
+      "team2": "Outer Delhi Warriors",
+      "match_id": "129739",
+      "match_date": "8/8/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129739"
+    },
+    {
+      "title": "Sweden vs Austria, 3rd Match",
+      "team1": "Sweden",
+      "team2": "Austria",
+      "match_id": "130476",
+      "match_date": "8/8/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130476"
+    },
+    {
+      "title": "Somerset vs Durham, Group B",
+      "team1": "Somerset",
+      "team2": "Durham",
+      "match_id": "111609",
+      "match_date": "8/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111609"
+    },
+    {
+      "title": "Surrey vs Gloucestershire, Group A",
+      "team1": "Surrey",
+      "team2": "Gloucestershire",
+      "match_id": "111613",
+      "match_date": "8/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111613"
+    },
+    {
+      "title": "Northamptonshire vs Yorkshire, Group B",
+      "team1": "Northamptonshire",
+      "team2": "Yorkshire",
+      "match_id": "111605",
+      "match_date": "8/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111605"
     }
   ]
 }
