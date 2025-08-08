@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:53 PM 08-08-2025",
+  "last update time": "11:57 PM 08-08-2025",
   "matches": [
     {
       "title": "Zimbabwe vs New Zealand, 2nd Test",
@@ -11,60 +11,6 @@
       "match_date": "7/8/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116855"
-    },
-    {
-      "title": "Nottinghamshire vs Worcestershire, Group A",
-      "team1": "Nottinghamshire",
-      "team2": "Worcestershire",
-      "match_id": "111589",
-      "match_date": "7/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111589"
-    },
-    {
-      "title": "Glamorgan vs Derbyshire, Group A",
-      "team1": "Glamorgan",
-      "team2": "Derbyshire",
-      "match_id": "111581",
-      "match_date": "7/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111581"
-    },
-    {
-      "title": "Sussex vs Kent, Group B",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "111597",
-      "match_date": "7/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111597"
-    },
-    {
-      "title": "Hampshire vs Essex, Group A",
-      "team1": "Hampshire",
-      "team2": "Essex",
-      "match_id": "111585",
-      "match_date": "7/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111585"
-    },
-    {
-      "title": "Central Delhi Kings vs South Delhi Superstarz, 11th Match",
-      "team1": "Central Delhi Kings",
-      "team2": "South Delhi Superstarz",
-      "match_id": "129728",
-      "match_date": "7/8/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129728"
-    },
-    {
-      "title": "Northern Superchargers Women vs Welsh Fire Women, 3rd Match",
-      "team1": "Northern Superchargers Women",
-      "team2": "Welsh Fire Women",
-      "match_id": "114008",
-      "match_date": "7/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114008"
     },
     {
       "title": "Northern Superchargers vs Welsh Fire, 3rd Match",
@@ -85,15 +31,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130432"
     },
     {
-      "title": "Sweden vs Austria, 3rd Match",
-      "team1": "Sweden",
-      "team2": "Austria",
-      "match_id": "130476",
-      "match_date": "8/8/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130476"
-    },
-    {
       "title": "East Delhi Riders vs Outer Delhi Warriors, 12th Match",
       "team1": "East Delhi Riders",
       "team2": "Outer Delhi Warriors",
@@ -103,13 +40,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129739"
     },
     {
-      "title": "Surrey vs Gloucestershire, Group A",
-      "team1": "Surrey",
-      "team2": "Gloucestershire",
-      "match_id": "111613",
+      "title": "Sweden vs Austria, 3rd Match",
+      "team1": "Sweden",
+      "team2": "Austria",
+      "match_id": "130476",
       "match_date": "8/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111613"
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130476"
     },
     {
       "title": "Northamptonshire vs Yorkshire, Group B",
@@ -119,6 +56,15 @@
       "match_date": "8/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111605"
+    },
+    {
+      "title": "Surrey vs Gloucestershire, Group A",
+      "team1": "Surrey",
+      "team2": "Gloucestershire",
+      "match_id": "111613",
+      "match_date": "8/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111613"
     },
     {
       "title": "Croatia vs Cyprus, 4th Match",
@@ -202,15 +148,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=114661"
     },
     {
-      "title": "Vijayawada Sunshiners vs Royals of Rayalaseema, 2nd Match",
-      "team1": "Vijayawada Sunshiners",
-      "team2": "Royals of Rayalaseema",
-      "match_id": "130201",
-      "match_date": "9/8/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130201"
-    },
-    {
       "title": "Australia A Women vs India A Women, 2nd T20I",
       "team1": "Australia A Women",
       "team2": "India A Women",
@@ -220,13 +157,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131449"
     },
     {
-      "title": "Central Delhi Kings vs Outer Delhi Warriors, 14th Match",
-      "team1": "Central Delhi Kings",
-      "team2": "Outer Delhi Warriors",
-      "match_id": "129750",
+      "title": "Vijayawada Sunshiners vs Royals of Rayalaseema, 2nd Match",
+      "team1": "Vijayawada Sunshiners",
+      "team2": "Royals of Rayalaseema",
+      "match_id": "130201",
       "match_date": "9/8/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129750"
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130201"
     },
     {
       "title": "Sweden vs Norway, 5th Match",
@@ -236,6 +173,15 @@
       "match_date": "9/8/2025",
       "match_time": "2:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130492"
+    },
+    {
+      "title": "Central Delhi Kings vs Outer Delhi Warriors, 14th Match",
+      "team1": "Central Delhi Kings",
+      "team2": "Outer Delhi Warriors",
+      "match_id": "129750",
+      "match_date": "9/8/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129750"
     },
     {
       "title": "Oval Invincibles Women vs Manchester Originals Women, 5th Match",
@@ -274,6 +220,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113880"
     },
     {
+      "title": "East Delhi Riders vs South Delhi Superstarz, 15th Match",
+      "team1": "East Delhi Riders",
+      "team2": "South Delhi Superstarz",
+      "match_id": "129755",
+      "match_date": "9/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129755"
+    },
+    {
       "title": "Welsh Fire Women vs London Spirit Women, 6th Match",
       "team1": "Welsh Fire Women",
       "team2": "London Spirit Women",
@@ -283,13 +238,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=114032"
     },
     {
-      "title": "East Delhi Riders vs South Delhi Superstarz, 15th Match",
-      "team1": "East Delhi Riders",
-      "team2": "South Delhi Superstarz",
-      "match_id": "129755",
+      "title": "Welsh Fire vs London Spirit, 6th Match",
+      "team1": "Welsh Fire",
+      "team2": "London Spirit",
+      "match_id": "113882",
       "match_date": "9/8/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129755"
+      "match_time": "10:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113882"
     }
   ]
 }
