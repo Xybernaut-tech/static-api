@@ -1,26 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:51 PM 08-08-2025",
+  "last update time": "06:11 PM 08-08-2025",
   "matches": [
-    {
-      "title": "Croatia vs Cyprus, 1st Match",
-      "team1": "Croatia",
-      "team2": "Cyprus",
-      "match_id": "130415",
-      "match_date": "7/8/2025",
-      "match_time": "12:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130415"
-    },
-    {
-      "title": "Australia A Women vs India A Women, 1st T20I",
-      "team1": "Australia A Women",
-      "team2": "India A Women",
-      "match_id": "131444",
-      "match_date": "7/8/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131444"
-    },
     {
       "title": "Zimbabwe vs New Zealand, 2nd Test",
       "team1": "Zimbabwe",
@@ -29,33 +11,6 @@
       "match_date": "7/8/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116855"
-    },
-    {
-      "title": "Austria vs Norway, 1st Match",
-      "team1": "Austria",
-      "team2": "Norway",
-      "match_id": "130454",
-      "match_date": "7/8/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130454"
-    },
-    {
-      "title": "Purani Dilli 6 vs West Delhi Lions, 10th Match",
-      "team1": "Purani Dilli 6",
-      "team2": "West Delhi Lions",
-      "match_id": "129722",
-      "match_date": "7/8/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129722"
-    },
-    {
-      "title": "Sussex vs Kent, Group B",
-      "team1": "Sussex",
-      "team2": "Kent",
-      "match_id": "111597",
-      "match_date": "7/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111597"
     },
     {
       "title": "Nottinghamshire vs Worcestershire, Group A",
@@ -67,15 +22,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111589"
     },
     {
-      "title": "Hampshire vs Essex, Group A",
-      "team1": "Hampshire",
-      "team2": "Essex",
-      "match_id": "111585",
-      "match_date": "7/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111585"
-    },
-    {
       "title": "Glamorgan vs Derbyshire, Group A",
       "team1": "Glamorgan",
       "team2": "Derbyshire",
@@ -83,6 +29,24 @@
       "match_date": "7/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111581"
+    },
+    {
+      "title": "Sussex vs Kent, Group B",
+      "team1": "Sussex",
+      "team2": "Kent",
+      "match_id": "111597",
+      "match_date": "7/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111597"
+    },
+    {
+      "title": "Hampshire vs Essex, Group A",
+      "team1": "Hampshire",
+      "team2": "Essex",
+      "match_id": "111585",
+      "match_date": "7/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111585"
     },
     {
       "title": "Croatia vs Cyprus, 2nd Match",
@@ -157,15 +121,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130476"
     },
     {
-      "title": "Surrey vs Gloucestershire, Group A",
-      "team1": "Surrey",
-      "team2": "Gloucestershire",
-      "match_id": "111613",
-      "match_date": "8/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111613"
-    },
-    {
       "title": "Northamptonshire vs Yorkshire, Group B",
       "team1": "Northamptonshire",
       "team2": "Yorkshire",
@@ -173,6 +128,15 @@
       "match_date": "8/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111605"
+    },
+    {
+      "title": "Surrey vs Gloucestershire, Group A",
+      "team1": "Surrey",
+      "team2": "Gloucestershire",
+      "match_id": "111613",
+      "match_date": "8/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111613"
     },
     {
       "title": "Croatia vs Cyprus, 4th Match",
@@ -211,15 +175,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129744"
     },
     {
-      "title": "Birmingham Phoenix Women vs Trent Rockets Women, 4th Match",
-      "team1": "Birmingham Phoenix Women",
-      "team2": "Trent Rockets Women",
-      "match_id": "114016",
-      "match_date": "8/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114016"
-    },
-    {
       "title": "Kakinada Kings vs Amaravati Royals, 1st Match",
       "team1": "Kakinada Kings",
       "team2": "Amaravati Royals",
@@ -227,6 +182,15 @@
       "match_date": "8/8/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130190"
+    },
+    {
+      "title": "Birmingham Phoenix Women vs Trent Rockets Women, 4th Match",
+      "team1": "Birmingham Phoenix Women",
+      "team2": "Trent Rockets Women",
+      "match_id": "114016",
+      "match_date": "8/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114016"
     },
     {
       "title": "Ireland Women vs Pakistan Women, 2nd T20I",
@@ -256,15 +220,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=114661"
     },
     {
-      "title": "Vijayawada Sunshiners vs Royals Of Rayalaseema, 2nd Match",
-      "team1": "Vijayawada Sunshiners",
-      "team2": "Royals Of Rayalaseema",
-      "match_id": "130201",
-      "match_date": "9/8/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130201"
-    },
-    {
       "title": "Australia A Women vs India A Women, 2nd T20I",
       "team1": "Australia A Women",
       "team2": "India A Women",
@@ -274,13 +229,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131449"
     },
     {
-      "title": "Central Delhi Kings vs Outer Delhi Warriors, 14th Match",
-      "team1": "Central Delhi Kings",
-      "team2": "Outer Delhi Warriors",
-      "match_id": "129750",
+      "title": "Vijayawada Sunshiners vs Royals Of Rayalaseema, 2nd Match",
+      "team1": "Vijayawada Sunshiners",
+      "team2": "Royals Of Rayalaseema",
+      "match_id": "130201",
       "match_date": "9/8/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129750"
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130201"
     },
     {
       "title": "Sweden vs Norway, 5th Match",
@@ -292,6 +247,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130492"
     },
     {
+      "title": "Central Delhi Kings vs Outer Delhi Warriors, 14th Match",
+      "team1": "Central Delhi Kings",
+      "team2": "Outer Delhi Warriors",
+      "match_id": "129750",
+      "match_date": "9/8/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129750"
+    },
+    {
       "title": "Oval Invincibles Women vs Manchester Originals Women, 5th Match",
       "team1": "Oval Invincibles Women",
       "team2": "Manchester Originals Women",
@@ -299,6 +263,15 @@
       "match_date": "9/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=114024"
+    },
+    {
+      "title": "Austria vs France, 6th Match",
+      "team1": "Austria",
+      "team2": "France",
+      "match_id": "130503",
+      "match_date": "9/8/2025",
+      "match_time": "6:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130503"
     }
   ]
 }
