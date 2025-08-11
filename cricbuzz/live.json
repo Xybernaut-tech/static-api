@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:12 PM 11-08-2025",
+  "last update time": "07:50 PM 11-08-2025",
   "matches": [
     {
       "title": "Zimbabwe vs New Zealand, 2nd Test",
@@ -13,40 +13,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116855"
     },
     {
-      "title": "Australia vs South Africa, 1st T20I",
-      "team1": "Australia",
-      "team2": "South Africa",
-      "match_id": "116972",
-      "match_date": "10/8/2025",
-      "match_time": "2:45:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116972"
-    },
-    {
-      "title": "Somerset vs Lancashire, Group B",
-      "team1": "Somerset",
-      "team2": "Lancashire",
-      "match_id": "111653",
+      "title": "Gloucestershire vs Leicestershire, Group A",
+      "team1": "Gloucestershire",
+      "team2": "Leicestershire",
+      "match_id": "111633",
       "match_date": "10/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111653"
-    },
-    {
-      "title": "Middlesex vs Sussex, Group B",
-      "team1": "Middlesex",
-      "team2": "Sussex",
-      "match_id": "111649",
-      "match_date": "10/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111649"
-    },
-    {
-      "title": "Essex vs Worcestershire, Group A",
-      "team1": "Essex",
-      "team2": "Worcestershire",
-      "match_id": "111625",
-      "match_date": "10/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111625"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111633"
     },
     {
       "title": "Derbyshire vs Nottinghamshire, Group A",
@@ -56,33 +29,6 @@
       "match_date": "10/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111621"
-    },
-    {
-      "title": "Austria vs Norway, Final",
-      "team1": "Austria",
-      "team2": "Norway",
-      "match_id": "130520",
-      "match_date": "10/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130520"
-    },
-    {
-      "title": "Southern Brave Women vs Birmingham Phoenix Women, 7th Match",
-      "team1": "Southern Brave Women",
-      "team2": "Birmingham Phoenix Women",
-      "match_id": "114040",
-      "match_date": "10/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114040"
-    },
-    {
-      "title": "Gloucestershire vs Leicestershire, Group A",
-      "team1": "Gloucestershire",
-      "team2": "Leicestershire",
-      "match_id": "111633",
-      "match_date": "10/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111633"
     },
     {
       "title": "Kent vs Durham, Group B",
@@ -103,6 +49,33 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111661"
     },
     {
+      "title": "Middlesex vs Sussex, Group B",
+      "team1": "Middlesex",
+      "team2": "Sussex",
+      "match_id": "111649",
+      "match_date": "10/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111649"
+    },
+    {
+      "title": "Essex vs Worcestershire, Group A",
+      "team1": "Essex",
+      "team2": "Worcestershire",
+      "match_id": "111625",
+      "match_date": "10/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111625"
+    },
+    {
+      "title": "Somerset vs Lancashire, Group B",
+      "team1": "Somerset",
+      "team2": "Lancashire",
+      "match_id": "111653",
+      "match_date": "10/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111653"
+    },
+    {
       "title": "Bhimavaram Bulls vs Royals of Rayalaseema, 5th Match",
       "team1": "Bhimavaram Bulls",
       "team2": "Royals of Rayalaseema",
@@ -110,6 +83,15 @@
       "match_date": "10/8/2025",
       "match_time": "6:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130217"
+    },
+    {
+      "title": "Southern Brave vs Birmingham Phoenix, 7th Match",
+      "team1": "Southern Brave",
+      "team2": "Birmingham Phoenix",
+      "match_id": "113890",
+      "match_date": "10/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113890"
     },
     {
       "title": "West Indies vs Pakistan, 2nd ODI",
@@ -128,24 +110,6 @@
       "match_date": "10/8/2025",
       "match_time": "7:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129772"
-    },
-    {
-      "title": "Southern Brave vs Birmingham Phoenix, 7th Match",
-      "team1": "Southern Brave",
-      "team2": "Birmingham Phoenix",
-      "match_id": "113890",
-      "match_date": "10/8/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113890"
-    },
-    {
-      "title": "Trent Rockets Women vs Northern Superchargers Women, 8th Match",
-      "team1": "Trent Rockets Women",
-      "team2": "Northern Superchargers Women",
-      "match_id": "114048",
-      "match_date": "10/8/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114048"
     },
     {
       "title": "Ireland Women vs Pakistan Women, 3rd T20I",
@@ -281,6 +245,51 @@
       "match_date": "12/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111665"
+    },
+    {
+      "title": "Vijayawada Sunshiners vs Simhadri Vizag Lions, 9th Match",
+      "team1": "Vijayawada Sunshiners",
+      "team2": "Simhadri Vizag Lions",
+      "match_id": "130256",
+      "match_date": "12/8/2025",
+      "match_time": "6:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130256"
+    },
+    {
+      "title": "West Indies vs Pakistan, 3rd ODI",
+      "team1": "West Indies",
+      "team2": "Pakistan",
+      "match_id": "114672",
+      "match_date": "12/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114672"
+    },
+    {
+      "title": "Purani Dilli 6 vs East Delhi Riders, 21st Match",
+      "team1": "Purani Dilli 6",
+      "team2": "East Delhi Riders",
+      "match_id": "129810",
+      "match_date": "12/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129810"
+    },
+    {
+      "title": "Mysore Warriors vs Gulbarga Mystics, 4th Match",
+      "team1": "Mysore Warriors",
+      "team2": "Gulbarga Mystics",
+      "match_id": "129106",
+      "match_date": "12/8/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129106"
+    },
+    {
+      "title": "Birmingham Phoenix Women vs Oval Invincibles Women, 10th Match",
+      "team1": "Birmingham Phoenix Women",
+      "team2": "Oval Invincibles Women",
+      "match_id": "114064",
+      "match_date": "12/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114064"
     }
   ]
 }
