@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:48 AM 12-08-2025",
+  "last update time": "06:57 AM 12-08-2025",
   "matches": [
     {
       "title": "Zimbabwe vs New Zealand, 2nd Test",
@@ -182,6 +182,15 @@
       "match_date": "12/8/2025",
       "match_time": "11:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113914"
+    },
+    {
+      "title": "Australia A Women vs India A Women, Unofficial 1st ODI",
+      "team1": "Australia A Women",
+      "team2": "India A Women",
+      "match_id": "131460",
+      "match_date": "13/8/2025",
+      "match_time": "5:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131460"
     }
   ]
 }
