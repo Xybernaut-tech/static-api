@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:49 PM 12-08-2025",
+  "last update time": "09:54 PM 12-08-2025",
   "matches": [
-    {
-      "title": "Zimbabwe vs New Zealand, 2nd Test",
-      "team1": "Zimbabwe",
-      "team2": "New Zealand",
-      "match_id": "116855",
-      "match_date": "7/8/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116855"
-    },
     {
       "title": "Simhadri Vizag Lions vs Kakinada Kings, 7th Match",
       "team1": "Simhadri Vizag Lions",
@@ -193,15 +184,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129111"
     },
     {
-      "title": "Durham vs Middlesex, Group B",
-      "team1": "Durham",
-      "team2": "Middlesex",
-      "match_id": "111673",
-      "match_date": "13/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111673"
-    },
-    {
       "title": "Worcestershire vs Hampshire, Group A",
       "team1": "Worcestershire",
       "team2": "Hampshire",
@@ -236,6 +218,15 @@
       "match_date": "13/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111677"
+    },
+    {
+      "title": "Durham vs Middlesex, Group B",
+      "team1": "Durham",
+      "team2": "Middlesex",
+      "match_id": "111673",
+      "match_date": "13/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111673"
     },
     {
       "title": "Southern Brave Women vs Northern Superchargers Women, 11th Match",
