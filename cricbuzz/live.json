@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:57 AM 12-08-2025",
+  "last update time": "08:46 AM 12-08-2025",
   "matches": [
     {
       "title": "Zimbabwe vs New Zealand, 2nd Test",
@@ -191,6 +191,15 @@
       "match_date": "13/8/2025",
       "match_time": "5:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131460"
+    },
+    {
+      "title": "Singapore Women vs Cambodia Women, 1st T20I",
+      "team1": "Singapore Women",
+      "team2": "Cambodia Women",
+      "match_id": "131493",
+      "match_date": "13/8/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131493"
     }
   ]
 }
