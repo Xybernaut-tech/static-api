@@ -1,26 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:10 PM 13-08-2025",
+  "last update time": "07:49 PM 13-08-2025",
   "matches": [
-    {
-      "title": "Australia vs South Africa, 2nd T20I",
-      "team1": "Australia",
-      "team2": "South Africa",
-      "match_id": "116981",
-      "match_date": "12/8/2025",
-      "match_time": "2:45:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116981"
-    },
-    {
-      "title": "Hubli Tigers vs Shivamogga Lions, 3rd Match",
-      "team1": "Hubli Tigers",
-      "team2": "Shivamogga Lions",
-      "match_id": "129100",
-      "match_date": "12/8/2025",
-      "match_time": "3:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129100"
-    },
     {
       "title": "Yorkshire vs Lancashire, Group B",
       "team1": "Yorkshire",
@@ -40,15 +22,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130256"
     },
     {
-      "title": "Purani Dilli 6 vs East Delhi Riders, 21st Match",
-      "team1": "Purani Dilli 6",
-      "team2": "East Delhi Riders",
-      "match_id": "129810",
-      "match_date": "12/8/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129810"
-    },
-    {
       "title": "West Indies vs Pakistan, 3rd ODI",
       "team1": "West Indies",
       "team2": "Pakistan",
@@ -56,6 +29,15 @@
       "match_date": "12/8/2025",
       "match_time": "7:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=114672"
+    },
+    {
+      "title": "Purani Dilli 6 vs East Delhi Riders, 21st Match",
+      "team1": "Purani Dilli 6",
+      "team2": "East Delhi Riders",
+      "match_id": "129810",
+      "match_date": "12/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129810"
     },
     {
       "title": "Mysore Warriors vs Gulbarga Mystics, 4th Match",
@@ -130,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111693"
     },
     {
-      "title": "Leicestershire vs Nottinghamshire, Group A",
-      "team1": "Leicestershire",
-      "team2": "Nottinghamshire",
-      "match_id": "111677",
-      "match_date": "13/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111677"
-    },
-    {
       "title": "Durham vs Middlesex, Group B",
       "team1": "Durham",
       "team2": "Middlesex",
@@ -148,13 +121,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111673"
     },
     {
-      "title": "Surrey vs Glamorgan, Group A",
-      "team1": "Surrey",
-      "team2": "Glamorgan",
-      "match_id": "111681",
+      "title": "Leicestershire vs Nottinghamshire, Group A",
+      "team1": "Leicestershire",
+      "team2": "Nottinghamshire",
+      "match_id": "111677",
       "match_date": "13/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111681"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111677"
     },
     {
       "title": "Warwickshire vs Kent, Group B",
@@ -164,6 +137,15 @@
       "match_date": "13/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111685"
+    },
+    {
+      "title": "Surrey vs Glamorgan, Group A",
+      "team1": "Surrey",
+      "team2": "Glamorgan",
+      "match_id": "111681",
+      "match_date": "13/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111681"
     },
     {
       "title": "Southern Brave Women vs Northern Superchargers Women, 11th Match",
@@ -245,6 +227,24 @@
       "match_date": "14/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111697"
+    },
+    {
+      "title": "Gulbarga Mystics vs Bengaluru Blasters, 8th Match",
+      "team1": "Gulbarga Mystics",
+      "team2": "Bengaluru Blasters",
+      "match_id": "129139",
+      "match_date": "14/8/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129139"
+    },
+    {
+      "title": "London Spirit Women vs Trent Rockets Women, 13th Match",
+      "team1": "London Spirit Women",
+      "team2": "Trent Rockets Women",
+      "match_id": "114074",
+      "match_date": "14/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114074"
     }
   ]
 }
