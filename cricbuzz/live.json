@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:56 PM 13-08-2025",
+  "last update time": "03:51 PM 13-08-2025",
   "matches": [
     {
       "title": "Bhimavaram Bulls vs Amaravati Royals, 8th Match",
@@ -139,6 +139,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129111"
     },
     {
+      "title": "Warwickshire vs Kent, Group B",
+      "team1": "Warwickshire",
+      "team2": "Kent",
+      "match_id": "111685",
+      "match_date": "13/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111685"
+    },
+    {
       "title": "Surrey vs Glamorgan, Group A",
       "team1": "Surrey",
       "team2": "Glamorgan",
@@ -173,15 +182,6 @@
       "match_date": "13/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111673"
-    },
-    {
-      "title": "Warwickshire vs Kent, Group B",
-      "team1": "Warwickshire",
-      "team2": "Kent",
-      "match_id": "111685",
-      "match_date": "13/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111685"
     },
     {
       "title": "Southern Brave Women vs Northern Superchargers Women, 11th Match",
@@ -245,6 +245,24 @@
       "match_date": "14/8/2025",
       "match_time": "7:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131499"
+    },
+    {
+      "title": "Mysore Warriors vs Mangalore Dragons, 7th Match",
+      "team1": "Mysore Warriors",
+      "team2": "Mangalore Dragons",
+      "match_id": "129133",
+      "match_date": "14/8/2025",
+      "match_time": "3:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129133"
+    },
+    {
+      "title": "Yorkshire vs Somerset, Group B",
+      "team1": "Yorkshire",
+      "team2": "Somerset",
+      "match_id": "111697",
+      "match_date": "14/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111697"
     }
   ]
 }
