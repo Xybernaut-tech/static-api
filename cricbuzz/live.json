@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:59 AM 15-08-2025",
+  "last update time": "01:55 PM 15-08-2025",
   "matches": [
     {
       "title": "Mysore Warriors vs Mangalore Dragons, 7th Match",
@@ -94,13 +94,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129150"
     },
     {
-      "title": "Hampshire vs Leicestershire, Group A",
-      "team1": "Hampshire",
-      "team2": "Leicestershire",
-      "match_id": "111729",
+      "title": "Durham vs Northamptonshire, Group B",
+      "team1": "Durham",
+      "team2": "Northamptonshire",
+      "match_id": "111713",
       "match_date": "15/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111729"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111713"
+    },
+    {
+      "title": "Derbyshire vs Worcestershire, Group A",
+      "team1": "Derbyshire",
+      "team2": "Worcestershire",
+      "match_id": "111705",
+      "match_date": "15/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111705"
     },
     {
       "title": "Essex vs Surrey, Group A",
@@ -121,22 +130,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111741"
     },
     {
-      "title": "Derbyshire vs Worcestershire, Group A",
-      "team1": "Derbyshire",
-      "team2": "Worcestershire",
-      "match_id": "111705",
+      "title": "Hampshire vs Leicestershire, Group A",
+      "team1": "Hampshire",
+      "team2": "Leicestershire",
+      "match_id": "111729",
       "match_date": "15/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111705"
-    },
-    {
-      "title": "Durham vs Northamptonshire, Group B",
-      "team1": "Durham",
-      "team2": "Northamptonshire",
-      "match_id": "111713",
-      "match_date": "15/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111713"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111729"
     },
     {
       "title": "Sussex vs Lancashire, Group B",
@@ -218,6 +218,15 @@
       "match_date": "16/8/2025",
       "match_time": "7:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131504"
+    },
+    {
+      "title": "Amaravati Royals vs Simhadri Vizag Lions, 14th Match",
+      "team1": "Amaravati Royals",
+      "team2": "Simhadri Vizag Lions",
+      "match_id": "130294",
+      "match_date": "16/8/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130294"
     }
   ]
 }
