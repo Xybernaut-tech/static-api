@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:49 PM 15-08-2025",
+  "last update time": "06:07 PM 15-08-2025",
   "matches": [
     {
       "title": "Mysore Warriors vs Mangalore Dragons, 7th Match",
@@ -139,13 +139,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111713"
     },
     {
-      "title": "Bhimavaram Bulls vs Tungabhadra Warriors, 13th Match",
-      "team1": "Bhimavaram Bulls",
-      "team2": "Tungabhadra Warriors",
-      "match_id": "130283",
+      "title": "Sussex vs Lancashire, Group B",
+      "team1": "Sussex",
+      "team2": "Lancashire",
+      "match_id": "111737",
       "match_date": "15/8/2025",
       "match_time": "6:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130283"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111737"
     },
     {
       "title": "Gloucestershire vs Glamorgan, Group A",
@@ -157,13 +157,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111725"
     },
     {
-      "title": "Sussex vs Lancashire, Group B",
-      "team1": "Sussex",
-      "team2": "Lancashire",
-      "match_id": "111737",
+      "title": "Bhimavaram Bulls vs Tungabhadra Warriors, 13th Match",
+      "team1": "Bhimavaram Bulls",
+      "team2": "Tungabhadra Warriors",
+      "match_id": "130283",
       "match_date": "15/8/2025",
       "match_time": "6:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111737"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130283"
     },
     {
       "title": "Outer Delhi Warriors vs South Delhi Superstarz, 22nd Match",
