@@ -1,34 +1,16 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:06 PM 16-08-2025",
+  "last update time": "07:45 PM 16-08-2025",
   "matches": [
     {
-      "title": "Shivamogga Lions vs Bengaluru Blasters, 9th Match",
-      "team1": "Shivamogga Lions",
-      "team2": "Bengaluru Blasters",
-      "match_id": "129150",
-      "match_date": "15/8/2025",
-      "match_time": "3:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129150"
-    },
-    {
-      "title": "Derbyshire vs Worcestershire, Group A",
-      "team1": "Derbyshire",
-      "team2": "Worcestershire",
-      "match_id": "111705",
+      "title": "Durham vs Northamptonshire, Group B",
+      "team1": "Durham",
+      "team2": "Northamptonshire",
+      "match_id": "111713",
       "match_date": "15/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111705"
-    },
-    {
-      "title": "Warwickshire vs Middlesex, Group B",
-      "team1": "Warwickshire",
-      "team2": "Middlesex",
-      "match_id": "111741",
-      "match_date": "15/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111741"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111713"
     },
     {
       "title": "Hampshire vs Leicestershire, Group A",
@@ -40,15 +22,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111729"
     },
     {
-      "title": "Durham vs Northamptonshire, Group B",
-      "team1": "Durham",
-      "team2": "Northamptonshire",
-      "match_id": "111713",
-      "match_date": "15/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111713"
-    },
-    {
       "title": "Essex vs Surrey, Group A",
       "team1": "Essex",
       "team2": "Surrey",
@@ -58,13 +31,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111721"
     },
     {
-      "title": "Bhimavaram Bulls vs Tungabhadra Warriors, 13th Match",
-      "team1": "Bhimavaram Bulls",
-      "team2": "Tungabhadra Warriors",
-      "match_id": "130283",
+      "title": "Warwickshire vs Middlesex, Group B",
+      "team1": "Warwickshire",
+      "team2": "Middlesex",
+      "match_id": "111741",
       "match_date": "15/8/2025",
-      "match_time": "6:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130283"
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111741"
+    },
+    {
+      "title": "Derbyshire vs Worcestershire, Group A",
+      "team1": "Derbyshire",
+      "team2": "Worcestershire",
+      "match_id": "111705",
+      "match_date": "15/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111705"
     },
     {
       "title": "Sussex vs Lancashire, Group B",
@@ -85,6 +67,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111725"
     },
     {
+      "title": "Bhimavaram Bulls vs Tungabhadra Warriors, 13th Match",
+      "team1": "Bhimavaram Bulls",
+      "team2": "Tungabhadra Warriors",
+      "match_id": "130283",
+      "match_date": "15/8/2025",
+      "match_time": "6:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130283"
+    },
+    {
       "title": "Outer Delhi Warriors vs South Delhi Superstarz, 22nd Match",
       "team1": "Outer Delhi Warriors",
       "team2": "South Delhi Superstarz",
@@ -101,15 +92,6 @@
       "match_date": "15/8/2025",
       "match_time": "7:15:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129161"
-    },
-    {
-      "title": "Northern Superchargers Women vs Birmingham Phoenix Women, 14th Match",
-      "team1": "Northern Superchargers Women",
-      "team2": "Birmingham Phoenix Women",
-      "match_id": "114080",
-      "match_date": "15/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114080"
     },
     {
       "title": "Northern Superchargers vs Birmingham Phoenix, 14th Match",
@@ -193,15 +175,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130300"
     },
     {
-      "title": "Oval Invincibles Women vs Welsh Fire Women, 16th Match",
-      "team1": "Oval Invincibles Women",
-      "team2": "Welsh Fire Women",
-      "match_id": "114090",
-      "match_date": "16/8/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114090"
-    },
-    {
       "title": "Central Delhi Kings vs North Delhi Strikers, 24th Match",
       "team1": "Central Delhi Kings",
       "team2": "North Delhi Strikers",
@@ -209,6 +182,15 @@
       "match_date": "16/8/2025",
       "match_time": "7:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129838"
+    },
+    {
+      "title": "Oval Invincibles Women vs Welsh Fire Women, 16th Match",
+      "team1": "Oval Invincibles Women",
+      "team2": "Welsh Fire Women",
+      "match_id": "114090",
+      "match_date": "16/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114090"
     },
     {
       "title": "Trent Rockets vs Southern Brave, 15th Match",
@@ -283,15 +265,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129177"
     },
     {
-      "title": "Kent vs Lancashire, Group B",
-      "team1": "Kent",
-      "team2": "Lancashire",
-      "match_id": "111753",
-      "match_date": "17/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111753"
-    },
-    {
       "title": "Somerset vs Warwickshire, Group B",
       "team1": "Somerset",
       "team2": "Warwickshire",
@@ -299,33 +272,6 @@
       "match_date": "17/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111777"
-    },
-    {
-      "title": "Glamorgan vs Nottinghamshire, Group A",
-      "team1": "Glamorgan",
-      "team2": "Nottinghamshire",
-      "match_id": "111749",
-      "match_date": "17/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111749"
-    },
-    {
-      "title": "Worcestershire vs Gloucestershire, Group A",
-      "team1": "Worcestershire",
-      "team2": "Gloucestershire",
-      "match_id": "111785",
-      "match_date": "17/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111785"
-    },
-    {
-      "title": "Middlesex vs Yorkshire, Group B",
-      "team1": "Middlesex",
-      "team2": "Yorkshire",
-      "match_id": "111765",
-      "match_date": "17/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111765"
     },
     {
       "title": "Leicestershire vs Essex, Group A",
@@ -337,15 +283,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111761"
     },
     {
-      "title": "Manchester Originals Women vs Northern Superchargers Women, 17th Match",
-      "team1": "Manchester Originals Women",
-      "team2": "Northern Superchargers Women",
-      "match_id": "114098",
-      "match_date": "17/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114098"
-    },
-    {
       "title": "Northamptonshire vs Sussex, Group B",
       "team1": "Northamptonshire",
       "team2": "Sussex",
@@ -355,6 +292,51 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111773"
     },
     {
+      "title": "Worcestershire vs Gloucestershire, Group A",
+      "team1": "Worcestershire",
+      "team2": "Gloucestershire",
+      "match_id": "111785",
+      "match_date": "17/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111785"
+    },
+    {
+      "title": "Kent vs Lancashire, Group B",
+      "team1": "Kent",
+      "team2": "Lancashire",
+      "match_id": "111753",
+      "match_date": "17/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111753"
+    },
+    {
+      "title": "Middlesex vs Yorkshire, Group B",
+      "team1": "Middlesex",
+      "team2": "Yorkshire",
+      "match_id": "111765",
+      "match_date": "17/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111765"
+    },
+    {
+      "title": "Glamorgan vs Nottinghamshire, Group A",
+      "team1": "Glamorgan",
+      "team2": "Nottinghamshire",
+      "match_id": "111749",
+      "match_date": "17/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111749"
+    },
+    {
+      "title": "Manchester Originals Women vs Northern Superchargers Women, 17th Match",
+      "team1": "Manchester Originals Women",
+      "team2": "Northern Superchargers Women",
+      "match_id": "114098",
+      "match_date": "17/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114098"
+    },
+    {
       "title": "Sweden vs Hungary, 2nd Match",
       "team1": "Sweden",
       "team2": "Hungary",
@@ -362,6 +344,60 @@
       "match_date": "17/8/2025",
       "match_time": "4:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131136"
+    },
+    {
+      "title": "Royals of Rayalaseema vs Kakinada Kings, 17th Match",
+      "team1": "Royals of Rayalaseema",
+      "team2": "Kakinada Kings",
+      "match_id": "130316",
+      "match_date": "17/8/2025",
+      "match_time": "6:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130316"
+    },
+    {
+      "title": "South Delhi Superstarz vs Purani Dilli 6, 25th Match",
+      "team1": "South Delhi Superstarz",
+      "team2": "Purani Dilli 6",
+      "match_id": "129849",
+      "match_date": "17/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129849"
+    },
+    {
+      "title": "Manchester Originals vs Northern Superchargers, 17th Match",
+      "team1": "Manchester Originals",
+      "team2": "Northern Superchargers",
+      "match_id": "113960",
+      "match_date": "17/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113960"
+    },
+    {
+      "title": "Birmingham Phoenix Women vs London Spirit Women, 18th Match",
+      "team1": "Birmingham Phoenix Women",
+      "team2": "London Spirit Women",
+      "match_id": "114106",
+      "match_date": "17/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114106"
+    },
+    {
+      "title": "Mysore Warriors vs Shivamogga Lions, 14th Match",
+      "team1": "Mysore Warriors",
+      "team2": "Shivamogga Lions",
+      "match_id": "129183",
+      "match_date": "17/8/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129183"
+    },
+    {
+      "title": "Meerut Mavericks vs Kanpur Superstars, 1st Match",
+      "team1": "Meerut Mavericks",
+      "team2": "Kanpur Superstars",
+      "match_id": "132379",
+      "match_date": "17/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132379"
     }
   ]
 }
