@@ -1,26 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:08 PM 19-08-2025",
+  "last update time": "07:48 PM 19-08-2025",
   "matches": [
-    {
-      "title": "Kashi Rudras vs Gaur Gorakhapur Lions, 2nd Match",
-      "team1": "Kashi Rudras",
-      "team2": "Gaur Gorakhapur Lions",
-      "match_id": "132384",
-      "match_date": "18/8/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132384"
-    },
-    {
-      "title": "Mysore Warriors vs Bengaluru Blasters, 15th Match",
-      "team1": "Mysore Warriors",
-      "team2": "Bengaluru Blasters",
-      "match_id": "129188",
-      "match_date": "18/8/2025",
-      "match_time": "3:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129188"
-    },
     {
       "title": "Surrey vs Hampshire, Group A",
       "team1": "Surrey",
@@ -220,15 +202,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129227"
     },
     {
-      "title": "Essex vs Glamorgan, Group A",
-      "team1": "Essex",
-      "team2": "Glamorgan",
-      "match_id": "111797",
-      "match_date": "20/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111797"
-    },
-    {
       "title": "Leicestershire vs Derbyshire, Group A",
       "team1": "Leicestershire",
       "team2": "Derbyshire",
@@ -236,15 +209,6 @@
       "match_date": "20/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111817"
-    },
-    {
-      "title": "Hampshire vs Nottinghamshire, Group A",
-      "team1": "Hampshire",
-      "team2": "Nottinghamshire",
-      "match_id": "111801",
-      "match_date": "20/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111801"
     },
     {
       "title": "Lancashire vs Durham, Group B",
@@ -256,6 +220,24 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111809"
     },
     {
+      "title": "Hampshire vs Nottinghamshire, Group A",
+      "team1": "Hampshire",
+      "team2": "Nottinghamshire",
+      "match_id": "111801",
+      "match_date": "20/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111801"
+    },
+    {
+      "title": "Essex vs Glamorgan, Group A",
+      "team1": "Essex",
+      "team2": "Glamorgan",
+      "match_id": "111797",
+      "match_date": "20/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111797"
+    },
+    {
       "title": "Welsh Fire Women vs Southern Brave Women, 21st Match",
       "team1": "Welsh Fire Women",
       "team2": "Southern Brave Women",
@@ -263,6 +245,60 @@
       "match_date": "20/8/2025",
       "match_time": "4:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=114122"
+    },
+    {
+      "title": "Outer Delhi Warriors vs North Delhi Strikers, 28th Match",
+      "team1": "Outer Delhi Warriors",
+      "team2": "North Delhi Strikers",
+      "match_id": "129876",
+      "match_date": "20/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129876"
+    },
+    {
+      "title": "Ireland Women vs Germany Women, 2nd Match",
+      "team1": "Ireland Women",
+      "team2": "Germany Women",
+      "match_id": "131158",
+      "match_date": "20/8/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131158"
+    },
+    {
+      "title": "Hubli Tigers vs Bengaluru Blasters, 20th Match",
+      "team1": "Hubli Tigers",
+      "team2": "Bengaluru Blasters",
+      "match_id": "129238",
+      "match_date": "20/8/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129238"
+    },
+    {
+      "title": "Lucknow Falcons vs Kanpur Superstars, 7th Match",
+      "team1": "Lucknow Falcons",
+      "team2": "Kanpur Superstars",
+      "match_id": "132417",
+      "match_date": "20/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132417"
+    },
+    {
+      "title": "Welsh Fire vs Southern Brave, 21st Match",
+      "team1": "Welsh Fire",
+      "team2": "Southern Brave",
+      "match_id": "114160",
+      "match_date": "20/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114160"
+    },
+    {
+      "title": "London Spirit Women vs Northern Superchargers Women, 22nd Match",
+      "team1": "London Spirit Women",
+      "team2": "Northern Superchargers Women",
+      "match_id": "114130",
+      "match_date": "20/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114130"
     }
   ]
 }
