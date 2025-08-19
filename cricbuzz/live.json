@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:46 AM 19-08-2025",
+  "last update time": "06:55 AM 19-08-2025",
   "matches": [
     {
       "title": "Antigua and Barbuda Falcons vs Saint Lucia Kings, 5th Match",
@@ -200,6 +200,15 @@
       "match_date": "19/8/2025",
       "match_time": "11:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113978"
+    },
+    {
+      "title": "St Kitts And Nevis Patriots vs Saint Lucia Kings, 6th Match",
+      "team1": "St Kitts And Nevis Patriots",
+      "team2": "Saint Lucia Kings",
+      "match_id": "116657",
+      "match_date": "20/8/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116657"
     }
   ]
 }
