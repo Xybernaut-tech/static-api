@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:54 PM 19-08-2025",
+  "last update time": "03:50 PM 19-08-2025",
   "matches": [
     {
       "title": "Tungabhadra Warriors vs Vijayawada Sunshiners, 18th Match",
@@ -200,6 +200,69 @@
       "match_date": "20/8/2025",
       "match_time": "4:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116657"
+    },
+    {
+      "title": "Netherlands Women vs Italy Women, 1st Match",
+      "team1": "Netherlands Women",
+      "team2": "Italy Women",
+      "match_id": "131152",
+      "match_date": "20/8/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131152"
+    },
+    {
+      "title": "Noida Kings vs Gaur Gorakhapur Lions, 6th Match",
+      "team1": "Noida Kings",
+      "team2": "Gaur Gorakhapur Lions",
+      "match_id": "132406",
+      "match_date": "20/8/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132406"
+    },
+    {
+      "title": "Gulbarga Mystics vs Mysore Warriors, 19th Match",
+      "team1": "Gulbarga Mystics",
+      "team2": "Mysore Warriors",
+      "match_id": "129227",
+      "match_date": "20/8/2025",
+      "match_time": "3:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129227"
+    },
+    {
+      "title": "Lancashire vs Durham, Group B",
+      "team1": "Lancashire",
+      "team2": "Durham",
+      "match_id": "111809",
+      "match_date": "20/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111809"
+    },
+    {
+      "title": "Essex vs Glamorgan, Group A",
+      "team1": "Essex",
+      "team2": "Glamorgan",
+      "match_id": "111797",
+      "match_date": "20/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111797"
+    },
+    {
+      "title": "Hampshire vs Nottinghamshire, Group A",
+      "team1": "Hampshire",
+      "team2": "Nottinghamshire",
+      "match_id": "111801",
+      "match_date": "20/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111801"
+    },
+    {
+      "title": "Leicestershire vs Derbyshire, Group A",
+      "team1": "Leicestershire",
+      "team2": "Derbyshire",
+      "match_id": "111817",
+      "match_date": "20/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111817"
     }
   ]
 }
