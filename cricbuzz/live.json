@@ -1,26 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:08 PM 20-08-2025",
+  "last update time": "07:49 PM 20-08-2025",
   "matches": [
-    {
-      "title": "Kanpur Superstars vs Kashi Rudras, 4th Match",
-      "team1": "Kanpur Superstars",
-      "team2": "Kashi Rudras",
-      "match_id": "132395",
-      "match_date": "19/8/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132395"
-    },
-    {
-      "title": "Gulbarga Mystics vs Shivamogga Lions, 17th Match",
-      "team1": "Gulbarga Mystics",
-      "team2": "Shivamogga Lions",
-      "match_id": "129210",
-      "match_date": "19/8/2025",
-      "match_time": "3:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129210"
-    },
     {
       "title": "Middlesex vs Kent, Group B",
       "team1": "Middlesex",
@@ -65,15 +47,6 @@
       "match_date": "19/8/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=132401"
-    },
-    {
-      "title": "Trent Rockets Women vs Manchester Originals Women, 20th Match",
-      "team1": "Trent Rockets Women",
-      "team2": "Manchester Originals Women",
-      "match_id": "114120",
-      "match_date": "19/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114120"
     },
     {
       "title": "Trent Rockets vs Manchester Originals, 20th Match",
@@ -121,6 +94,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129227"
     },
     {
+      "title": "Lancashire vs Durham, Group B",
+      "team1": "Lancashire",
+      "team2": "Durham",
+      "match_id": "111809",
+      "match_date": "20/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111809"
+    },
+    {
       "title": "Leicestershire vs Derbyshire, Group A",
       "team1": "Leicestershire",
       "team2": "Derbyshire",
@@ -137,15 +119,6 @@
       "match_date": "20/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111801"
-    },
-    {
-      "title": "Lancashire vs Durham, Group B",
-      "team1": "Lancashire",
-      "team2": "Durham",
-      "match_id": "111809",
-      "match_date": "20/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111809"
     },
     {
       "title": "Welsh Fire Women vs Southern Brave Women, 21st Match",
@@ -193,6 +166,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131158"
     },
     {
+      "title": "Welsh Fire vs Southern Brave, 21st Match",
+      "team1": "Welsh Fire",
+      "team2": "Southern Brave",
+      "match_id": "114160",
+      "match_date": "20/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114160"
+    },
+    {
       "title": "Lucknow Falcons vs Kanpur Superstars, 7th Match",
       "team1": "Lucknow Falcons",
       "team2": "Kanpur Superstars",
@@ -209,15 +191,6 @@
       "match_date": "20/8/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=114130"
-    },
-    {
-      "title": "Welsh Fire vs Southern Brave, 21st Match",
-      "team1": "Welsh Fire",
-      "team2": "Southern Brave",
-      "match_id": "114160",
-      "match_date": "20/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114160"
     },
     {
       "title": "London Spirit vs Northern Superchargers, 22nd Match",
@@ -301,13 +274,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129249"
     },
     {
-      "title": "Sussex vs Somerset, Group B",
-      "team1": "Sussex",
-      "team2": "Somerset",
-      "match_id": "111829",
+      "title": "Kuwait vs Qatar, 16th Match",
+      "team1": "Kuwait",
+      "team2": "Qatar",
+      "match_id": "128941",
       "match_date": "21/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111829"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128941"
     },
     {
       "title": "Kenya vs Jersey, 17th Match",
@@ -319,13 +292,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=128946"
     },
     {
-      "title": "Kuwait vs Qatar, 16th Match",
-      "team1": "Kuwait",
-      "team2": "Qatar",
-      "match_id": "128941",
+      "title": "Sussex vs Somerset, Group B",
+      "team1": "Sussex",
+      "team2": "Somerset",
+      "match_id": "111829",
       "match_date": "21/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128941"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111829"
     },
     {
       "title": "Northamptonshire vs Kent, Group B",
@@ -344,6 +317,78 @@
       "match_date": "21/8/2025",
       "match_time": "4:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131713"
+    },
+    {
+      "title": "Amaravati Royals vs Tungabhadra Warriors, Qualifier 1",
+      "team1": "Amaravati Royals",
+      "team2": "Tungabhadra Warriors",
+      "match_id": "130399",
+      "match_date": "21/8/2025",
+      "match_time": "6:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130399"
+    },
+    {
+      "title": "Central Delhi Kings vs West Delhi Lions, 29th Match",
+      "team1": "Central Delhi Kings",
+      "team2": "West Delhi Lions",
+      "match_id": "129882",
+      "match_date": "21/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129882"
+    },
+    {
+      "title": "Bengaluru Blasters vs Shivamogga Lions, 22nd Match",
+      "team1": "Bengaluru Blasters",
+      "team2": "Shivamogga Lions",
+      "match_id": "129254",
+      "match_date": "21/8/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129254"
+    },
+    {
+      "title": "Italy Women vs Germany Women, 4th Match",
+      "team1": "Italy Women",
+      "team2": "Germany Women",
+      "match_id": "131174",
+      "match_date": "21/8/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131174"
+    },
+    {
+      "title": "Meerut Mavericks vs Gaur Gorakhapur Lions, 9th Match",
+      "team1": "Meerut Mavericks",
+      "team2": "Gaur Gorakhapur Lions",
+      "match_id": "132434",
+      "match_date": "21/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132434"
+    },
+    {
+      "title": "Oval Invincibles Women vs Trent Rockets Women, 23rd Match",
+      "team1": "Oval Invincibles Women",
+      "team2": "Trent Rockets Women",
+      "match_id": "114136",
+      "match_date": "21/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114136"
+    },
+    {
+      "title": "Adani Trivandrum Royals vs Kochi Blue Tigers, 2nd Match",
+      "team1": "Adani Trivandrum Royals",
+      "team2": "Kochi Blue Tigers",
+      "match_id": "130553",
+      "match_date": "21/8/2025",
+      "match_time": "7:45:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130553"
+    },
+    {
+      "title": "Oval Invincibles vs Trent Rockets, 23rd Match",
+      "team1": "Oval Invincibles",
+      "team2": "Trent Rockets",
+      "match_id": "114176",
+      "match_date": "21/8/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114176"
     }
   ]
 }
