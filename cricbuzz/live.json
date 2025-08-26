@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:47 AM 26-08-2025",
+  "last update time": "06:54 AM 26-08-2025",
   "matches": [
     {
       "title": "Saint Lucia Kings vs Barbados Royals, 12th Match",
@@ -157,22 +157,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129326"
     },
     {
-      "title": "Gloucestershire vs Hampshire, Group A",
-      "team1": "Gloucestershire",
-      "team2": "Hampshire",
-      "match_id": "111933",
+      "title": "Derbyshire vs Essex, Group A",
+      "team1": "Derbyshire",
+      "team2": "Essex",
+      "match_id": "111917",
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111933"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111917"
     },
     {
-      "title": "Somerset vs Northamptonshire, Group B",
-      "team1": "Somerset",
-      "team2": "Northamptonshire",
-      "match_id": "111949",
+      "title": "Kent vs Yorkshire, Group B",
+      "team1": "Kent",
+      "team2": "Yorkshire",
+      "match_id": "111937",
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111949"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111937"
     },
     {
       "title": "Glamorgan vs Leicestershire, Group A",
@@ -184,22 +184,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111925"
     },
     {
-      "title": "Derbyshire vs Essex, Group A",
-      "team1": "Derbyshire",
-      "team2": "Essex",
-      "match_id": "111917",
+      "title": "Somerset vs Northamptonshire, Group B",
+      "team1": "Somerset",
+      "team2": "Northamptonshire",
+      "match_id": "111949",
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111917"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111949"
     },
     {
-      "title": "Lancashire vs Middlesex, Group B",
-      "team1": "Lancashire",
-      "team2": "Middlesex",
-      "match_id": "111941",
+      "title": "Gloucestershire vs Hampshire, Group A",
+      "team1": "Gloucestershire",
+      "team2": "Hampshire",
+      "match_id": "111933",
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111941"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111933"
     },
     {
       "title": "Worcestershire vs Surrey, Group A",
@@ -211,13 +211,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111957"
     },
     {
-      "title": "Kent vs Yorkshire, Group B",
-      "team1": "Kent",
-      "team2": "Yorkshire",
-      "match_id": "111937",
+      "title": "Lancashire vs Middlesex, Group B",
+      "team1": "Lancashire",
+      "team2": "Middlesex",
+      "match_id": "111941",
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111937"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111941"
     },
     {
       "title": "Warwickshire vs Sussex, Group B",
@@ -247,15 +247,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129931"
     },
     {
-      "title": "Ireland Women vs Netherlands Women, 10th Match",
-      "team1": "Ireland Women",
-      "team2": "Netherlands Women",
-      "match_id": "131224",
-      "match_date": "26/8/2025",
-      "match_time": "7:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131224"
-    },
-    {
       "title": "Gulbarga Mystics vs Bengaluru Blasters, Eliminator",
       "team1": "Gulbarga Mystics",
       "team2": "Bengaluru Blasters",
@@ -265,13 +256,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129337"
     },
     {
-      "title": "Northern Superchargers Women vs Manchester Originals Women, 30th Match",
-      "team1": "Northern Superchargers Women",
-      "team2": "Manchester Originals Women",
-      "match_id": "114242",
+      "title": "Ireland Women vs Netherlands Women, 10th Match",
+      "team1": "Ireland Women",
+      "team2": "Netherlands Women",
+      "match_id": "131224",
       "match_date": "26/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114242"
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131224"
     },
     {
       "title": "Kanpur Superstars vs Kashi Rudras, 19th Match",
@@ -283,6 +274,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132516"
     },
     {
+      "title": "Northern Superchargers Women vs Manchester Originals Women, 30th Match",
+      "team1": "Northern Superchargers Women",
+      "team2": "Manchester Originals Women",
+      "match_id": "114242",
+      "match_date": "26/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114242"
+    },
+    {
       "title": "Northern Superchargers vs Manchester Originals, 30th Match",
       "team1": "Northern Superchargers",
       "team2": "Manchester Originals",
@@ -290,6 +290,15 @@
       "match_date": "26/8/2025",
       "match_time": "11:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=114218"
+    },
+    {
+      "title": "Saint Lucia Kings vs Guyana Amazon Warriors, 13th Match",
+      "team1": "Saint Lucia Kings",
+      "team2": "Guyana Amazon Warriors",
+      "match_id": "116693",
+      "match_date": "27/8/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116693"
     }
   ]
 }
