@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:56 PM 26-08-2025",
+  "last update time": "03:50 PM 26-08-2025",
   "matches": [
     {
       "title": "South Delhi Superstarz vs West Delhi Lions, 34th Match",
@@ -112,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129926"
     },
     {
-      "title": "Germany Women vs Italy Women, 9th Match",
-      "team1": "Germany Women",
-      "team2": "Italy Women",
-      "match_id": "131218",
-      "match_date": "26/8/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131218"
-    },
-    {
       "title": "Thrissur Titans vs Kochi Blue Tigers, 11th Match",
       "team1": "Thrissur Titans",
       "team2": "Kochi Blue Tigers",
@@ -128,6 +119,15 @@
       "match_date": "26/8/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130619"
+    },
+    {
+      "title": "Germany Women vs Italy Women, 9th Match",
+      "team1": "Germany Women",
+      "team2": "Italy Women",
+      "match_id": "131218",
+      "match_date": "26/8/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131218"
     },
     {
       "title": "Lucknow Falcons vs Noida Kings, 18th Match",
@@ -148,24 +148,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129326"
     },
     {
-      "title": "Kent vs Yorkshire, Group B",
-      "team1": "Kent",
-      "team2": "Yorkshire",
-      "match_id": "111937",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111937"
-    },
-    {
-      "title": "Lancashire vs Middlesex, Group B",
-      "team1": "Lancashire",
-      "team2": "Middlesex",
-      "match_id": "111941",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111941"
-    },
-    {
       "title": "Worcestershire vs Surrey, Group A",
       "team1": "Worcestershire",
       "team2": "Surrey",
@@ -173,24 +155,6 @@
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111957"
-    },
-    {
-      "title": "Derbyshire vs Essex, Group A",
-      "team1": "Derbyshire",
-      "team2": "Essex",
-      "match_id": "111917",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111917"
-    },
-    {
-      "title": "Warwickshire vs Sussex, Group B",
-      "team1": "Warwickshire",
-      "team2": "Sussex",
-      "match_id": "111953",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111953"
     },
     {
       "title": "Gloucestershire vs Hampshire, Group A",
@@ -202,13 +166,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111933"
     },
     {
-      "title": "Glamorgan vs Leicestershire, Group A",
-      "team1": "Glamorgan",
-      "team2": "Leicestershire",
-      "match_id": "111925",
+      "title": "Derbyshire vs Essex, Group A",
+      "team1": "Derbyshire",
+      "team2": "Essex",
+      "match_id": "111917",
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111925"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111917"
     },
     {
       "title": "Somerset vs Northamptonshire, Group B",
@@ -218,6 +182,42 @@
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111949"
+    },
+    {
+      "title": "Lancashire vs Middlesex, Group B",
+      "team1": "Lancashire",
+      "team2": "Middlesex",
+      "match_id": "111941",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111941"
+    },
+    {
+      "title": "Kent vs Yorkshire, Group B",
+      "team1": "Kent",
+      "team2": "Yorkshire",
+      "match_id": "111937",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111937"
+    },
+    {
+      "title": "Warwickshire vs Sussex, Group B",
+      "team1": "Warwickshire",
+      "team2": "Sussex",
+      "match_id": "111953",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111953"
+    },
+    {
+      "title": "Glamorgan vs Leicestershire, Group A",
+      "team1": "Glamorgan",
+      "team2": "Leicestershire",
+      "match_id": "111925",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111925"
     },
     {
       "title": "Alleppey Ripples vs Calicut Globstars, 12th Match",
@@ -290,6 +290,60 @@
       "match_date": "27/8/2025",
       "match_time": "4:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116693"
+    },
+    {
+      "title": "Purani Dilli 6 vs South Delhi Superstarz, 38th Match",
+      "team1": "Purani Dilli 6",
+      "team2": "South Delhi Superstarz",
+      "match_id": "129937",
+      "match_date": "27/8/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129937"
+    },
+    {
+      "title": "Calicut Globstars vs Kochi Blue Tigers, 13th Match",
+      "team1": "Calicut Globstars",
+      "team2": "Kochi Blue Tigers",
+      "match_id": "130641",
+      "match_date": "27/8/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130641"
+    },
+    {
+      "title": "Germany Women vs Netherlands Women, 11th Match",
+      "team1": "Germany Women",
+      "team2": "Netherlands Women",
+      "match_id": "131229",
+      "match_date": "27/8/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131229"
+    },
+    {
+      "title": "Lucknow Falcons vs Meerut Mavericks, 20th Match",
+      "team1": "Lucknow Falcons",
+      "team2": "Meerut Mavericks",
+      "match_id": "132522",
+      "match_date": "27/8/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132522"
+    },
+    {
+      "title": "Papua New Guinea vs Kenya, 23rd Match",
+      "team1": "Papua New Guinea",
+      "team2": "Kenya",
+      "match_id": "129007",
+      "match_date": "27/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129007"
+    },
+    {
+      "title": "Qatar vs Denmark, 24th Match",
+      "team1": "Qatar",
+      "team2": "Denmark",
+      "match_id": "129018",
+      "match_date": "27/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129018"
     }
   ]
 }
