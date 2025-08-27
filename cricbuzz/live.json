@@ -1,44 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:07 PM 27-08-2025",
+  "last update time": "07:47 PM 27-08-2025",
   "matches": [
-    {
-      "title": "Lucknow Falcons vs Noida Kings, 18th Match",
-      "team1": "Lucknow Falcons",
-      "team2": "Noida Kings",
-      "match_id": "132505",
-      "match_date": "26/8/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132505"
-    },
-    {
-      "title": "Mangalore Dragons vs Hubli Tigers, Qualifier 1",
-      "team1": "Mangalore Dragons",
-      "team2": "Hubli Tigers",
-      "match_id": "129326",
-      "match_date": "26/8/2025",
-      "match_time": "3:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129326"
-    },
-    {
-      "title": "Derbyshire vs Essex, Group A",
-      "team1": "Derbyshire",
-      "team2": "Essex",
-      "match_id": "111917",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111917"
-    },
-    {
-      "title": "Gloucestershire vs Hampshire, Group A",
-      "team1": "Gloucestershire",
-      "team2": "Hampshire",
-      "match_id": "111933",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111933"
-    },
     {
       "title": "Glamorgan vs Leicestershire, Group A",
       "team1": "Glamorgan",
@@ -67,6 +31,24 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111937"
     },
     {
+      "title": "Somerset vs Northamptonshire, Group B",
+      "team1": "Somerset",
+      "team2": "Northamptonshire",
+      "match_id": "111949",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111949"
+    },
+    {
+      "title": "Derbyshire vs Essex, Group A",
+      "team1": "Derbyshire",
+      "team2": "Essex",
+      "match_id": "111917",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111917"
+    },
+    {
       "title": "Worcestershire vs Surrey, Group A",
       "team1": "Worcestershire",
       "team2": "Surrey",
@@ -76,6 +58,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111957"
     },
     {
+      "title": "Gloucestershire vs Hampshire, Group A",
+      "team1": "Gloucestershire",
+      "team2": "Hampshire",
+      "match_id": "111933",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111933"
+    },
+    {
       "title": "Warwickshire vs Sussex, Group B",
       "team1": "Warwickshire",
       "team2": "Sussex",
@@ -83,15 +74,6 @@
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111953"
-    },
-    {
-      "title": "Somerset vs Northamptonshire, Group B",
-      "team1": "Somerset",
-      "team2": "Northamptonshire",
-      "match_id": "111949",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111949"
     },
     {
       "title": "Alleppey Ripples vs Calicut Globstars, 12th Match",
@@ -130,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129337"
     },
     {
-      "title": "Kanpur Superstars vs Kashi Rudras, 19th Match",
-      "team1": "Kanpur Superstars",
-      "team2": "Kashi Rudras",
-      "match_id": "132516",
-      "match_date": "26/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132516"
-    },
-    {
       "title": "Northern Superchargers Women vs Manchester Originals Women, 30th Match",
       "team1": "Northern Superchargers Women",
       "team2": "Manchester Originals Women",
@@ -146,6 +119,15 @@
       "match_date": "26/8/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=114242"
+    },
+    {
+      "title": "Kanpur Superstars vs Kashi Rudras, 19th Match",
+      "team1": "Kanpur Superstars",
+      "team2": "Kashi Rudras",
+      "match_id": "132516",
+      "match_date": "26/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132516"
     },
     {
       "title": "Northern Superchargers vs Manchester Originals, 30th Match",
@@ -202,15 +184,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132522"
     },
     {
-      "title": "Papua New Guinea vs Kenya, 23rd Match",
-      "team1": "Papua New Guinea",
-      "team2": "Kenya",
-      "match_id": "129007",
-      "match_date": "27/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129007"
-    },
-    {
       "title": "Qatar vs Denmark, 24th Match",
       "team1": "Qatar",
       "team2": "Denmark",
@@ -218,6 +191,15 @@
       "match_date": "27/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129018"
+    },
+    {
+      "title": "Papua New Guinea vs Kenya, 23rd Match",
+      "team1": "Papua New Guinea",
+      "team2": "Kenya",
+      "match_id": "129007",
+      "match_date": "27/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129007"
     },
     {
       "title": "Adani Trivandrum Royals vs Thrissur Titans, 14th Match",
@@ -355,6 +337,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111969"
     },
     {
+      "title": "Papua New Guinea vs Jersey, 26th Match",
+      "team1": "Papua New Guinea",
+      "team2": "Jersey",
+      "match_id": "129040",
+      "match_date": "28/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129040"
+    },
+    {
       "title": "Hampshire vs Middlesex, Quarter Final 1",
       "team1": "Hampshire",
       "team2": "Middlesex",
@@ -364,13 +355,49 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111961"
     },
     {
-      "title": "Papua New Guinea vs Jersey, 26th Match",
-      "team1": "Papua New Guinea",
-      "team2": "Jersey",
-      "match_id": "129040",
+      "title": "Aries Kollam Sailors vs Alleppey Ripples, 16th Match",
+      "team1": "Aries Kollam Sailors",
+      "team2": "Alleppey Ripples",
+      "match_id": "130668",
       "match_date": "28/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129040"
+      "match_time": "6:45:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130668"
+    },
+    {
+      "title": "North Delhi Strikers vs New Delhi Tigers, 40th Match",
+      "team1": "North Delhi Strikers",
+      "team2": "New Delhi Tigers",
+      "match_id": "129959",
+      "match_date": "28/8/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129959"
+    },
+    {
+      "title": "Tbc vs Tbc, Final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "129353",
+      "match_date": "28/8/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129353"
+    },
+    {
+      "title": "Southern Brave Women vs Welsh Fire Women, 32nd Match",
+      "team1": "Southern Brave Women",
+      "team2": "Welsh Fire Women",
+      "match_id": "114256",
+      "match_date": "28/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114256"
+    },
+    {
+      "title": "Noida Kings vs Kashi Rudras, 23rd Match",
+      "team1": "Noida Kings",
+      "team2": "Kashi Rudras",
+      "match_id": "132549",
+      "match_date": "28/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132549"
     }
   ]
 }
