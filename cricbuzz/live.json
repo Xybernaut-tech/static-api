@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:56 AM 27-08-2025",
+  "last update time": "01:54 PM 27-08-2025",
   "matches": [
     {
       "title": "South Delhi Superstarz vs North Delhi Strikers, 36th Match",
@@ -49,51 +49,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129326"
     },
     {
-      "title": "Glamorgan vs Leicestershire, Group A",
-      "team1": "Glamorgan",
-      "team2": "Leicestershire",
-      "match_id": "111925",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111925"
-    },
-    {
-      "title": "Gloucestershire vs Hampshire, Group A",
-      "team1": "Gloucestershire",
-      "team2": "Hampshire",
-      "match_id": "111933",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111933"
-    },
-    {
-      "title": "Worcestershire vs Surrey, Group A",
-      "team1": "Worcestershire",
-      "team2": "Surrey",
-      "match_id": "111957",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111957"
-    },
-    {
-      "title": "Warwickshire vs Sussex, Group B",
-      "team1": "Warwickshire",
-      "team2": "Sussex",
-      "match_id": "111953",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111953"
-    },
-    {
-      "title": "Lancashire vs Middlesex, Group B",
-      "team1": "Lancashire",
-      "team2": "Middlesex",
-      "match_id": "111941",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111941"
-    },
-    {
       "title": "Somerset vs Northamptonshire, Group B",
       "team1": "Somerset",
       "team2": "Northamptonshire",
@@ -110,6 +65,51 @@
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111917"
+    },
+    {
+      "title": "Lancashire vs Middlesex, Group B",
+      "team1": "Lancashire",
+      "team2": "Middlesex",
+      "match_id": "111941",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111941"
+    },
+    {
+      "title": "Gloucestershire vs Hampshire, Group A",
+      "team1": "Gloucestershire",
+      "team2": "Hampshire",
+      "match_id": "111933",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111933"
+    },
+    {
+      "title": "Warwickshire vs Sussex, Group B",
+      "team1": "Warwickshire",
+      "team2": "Sussex",
+      "match_id": "111953",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111953"
+    },
+    {
+      "title": "Worcestershire vs Surrey, Group A",
+      "team1": "Worcestershire",
+      "team2": "Surrey",
+      "match_id": "111957",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111957"
+    },
+    {
+      "title": "Glamorgan vs Leicestershire, Group A",
+      "team1": "Glamorgan",
+      "team2": "Leicestershire",
+      "match_id": "111925",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111925"
     },
     {
       "title": "Kent vs Yorkshire, Group B",
@@ -229,15 +229,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132522"
     },
     {
-      "title": "Papua New Guinea vs Kenya, 23rd Match",
-      "team1": "Papua New Guinea",
-      "team2": "Kenya",
-      "match_id": "129007",
-      "match_date": "27/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129007"
-    },
-    {
       "title": "Qatar vs Denmark, 24th Match",
       "team1": "Qatar",
       "team2": "Denmark",
@@ -245,6 +236,15 @@
       "match_date": "27/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129018"
+    },
+    {
+      "title": "Papua New Guinea vs Kenya, 23rd Match",
+      "team1": "Papua New Guinea",
+      "team2": "Kenya",
+      "match_id": "129007",
+      "match_date": "27/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129007"
     },
     {
       "title": "Adani Trivandrum Royals vs Thrissur Titans, 14th Match",
@@ -283,15 +283,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129342"
     },
     {
-      "title": "Gaur Gorakhapur Lions vs Noida Kings, 21st Match",
-      "team1": "Gaur Gorakhapur Lions",
-      "team2": "Noida Kings",
-      "match_id": "132533",
-      "match_date": "27/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132533"
-    },
-    {
       "title": "Trent Rockets Women vs Birmingham Phoenix Women, 31st Match",
       "team1": "Trent Rockets Women",
       "team2": "Birmingham Phoenix Women",
@@ -299,6 +290,15 @@
       "match_date": "27/8/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=114248"
+    },
+    {
+      "title": "Gaur Gorakhapur Lions vs Noida Kings, 21st Match",
+      "team1": "Gaur Gorakhapur Lions",
+      "team2": "Noida Kings",
+      "match_id": "132533",
+      "match_date": "27/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132533"
     },
     {
       "title": "Canada vs Namibia, 80th Match",
@@ -328,15 +328,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116696"
     },
     {
-      "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
-      "team1": "Central Zone",
-      "team2": "North East Zone",
-      "match_id": "123661",
-      "match_date": "28/8/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
-    },
-    {
       "title": "North Zone vs East Zone, 1st Quarter-Final",
       "team1": "North Zone",
       "team2": "East Zone",
@@ -344,6 +335,15 @@
       "match_date": "28/8/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
+    },
+    {
+      "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
+      "team1": "Central Zone",
+      "team2": "North East Zone",
+      "match_id": "123661",
+      "match_date": "28/8/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
     }
   ]
 }
