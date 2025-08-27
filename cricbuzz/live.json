@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:31 AM 27-08-2025",
+  "last update time": "09:52 AM 27-08-2025",
   "matches": [
     {
       "title": "South Delhi Superstarz vs North Delhi Strikers, 36th Match",
@@ -49,6 +49,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129326"
     },
     {
+      "title": "Lancashire vs Middlesex, Group B",
+      "team1": "Lancashire",
+      "team2": "Middlesex",
+      "match_id": "111941",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111941"
+    },
+    {
       "title": "Somerset vs Northamptonshire, Group B",
       "team1": "Somerset",
       "team2": "Northamptonshire",
@@ -56,15 +65,6 @@
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111949"
-    },
-    {
-      "title": "Warwickshire vs Sussex, Group B",
-      "team1": "Warwickshire",
-      "team2": "Sussex",
-      "match_id": "111953",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111953"
     },
     {
       "title": "Kent vs Yorkshire, Group B",
@@ -76,6 +76,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111937"
     },
     {
+      "title": "Gloucestershire vs Hampshire, Group A",
+      "team1": "Gloucestershire",
+      "team2": "Hampshire",
+      "match_id": "111933",
+      "match_date": "26/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111933"
+    },
+    {
       "title": "Derbyshire vs Essex, Group A",
       "team1": "Derbyshire",
       "team2": "Essex",
@@ -85,13 +94,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111917"
     },
     {
-      "title": "Glamorgan vs Leicestershire, Group A",
-      "team1": "Glamorgan",
-      "team2": "Leicestershire",
-      "match_id": "111925",
+      "title": "Warwickshire vs Sussex, Group B",
+      "team1": "Warwickshire",
+      "team2": "Sussex",
+      "match_id": "111953",
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111925"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111953"
     },
     {
       "title": "Worcestershire vs Surrey, Group A",
@@ -103,22 +112,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111957"
     },
     {
-      "title": "Lancashire vs Middlesex, Group B",
-      "team1": "Lancashire",
-      "team2": "Middlesex",
-      "match_id": "111941",
+      "title": "Glamorgan vs Leicestershire, Group A",
+      "team1": "Glamorgan",
+      "team2": "Leicestershire",
+      "match_id": "111925",
       "match_date": "26/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111941"
-    },
-    {
-      "title": "Gloucestershire vs Hampshire, Group A",
-      "team1": "Gloucestershire",
-      "team2": "Hampshire",
-      "match_id": "111933",
-      "match_date": "26/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111933"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111925"
     },
     {
       "title": "Alleppey Ripples vs Calicut Globstars, 12th Match",
@@ -139,15 +139,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129931"
     },
     {
-      "title": "Ireland Women vs Netherlands Women, 10th Match",
-      "team1": "Ireland Women",
-      "team2": "Netherlands Women",
-      "match_id": "131224",
-      "match_date": "26/8/2025",
-      "match_time": "7:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131224"
-    },
-    {
       "title": "Gulbarga Mystics vs Bengaluru Blasters, Eliminator",
       "team1": "Gulbarga Mystics",
       "team2": "Bengaluru Blasters",
@@ -155,6 +146,15 @@
       "match_date": "26/8/2025",
       "match_time": "7:15:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129337"
+    },
+    {
+      "title": "Ireland Women vs Netherlands Women, 10th Match",
+      "team1": "Ireland Women",
+      "team2": "Netherlands Women",
+      "match_id": "131224",
+      "match_date": "26/8/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131224"
     },
     {
       "title": "Kanpur Superstars vs Kashi Rudras, 19th Match",
@@ -202,15 +202,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129937"
     },
     {
-      "title": "Germany Women vs Netherlands Women, 11th Match",
-      "team1": "Germany Women",
-      "team2": "Netherlands Women",
-      "match_id": "131229",
-      "match_date": "27/8/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131229"
-    },
-    {
       "title": "Calicut Globstars vs Kochi Blue Tigers, 13th Match",
       "team1": "Calicut Globstars",
       "team2": "Kochi Blue Tigers",
@@ -218,6 +209,15 @@
       "match_date": "27/8/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130641"
+    },
+    {
+      "title": "Germany Women vs Netherlands Women, 11th Match",
+      "team1": "Germany Women",
+      "team2": "Netherlands Women",
+      "match_id": "131229",
+      "match_date": "27/8/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131229"
     },
     {
       "title": "Lucknow Falcons vs Meerut Mavericks, 20th Match",
@@ -326,6 +326,24 @@
       "match_date": "28/8/2025",
       "match_time": "4:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116696"
+    },
+    {
+      "title": "North Zone vs East Zone, 1st Quarter-Final",
+      "team1": "North Zone",
+      "team2": "East Zone",
+      "match_id": "123655",
+      "match_date": "28/8/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
+    },
+    {
+      "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
+      "team1": "Central Zone",
+      "team2": "North East Zone",
+      "match_id": "123661",
+      "match_date": "28/8/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
     }
   ]
 }
