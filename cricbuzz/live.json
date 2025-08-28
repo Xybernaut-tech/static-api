@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:54 PM 28-08-2025",
+  "last update time": "03:49 PM 28-08-2025",
   "matches": [
     {
       "title": "Purani Dilli 6 vs South Delhi Superstarz, 38th Match",
@@ -13,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129937"
     },
     {
-      "title": "Germany Women vs Netherlands Women, 11th Match",
-      "team1": "Germany Women",
-      "team2": "Netherlands Women",
-      "match_id": "131229",
-      "match_date": "27/8/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131229"
-    },
-    {
       "title": "Calicut Globstars vs Kochi Blue Tigers, 13th Match",
       "team1": "Calicut Globstars",
       "team2": "Kochi Blue Tigers",
@@ -29,6 +20,15 @@
       "match_date": "27/8/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130641"
+    },
+    {
+      "title": "Germany Women vs Netherlands Women, 11th Match",
+      "team1": "Germany Women",
+      "team2": "Netherlands Women",
+      "match_id": "131229",
+      "match_date": "27/8/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131229"
     },
     {
       "title": "Lucknow Falcons vs Meerut Mavericks, 20th Match",
@@ -76,15 +76,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129948"
     },
     {
-      "title": "Mangalore Dragons vs Bengaluru Blasters, Qualifier 2",
-      "team1": "Mangalore Dragons",
-      "team2": "Bengaluru Blasters",
-      "match_id": "129342",
-      "match_date": "27/8/2025",
-      "match_time": "7:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129342"
-    },
-    {
       "title": "Italy Women vs Ireland Women, 12th Match",
       "team1": "Italy Women",
       "team2": "Ireland Women",
@@ -92,6 +83,15 @@
       "match_date": "27/8/2025",
       "match_time": "7:15:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131235"
+    },
+    {
+      "title": "Mangalore Dragons vs Bengaluru Blasters, Qualifier 2",
+      "team1": "Mangalore Dragons",
+      "team2": "Bengaluru Blasters",
+      "match_id": "129342",
+      "match_date": "27/8/2025",
+      "match_time": "7:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129342"
     },
     {
       "title": "Gaur Gorakhapur Lions vs Noida Kings, 21st Match",
@@ -139,15 +139,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116696"
     },
     {
-      "title": "North Zone vs East Zone, 1st Quarter-Final",
-      "team1": "North Zone",
-      "team2": "East Zone",
-      "match_id": "123655",
-      "match_date": "28/8/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
-    },
-    {
       "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
       "team1": "Central Zone",
       "team2": "North East Zone",
@@ -155,6 +146,15 @@
       "match_date": "28/8/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
+    },
+    {
+      "title": "North Zone vs East Zone, 1st Quarter-Final",
+      "team1": "North Zone",
+      "team2": "East Zone",
+      "match_id": "123655",
+      "match_date": "28/8/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
     },
     {
       "title": "Kochi Blue Tigers vs Adani Trivandrum Royals, 15th Match",
@@ -175,22 +175,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132544"
     },
     {
-      "title": "Denmark vs Kuwait, 25th Match",
-      "team1": "Denmark",
-      "team2": "Kuwait",
-      "match_id": "129029",
+      "title": "Hampshire vs Middlesex, Quarter Final 1",
+      "team1": "Hampshire",
+      "team2": "Middlesex",
+      "match_id": "111961",
       "match_date": "28/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129029"
-    },
-    {
-      "title": "Papua New Guinea vs Jersey, 26th Match",
-      "team1": "Papua New Guinea",
-      "team2": "Jersey",
-      "match_id": "129040",
-      "match_date": "28/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129040"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111961"
     },
     {
       "title": "Somerset vs Gloucestershire, Quarter Final 2",
@@ -202,13 +193,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111969"
     },
     {
-      "title": "Hampshire vs Middlesex, Quarter Final 1",
-      "team1": "Hampshire",
-      "team2": "Middlesex",
-      "match_id": "111961",
+      "title": "Papua New Guinea vs Jersey, 26th Match",
+      "team1": "Papua New Guinea",
+      "team2": "Jersey",
+      "match_id": "129040",
       "match_date": "28/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111961"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129040"
+    },
+    {
+      "title": "Denmark vs Kuwait, 25th Match",
+      "team1": "Denmark",
+      "team2": "Kuwait",
+      "match_id": "129029",
+      "match_date": "28/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129029"
     },
     {
       "title": "Hubli Tigers vs Mangalore Dragons, Final",
@@ -238,15 +238,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129959"
     },
     {
-      "title": "Southern Brave Women vs Welsh Fire Women, 32nd Match",
-      "team1": "Southern Brave Women",
-      "team2": "Welsh Fire Women",
-      "match_id": "114256",
-      "match_date": "28/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114256"
-    },
-    {
       "title": "Noida Kings vs Kashi Rudras, 23rd Match",
       "team1": "Noida Kings",
       "team2": "Kashi Rudras",
@@ -254,6 +245,15 @@
       "match_date": "28/8/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=132549"
+    },
+    {
+      "title": "Southern Brave Women vs Welsh Fire Women, 32nd Match",
+      "team1": "Southern Brave Women",
+      "team2": "Welsh Fire Women",
+      "match_id": "114256",
+      "match_date": "28/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114256"
     },
     {
       "title": "Southern Brave vs Welsh Fire, 32nd Match",
@@ -290,6 +290,33 @@
       "match_date": "29/8/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=122940"
+    },
+    {
+      "title": "Central Delhi Kings vs East Delhi Riders, Qualifier 1",
+      "team1": "Central Delhi Kings",
+      "team2": "East Delhi Riders",
+      "match_id": "129964",
+      "match_date": "29/8/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129964"
+    },
+    {
+      "title": "Thrissur Titans vs Aries Kollam Sailors, 17th Match",
+      "team1": "Thrissur Titans",
+      "team2": "Aries Kollam Sailors",
+      "match_id": "130674",
+      "match_date": "29/8/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130674"
+    },
+    {
+      "title": "Gaur Gorakhapur Lions vs Meerut Mavericks, 24th Match",
+      "team1": "Gaur Gorakhapur Lions",
+      "team2": "Meerut Mavericks",
+      "match_id": "132555",
+      "match_date": "29/8/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132555"
     }
   ]
 }
