@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:51 AM 28-08-2025",
+  "last update time": "08:31 AM 28-08-2025",
   "matches": [
-    {
-      "title": "Saint Lucia Kings vs Guyana Amazon Warriors, 13th Match",
-      "team1": "Saint Lucia Kings",
-      "team2": "Guyana Amazon Warriors",
-      "match_id": "116693",
-      "match_date": "27/8/2025",
-      "match_time": "4:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116693"
-    },
     {
       "title": "Purani Dilli 6 vs South Delhi Superstarz, 38th Match",
       "team1": "Purani Dilli 6",
@@ -22,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129937"
     },
     {
-      "title": "Germany Women vs Netherlands Women, 11th Match",
-      "team1": "Germany Women",
-      "team2": "Netherlands Women",
-      "match_id": "131229",
-      "match_date": "27/8/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131229"
-    },
-    {
       "title": "Calicut Globstars vs Kochi Blue Tigers, 13th Match",
       "team1": "Calicut Globstars",
       "team2": "Kochi Blue Tigers",
@@ -38,6 +20,15 @@
       "match_date": "27/8/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130641"
+    },
+    {
+      "title": "Germany Women vs Netherlands Women, 11th Match",
+      "team1": "Germany Women",
+      "team2": "Netherlands Women",
+      "match_id": "131229",
+      "match_date": "27/8/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131229"
     },
     {
       "title": "Lucknow Falcons vs Meerut Mavericks, 20th Match",
@@ -148,15 +139,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116696"
     },
     {
-      "title": "North Zone vs East Zone, 1st Quarter-Final",
-      "team1": "North Zone",
-      "team2": "East Zone",
-      "match_id": "123655",
-      "match_date": "28/8/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
-    },
-    {
       "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
       "team1": "Central Zone",
       "team2": "North East Zone",
@@ -164,6 +146,15 @@
       "match_date": "28/8/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
+    },
+    {
+      "title": "North Zone vs East Zone, 1st Quarter-Final",
+      "team1": "North Zone",
+      "team2": "East Zone",
+      "match_id": "123655",
+      "match_date": "28/8/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
     },
     {
       "title": "Kochi Blue Tigers vs Adani Trivandrum Royals, 15th Match",
@@ -193,6 +184,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111961"
     },
     {
+      "title": "Denmark vs Kuwait, 25th Match",
+      "team1": "Denmark",
+      "team2": "Kuwait",
+      "match_id": "129029",
+      "match_date": "28/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129029"
+    },
+    {
       "title": "Somerset vs Gloucestershire, Quarter Final 2",
       "team1": "Somerset",
       "team2": "Gloucestershire",
@@ -209,15 +209,6 @@
       "match_date": "28/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129040"
-    },
-    {
-      "title": "Denmark vs Kuwait, 25th Match",
-      "team1": "Denmark",
-      "team2": "Kuwait",
-      "match_id": "129029",
-      "match_date": "28/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129029"
     },
     {
       "title": "Hubli Tigers vs Mangalore Dragons, Final",
