@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:51 AM 28-08-2025",
+  "last update time": "11:57 AM 28-08-2025",
   "matches": [
     {
       "title": "Purani Dilli 6 vs South Delhi Superstarz, 38th Match",
@@ -139,15 +139,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116696"
     },
     {
-      "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
-      "team1": "Central Zone",
-      "team2": "North East Zone",
-      "match_id": "123661",
-      "match_date": "28/8/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
-    },
-    {
       "title": "North Zone vs East Zone, 1st Quarter-Final",
       "team1": "North Zone",
       "team2": "East Zone",
@@ -155,6 +146,15 @@
       "match_date": "28/8/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
+    },
+    {
+      "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
+      "team1": "Central Zone",
+      "team2": "North East Zone",
+      "match_id": "123661",
+      "match_date": "28/8/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
     },
     {
       "title": "Kochi Blue Tigers vs Adani Trivandrum Royals, 15th Match",
@@ -173,6 +173,15 @@
       "match_date": "28/8/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=132544"
+    },
+    {
+      "title": "Denmark vs Kuwait, 25th Match",
+      "team1": "Denmark",
+      "team2": "Kuwait",
+      "match_id": "129029",
+      "match_date": "28/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129029"
     },
     {
       "title": "Hampshire vs Middlesex, Quarter Final 1",
@@ -202,15 +211,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129040"
     },
     {
-      "title": "Denmark vs Kuwait, 25th Match",
-      "team1": "Denmark",
-      "team2": "Kuwait",
-      "match_id": "129029",
-      "match_date": "28/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129029"
-    },
-    {
       "title": "Hubli Tigers vs Mangalore Dragons, Final",
       "team1": "Hubli Tigers",
       "team2": "Mangalore Dragons",
@@ -238,15 +238,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129959"
     },
     {
-      "title": "Noida Kings vs Kashi Rudras, 23rd Match",
-      "team1": "Noida Kings",
-      "team2": "Kashi Rudras",
-      "match_id": "132549",
-      "match_date": "28/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132549"
-    },
-    {
       "title": "Southern Brave Women vs Welsh Fire Women, 32nd Match",
       "team1": "Southern Brave Women",
       "team2": "Welsh Fire Women",
@@ -254,6 +245,15 @@
       "match_date": "28/8/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=114256"
+    },
+    {
+      "title": "Noida Kings vs Kashi Rudras, 23rd Match",
+      "team1": "Noida Kings",
+      "team2": "Kashi Rudras",
+      "match_id": "132549",
+      "match_date": "28/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132549"
     },
     {
       "title": "Southern Brave vs Welsh Fire, 32nd Match",
