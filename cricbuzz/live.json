@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:57 AM 28-08-2025",
+  "last update time": "01:54 PM 28-08-2025",
   "matches": [
     {
       "title": "Purani Dilli 6 vs South Delhi Superstarz, 38th Match",
@@ -13,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129937"
     },
     {
-      "title": "Calicut Globstars vs Kochi Blue Tigers, 13th Match",
-      "team1": "Calicut Globstars",
-      "team2": "Kochi Blue Tigers",
-      "match_id": "130641",
-      "match_date": "27/8/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130641"
-    },
-    {
       "title": "Germany Women vs Netherlands Women, 11th Match",
       "team1": "Germany Women",
       "team2": "Netherlands Women",
@@ -29,6 +20,15 @@
       "match_date": "27/8/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131229"
+    },
+    {
+      "title": "Calicut Globstars vs Kochi Blue Tigers, 13th Match",
+      "team1": "Calicut Globstars",
+      "team2": "Kochi Blue Tigers",
+      "match_id": "130641",
+      "match_date": "27/8/2025",
+      "match_time": "2:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130641"
     },
     {
       "title": "Lucknow Falcons vs Meerut Mavericks, 20th Match",
@@ -184,13 +184,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129029"
     },
     {
-      "title": "Hampshire vs Middlesex, Quarter Final 1",
-      "team1": "Hampshire",
-      "team2": "Middlesex",
-      "match_id": "111961",
+      "title": "Papua New Guinea vs Jersey, 26th Match",
+      "team1": "Papua New Guinea",
+      "team2": "Jersey",
+      "match_id": "129040",
       "match_date": "28/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111961"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129040"
     },
     {
       "title": "Somerset vs Gloucestershire, Quarter Final 2",
@@ -202,13 +202,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111969"
     },
     {
-      "title": "Papua New Guinea vs Jersey, 26th Match",
-      "team1": "Papua New Guinea",
-      "team2": "Jersey",
-      "match_id": "129040",
+      "title": "Hampshire vs Middlesex, Quarter Final 1",
+      "team1": "Hampshire",
+      "team2": "Middlesex",
+      "match_id": "111961",
       "match_date": "28/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129040"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111961"
     },
     {
       "title": "Hubli Tigers vs Mangalore Dragons, Final",
@@ -272,6 +272,24 @@
       "match_date": "29/8/2025",
       "match_time": "4:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116702"
+    },
+    {
+      "title": "Hungary vs Serbia, 1st Match",
+      "team1": "Hungary",
+      "team2": "Serbia",
+      "match_id": "133077",
+      "match_date": "29/8/2025",
+      "match_time": "12:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133077"
+    },
+    {
+      "title": "Zimbabwe vs Sri Lanka, 1st ODI",
+      "team1": "Zimbabwe",
+      "team2": "Sri Lanka",
+      "match_id": "122940",
+      "match_date": "29/8/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=122940"
     }
   ]
 }
