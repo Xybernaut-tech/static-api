@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:46 AM 29-08-2025",
+  "last update time": "06:51 AM 29-08-2025",
   "matches": [
-    {
-      "title": "Canada vs Namibia, 80th Match",
-      "team1": "Canada",
-      "team2": "Namibia",
-      "match_id": "128875",
-      "match_date": "27/8/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128875"
-    },
     {
       "title": "Trinbago Knight Riders vs Antigua and Barbuda Falcons, 14th Match",
       "team1": "Trinbago Knight Riders",
@@ -22,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116696"
     },
     {
-      "title": "North Zone vs East Zone, 1st Quarter-Final",
-      "team1": "North Zone",
-      "team2": "East Zone",
-      "match_id": "123655",
-      "match_date": "28/8/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
-    },
-    {
       "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
       "team1": "Central Zone",
       "team2": "North East Zone",
@@ -38,6 +20,15 @@
       "match_date": "28/8/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
+    },
+    {
+      "title": "North Zone vs East Zone, 1st Quarter-Final",
+      "team1": "North Zone",
+      "team2": "East Zone",
+      "match_id": "123655",
+      "match_date": "28/8/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
     },
     {
       "title": "Kochi Blue Tigers vs Adani Trivandrum Royals, 15th Match",
@@ -58,6 +49,24 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132544"
     },
     {
+      "title": "Hampshire vs Middlesex, Quarter Final 1",
+      "team1": "Hampshire",
+      "team2": "Middlesex",
+      "match_id": "111961",
+      "match_date": "28/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111961"
+    },
+    {
+      "title": "Denmark vs Kuwait, 25th Match",
+      "team1": "Denmark",
+      "team2": "Kuwait",
+      "match_id": "129029",
+      "match_date": "28/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129029"
+    },
+    {
       "title": "Somerset vs Gloucestershire, Quarter Final 2",
       "team1": "Somerset",
       "team2": "Gloucestershire",
@@ -74,24 +83,6 @@
       "match_date": "28/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129040"
-    },
-    {
-      "title": "Denmark vs Kuwait, 25th Match",
-      "team1": "Denmark",
-      "team2": "Kuwait",
-      "match_id": "129029",
-      "match_date": "28/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129029"
-    },
-    {
-      "title": "Hampshire vs Middlesex, Quarter Final 1",
-      "team1": "Hampshire",
-      "team2": "Middlesex",
-      "match_id": "111961",
-      "match_date": "28/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111961"
     },
     {
       "title": "Aries Kollam Sailors vs Alleppey Ripples, 16th Match",
@@ -256,6 +247,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131037"
     },
     {
+      "title": "Finland Women vs Germany Women, 1st Match",
+      "team1": "Finland Women",
+      "team2": "Germany Women",
+      "match_id": "132687",
+      "match_date": "29/8/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132687"
+    },
+    {
       "title": "Namibia vs Scotland, 81st Match",
       "team1": "Namibia",
       "team2": "Scotland",
@@ -274,15 +274,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132698"
     },
     {
-      "title": "Finland Women vs Germany Women, 1st Match",
-      "team1": "Finland Women",
-      "team2": "Germany Women",
-      "match_id": "132687",
-      "match_date": "29/8/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132687"
-    },
-    {
       "title": "Guernsey vs Finland, 2nd Match",
       "team1": "Guernsey",
       "team2": "Finland",
@@ -290,6 +281,15 @@
       "match_date": "29/8/2025",
       "match_time": "9:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133132"
+    },
+    {
+      "title": "Trinbago Knight Riders vs Barbados Royals, 16th Match",
+      "team1": "Trinbago Knight Riders",
+      "team2": "Barbados Royals",
+      "match_id": "116705",
+      "match_date": "30/8/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116705"
     }
   ]
 }
