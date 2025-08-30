@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:47 AM 30-08-2025",
+  "last update time": "08:24 AM 30-08-2025",
   "matches": [
     {
       "title": "North Zone vs East Zone, 1st Quarter-Final",
@@ -20,15 +20,6 @@
       "match_date": "28/8/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
-    },
-    {
-      "title": "Saint Lucia Kings vs St Kitts and Nevis Patriots, 15th Match",
-      "team1": "Saint Lucia Kings",
-      "team2": "St Kitts and Nevis Patriots",
-      "match_id": "116702",
-      "match_date": "29/8/2025",
-      "match_time": "4:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116702"
     },
     {
       "title": "Hungary vs Serbia, 1st Match",
@@ -121,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=128886"
     },
     {
-      "title": "Finland Women vs Germany Women, 1st Match",
-      "team1": "Finland Women",
-      "team2": "Germany Women",
-      "match_id": "132687",
-      "match_date": "29/8/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132687"
-    },
-    {
       "title": "Afghanistan vs Pakistan, 1st Match",
       "team1": "Afghanistan",
       "team2": "Pakistan",
@@ -137,6 +119,15 @@
       "match_date": "29/8/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131037"
+    },
+    {
+      "title": "Finland Women vs Germany Women, 1st Match",
+      "team1": "Finland Women",
+      "team2": "Germany Women",
+      "match_id": "132687",
+      "match_date": "29/8/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132687"
     },
     {
       "title": "Norway Women vs Sweden Women, 2nd T20I",
@@ -220,13 +211,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133099"
     },
     {
-      "title": "Guernsey vs Switzerland, 1st T20I",
-      "team1": "Guernsey",
-      "team2": "Switzerland",
-      "match_id": "133704",
+      "title": "Papua New Guinea vs Qatar, 28th Match",
+      "team1": "Papua New Guinea",
+      "team2": "Qatar",
+      "match_id": "129051",
       "match_date": "30/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133704"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129051"
     },
     {
       "title": "Kenya vs Kuwait, 27th Match",
@@ -238,13 +229,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129045"
     },
     {
-      "title": "Papua New Guinea vs Qatar, 28th Match",
-      "team1": "Papua New Guinea",
-      "team2": "Qatar",
-      "match_id": "129051",
+      "title": "Guernsey vs Switzerland, 1st T20I",
+      "team1": "Guernsey",
+      "team2": "Switzerland",
+      "match_id": "133704",
       "match_date": "30/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129051"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133704"
     },
     {
       "title": "Bangladesh vs Netherlands, 1st T20I",
@@ -292,15 +283,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129986"
     },
     {
-      "title": "Kashi Rudras vs Meerut Mavericks, 27th Match",
-      "team1": "Kashi Rudras",
-      "team2": "Meerut Mavericks",
-      "match_id": "132582",
-      "match_date": "30/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132582"
-    },
-    {
       "title": "Denmark Women vs Finland Women, 5th Match",
       "team1": "Denmark Women",
       "team2": "Finland Women",
@@ -317,6 +299,15 @@
       "match_date": "30/8/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=132720"
+    },
+    {
+      "title": "Kashi Rudras vs Meerut Mavericks, 27th Match",
+      "team1": "Kashi Rudras",
+      "team2": "Meerut Mavericks",
+      "match_id": "132582",
+      "match_date": "30/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132582"
     },
     {
       "title": "United Arab Emirates vs Pakistan, 2nd Match",
