@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:52 PM 30-08-2025",
+  "last update time": "01:47 AM 31-08-2025",
   "matches": [
-    {
-      "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
-      "team1": "Central Zone",
-      "team2": "North East Zone",
-      "match_id": "123661",
-      "match_date": "28/8/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
-    },
     {
       "title": "North Zone vs East Zone, 1st Quarter-Final",
       "team1": "North Zone",
@@ -22,6 +13,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
     },
     {
+      "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
+      "team1": "Central Zone",
+      "team2": "North East Zone",
+      "match_id": "123661",
+      "match_date": "28/8/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
+    },
+    {
       "title": "Namibia vs Scotland, 81st Match",
       "team1": "Namibia",
       "team2": "Scotland",
@@ -29,33 +29,6 @@
       "match_date": "29/8/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128886"
-    },
-    {
-      "title": "Norway Women vs Sweden Women, 2nd T20I",
-      "team1": "Norway Women",
-      "team2": "Sweden Women",
-      "match_id": "132698",
-      "match_date": "29/8/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132698"
-    },
-    {
-      "title": "Finland Women vs Germany Women, 1st Match",
-      "team1": "Finland Women",
-      "team2": "Germany Women",
-      "match_id": "132687",
-      "match_date": "29/8/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132687"
-    },
-    {
-      "title": "Afghanistan vs Pakistan, 1st Match",
-      "team1": "Afghanistan",
-      "team2": "Pakistan",
-      "match_id": "131037",
-      "match_date": "29/8/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131037"
     },
     {
       "title": "Trinbago Knight Riders vs Barbados Royals, 16th Match",
@@ -85,15 +58,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116477"
     },
     {
-      "title": "Denmark Women vs Sweden Women, 4th Match",
-      "team1": "Denmark Women",
-      "team2": "Sweden Women",
-      "match_id": "132709",
-      "match_date": "30/8/2025",
-      "match_time": "2:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132709"
-    },
-    {
       "title": "Finland Women vs Norway Women, 3rd Match",
       "team1": "Finland Women",
       "team2": "Norway Women",
@@ -101,6 +65,15 @@
       "match_date": "30/8/2025",
       "match_time": "2:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=132703"
+    },
+    {
+      "title": "Denmark Women vs Sweden Women, 4th Match",
+      "team1": "Denmark Women",
+      "team2": "Sweden Women",
+      "match_id": "132709",
+      "match_date": "30/8/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132709"
     },
     {
       "title": "Adani Trivandrum Royals vs Calicut Globstars, 19th Match",
@@ -139,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129051"
     },
     {
-      "title": "Guernsey vs Switzerland, 1st T20I",
-      "team1": "Guernsey",
-      "team2": "Switzerland",
-      "match_id": "133704",
-      "match_date": "30/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133704"
-    },
-    {
       "title": "Kenya vs Kuwait, 27th Match",
       "team1": "Kenya",
       "team2": "Kuwait",
@@ -155,6 +119,15 @@
       "match_date": "30/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129045"
+    },
+    {
+      "title": "Guernsey vs Switzerland, 1st T20I",
+      "team1": "Guernsey",
+      "team2": "Switzerland",
+      "match_id": "133704",
+      "match_date": "30/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133704"
     },
     {
       "title": "Bangladesh vs Netherlands, 1st T20I",
@@ -175,15 +148,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133105"
     },
     {
-      "title": "Northern Superchargers Women vs London Spirit Women, Eliminator",
-      "team1": "Northern Superchargers Women",
-      "team2": "London Spirit Women",
-      "match_id": "114264",
-      "match_date": "30/8/2025",
-      "match_time": "6:45:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114264"
-    },
-    {
       "title": "Kochi Blue Tigers vs Thrissur Titans, 20th Match",
       "team1": "Kochi Blue Tigers",
       "team2": "Thrissur Titans",
@@ -193,6 +157,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130696"
     },
     {
+      "title": "Northern Superchargers Women vs London Spirit Women, Eliminator",
+      "team1": "Northern Superchargers Women",
+      "team2": "London Spirit Women",
+      "match_id": "114264",
+      "match_date": "30/8/2025",
+      "match_time": "6:45:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114264"
+    },
+    {
       "title": "East Delhi Riders vs West Delhi Lions, Qualifier 2",
       "team1": "East Delhi Riders",
       "team2": "West Delhi Lions",
@@ -200,6 +173,15 @@
       "match_date": "30/8/2025",
       "match_time": "7:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129986"
+    },
+    {
+      "title": "Germany Women vs Norway Women, 6th Match",
+      "team1": "Germany Women",
+      "team2": "Norway Women",
+      "match_id": "132720",
+      "match_date": "30/8/2025",
+      "match_time": "7:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132720"
     },
     {
       "title": "Denmark Women vs Finland Women, 5th Match",
@@ -220,13 +202,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132582"
     },
     {
-      "title": "Germany Women vs Norway Women, 6th Match",
-      "team1": "Germany Women",
-      "team2": "Norway Women",
-      "match_id": "132720",
+      "title": "Guernsey vs Switzerland, 2nd T20I",
+      "team1": "Guernsey",
+      "team2": "Switzerland",
+      "match_id": "133715",
       "match_date": "30/8/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132720"
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133715"
     },
     {
       "title": "United Arab Emirates vs Pakistan, 2nd Match",
@@ -236,15 +218,6 @@
       "match_date": "30/8/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131059"
-    },
-    {
-      "title": "Guernsey vs Switzerland, 2nd T20I",
-      "team1": "Guernsey",
-      "team2": "Switzerland",
-      "match_id": "133715",
-      "match_date": "30/8/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133715"
     },
     {
       "title": "Trent Rockets vs Northern Superchargers, Eliminator",
@@ -274,15 +247,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133110"
     },
     {
-      "title": "Zimbabwe vs Sri Lanka, 2nd ODI",
-      "team1": "Zimbabwe",
-      "team2": "Sri Lanka",
-      "match_id": "122951",
-      "match_date": "31/8/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=122951"
-    },
-    {
       "title": "Nigeria Women vs Sierra Leone Women, 1st Match, Group A",
       "team1": "Nigeria Women",
       "team2": "Sierra Leone Women",
@@ -301,13 +265,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131526"
     },
     {
-      "title": "Denmark Women vs Norway Women, 7th Match",
-      "team1": "Denmark Women",
-      "team2": "Norway Women",
-      "match_id": "132731",
+      "title": "Zimbabwe vs Sri Lanka, 2nd ODI",
+      "team1": "Zimbabwe",
+      "team2": "Sri Lanka",
+      "match_id": "122951",
       "match_date": "31/8/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132731"
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=122951"
     },
     {
       "title": "Sweden Women vs Germany Women, 8th Match",
@@ -317,6 +281,15 @@
       "match_date": "31/8/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=132736"
+    },
+    {
+      "title": "Denmark Women vs Norway Women, 7th Match",
+      "team1": "Denmark Women",
+      "team2": "Norway Women",
+      "match_id": "132731",
+      "match_date": "31/8/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132731"
     },
     {
       "title": "Adani Trivandrum Royals vs Aries Kollam Sailors, 21st Match",
@@ -346,22 +319,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=129067"
     },
     {
-      "title": "Worcestershire vs Somerset, Semi Final 1",
-      "team1": "Worcestershire",
-      "team2": "Somerset",
-      "match_id": "111973",
+      "title": "Jersey vs Qatar, 29th Match",
+      "team1": "Jersey",
+      "team2": "Qatar",
+      "match_id": "129062",
       "match_date": "31/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111973"
-    },
-    {
-      "title": "Yorkshire vs Hampshire, Semi Final 2",
-      "team1": "Yorkshire",
-      "team2": "Hampshire",
-      "match_id": "111981",
-      "match_date": "31/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111981"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129062"
     },
     {
       "title": "Guernsey vs Switzerland, 3rd T20I",
@@ -373,13 +337,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133726"
     },
     {
-      "title": "Jersey vs Qatar, 29th Match",
-      "team1": "Jersey",
-      "team2": "Qatar",
-      "match_id": "129062",
+      "title": "Yorkshire vs Hampshire, Semi Final 2",
+      "team1": "Yorkshire",
+      "team2": "Hampshire",
+      "match_id": "111981",
       "match_date": "31/8/2025",
       "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129062"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111981"
+    },
+    {
+      "title": "Worcestershire vs Somerset, Semi Final 1",
+      "team1": "Worcestershire",
+      "team2": "Somerset",
+      "match_id": "111973",
+      "match_date": "31/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111973"
     },
     {
       "title": "Tbc vs Tbc, Final",
@@ -391,15 +364,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133116"
     },
     {
-      "title": "Namibia Women vs Zimbabwe Women, 3rd Match, Group A",
-      "team1": "Namibia Women",
-      "team2": "Zimbabwe Women",
-      "match_id": "131532",
-      "match_date": "31/8/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131532"
-    },
-    {
       "title": "Tanzania Women vs Uganda Women, 4th Match, Group B",
       "team1": "Tanzania Women",
       "team2": "Uganda Women",
@@ -407,6 +371,15 @@
       "match_date": "31/8/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131543"
+    },
+    {
+      "title": "Namibia Women vs Zimbabwe Women, 3rd Match, Group A",
+      "team1": "Namibia Women",
+      "team2": "Zimbabwe Women",
+      "match_id": "131532",
+      "match_date": "31/8/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131532"
     },
     {
       "title": "Sweden Women vs Finland Women, 9th Match",
@@ -427,15 +400,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132747"
     },
     {
-      "title": "Southern Brave Women vs Northern Superchargers Women, Final",
-      "team1": "Southern Brave Women",
-      "team2": "Northern Superchargers Women",
-      "match_id": "114272",
-      "match_date": "31/8/2025",
-      "match_time": "6:45:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=114272"
-    },
-    {
       "title": "Alleppey Ripples vs Kochi Blue Tigers, 22nd Match",
       "team1": "Alleppey Ripples",
       "team2": "Kochi Blue Tigers",
@@ -443,6 +407,15 @@
       "match_date": "31/8/2025",
       "match_time": "6:45:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130718"
+    },
+    {
+      "title": "Southern Brave Women vs Northern Superchargers Women, Final",
+      "team1": "Southern Brave Women",
+      "team2": "Northern Superchargers Women",
+      "match_id": "114272",
+      "match_date": "31/8/2025",
+      "match_time": "6:45:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=114272"
     },
     {
       "title": "Central Delhi Kings vs West Delhi Lions, Final",
