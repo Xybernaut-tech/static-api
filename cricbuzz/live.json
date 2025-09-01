@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:48 AM 02-09-2025",
+  "last update time": "03:46 AM 02-09-2025",
   "matches": [
     {
       "title": "Canada vs Scotland, 82nd Match",
@@ -13,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=128897"
     },
     {
-      "title": "Kenya Women vs Tanzania Women, 6th Match, Group B",
-      "team1": "Kenya Women",
-      "team2": "Tanzania Women",
-      "match_id": "131565",
-      "match_date": "1/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131565"
-    },
-    {
       "title": "Sierra Leone Women vs Zimbabwe Women, 5th Match, Group A",
       "team1": "Sierra Leone Women",
       "team2": "Zimbabwe Women",
@@ -29,6 +20,15 @@
       "match_date": "1/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131554"
+    },
+    {
+      "title": "Kenya Women vs Tanzania Women, 6th Match, Group B",
+      "team1": "Kenya Women",
+      "team2": "Tanzania Women",
+      "match_id": "131565",
+      "match_date": "1/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131565"
     },
     {
       "title": "South Africa A vs New Zealand A, 2nd Unofficial ODI",
