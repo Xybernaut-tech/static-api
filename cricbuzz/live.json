@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:12 AM 01-09-2025",
+  "last update time": "08:50 AM 01-09-2025",
   "matches": [
-    {
-      "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
-      "team1": "Central Zone",
-      "team2": "North East Zone",
-      "match_id": "123661",
-      "match_date": "28/8/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
-    },
     {
       "title": "North Zone vs East Zone, 1st Quarter-Final",
       "team1": "North Zone",
@@ -22,13 +13,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123655"
     },
     {
-      "title": "Trinbago Knight Riders vs Guyana Amazon Warriors, 17th Match",
-      "team1": "Trinbago Knight Riders",
-      "team2": "Guyana Amazon Warriors",
-      "match_id": "116711",
-      "match_date": "31/8/2025",
-      "match_time": "4:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116711"
+      "title": "Central Zone vs North East Zone, 2nd Quarter-Final",
+      "team1": "Central Zone",
+      "team2": "North East Zone",
+      "match_id": "123661",
+      "match_date": "28/8/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123661"
     },
     {
       "title": "Croatia vs Serbia, 6th Match",
@@ -40,15 +31,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133110"
     },
     {
-      "title": "Zimbabwe vs Sri Lanka, 2nd ODI",
-      "team1": "Zimbabwe",
-      "team2": "Sri Lanka",
-      "match_id": "122951",
-      "match_date": "31/8/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=122951"
-    },
-    {
       "title": "Kenya Women vs Rwanda Women, 2nd Match, Group B",
       "team1": "Kenya Women",
       "team2": "Rwanda Women",
@@ -56,6 +38,15 @@
       "match_date": "31/8/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131526"
+    },
+    {
+      "title": "Zimbabwe vs Sri Lanka, 2nd ODI",
+      "team1": "Zimbabwe",
+      "team2": "Sri Lanka",
+      "match_id": "122951",
+      "match_date": "31/8/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=122951"
     },
     {
       "title": "Nigeria Women vs Sierra Leone Women, 1st Match, Group A",
@@ -121,6 +112,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111973"
     },
     {
+      "title": "Denmark vs Kenya, 30th Match",
+      "team1": "Denmark",
+      "team2": "Kenya",
+      "match_id": "129067",
+      "match_date": "31/8/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=129067"
+    },
+    {
       "title": "Yorkshire vs Hampshire, Semi Final 2",
       "team1": "Yorkshire",
       "team2": "Hampshire",
@@ -137,15 +137,6 @@
       "match_date": "31/8/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=129062"
-    },
-    {
-      "title": "Denmark vs Kenya, 30th Match",
-      "team1": "Denmark",
-      "team2": "Kenya",
-      "match_id": "129067",
-      "match_date": "31/8/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=129067"
     },
     {
       "title": "Hungary vs Serbia, Final",
@@ -229,15 +220,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132604"
     },
     {
-      "title": "Canada vs Scotland, 82nd Match",
-      "team1": "Canada",
-      "team2": "Scotland",
-      "match_id": "128897",
-      "match_date": "31/8/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128897"
-    },
-    {
       "title": "Saint Lucia Kings vs Antigua and Barbuda Falcons, 18th Match",
       "team1": "Saint Lucia Kings",
       "team2": "Antigua and Barbuda Falcons",
@@ -245,6 +227,15 @@
       "match_date": "31/8/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116720"
+    },
+    {
+      "title": "Canada vs Scotland, 82nd Match",
+      "team1": "Canada",
+      "team2": "Scotland",
+      "match_id": "128897",
+      "match_date": "31/8/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128897"
     },
     {
       "title": "Oval Invincibles vs Trent Rockets, Final",
@@ -256,15 +247,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=114297"
     },
     {
-      "title": "Kenya Women vs Tanzania Women, 6th Match, Group B",
-      "team1": "Kenya Women",
-      "team2": "Tanzania Women",
-      "match_id": "131565",
-      "match_date": "1/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131565"
-    },
-    {
       "title": "Sierra Leone Women vs Zimbabwe Women, 5th Match, Group A",
       "team1": "Sierra Leone Women",
       "team2": "Zimbabwe Women",
@@ -272,6 +254,15 @@
       "match_date": "1/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131554"
+    },
+    {
+      "title": "Kenya Women vs Tanzania Women, 6th Match, Group B",
+      "team1": "Kenya Women",
+      "team2": "Tanzania Women",
+      "match_id": "131565",
+      "match_date": "1/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131565"
     },
     {
       "title": "South Africa A vs New Zealand A, 2nd Unofficial ODI",
