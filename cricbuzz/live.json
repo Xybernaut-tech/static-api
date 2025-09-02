@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:46 AM 02-09-2025",
+  "last update time": "06:52 AM 02-09-2025",
   "matches": [
-    {
-      "title": "Canada vs Scotland, 82nd Match",
-      "team1": "Canada",
-      "team2": "Scotland",
-      "match_id": "128897",
-      "match_date": "31/8/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128897"
-    },
     {
       "title": "Sierra Leone Women vs Zimbabwe Women, 5th Match, Group A",
       "team1": "Sierra Leone Women",
@@ -166,15 +157,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130751"
     },
     {
-      "title": "Canada vs Namibia, 83rd Match",
-      "team1": "Canada",
-      "team2": "Namibia",
-      "match_id": "128902",
-      "match_date": "2/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128902"
-    },
-    {
       "title": "Pakistan vs Afghanistan, 4th Match",
       "team1": "Pakistan",
       "team2": "Afghanistan",
@@ -182,6 +164,15 @@
       "match_date": "2/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131070"
+    },
+    {
+      "title": "Canada vs Namibia, 83rd Match",
+      "team1": "Canada",
+      "team2": "Namibia",
+      "match_id": "128902",
+      "match_date": "2/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128902"
     }
   ]
 }
