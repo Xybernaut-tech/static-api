@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:58 AM 02-09-2025",
+  "last update time": "01:54 PM 02-09-2025",
   "matches": [
     {
       "title": "Sierra Leone Women vs Zimbabwe Women, 5th Match, Group A",
@@ -157,6 +157,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130751"
     },
     {
+      "title": "Canada vs Namibia, 83rd Match",
+      "team1": "Canada",
+      "team2": "Namibia",
+      "match_id": "128902",
+      "match_date": "2/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128902"
+    },
+    {
       "title": "Pakistan vs Afghanistan, 4th Match",
       "team1": "Pakistan",
       "team2": "Afghanistan",
@@ -166,13 +175,31 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131070"
     },
     {
-      "title": "Canada vs Namibia, 83rd Match",
-      "team1": "Canada",
-      "team2": "Namibia",
-      "match_id": "128902",
-      "match_date": "2/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128902"
+      "title": "Rwanda Women vs Tanzania Women, 9th Match, Group B",
+      "team1": "Rwanda Women",
+      "team2": "Tanzania Women",
+      "match_id": "131598",
+      "match_date": "3/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131598"
+    },
+    {
+      "title": "Namibia Women vs Sierra Leone Women, 10th Match, Group A",
+      "team1": "Namibia Women",
+      "team2": "Sierra Leone Women",
+      "match_id": "131609",
+      "match_date": "3/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131609"
+    },
+    {
+      "title": "South Africa A vs New Zealand A, 3rd Unofficial ODI",
+      "team1": "South Africa A",
+      "team2": "New Zealand A",
+      "match_id": "116489",
+      "match_date": "3/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116489"
     }
   ]
 }
