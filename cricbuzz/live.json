@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:48 AM 03-09-2025",
+  "last update time": "03:45 AM 03-09-2025",
   "matches": [
     {
       "title": "Kochi Blue Tigers vs Calicut Globstars, 25th Match",
@@ -58,15 +58,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131070"
     },
     {
-      "title": "Namibia Women vs Sierra Leone Women, 10th Match, Group A",
-      "team1": "Namibia Women",
-      "team2": "Sierra Leone Women",
-      "match_id": "131609",
-      "match_date": "3/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131609"
-    },
-    {
       "title": "Rwanda Women vs Tanzania Women, 9th Match, Group B",
       "team1": "Rwanda Women",
       "team2": "Tanzania Women",
@@ -74,6 +65,15 @@
       "match_date": "3/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131598"
+    },
+    {
+      "title": "Namibia Women vs Sierra Leone Women, 10th Match, Group A",
+      "team1": "Namibia Women",
+      "team2": "Sierra Leone Women",
+      "match_id": "131609",
+      "match_date": "3/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131609"
     },
     {
       "title": "South Africa A vs New Zealand A, 3rd Unofficial ODI",
