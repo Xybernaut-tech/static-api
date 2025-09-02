@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:08 PM 02-09-2025",
+  "last update time": "07:48 PM 02-09-2025",
   "matches": [
     {
       "title": "South Africa A vs New Zealand A, 2nd Unofficial ODI",
@@ -13,13 +13,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116480"
     },
     {
-      "title": "Brazil Women vs Isle of Man Women, 2nd Match",
-      "team1": "Brazil Women",
-      "team2": "Isle of Man Women",
-      "match_id": "133748",
+      "title": "Namibia Women vs Nigeria Women, 7th Match, Group A",
+      "team1": "Namibia Women",
+      "team2": "Nigeria Women",
+      "match_id": "131576",
       "match_date": "1/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133748"
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131576"
     },
     {
       "title": "Rwanda Women vs Uganda Women, 8th Match, Group B",
@@ -29,15 +29,6 @@
       "match_date": "1/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131587"
-    },
-    {
-      "title": "Namibia Women vs Nigeria Women, 7th Match, Group A",
-      "team1": "Namibia Women",
-      "team2": "Nigeria Women",
-      "match_id": "131576",
-      "match_date": "1/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131576"
     },
     {
       "title": "Bangladesh vs Netherlands, 2nd T20I",
@@ -76,15 +67,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133754"
     },
     {
-      "title": "United Arab Emirates vs Afghanistan, 3rd Match",
-      "team1": "United Arab Emirates",
-      "team2": "Afghanistan",
-      "match_id": "131064",
-      "match_date": "1/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131064"
-    },
-    {
       "title": "Trinbago Knight Riders vs St Kitts and Nevis Patriots, 19th Match",
       "team1": "Trinbago Knight Riders",
       "team2": "St Kitts and Nevis Patriots",
@@ -92,6 +74,15 @@
       "match_date": "1/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116729"
+    },
+    {
+      "title": "United Arab Emirates vs Afghanistan, 3rd Match",
+      "team1": "United Arab Emirates",
+      "team2": "Afghanistan",
+      "match_id": "131064",
+      "match_date": "1/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131064"
     },
     {
       "title": "Kochi Blue Tigers vs Calicut Globstars, 25th Match",
@@ -130,6 +121,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130751"
     },
     {
+      "title": "Canada vs Namibia, 83rd Match",
+      "team1": "Canada",
+      "team2": "Namibia",
+      "match_id": "128902",
+      "match_date": "2/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128902"
+    },
+    {
       "title": "Pakistan vs Afghanistan, 4th Match",
       "team1": "Pakistan",
       "team2": "Afghanistan",
@@ -137,15 +137,6 @@
       "match_date": "2/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131070"
-    },
-    {
-      "title": "Canada vs Namibia, 83rd Match",
-      "team1": "Canada",
-      "team2": "Namibia",
-      "match_id": "128902",
-      "match_date": "2/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128902"
     },
     {
       "title": "Rwanda Women vs Tanzania Women, 9th Match, Group B",
@@ -173,6 +164,15 @@
       "match_date": "3/9/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116489"
+    },
+    {
+      "title": "Lucknow Falcons vs Gaur Gorakhapur Lions, Eliminator",
+      "team1": "Lucknow Falcons",
+      "team2": "Gaur Gorakhapur Lions",
+      "match_id": "132632",
+      "match_date": "3/9/2025",
+      "match_time": "2:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132632"
     },
     {
       "title": "Adani Trivandrum Royals vs Alleppey Ripples, 27th Match",
@@ -236,6 +236,15 @@
       "match_date": "3/9/2025",
       "match_time": "5:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131119"
+    },
+    {
+      "title": "Aries Kollam Sailors vs Kochi Blue Tigers, 28th Match",
+      "team1": "Aries Kollam Sailors",
+      "team2": "Kochi Blue Tigers",
+      "match_id": "130762",
+      "match_date": "3/9/2025",
+      "match_time": "6:45:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130762"
     }
   ]
 }
