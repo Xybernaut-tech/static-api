@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:52 AM 02-09-2025",
+  "last update time": "11:58 AM 02-09-2025",
   "matches": [
-    {
-      "title": "Kenya Women vs Tanzania Women, 6th Match, Group B",
-      "team1": "Kenya Women",
-      "team2": "Tanzania Women",
-      "match_id": "131565",
-      "match_date": "1/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131565"
-    },
     {
       "title": "Sierra Leone Women vs Zimbabwe Women, 5th Match, Group A",
       "team1": "Sierra Leone Women",
@@ -20,6 +11,15 @@
       "match_date": "1/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131554"
+    },
+    {
+      "title": "Kenya Women vs Tanzania Women, 6th Match, Group B",
+      "team1": "Kenya Women",
+      "team2": "Tanzania Women",
+      "match_id": "131565",
+      "match_date": "1/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131565"
     },
     {
       "title": "South Africa A vs New Zealand A, 2nd Unofficial ODI",
@@ -103,15 +103,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133754"
     },
     {
-      "title": "Trinbago Knight Riders vs St Kitts and Nevis Patriots, 19th Match",
-      "team1": "Trinbago Knight Riders",
-      "team2": "St Kitts and Nevis Patriots",
-      "match_id": "116729",
-      "match_date": "1/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116729"
-    },
-    {
       "title": "United Arab Emirates vs Afghanistan, 3rd Match",
       "team1": "United Arab Emirates",
       "team2": "Afghanistan",
@@ -119,6 +110,15 @@
       "match_date": "1/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131064"
+    },
+    {
+      "title": "Trinbago Knight Riders vs St Kitts and Nevis Patriots, 19th Match",
+      "team1": "Trinbago Knight Riders",
+      "team2": "St Kitts and Nevis Patriots",
+      "match_id": "116729",
+      "match_date": "1/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116729"
     },
     {
       "title": "Kochi Blue Tigers vs Calicut Globstars, 25th Match",
