@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:50 AM 03-09-2025",
+  "last update time": "11:55 AM 03-09-2025",
   "matches": [
     {
       "title": "Kochi Blue Tigers vs Calicut Globstars, 25th Match",
@@ -94,15 +94,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130756"
     },
     {
-      "title": "Kashi Rudras vs Meerut Mavericks, Qualifier 1",
-      "team1": "Kashi Rudras",
-      "team2": "Meerut Mavericks",
-      "match_id": "132621",
-      "match_date": "3/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132621"
-    },
-    {
       "title": "Jersey Women vs Brazil Women, 5th Match",
       "team1": "Jersey Women",
       "team2": "Brazil Women",
@@ -110,6 +101,15 @@
       "match_date": "3/9/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133776"
+    },
+    {
+      "title": "Kashi Rudras vs Meerut Mavericks, Qualifier 1",
+      "team1": "Kashi Rudras",
+      "team2": "Meerut Mavericks",
+      "match_id": "132621",
+      "match_date": "3/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132621"
     },
     {
       "title": "Zimbabwe vs Sri Lanka, 1st T20I",
@@ -121,15 +121,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122962"
     },
     {
-      "title": "Nigeria Women vs Zimbabwe Women, 12th Match, Group A",
-      "team1": "Nigeria Women",
-      "team2": "Zimbabwe Women",
-      "match_id": "131625",
-      "match_date": "3/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131625"
-    },
-    {
       "title": "Kenya Women vs Uganda Women, 11th Match, Group B",
       "team1": "Kenya Women",
       "team2": "Uganda Women",
@@ -137,6 +128,15 @@
       "match_date": "3/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131614"
+    },
+    {
+      "title": "Nigeria Women vs Zimbabwe Women, 12th Match, Group A",
+      "team1": "Nigeria Women",
+      "team2": "Zimbabwe Women",
+      "match_id": "131625",
+      "match_date": "3/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131625"
     },
     {
       "title": "Bangladesh vs Netherlands, 3rd T20I",
