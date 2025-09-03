@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:45 AM 03-09-2025",
+  "last update time": "06:47 AM 03-09-2025",
   "matches": [
     {
       "title": "Kochi Blue Tigers vs Calicut Globstars, 25th Match",
@@ -121,15 +121,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122962"
     },
     {
-      "title": "Nigeria Women vs Zimbabwe Women, 12th Match, Group A",
-      "team1": "Nigeria Women",
-      "team2": "Zimbabwe Women",
-      "match_id": "131625",
-      "match_date": "3/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131625"
-    },
-    {
       "title": "Kenya Women vs Uganda Women, 11th Match, Group B",
       "team1": "Kenya Women",
       "team2": "Uganda Women",
@@ -137,6 +128,15 @@
       "match_date": "3/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131614"
+    },
+    {
+      "title": "Nigeria Women vs Zimbabwe Women, 12th Match, Group A",
+      "team1": "Nigeria Women",
+      "team2": "Zimbabwe Women",
+      "match_id": "131625",
+      "match_date": "3/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131625"
     },
     {
       "title": "Bangladesh vs Netherlands, 3rd T20I",
@@ -182,6 +182,15 @@
       "match_date": "3/9/2025",
       "match_time": "11:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111061"
+    },
+    {
+      "title": "Trinbago Knight Riders vs Saint Lucia Kings, 20th Match",
+      "team1": "Trinbago Knight Riders",
+      "team2": "Saint Lucia Kings",
+      "match_id": "116738",
+      "match_date": "4/9/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116738"
     }
   ]
 }
