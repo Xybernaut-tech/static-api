@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:48 PM 03-09-2025",
+  "last update time": "06:06 PM 03-09-2025",
   "matches": [
-    {
-      "title": "Kochi Blue Tigers vs Calicut Globstars, 25th Match",
-      "team1": "Kochi Blue Tigers",
-      "team2": "Calicut Globstars",
-      "match_id": "130740",
-      "match_date": "2/9/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130740"
-    },
     {
       "title": "Isle of Man Women vs Jersey Women, 4th Match",
       "team1": "Isle of Man Women",
@@ -94,15 +85,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130756"
     },
     {
-      "title": "Jersey Women vs Brazil Women, 5th Match",
-      "team1": "Jersey Women",
-      "team2": "Brazil Women",
-      "match_id": "133776",
-      "match_date": "3/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133776"
-    },
-    {
       "title": "Kashi Rudras vs Meerut Mavericks, Qualifier 1",
       "team1": "Kashi Rudras",
       "team2": "Meerut Mavericks",
@@ -110,6 +92,15 @@
       "match_date": "3/9/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=132621"
+    },
+    {
+      "title": "Jersey Women vs Brazil Women, 5th Match",
+      "team1": "Jersey Women",
+      "team2": "Brazil Women",
+      "match_id": "133776",
+      "match_date": "3/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133776"
     },
     {
       "title": "Zimbabwe vs Sri Lanka, 1st T20I",
@@ -121,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122962"
     },
     {
-      "title": "Nigeria Women vs Zimbabwe Women, 12th Match, Group A",
-      "team1": "Nigeria Women",
-      "team2": "Zimbabwe Women",
-      "match_id": "131625",
-      "match_date": "3/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131625"
-    },
-    {
       "title": "Kenya Women vs Uganda Women, 11th Match, Group B",
       "team1": "Kenya Women",
       "team2": "Uganda Women",
@@ -137,6 +119,15 @@
       "match_date": "3/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131614"
+    },
+    {
+      "title": "Nigeria Women vs Zimbabwe Women, 12th Match, Group A",
+      "team1": "Nigeria Women",
+      "team2": "Zimbabwe Women",
+      "match_id": "131625",
+      "match_date": "3/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131625"
     },
     {
       "title": "Bangladesh vs Netherlands, 3rd T20I",
@@ -211,15 +202,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
     },
     {
-      "title": "Tbc vs Tbc, 1st semi-final",
-      "team1": "Tbc",
-      "team2": "Tbc",
-      "match_id": "131631",
-      "match_date": "4/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131631"
-    },
-    {
       "title": "Tbc vs Tbc, 5th Place Play-off 1st Semi-Final",
       "team1": "Tbc",
       "team2": "Tbc",
@@ -227,6 +209,15 @@
       "match_date": "4/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131642"
+    },
+    {
+      "title": "Tbc vs Tbc, 1st semi-final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131631",
+      "match_date": "4/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131631"
     },
     {
       "title": "Alleppey Ripples vs Aries Kollam Sailors, 29th Match",
@@ -245,6 +236,33 @@
       "match_date": "4/9/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133792"
+    },
+    {
+      "title": "Tbc vs Tbc, 2nd semi-final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131647",
+      "match_date": "4/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
+    },
+    {
+      "title": "Tbc vs Tbc, 5th Place Play-off 2nd Semi-Final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131653",
+      "match_date": "4/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131653"
+    },
+    {
+      "title": "England vs South Africa, 2nd ODI",
+      "team1": "England",
+      "team2": "South Africa",
+      "match_id": "105788",
+      "match_date": "4/9/2025",
+      "match_time": "5:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=105788"
     }
   ]
 }
