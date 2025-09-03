@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:55 PM 03-09-2025",
+  "last update time": "01:48 AM 04-09-2025",
   "matches": [
-    {
-      "title": "England vs South Africa, 1st ODI",
-      "team1": "England",
-      "team2": "South Africa",
-      "match_id": "105786",
-      "match_date": "2/9/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=105786"
-    },
     {
       "title": "Canada vs Namibia, 83rd Match",
       "team1": "Canada",
@@ -20,15 +11,6 @@
       "match_date": "2/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128902"
-    },
-    {
-      "title": "Pakistan vs Afghanistan, 4th Match",
-      "team1": "Pakistan",
-      "team2": "Afghanistan",
-      "match_id": "131070",
-      "match_date": "2/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131070"
     },
     {
       "title": "Namibia Women vs Sierra Leone Women, 10th Match, Group A",
@@ -166,15 +148,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116738"
     },
     {
-      "title": "South Zone vs North Zone, 1st Semi-Final",
-      "team1": "South Zone",
-      "team2": "North Zone",
-      "match_id": "123672",
-      "match_date": "4/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
-    },
-    {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
       "team1": "West Zone",
       "team2": "Central Zone",
@@ -184,13 +157,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
     },
     {
-      "title": "Tbc vs Tbc, 5th Place Play-off 1st Semi-Final",
-      "team1": "Tbc",
-      "team2": "Tbc",
-      "match_id": "131642",
+      "title": "South Zone vs North Zone, 1st Semi-Final",
+      "team1": "South Zone",
+      "team2": "North Zone",
+      "match_id": "123672",
       "match_date": "4/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131642"
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
     },
     {
       "title": "Tbc vs Tbc, 1st semi-final",
@@ -200,6 +173,15 @@
       "match_date": "4/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131631"
+    },
+    {
+      "title": "Tbc vs Tbc, 5th Place Play-off 1st Semi-Final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131642",
+      "match_date": "4/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131642"
     },
     {
       "title": "Alleppey Ripples vs Aries Kollam Sailors, 29th Match",
@@ -265,15 +247,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132637"
     },
     {
-      "title": "Pakistan vs United Arab Emirates, 5th Match",
-      "team1": "Pakistan",
-      "team2": "United Arab Emirates",
-      "match_id": "131075",
-      "match_date": "4/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131075"
-    },
-    {
       "title": "Namibia vs Scotland, 84th Match",
       "team1": "Namibia",
       "team2": "Scotland",
@@ -281,6 +254,15 @@
       "match_date": "4/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128908"
+    },
+    {
+      "title": "Pakistan vs United Arab Emirates, 5th Match",
+      "team1": "Pakistan",
+      "team2": "United Arab Emirates",
+      "match_id": "131075",
+      "match_date": "4/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131075"
     }
   ]
 }
