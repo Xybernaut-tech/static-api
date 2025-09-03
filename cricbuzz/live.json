@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:47 PM 03-09-2025",
+  "last update time": "09:51 PM 03-09-2025",
   "matches": [
     {
       "title": "England vs South Africa, 1st ODI",
@@ -40,15 +40,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131070"
     },
     {
-      "title": "Rwanda Women vs Tanzania Women, 9th Match, Group B",
-      "team1": "Rwanda Women",
-      "team2": "Tanzania Women",
-      "match_id": "131598",
-      "match_date": "3/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131598"
-    },
-    {
       "title": "Namibia Women vs Sierra Leone Women, 10th Match, Group A",
       "team1": "Namibia Women",
       "team2": "Sierra Leone Women",
@@ -56,6 +47,15 @@
       "match_date": "3/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131609"
+    },
+    {
+      "title": "Rwanda Women vs Tanzania Women, 9th Match, Group B",
+      "team1": "Rwanda Women",
+      "team2": "Tanzania Women",
+      "match_id": "131598",
+      "match_date": "3/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131598"
     },
     {
       "title": "South Africa A vs New Zealand A, 3rd Unofficial ODI",
@@ -175,15 +175,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116738"
     },
     {
-      "title": "West Zone vs Central Zone, 2nd Semi-Final",
-      "team1": "West Zone",
-      "team2": "Central Zone",
-      "match_id": "123677",
-      "match_date": "4/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
-    },
-    {
       "title": "South Zone vs North Zone, 1st Semi-Final",
       "team1": "South Zone",
       "team2": "North Zone",
@@ -191,6 +182,15 @@
       "match_date": "4/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
+    },
+    {
+      "title": "West Zone vs Central Zone, 2nd Semi-Final",
+      "team1": "West Zone",
+      "team2": "Central Zone",
+      "match_id": "123677",
+      "match_date": "4/9/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
     },
     {
       "title": "Tbc vs Tbc, 1st semi-final",
@@ -229,15 +229,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133792"
     },
     {
-      "title": "Tbc vs Tbc, 2nd semi-final",
-      "team1": "Tbc",
-      "team2": "Tbc",
-      "match_id": "131647",
-      "match_date": "4/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
-    },
-    {
       "title": "Tbc vs Tbc, 5th Place Play-off 2nd Semi-Final",
       "team1": "Tbc",
       "team2": "Tbc",
@@ -245,6 +236,15 @@
       "match_date": "4/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131653"
+    },
+    {
+      "title": "Tbc vs Tbc, 2nd semi-final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131647",
+      "match_date": "4/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
     },
     {
       "title": "England vs South Africa, 2nd ODI",
@@ -272,6 +272,24 @@
       "match_date": "4/9/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=132637"
+    },
+    {
+      "title": "Namibia vs Scotland, 84th Match",
+      "team1": "Namibia",
+      "team2": "Scotland",
+      "match_id": "128908",
+      "match_date": "4/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128908"
+    },
+    {
+      "title": "Pakistan vs United Arab Emirates, 5th Match",
+      "team1": "Pakistan",
+      "team2": "United Arab Emirates",
+      "match_id": "131075",
+      "match_date": "4/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131075"
     }
   ]
 }
