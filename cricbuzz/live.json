@@ -1,53 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:46 PM 04-09-2025",
+  "last update time": "09:52 PM 04-09-2025",
   "matches": [
-    {
-      "title": "South Africa A vs New Zealand A, 3rd Unofficial ODI",
-      "team1": "South Africa A",
-      "team2": "New Zealand A",
-      "match_id": "116489",
-      "match_date": "3/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116489"
-    },
-    {
-      "title": "Zimbabwe vs Sri Lanka, 1st T20I",
-      "team1": "Zimbabwe",
-      "team2": "Sri Lanka",
-      "match_id": "122962",
-      "match_date": "3/9/2025",
-      "match_time": "5:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=122962"
-    },
-    {
-      "title": "Kenya Women vs Uganda Women, 11th Match, Group B",
-      "team1": "Kenya Women",
-      "team2": "Uganda Women",
-      "match_id": "131614",
-      "match_date": "3/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131614"
-    },
-    {
-      "title": "Nigeria Women vs Zimbabwe Women, 12th Match, Group A",
-      "team1": "Nigeria Women",
-      "team2": "Zimbabwe Women",
-      "match_id": "131625",
-      "match_date": "3/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131625"
-    },
-    {
-      "title": "Bangladesh vs Netherlands, 3rd T20I",
-      "team1": "Bangladesh",
-      "team2": "Netherlands",
-      "match_id": "131119",
-      "match_date": "3/9/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131119"
-    },
     {
       "title": "Aries Kollam Sailors vs Kochi Blue Tigers, 28th Match",
       "team1": "Aries Kollam Sailors",
@@ -94,15 +49,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116738"
     },
     {
-      "title": "South Zone vs North Zone, 1st Semi-Final",
-      "team1": "South Zone",
-      "team2": "North Zone",
-      "match_id": "123672",
-      "match_date": "4/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
-    },
-    {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
       "team1": "West Zone",
       "team2": "Central Zone",
@@ -110,6 +56,15 @@
       "match_date": "4/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
+    },
+    {
+      "title": "South Zone vs North Zone, 1st Semi-Final",
+      "team1": "South Zone",
+      "team2": "North Zone",
+      "match_id": "123672",
+      "match_date": "4/9/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
     },
     {
       "title": "Kenya Women vs Nigeria Women, 5th Place Play-off 1st Semi-Final",
@@ -245,6 +200,15 @@
       "match_date": "5/9/2025",
       "match_time": "6:45:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130795"
+    },
+    {
+      "title": "Afghanistan vs United Arab Emirates, 6th Match",
+      "team1": "Afghanistan",
+      "team2": "United Arab Emirates",
+      "match_id": "131086",
+      "match_date": "5/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131086"
     }
   ]
 }
