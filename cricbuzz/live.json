@@ -1,35 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:52 PM 04-09-2025",
+  "last update time": "11:54 PM 04-09-2025",
   "matches": [
-    {
-      "title": "Aries Kollam Sailors vs Kochi Blue Tigers, 28th Match",
-      "team1": "Aries Kollam Sailors",
-      "team2": "Kochi Blue Tigers",
-      "match_id": "130762",
-      "match_date": "3/9/2025",
-      "match_time": "6:45:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130762"
-    },
-    {
-      "title": "Lucknow Falcons vs Gaur Gorakhapur Lions, Eliminator",
-      "team1": "Lucknow Falcons",
-      "team2": "Gaur Gorakhapur Lions",
-      "match_id": "132632",
-      "match_date": "3/9/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132632"
-    },
-    {
-      "title": "Brazil Women vs Jersey Women, 6th Match",
-      "team1": "Brazil Women",
-      "team2": "Jersey Women",
-      "match_id": "133787",
-      "match_date": "3/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133787"
-    },
     {
       "title": "Surrey vs Northamptonshire, Quarter Final 1",
       "team1": "Surrey",
@@ -67,15 +40,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
     },
     {
-      "title": "Kenya Women vs Nigeria Women, 5th Place Play-off 1st Semi-Final",
-      "team1": "Kenya Women",
-      "team2": "Nigeria Women",
-      "match_id": "131642",
-      "match_date": "4/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131642"
-    },
-    {
       "title": "Uganda Women vs Zimbabwe Women, 1st semi-final",
       "team1": "Uganda Women",
       "team2": "Zimbabwe Women",
@@ -83,6 +47,15 @@
       "match_date": "4/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131631"
+    },
+    {
+      "title": "Kenya Women vs Nigeria Women, 5th Place Play-off 1st Semi-Final",
+      "team1": "Kenya Women",
+      "team2": "Nigeria Women",
+      "match_id": "131642",
+      "match_date": "4/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131642"
     },
     {
       "title": "Alleppey Ripples vs Aries Kollam Sailors, 29th Match",
@@ -103,15 +76,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133792"
     },
     {
-      "title": "Tanzania Women vs Namibia Women, 2nd semi-final",
-      "team1": "Tanzania Women",
-      "team2": "Namibia Women",
-      "match_id": "131647",
-      "match_date": "4/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
-    },
-    {
       "title": "Rwanda Women vs Sierra Leone Women, 5th Place Play-off 2nd Semi-Final",
       "team1": "Rwanda Women",
       "team2": "Sierra Leone Women",
@@ -119,6 +83,15 @@
       "match_date": "4/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131653"
+    },
+    {
+      "title": "Tanzania Women vs Namibia Women, 2nd semi-final",
+      "team1": "Tanzania Women",
+      "team2": "Namibia Women",
+      "match_id": "131647",
+      "match_date": "4/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
     },
     {
       "title": "England vs South Africa, 2nd ODI",
@@ -184,18 +157,18 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133798"
     },
     {
-      "title": "Tbc vs Tbc, Semi Final 1 (2nd v 3rd)",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Thrissur Titans vs Aries Kollam Sailors, Semi Final 1 (2nd v 3rd)",
+      "team1": "Thrissur Titans",
+      "team2": "Aries Kollam Sailors",
       "match_id": "130784",
       "match_date": "5/9/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130784"
     },
     {
-      "title": "Tbc vs Tbc, Semi Final 2 (1st v 4th)",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Kochi Blue Tigers vs Calicut Globstars, Semi Final 2 (1st v 4th)",
+      "team1": "Kochi Blue Tigers",
+      "team2": "Calicut Globstars",
       "match_id": "130795",
       "match_date": "5/9/2025",
       "match_time": "6:45:00 pm",
@@ -209,6 +182,15 @@
       "match_date": "5/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131086"
+    },
+    {
+      "title": "Durham vs Hampshire, Quarter Final 2",
+      "team1": "Durham",
+      "team2": "Hampshire",
+      "match_id": "111069",
+      "match_date": "5/9/2025",
+      "match_time": "11:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111069"
     }
   ]
 }
