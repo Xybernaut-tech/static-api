@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:50 AM 04-09-2025",
+  "last update time": "11:56 AM 04-09-2025",
   "matches": [
-    {
-      "title": "Rwanda Women vs Tanzania Women, 9th Match, Group B",
-      "team1": "Rwanda Women",
-      "team2": "Tanzania Women",
-      "match_id": "131598",
-      "match_date": "3/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131598"
-    },
     {
       "title": "Namibia Women vs Sierra Leone Women, 10th Match, Group A",
       "team1": "Namibia Women",
@@ -20,6 +11,15 @@
       "match_date": "3/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131609"
+    },
+    {
+      "title": "Rwanda Women vs Tanzania Women, 9th Match, Group B",
+      "team1": "Rwanda Women",
+      "team2": "Tanzania Women",
+      "match_id": "131598",
+      "match_date": "3/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131598"
     },
     {
       "title": "South Africa A vs New Zealand A, 3rd Unofficial ODI",
@@ -40,15 +40,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130756"
     },
     {
-      "title": "Kashi Rudras vs Meerut Mavericks, Qualifier 1",
-      "team1": "Kashi Rudras",
-      "team2": "Meerut Mavericks",
-      "match_id": "132621",
-      "match_date": "3/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=132621"
-    },
-    {
       "title": "Jersey Women vs Brazil Women, 5th Match",
       "team1": "Jersey Women",
       "team2": "Brazil Women",
@@ -56,6 +47,15 @@
       "match_date": "3/9/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133776"
+    },
+    {
+      "title": "Kashi Rudras vs Meerut Mavericks, Qualifier 1",
+      "team1": "Kashi Rudras",
+      "team2": "Meerut Mavericks",
+      "match_id": "132621",
+      "match_date": "3/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=132621"
     },
     {
       "title": "Zimbabwe vs Sri Lanka, 1st T20I",
@@ -193,15 +193,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133792"
     },
     {
-      "title": "Tbc vs Tbc, 2nd semi-final",
-      "team1": "Tbc",
-      "team2": "Tbc",
-      "match_id": "131647",
-      "match_date": "4/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
-    },
-    {
       "title": "Tbc vs Tbc, 5th Place Play-off 2nd Semi-Final",
       "team1": "Tbc",
       "team2": "Tbc",
@@ -209,6 +200,15 @@
       "match_date": "4/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131653"
+    },
+    {
+      "title": "Tbc vs Tbc, 2nd semi-final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131647",
+      "match_date": "4/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
     },
     {
       "title": "England vs South Africa, 2nd ODI",
@@ -238,15 +238,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132637"
     },
     {
-      "title": "Namibia vs Scotland, 84th Match",
-      "team1": "Namibia",
-      "team2": "Scotland",
-      "match_id": "128908",
-      "match_date": "4/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128908"
-    },
-    {
       "title": "Pakistan vs United Arab Emirates, 5th Match",
       "team1": "Pakistan",
       "team2": "United Arab Emirates",
@@ -254,6 +245,15 @@
       "match_date": "4/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131075"
+    },
+    {
+      "title": "Namibia vs Scotland, 84th Match",
+      "team1": "Namibia",
+      "team2": "Scotland",
+      "match_id": "128908",
+      "match_date": "4/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128908"
     },
     {
       "title": "Barbados Royals vs Guyana Amazon Warriors, 21st Match",
