@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:48 AM 05-09-2025",
+  "last update time": "03:45 AM 05-09-2025",
   "matches": [
-    {
-      "title": "Surrey vs Northamptonshire, Quarter Final 1",
-      "team1": "Surrey",
-      "team2": "Northamptonshire",
-      "match_id": "111061",
-      "match_date": "3/9/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111061"
-    },
     {
       "title": "Trinbago Knight Riders vs Saint Lucia Kings, 20th Match",
       "team1": "Trinbago Knight Riders",
@@ -22,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116738"
     },
     {
-      "title": "South Zone vs North Zone, 1st Semi-Final",
-      "team1": "South Zone",
-      "team2": "North Zone",
-      "match_id": "123672",
-      "match_date": "4/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
-    },
-    {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
       "team1": "West Zone",
       "team2": "Central Zone",
@@ -38,6 +20,15 @@
       "match_date": "4/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
+    },
+    {
+      "title": "South Zone vs North Zone, 1st Semi-Final",
+      "team1": "South Zone",
+      "team2": "North Zone",
+      "match_id": "123672",
+      "match_date": "4/9/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
     },
     {
       "title": "Uganda Women vs Zimbabwe Women, 1st semi-final",
@@ -76,15 +67,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133792"
     },
     {
-      "title": "Tanzania Women vs Namibia Women, 2nd semi-final",
-      "team1": "Tanzania Women",
-      "team2": "Namibia Women",
-      "match_id": "131647",
-      "match_date": "4/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
-    },
-    {
       "title": "Rwanda Women vs Sierra Leone Women, 5th Place Play-off 2nd Semi-Final",
       "team1": "Rwanda Women",
       "team2": "Sierra Leone Women",
@@ -92,6 +74,15 @@
       "match_date": "4/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131653"
+    },
+    {
+      "title": "Tanzania Women vs Namibia Women, 2nd semi-final",
+      "team1": "Tanzania Women",
+      "team2": "Namibia Women",
+      "match_id": "131647",
+      "match_date": "4/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
     },
     {
       "title": "England vs South Africa, 2nd ODI",
@@ -191,6 +182,15 @@
       "match_date": "5/9/2025",
       "match_time": "11:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=111069"
+    },
+    {
+      "title": "Fiji Women vs Japan Women, 2nd T20I",
+      "team1": "Fiji Women",
+      "team2": "Japan Women",
+      "match_id": "133809",
+      "match_date": "6/9/2025",
+      "match_time": "3:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133809"
     }
   ]
 }
