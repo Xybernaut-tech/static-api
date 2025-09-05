@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:49 AM 06-09-2025",
+  "last update time": "03:46 AM 06-09-2025",
   "matches": [
-    {
-      "title": "South Zone vs North Zone, 1st Semi-Final",
-      "team1": "South Zone",
-      "team2": "North Zone",
-      "match_id": "123672",
-      "match_date": "4/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
-    },
     {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
       "team1": "West Zone",
@@ -20,6 +11,15 @@
       "match_date": "4/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
+    },
+    {
+      "title": "South Zone vs North Zone, 1st Semi-Final",
+      "team1": "South Zone",
+      "team2": "North Zone",
+      "match_id": "123672",
+      "match_date": "4/9/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
     },
     {
       "title": "Namibia vs Scotland, 84th Match",
