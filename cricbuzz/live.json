@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:50 AM 05-09-2025",
+  "last update time": "11:56 AM 05-09-2025",
   "matches": [
     {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
@@ -22,15 +22,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
     },
     {
-      "title": "Uganda Women vs Zimbabwe Women, 1st semi-final",
-      "team1": "Uganda Women",
-      "team2": "Zimbabwe Women",
-      "match_id": "131631",
-      "match_date": "4/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131631"
-    },
-    {
       "title": "Kenya Women vs Nigeria Women, 5th Place Play-off 1st Semi-Final",
       "team1": "Kenya Women",
       "team2": "Nigeria Women",
@@ -38,6 +29,15 @@
       "match_date": "4/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131642"
+    },
+    {
+      "title": "Uganda Women vs Zimbabwe Women, 1st semi-final",
+      "team1": "Uganda Women",
+      "team2": "Zimbabwe Women",
+      "match_id": "131631",
+      "match_date": "4/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131631"
     },
     {
       "title": "Alleppey Ripples vs Aries Kollam Sailors, 29th Match",
@@ -58,15 +58,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133792"
     },
     {
-      "title": "Rwanda Women vs Sierra Leone Women, 5th Place Play-off 2nd Semi-Final",
-      "team1": "Rwanda Women",
-      "team2": "Sierra Leone Women",
-      "match_id": "131653",
-      "match_date": "4/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131653"
-    },
-    {
       "title": "Tanzania Women vs Namibia Women, 2nd semi-final",
       "team1": "Tanzania Women",
       "team2": "Namibia Women",
@@ -74,6 +65,15 @@
       "match_date": "4/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
+    },
+    {
+      "title": "Rwanda Women vs Sierra Leone Women, 5th Place Play-off 2nd Semi-Final",
+      "team1": "Rwanda Women",
+      "team2": "Sierra Leone Women",
+      "match_id": "131653",
+      "match_date": "4/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131653"
     },
     {
       "title": "England vs South Africa, 2nd ODI",
