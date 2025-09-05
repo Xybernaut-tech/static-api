@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:46 PM 05-09-2025",
+  "last update time": "09:50 PM 05-09-2025",
   "matches": [
-    {
-      "title": "West Zone vs Central Zone, 2nd Semi-Final",
-      "team1": "West Zone",
-      "team2": "Central Zone",
-      "match_id": "123677",
-      "match_date": "4/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
-    },
     {
       "title": "South Zone vs North Zone, 1st Semi-Final",
       "team1": "South Zone",
@@ -22,22 +13,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
     },
     {
-      "title": "Tanzania Women vs Namibia Women, 2nd semi-final",
-      "team1": "Tanzania Women",
-      "team2": "Namibia Women",
-      "match_id": "131647",
+      "title": "West Zone vs Central Zone, 2nd Semi-Final",
+      "team1": "West Zone",
+      "team2": "Central Zone",
+      "match_id": "123677",
       "match_date": "4/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131647"
-    },
-    {
-      "title": "Rwanda Women vs Sierra Leone Women, 5th Place Play-off 2nd Semi-Final",
-      "team1": "Rwanda Women",
-      "team2": "Sierra Leone Women",
-      "match_id": "131653",
-      "match_date": "4/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131653"
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
     },
     {
       "title": "England vs South Africa, 2nd ODI",
@@ -157,15 +139,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116750"
     },
     {
-      "title": "Tbc vs Tbc, 7th Place Play-off",
-      "team1": "Tbc",
-      "team2": "Tbc",
-      "match_id": "131669",
-      "match_date": "6/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131669"
-    },
-    {
       "title": "Uganda Women vs Tanzania Women, 3rd place play-off",
       "team1": "Uganda Women",
       "team2": "Tanzania Women",
@@ -173,6 +146,15 @@
       "match_date": "6/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131664"
+    },
+    {
+      "title": "Tbc vs Tbc, 7th Place Play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131669",
+      "match_date": "6/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131669"
     },
     {
       "title": "Estonia Women vs Czech Republic Women, 1st T20I",
@@ -245,6 +227,24 @@
       "match_date": "6/9/2025",
       "match_time": "7:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=132648"
+    },
+    {
+      "title": "Isle Of Man vs Sweden, 2nd T20I",
+      "team1": "Isle Of Man",
+      "team2": "Sweden",
+      "match_id": "133171",
+      "match_date": "6/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133171"
+    },
+    {
+      "title": "Canada vs Scotland, 85th Match",
+      "team1": "Canada",
+      "team2": "Scotland",
+      "match_id": "128919",
+      "match_date": "6/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128919"
     }
   ]
 }
