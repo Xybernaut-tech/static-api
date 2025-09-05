@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:48 PM 05-09-2025",
+  "last update time": "06:05 PM 05-09-2025",
   "matches": [
     {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
@@ -20,33 +20,6 @@
       "match_date": "4/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
-    },
-    {
-      "title": "Kenya Women vs Nigeria Women, 5th Place Play-off 1st Semi-Final",
-      "team1": "Kenya Women",
-      "team2": "Nigeria Women",
-      "match_id": "131642",
-      "match_date": "4/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131642"
-    },
-    {
-      "title": "Uganda Women vs Zimbabwe Women, 1st semi-final",
-      "team1": "Uganda Women",
-      "team2": "Zimbabwe Women",
-      "match_id": "131631",
-      "match_date": "4/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131631"
-    },
-    {
-      "title": "Alleppey Ripples vs Aries Kollam Sailors, 29th Match",
-      "team1": "Alleppey Ripples",
-      "team2": "Aries Kollam Sailors",
-      "match_id": "130773",
-      "match_date": "4/9/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130773"
     },
     {
       "title": "Jersey Women vs Brazil Women, 7th Match",
@@ -227,6 +200,42 @@
       "match_date": "6/9/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133160"
+    },
+    {
+      "title": "Zimbabwe vs Sri Lanka, 2nd T20I",
+      "team1": "Zimbabwe",
+      "team2": "Sri Lanka",
+      "match_id": "122968",
+      "match_date": "6/9/2025",
+      "match_time": "5:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=122968"
+    },
+    {
+      "title": "Tbc vs Tbc, Final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131686",
+      "match_date": "6/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131686"
+    },
+    {
+      "title": "Tbc vs Tbc, 5th Place Play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131675",
+      "match_date": "6/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131675"
+    },
+    {
+      "title": "Estonia Women vs Czech Republic Women, 2nd T20I",
+      "team1": "Estonia Women",
+      "team2": "Czech Republic Women",
+      "match_id": "133061",
+      "match_date": "6/9/2025",
+      "match_time": "6:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133061"
     }
   ]
 }
