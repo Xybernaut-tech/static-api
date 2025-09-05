@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:45 AM 05-09-2025",
+  "last update time": "06:49 AM 05-09-2025",
   "matches": [
     {
       "title": "Trinbago Knight Riders vs Saint Lucia Kings, 20th Match",
@@ -13,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116738"
     },
     {
-      "title": "West Zone vs Central Zone, 2nd Semi-Final",
-      "team1": "West Zone",
-      "team2": "Central Zone",
-      "match_id": "123677",
-      "match_date": "4/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
-    },
-    {
       "title": "South Zone vs North Zone, 1st Semi-Final",
       "team1": "South Zone",
       "team2": "North Zone",
@@ -29,6 +20,15 @@
       "match_date": "4/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
+    },
+    {
+      "title": "West Zone vs Central Zone, 2nd Semi-Final",
+      "team1": "West Zone",
+      "team2": "Central Zone",
+      "match_id": "123677",
+      "match_date": "4/9/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
     },
     {
       "title": "Uganda Women vs Zimbabwe Women, 1st semi-final",
@@ -191,6 +191,15 @@
       "match_date": "6/9/2025",
       "match_time": "3:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133809"
+    },
+    {
+      "title": "Barbados Royals vs Antigua And Barbuda Falcons, 22nd Match",
+      "team1": "Barbados Royals",
+      "team2": "Antigua And Barbuda Falcons",
+      "match_id": "116750",
+      "match_date": "6/9/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116750"
     }
   ]
 }
