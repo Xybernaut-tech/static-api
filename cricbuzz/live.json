@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:01 PM 06-09-2025",
+  "last update time": "07:43 PM 06-09-2025",
   "matches": [
     {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
@@ -245,6 +245,15 @@
       "match_date": "7/9/2025",
       "match_time": "5:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=122973"
+    },
+    {
+      "title": "Aries Kollam Sailors vs Kochi Blue Tigers, Final",
+      "team1": "Aries Kollam Sailors",
+      "team2": "Kochi Blue Tigers",
+      "match_id": "130806",
+      "match_date": "7/9/2025",
+      "match_time": "6:45:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130806"
     }
   ]
 }
