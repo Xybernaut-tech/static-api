@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:43 PM 06-09-2025",
+  "last update time": "09:49 PM 06-09-2025",
   "matches": [
     {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
@@ -112,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122968"
     },
     {
-      "title": "Kenya Women vs Rwanda Women, 5th Place Play-off",
-      "team1": "Kenya Women",
-      "team2": "Rwanda Women",
-      "match_id": "131675",
-      "match_date": "6/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131675"
-    },
-    {
       "title": "Zimbabwe Women vs Namibia Women, Final",
       "team1": "Zimbabwe Women",
       "team2": "Namibia Women",
@@ -128,6 +119,15 @@
       "match_date": "6/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131686"
+    },
+    {
+      "title": "Kenya Women vs Rwanda Women, 5th Place Play-off",
+      "team1": "Kenya Women",
+      "team2": "Rwanda Women",
+      "match_id": "131675",
+      "match_date": "6/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131675"
     },
     {
       "title": "Estonia Women vs Czech Republic Women, 2nd T20I",
@@ -157,15 +157,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132648"
     },
     {
-      "title": "Canada vs Scotland, 85th Match",
-      "team1": "Canada",
-      "team2": "Scotland",
-      "match_id": "128919",
-      "match_date": "6/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128919"
-    },
-    {
       "title": "Isle Of Man vs Sweden, 2nd T20I",
       "team1": "Isle Of Man",
       "team2": "Sweden",
@@ -173,6 +164,15 @@
       "match_date": "6/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133171"
+    },
+    {
+      "title": "Canada vs Scotland, 85th Match",
+      "team1": "Canada",
+      "team2": "Scotland",
+      "match_id": "128919",
+      "match_date": "6/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128919"
     },
     {
       "title": "Somerset vs Warwickshire, Quarter Final 4",
@@ -220,15 +220,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116495"
     },
     {
-      "title": "Isle Of Man vs Sweden, 3rd T20I",
-      "team1": "Isle Of Man",
-      "team2": "Sweden",
-      "match_id": "133176",
-      "match_date": "7/9/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133176"
-    },
-    {
       "title": "England vs South Africa, 3rd ODI",
       "team1": "England",
       "team2": "South Africa",
@@ -236,6 +227,15 @@
       "match_date": "7/9/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105794"
+    },
+    {
+      "title": "Isle Of Man vs Sweden, 3rd T20I",
+      "team1": "Isle Of Man",
+      "team2": "Sweden",
+      "match_id": "133176",
+      "match_date": "7/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133176"
     },
     {
       "title": "Zimbabwe vs Sri Lanka, 3rd T20I",
@@ -254,6 +254,33 @@
       "match_date": "7/9/2025",
       "match_time": "6:45:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130806"
+    },
+    {
+      "title": "Isle Of Man vs Sweden, 4th Match",
+      "team1": "Isle Of Man",
+      "team2": "Sweden",
+      "match_id": "133187",
+      "match_date": "7/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133187"
+    },
+    {
+      "title": "Pakistan vs Afghanistan, Final",
+      "team1": "Pakistan",
+      "team2": "Afghanistan",
+      "match_id": "131092",
+      "match_date": "7/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131092"
+    },
+    {
+      "title": "Barbados Royals vs Saint Lucia Kings, 24th Match",
+      "team1": "Barbados Royals",
+      "team2": "Saint Lucia Kings",
+      "match_id": "116765",
+      "match_date": "7/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116765"
     }
   ]
 }
