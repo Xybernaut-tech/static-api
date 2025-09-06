@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:49 PM 06-09-2025",
+  "last update time": "11:51 PM 06-09-2025",
   "matches": [
     {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
@@ -20,15 +20,6 @@
       "match_date": "4/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
-    },
-    {
-      "title": "Kochi Blue Tigers vs Calicut Globstars, Semi Final 2 (1st v 4th)",
-      "team1": "Kochi Blue Tigers",
-      "team2": "Calicut Globstars",
-      "match_id": "130795",
-      "match_date": "5/9/2025",
-      "match_time": "6:45:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130795"
     },
     {
       "title": "Afghanistan vs United Arab Emirates, 6th Match",
@@ -265,15 +256,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133187"
     },
     {
-      "title": "Pakistan vs Afghanistan, Final",
-      "team1": "Pakistan",
-      "team2": "Afghanistan",
-      "match_id": "131092",
-      "match_date": "7/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131092"
-    },
-    {
       "title": "Barbados Royals vs Saint Lucia Kings, 24th Match",
       "team1": "Barbados Royals",
       "team2": "Saint Lucia Kings",
@@ -281,6 +263,15 @@
       "match_date": "7/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116765"
+    },
+    {
+      "title": "Pakistan vs Afghanistan, Final",
+      "team1": "Pakistan",
+      "team2": "Afghanistan",
+      "match_id": "131092",
+      "match_date": "7/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131092"
     }
   ]
 }
