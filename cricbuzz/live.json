@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:46 AM 07-09-2025",
+  "last update time": "03:44 AM 07-09-2025",
   "matches": [
-    {
-      "title": "West Zone vs Central Zone, 2nd Semi-Final",
-      "team1": "West Zone",
-      "team2": "Central Zone",
-      "match_id": "123677",
-      "match_date": "4/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
-    },
     {
       "title": "South Zone vs North Zone, 1st Semi-Final",
       "team1": "South Zone",
@@ -22,13 +13,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
     },
     {
-      "title": "Durham vs Hampshire, Quarter Final 2",
-      "team1": "Durham",
-      "team2": "Hampshire",
-      "match_id": "111069",
-      "match_date": "5/9/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111069"
+      "title": "West Zone vs Central Zone, 2nd Semi-Final",
+      "team1": "West Zone",
+      "team2": "Central Zone",
+      "match_id": "123677",
+      "match_date": "4/9/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
     },
     {
       "title": "Fiji Women vs Japan Women, 2nd T20I",
@@ -49,15 +40,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116750"
     },
     {
-      "title": "Uganda Women vs Tanzania Women, 3rd place play-off",
-      "team1": "Uganda Women",
-      "team2": "Tanzania Women",
-      "match_id": "131664",
-      "match_date": "6/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131664"
-    },
-    {
       "title": "Nigeria Women vs Sierra Leone Women, 7th Place Play-off",
       "team1": "Nigeria Women",
       "team2": "Sierra Leone Women",
@@ -65,6 +47,15 @@
       "match_date": "6/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131669"
+    },
+    {
+      "title": "Uganda Women vs Tanzania Women, 3rd place play-off",
+      "team1": "Uganda Women",
+      "team2": "Tanzania Women",
+      "match_id": "131664",
+      "match_date": "6/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131664"
     },
     {
       "title": "Estonia Women vs Czech Republic Women, 1st T20I",
@@ -139,15 +130,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132648"
     },
     {
-      "title": "Canada vs Scotland, 85th Match",
-      "team1": "Canada",
-      "team2": "Scotland",
-      "match_id": "128919",
-      "match_date": "6/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128919"
-    },
-    {
       "title": "Isle Of Man vs Sweden, 2nd T20I",
       "team1": "Isle Of Man",
       "team2": "Sweden",
@@ -155,6 +137,15 @@
       "match_date": "6/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133171"
+    },
+    {
+      "title": "Canada vs Scotland, 85th Match",
+      "team1": "Canada",
+      "team2": "Scotland",
+      "match_id": "128919",
+      "match_date": "6/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128919"
     },
     {
       "title": "Somerset vs Warwickshire, Quarter Final 4",
@@ -202,15 +193,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116495"
     },
     {
-      "title": "Isle Of Man vs Sweden, 3rd T20I",
-      "team1": "Isle Of Man",
-      "team2": "Sweden",
-      "match_id": "133176",
-      "match_date": "7/9/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133176"
-    },
-    {
       "title": "England vs South Africa, 3rd ODI",
       "team1": "England",
       "team2": "South Africa",
@@ -218,6 +200,15 @@
       "match_date": "7/9/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105794"
+    },
+    {
+      "title": "Isle Of Man vs Sweden, 3rd T20I",
+      "team1": "Isle Of Man",
+      "team2": "Sweden",
+      "match_id": "133176",
+      "match_date": "7/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133176"
     },
     {
       "title": "Zimbabwe vs Sri Lanka, 3rd T20I",
@@ -247,15 +238,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133187"
     },
     {
-      "title": "Pakistan vs Afghanistan, Final",
-      "team1": "Pakistan",
-      "team2": "Afghanistan",
-      "match_id": "131092",
-      "match_date": "7/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131092"
-    },
-    {
       "title": "Barbados Royals vs Saint Lucia Kings, 24th Match",
       "team1": "Barbados Royals",
       "team2": "Saint Lucia Kings",
@@ -263,6 +245,15 @@
       "match_date": "7/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116765"
+    },
+    {
+      "title": "Pakistan vs Afghanistan, Final",
+      "team1": "Pakistan",
+      "team2": "Afghanistan",
+      "match_id": "131092",
+      "match_date": "7/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131092"
     },
     {
       "title": "Guyana Amazon Warriors Women vs Barbados Royals Women, 2nd Match",
