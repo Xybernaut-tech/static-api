@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:45 PM 06-09-2025",
+  "last update time": "06:01 PM 06-09-2025",
   "matches": [
     {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
@@ -20,15 +20,6 @@
       "match_date": "4/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
-    },
-    {
-      "title": "Thrissur Titans vs Aries Kollam Sailors, Semi Final 1 (2nd v 3rd)",
-      "team1": "Thrissur Titans",
-      "team2": "Aries Kollam Sailors",
-      "match_id": "130784",
-      "match_date": "5/9/2025",
-      "match_time": "2:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130784"
     },
     {
       "title": "Kochi Blue Tigers vs Calicut Globstars, Semi Final 2 (1st v 4th)",
@@ -121,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122968"
     },
     {
-      "title": "Zimbabwe Women vs Namibia Women, Final",
-      "team1": "Zimbabwe Women",
-      "team2": "Namibia Women",
-      "match_id": "131686",
-      "match_date": "6/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131686"
-    },
-    {
       "title": "Kenya Women vs Rwanda Women, 5th Place Play-off",
       "team1": "Kenya Women",
       "team2": "Rwanda Women",
@@ -137,6 +119,15 @@
       "match_date": "6/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131675"
+    },
+    {
+      "title": "Zimbabwe Women vs Namibia Women, Final",
+      "team1": "Zimbabwe Women",
+      "team2": "Namibia Women",
+      "match_id": "131686",
+      "match_date": "6/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131686"
     },
     {
       "title": "Estonia Women vs Czech Republic Women, 2nd T20I",
@@ -166,15 +157,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132648"
     },
     {
-      "title": "Isle Of Man vs Sweden, 2nd T20I",
-      "team1": "Isle Of Man",
-      "team2": "Sweden",
-      "match_id": "133171",
-      "match_date": "6/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133171"
-    },
-    {
       "title": "Canada vs Scotland, 85th Match",
       "team1": "Canada",
       "team2": "Scotland",
@@ -182,6 +164,15 @@
       "match_date": "6/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128919"
+    },
+    {
+      "title": "Isle Of Man vs Sweden, 2nd T20I",
+      "team1": "Isle Of Man",
+      "team2": "Sweden",
+      "match_id": "133171",
+      "match_date": "6/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133171"
     },
     {
       "title": "Somerset vs Warwickshire, Quarter Final 4",
@@ -229,6 +220,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116495"
     },
     {
+      "title": "Isle Of Man vs Sweden, 3rd T20I",
+      "team1": "Isle Of Man",
+      "team2": "Sweden",
+      "match_id": "133176",
+      "match_date": "7/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133176"
+    },
+    {
       "title": "England vs South Africa, 3rd ODI",
       "team1": "England",
       "team2": "South Africa",
@@ -238,13 +238,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=105794"
     },
     {
-      "title": "Isle Of Man vs Sweden, 3rd T20I",
-      "team1": "Isle Of Man",
-      "team2": "Sweden",
-      "match_id": "133176",
+      "title": "Zimbabwe vs Sri Lanka, 3rd T20I",
+      "team1": "Zimbabwe",
+      "team2": "Sri Lanka",
+      "match_id": "122973",
       "match_date": "7/9/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133176"
+      "match_time": "5:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=122973"
     }
   ]
 }
