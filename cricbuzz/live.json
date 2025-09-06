@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:53 AM 06-09-2025",
+  "last update time": "01:49 PM 06-09-2025",
   "matches": [
     {
       "title": "South Zone vs North Zone, 1st Semi-Final",
@@ -121,15 +121,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122968"
     },
     {
-      "title": "Kenya Women vs Rwanda Women, 5th Place Play-off",
-      "team1": "Kenya Women",
-      "team2": "Rwanda Women",
-      "match_id": "131675",
-      "match_date": "6/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131675"
-    },
-    {
       "title": "Zimbabwe Women vs Namibia Women, Final",
       "team1": "Zimbabwe Women",
       "team2": "Namibia Women",
@@ -137,6 +128,15 @@
       "match_date": "6/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131686"
+    },
+    {
+      "title": "Kenya Women vs Rwanda Women, 5th Place Play-off",
+      "team1": "Kenya Women",
+      "team2": "Rwanda Women",
+      "match_id": "131675",
+      "match_date": "6/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131675"
     },
     {
       "title": "Estonia Women vs Czech Republic Women, 2nd T20I",
@@ -166,15 +166,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132648"
     },
     {
-      "title": "Isle Of Man vs Sweden, 2nd T20I",
-      "team1": "Isle Of Man",
-      "team2": "Sweden",
-      "match_id": "133171",
-      "match_date": "6/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133171"
-    },
-    {
       "title": "Canada vs Scotland, 85th Match",
       "team1": "Canada",
       "team2": "Scotland",
@@ -182,6 +173,15 @@
       "match_date": "6/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128919"
+    },
+    {
+      "title": "Isle Of Man vs Sweden, 2nd T20I",
+      "team1": "Isle Of Man",
+      "team2": "Sweden",
+      "match_id": "133171",
+      "match_date": "6/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133171"
     },
     {
       "title": "Somerset vs Warwickshire, Quarter Final 4",
@@ -209,6 +209,24 @@
       "match_date": "7/9/2025",
       "match_time": "4:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116759"
+    },
+    {
+      "title": "Estonia Women vs Czech Republic Women, 3rd T20I",
+      "team1": "Estonia Women",
+      "team2": "Czech Republic Women",
+      "match_id": "133066",
+      "match_date": "7/9/2025",
+      "match_time": "12:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133066"
+    },
+    {
+      "title": "South Africa A vs New Zealand A, 1st Unofficial Test",
+      "team1": "South Africa A",
+      "team2": "New Zealand A",
+      "match_id": "116495",
+      "match_date": "7/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116495"
     }
   ]
 }
