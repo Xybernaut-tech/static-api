@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:44 AM 07-09-2025",
+  "last update time": "06:54 AM 07-09-2025",
   "matches": [
     {
       "title": "South Zone vs North Zone, 1st Semi-Final",
@@ -130,15 +130,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132648"
     },
     {
-      "title": "Isle Of Man vs Sweden, 2nd T20I",
-      "team1": "Isle Of Man",
-      "team2": "Sweden",
-      "match_id": "133171",
-      "match_date": "6/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133171"
-    },
-    {
       "title": "Canada vs Scotland, 85th Match",
       "team1": "Canada",
       "team2": "Scotland",
@@ -146,6 +137,15 @@
       "match_date": "6/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128919"
+    },
+    {
+      "title": "Isle Of Man vs Sweden, 2nd T20I",
+      "team1": "Isle Of Man",
+      "team2": "Sweden",
+      "match_id": "133171",
+      "match_date": "6/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133171"
     },
     {
       "title": "Somerset vs Warwickshire, Quarter Final 4",
@@ -193,15 +193,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116495"
     },
     {
-      "title": "England vs South Africa, 3rd ODI",
-      "team1": "England",
-      "team2": "South Africa",
-      "match_id": "105794",
-      "match_date": "7/9/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=105794"
-    },
-    {
       "title": "Isle Of Man vs Sweden, 3rd T20I",
       "team1": "Isle Of Man",
       "team2": "Sweden",
@@ -209,6 +200,15 @@
       "match_date": "7/9/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133176"
+    },
+    {
+      "title": "England vs South Africa, 3rd ODI",
+      "team1": "England",
+      "team2": "South Africa",
+      "match_id": "105794",
+      "match_date": "7/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=105794"
     },
     {
       "title": "Zimbabwe vs Sri Lanka, 3rd T20I",
@@ -238,15 +238,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133187"
     },
     {
-      "title": "Barbados Royals vs Saint Lucia Kings, 24th Match",
-      "team1": "Barbados Royals",
-      "team2": "Saint Lucia Kings",
-      "match_id": "116765",
-      "match_date": "7/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116765"
-    },
-    {
       "title": "Pakistan vs Afghanistan, Final",
       "team1": "Pakistan",
       "team2": "Afghanistan",
@@ -254,6 +245,15 @@
       "match_date": "7/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131092"
+    },
+    {
+      "title": "Barbados Royals vs Saint Lucia Kings, 24th Match",
+      "team1": "Barbados Royals",
+      "team2": "Saint Lucia Kings",
+      "match_id": "116765",
+      "match_date": "7/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116765"
     },
     {
       "title": "Guyana Amazon Warriors Women vs Barbados Royals Women, 2nd Match",
