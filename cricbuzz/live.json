@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:49 PM 07-09-2025",
+  "last update time": "03:46 PM 07-09-2025",
   "matches": [
-    {
-      "title": "South Zone vs North Zone, 1st Semi-Final",
-      "team1": "South Zone",
-      "team2": "North Zone",
-      "match_id": "123672",
-      "match_date": "4/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
-    },
     {
       "title": "West Zone vs Central Zone, 2nd Semi-Final",
       "team1": "West Zone",
@@ -20,6 +11,15 @@
       "match_date": "4/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123677"
+    },
+    {
+      "title": "South Zone vs North Zone, 1st Semi-Final",
+      "team1": "South Zone",
+      "team2": "North Zone",
+      "match_id": "123672",
+      "match_date": "4/9/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123672"
     },
     {
       "title": "Nigeria Women vs Sierra Leone Women, 7th Place Play-off",
@@ -67,15 +67,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122968"
     },
     {
-      "title": "Zimbabwe Women vs Namibia Women, Final",
-      "team1": "Zimbabwe Women",
-      "team2": "Namibia Women",
-      "match_id": "131686",
-      "match_date": "6/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131686"
-    },
-    {
       "title": "Kenya Women vs Rwanda Women, 5th Place Play-off",
       "team1": "Kenya Women",
       "team2": "Rwanda Women",
@@ -83,6 +74,15 @@
       "match_date": "6/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131675"
+    },
+    {
+      "title": "Zimbabwe Women vs Namibia Women, Final",
+      "team1": "Zimbabwe Women",
+      "team2": "Namibia Women",
+      "match_id": "131686",
+      "match_date": "6/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131686"
     },
     {
       "title": "Estonia Women vs Czech Republic Women, 2nd T20I",
@@ -112,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=132648"
     },
     {
-      "title": "Canada vs Scotland, 85th Match",
-      "team1": "Canada",
-      "team2": "Scotland",
-      "match_id": "128919",
-      "match_date": "6/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128919"
-    },
-    {
       "title": "Isle Of Man vs Sweden, 2nd T20I",
       "team1": "Isle Of Man",
       "team2": "Sweden",
@@ -128,6 +119,15 @@
       "match_date": "6/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133171"
+    },
+    {
+      "title": "Canada vs Scotland, 85th Match",
+      "team1": "Canada",
+      "team2": "Scotland",
+      "match_id": "128919",
+      "match_date": "6/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128919"
     },
     {
       "title": "Somerset vs Warwickshire, Quarter Final 4",
@@ -175,15 +175,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116495"
     },
     {
-      "title": "England vs South Africa, 3rd ODI",
-      "team1": "England",
-      "team2": "South Africa",
-      "match_id": "105794",
-      "match_date": "7/9/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=105794"
-    },
-    {
       "title": "Isle Of Man vs Sweden, 3rd T20I",
       "team1": "Isle Of Man",
       "team2": "Sweden",
@@ -191,6 +182,15 @@
       "match_date": "7/9/2025",
       "match_time": "3:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133176"
+    },
+    {
+      "title": "England vs South Africa, 3rd ODI",
+      "team1": "England",
+      "team2": "South Africa",
+      "match_id": "105794",
+      "match_date": "7/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=105794"
     },
     {
       "title": "Zimbabwe vs Sri Lanka, 3rd T20I",
@@ -220,6 +220,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133187"
     },
     {
+      "title": "Barbados Royals vs Saint Lucia Kings, 24th Match",
+      "team1": "Barbados Royals",
+      "team2": "Saint Lucia Kings",
+      "match_id": "116765",
+      "match_date": "7/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116765"
+    },
+    {
       "title": "Pakistan vs Afghanistan, Final",
       "team1": "Pakistan",
       "team2": "Afghanistan",
@@ -229,13 +238,85 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131092"
     },
     {
-      "title": "Barbados Royals vs Saint Lucia Kings, 24th Match",
-      "team1": "Barbados Royals",
-      "team2": "Saint Lucia Kings",
-      "match_id": "116765",
-      "match_date": "7/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116765"
+      "title": "Worcestershire vs Nottinghamshire, 60th Match",
+      "team1": "Worcestershire",
+      "team2": "Nottinghamshire",
+      "match_id": "113217",
+      "match_date": "8/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113217"
+    },
+    {
+      "title": "Essex vs Durham, 56th Match",
+      "team1": "Essex",
+      "team2": "Durham",
+      "match_id": "113199",
+      "match_date": "8/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113199"
+    },
+    {
+      "title": "Somerset vs Yorkshire, 57th Match",
+      "team1": "Somerset",
+      "team2": "Yorkshire",
+      "match_id": "113202",
+      "match_date": "8/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113202"
+    },
+    {
+      "title": "Surrey vs Warwickshire, 58th Match",
+      "team1": "Surrey",
+      "team2": "Warwickshire",
+      "match_id": "113208",
+      "match_date": "8/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113208"
+    },
+    {
+      "title": "Northamptonshire vs Glamorgan, 47th Match",
+      "team1": "Northamptonshire",
+      "team2": "Glamorgan",
+      "match_id": "113616",
+      "match_date": "8/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113616"
+    },
+    {
+      "title": "Kent vs Lancashire, 48th Match",
+      "team1": "Kent",
+      "team2": "Lancashire",
+      "match_id": "113625",
+      "match_date": "8/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113625"
+    },
+    {
+      "title": "Sussex vs Hampshire, 59th Match",
+      "team1": "Sussex",
+      "team2": "Hampshire",
+      "match_id": "113211",
+      "match_date": "8/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113211"
+    },
+    {
+      "title": "Middlesex vs Derbyshire, 46th Match",
+      "team1": "Middlesex",
+      "team2": "Derbyshire",
+      "match_id": "113613",
+      "match_date": "8/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113613"
+    },
+    {
+      "title": "Leicestershire vs Gloucestershire, 45th Match",
+      "team1": "Leicestershire",
+      "team2": "Gloucestershire",
+      "match_id": "113607",
+      "match_date": "8/9/2025",
+      "match_time": "3:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113607"
     },
     {
       "title": "Guyana Amazon Warriors Women vs Barbados Royals Women, 2nd Match",
