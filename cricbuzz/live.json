@@ -1,89 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:48 PM 12-09-2025",
+  "last update time": "11:51 PM 12-09-2025",
   "matches": [
-    {
-      "title": "Essex vs Durham, 56th Match",
-      "team1": "Essex",
-      "team2": "Durham",
-      "match_id": "113199",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113199"
-    },
-    {
-      "title": "Surrey vs Warwickshire, 58th Match",
-      "team1": "Surrey",
-      "team2": "Warwickshire",
-      "match_id": "113208",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113208"
-    },
-    {
-      "title": "Kent vs Lancashire, 48th Match",
-      "team1": "Kent",
-      "team2": "Lancashire",
-      "match_id": "113625",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113625"
-    },
-    {
-      "title": "Somerset vs Yorkshire, 57th Match",
-      "team1": "Somerset",
-      "team2": "Yorkshire",
-      "match_id": "113202",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113202"
-    },
-    {
-      "title": "Leicestershire vs Gloucestershire, 45th Match",
-      "team1": "Leicestershire",
-      "team2": "Gloucestershire",
-      "match_id": "113607",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113607"
-    },
-    {
-      "title": "Worcestershire vs Nottinghamshire, 60th Match",
-      "team1": "Worcestershire",
-      "team2": "Nottinghamshire",
-      "match_id": "113217",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113217"
-    },
-    {
-      "title": "Middlesex vs Derbyshire, 46th Match",
-      "team1": "Middlesex",
-      "team2": "Derbyshire",
-      "match_id": "113613",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113613"
-    },
-    {
-      "title": "Northamptonshire vs Glamorgan, 47th Match",
-      "team1": "Northamptonshire",
-      "team2": "Glamorgan",
-      "match_id": "113616",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113616"
-    },
-    {
-      "title": "Sussex vs Hampshire, 59th Match",
-      "team1": "Sussex",
-      "team2": "Hampshire",
-      "match_id": "113211",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113211"
-    },
     {
       "title": "South Zone vs Central Zone, Final",
       "team1": "South Zone",
@@ -94,13 +13,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123688"
     },
     {
-      "title": "Bangladesh vs Hong Kong, 3rd Match, Group B",
-      "team1": "Bangladesh",
-      "team2": "Hong Kong",
-      "match_id": "130030",
-      "match_date": "11/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130030"
+      "title": "Philippines Women vs Japan Women, 10th Match, Group B",
+      "team1": "Philippines Women",
+      "team2": "Japan Women",
+      "match_id": "131801",
+      "match_date": "12/9/2025",
+      "match_time": "3:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131801"
     },
     {
       "title": "Cook Islands Women vs Indonesia Women, 9th Match, Group A",
@@ -110,15 +29,6 @@
       "match_date": "12/9/2025",
       "match_time": "3:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131790"
-    },
-    {
-      "title": "Philippines Women vs Japan Women, 10th Match, Group B",
-      "team1": "Philippines Women",
-      "team2": "Japan Women",
-      "match_id": "131801",
-      "match_date": "12/9/2025",
-      "match_time": "3:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131801"
     },
     {
       "title": "Barbados Royals vs St Kitts and Nevis Patriots, 27th Match",
@@ -308,6 +218,15 @@
       "match_date": "13/9/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116801"
+    },
+    {
+      "title": "Tbc vs Tbc, Final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "111101",
+      "match_date": "13/9/2025",
+      "match_time": "11:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=111101"
     }
   ]
 }
