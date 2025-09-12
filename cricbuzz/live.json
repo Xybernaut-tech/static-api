@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:47 AM 12-09-2025",
+  "last update time": "08:23 AM 12-09-2025",
   "matches": [
     {
       "title": "Tbc vs Tbc, Playoffs - Match 2",
@@ -11,6 +11,15 @@
       "match_date": "13/8/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131829"
+    },
+    {
+      "title": "Essex vs Durham, 56th Match",
+      "team1": "Essex",
+      "team2": "Durham",
+      "match_id": "113199",
+      "match_date": "8/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113199"
     },
     {
       "title": "Leicestershire vs Gloucestershire, 45th Match",
@@ -40,15 +49,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113613"
     },
     {
-      "title": "Worcestershire vs Nottinghamshire, 60th Match",
-      "team1": "Worcestershire",
-      "team2": "Nottinghamshire",
-      "match_id": "113217",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113217"
-    },
-    {
       "title": "Kent vs Lancashire, 48th Match",
       "team1": "Kent",
       "team2": "Lancashire",
@@ -58,31 +58,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113625"
     },
     {
-      "title": "Surrey vs Warwickshire, 58th Match",
-      "team1": "Surrey",
-      "team2": "Warwickshire",
-      "match_id": "113208",
+      "title": "Worcestershire vs Nottinghamshire, 60th Match",
+      "team1": "Worcestershire",
+      "team2": "Nottinghamshire",
+      "match_id": "113217",
       "match_date": "8/9/2025",
       "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113208"
-    },
-    {
-      "title": "Essex vs Durham, 56th Match",
-      "team1": "Essex",
-      "team2": "Durham",
-      "match_id": "113199",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113199"
-    },
-    {
-      "title": "Northamptonshire vs Glamorgan, 47th Match",
-      "team1": "Northamptonshire",
-      "team2": "Glamorgan",
-      "match_id": "113616",
-      "match_date": "8/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113616"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113217"
     },
     {
       "title": "Somerset vs Yorkshire, 57th Match",
@@ -94,13 +76,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113202"
     },
     {
-      "title": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons, 26th Match",
-      "team1": "Guyana Amazon Warriors",
-      "team2": "Antigua and Barbuda Falcons",
-      "match_id": "116783",
-      "match_date": "11/9/2025",
-      "match_time": "4:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116783"
+      "title": "Surrey vs Warwickshire, 58th Match",
+      "team1": "Surrey",
+      "team2": "Warwickshire",
+      "match_id": "113208",
+      "match_date": "8/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113208"
+    },
+    {
+      "title": "Northamptonshire vs Glamorgan, 47th Match",
+      "team1": "Northamptonshire",
+      "team2": "Glamorgan",
+      "match_id": "113616",
+      "match_date": "8/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113616"
     },
     {
       "title": "South Zone vs Central Zone, Final",
@@ -227,6 +218,24 @@
       "match_date": "13/9/2025",
       "match_time": "2:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131823"
+    },
+    {
+      "title": "Tbc vs Tbc, 1st Semi-Final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131834",
+      "match_date": "13/9/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131834"
+    },
+    {
+      "title": "Tbc vs Tbc, 2nd Semi-Final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131845",
+      "match_date": "13/9/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131845"
     }
   ]
 }
