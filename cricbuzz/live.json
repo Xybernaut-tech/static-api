@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:45 PM 13-09-2025",
+  "last update time": "06:02 PM 13-09-2025",
   "matches": [
     {
       "title": "South Zone vs Central Zone, Final",
@@ -11,15 +11,6 @@
       "match_date": "11/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123688"
-    },
-    {
-      "title": "Eswatini vs Mozambique, 1st T20I",
-      "team1": "Eswatini",
-      "team2": "Mozambique",
-      "match_id": "134667",
-      "match_date": "12/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134667"
     },
     {
       "title": "Eswatini vs Mozambique, 2nd T20I",
@@ -193,15 +184,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122115"
     },
     {
-      "title": "South Africa A vs New Zealand A, 2nd Unofficial Test",
-      "team1": "South Africa A",
-      "team2": "New Zealand A",
-      "match_id": "116498",
-      "match_date": "14/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116498"
-    },
-    {
       "title": "India Women vs Australia Women, 1st ODI",
       "team1": "India Women",
       "team2": "Australia Women",
@@ -211,6 +193,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=119819"
     },
     {
+      "title": "South Africa A vs New Zealand A, 2nd Unofficial Test",
+      "team1": "South Africa A",
+      "team2": "New Zealand A",
+      "match_id": "116498",
+      "match_date": "14/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116498"
+    },
+    {
       "title": "Tbc vs Tbc, 3rd Place Play-off",
       "team1": "Tbc",
       "team2": "Tbc",
@@ -218,6 +209,24 @@
       "match_date": "14/9/2025",
       "match_time": "2:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133836"
+    },
+    {
+      "title": "Eswatini vs Mozambique, 5th T20I",
+      "team1": "Eswatini",
+      "team2": "Mozambique",
+      "match_id": "134705",
+      "match_date": "14/9/2025",
+      "match_time": "4:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134705"
+    },
+    {
+      "title": "Tbc vs Tbc, Final",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "133847",
+      "match_date": "14/9/2025",
+      "match_time": "6:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133847"
     }
   ]
 }
