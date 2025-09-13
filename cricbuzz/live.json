@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:49 AM 13-09-2025",
+  "last update time": "11:53 AM 13-09-2025",
   "matches": [
     {
       "title": "South Zone vs Central Zone, Final",
@@ -11,24 +11,6 @@
       "match_date": "11/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123688"
-    },
-    {
-      "title": "Fiji Women vs Vanuatu Women, 11th Match, Group A",
-      "team1": "Fiji Women",
-      "team2": "Vanuatu Women",
-      "match_id": "131807",
-      "match_date": "12/9/2025",
-      "match_time": "7:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131807"
-    },
-    {
-      "title": "Samoa Women vs Papua New Guinea Women, 12th Match, Group B",
-      "team1": "Samoa Women",
-      "team2": "Papua New Guinea Women",
-      "match_id": "131818",
-      "match_date": "12/9/2025",
-      "match_time": "7:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131818"
     },
     {
       "title": "Eswatini vs Mozambique, 1st T20I",
