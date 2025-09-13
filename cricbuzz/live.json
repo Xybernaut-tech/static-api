@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:48 PM 13-09-2025",
+  "last update time": "11:50 PM 13-09-2025",
   "matches": [
     {
       "title": "South Zone vs Central Zone, Final",
@@ -13,24 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123688"
     },
     {
-      "title": "Luxembourg Women vs Switzerland Women, 1st Match",
-      "team1": "Luxembourg Women",
-      "team2": "Switzerland Women",
-      "match_id": "133814",
-      "match_date": "12/9/2025",
-      "match_time": "7:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133814"
-    },
-    {
-      "title": "Pakistan vs Oman, 4th Match, Group A",
-      "team1": "Pakistan",
-      "team2": "Oman",
-      "match_id": "130047",
-      "match_date": "12/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130047"
-    },
-    {
       "title": "England vs South Africa, 2nd T20I",
       "team1": "England",
       "team2": "South Africa",
@@ -38,15 +20,6 @@
       "match_date": "12/9/2025",
       "match_time": "11:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105804"
-    },
-    {
-      "title": "Samoa Women vs Cook Islands Women, Playoffs - Match 1",
-      "team1": "Samoa Women",
-      "team2": "Cook Islands Women",
-      "match_id": "131823",
-      "match_date": "13/9/2025",
-      "match_time": "2:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131823"
     },
     {
       "title": "Fiji Women vs Philippines Women, Playoffs - Match 2",
@@ -58,6 +31,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131829"
     },
     {
+      "title": "Samoa Women vs Cook Islands Women, Playoffs - Match 1",
+      "team1": "Samoa Women",
+      "team2": "Cook Islands Women",
+      "match_id": "131823",
+      "match_date": "13/9/2025",
+      "match_time": "2:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131823"
+    },
+    {
       "title": "Barbados Royals vs Trinbago Knight Riders, 28th Match",
       "team1": "Barbados Royals",
       "team2": "Trinbago Knight Riders",
@@ -67,15 +49,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116795"
     },
     {
-      "title": "Vanuatu Women vs Japan Women, 2nd Semi-Final",
-      "team1": "Vanuatu Women",
-      "team2": "Japan Women",
-      "match_id": "131845",
-      "match_date": "13/9/2025",
-      "match_time": "7:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131845"
-    },
-    {
       "title": "Papua New Guinea Women vs Indonesia Women, 1st Semi-Final",
       "team1": "Papua New Guinea Women",
       "team2": "Indonesia Women",
@@ -83,6 +56,15 @@
       "match_date": "13/9/2025",
       "match_time": "7:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131834"
+    },
+    {
+      "title": "Vanuatu Women vs Japan Women, 2nd Semi-Final",
+      "team1": "Vanuatu Women",
+      "team2": "Japan Women",
+      "match_id": "131845",
+      "match_date": "13/9/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131845"
     },
     {
       "title": "Eswatini vs Mozambique, 3rd T20I",
@@ -157,9 +139,9 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116801"
     },
     {
-      "title": "Tbc vs Tbc, Final",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Somerset vs Hampshire, Final",
+      "team1": "Somerset",
+      "team2": "Hampshire",
       "match_id": "111101",
       "match_date": "13/9/2025",
       "match_time": "11:15:00 pm",
@@ -175,15 +157,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122115"
     },
     {
-      "title": "India Women vs Australia Women, 1st ODI",
-      "team1": "India Women",
-      "team2": "Australia Women",
-      "match_id": "119819",
-      "match_date": "14/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=119819"
-    },
-    {
       "title": "South Africa A vs New Zealand A, 2nd Unofficial Test",
       "team1": "South Africa A",
       "team2": "New Zealand A",
@@ -191,6 +164,15 @@
       "match_date": "14/9/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116498"
+    },
+    {
+      "title": "India Women vs Australia Women, 1st ODI",
+      "team1": "India Women",
+      "team2": "Australia Women",
+      "match_id": "119819",
+      "match_date": "14/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=119819"
     },
     {
       "title": "Tbc vs Tbc, 3rd Place Play-off",
@@ -236,6 +218,15 @@
       "match_date": "14/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130069"
+    },
+    {
+      "title": "Guyana Amazon Warriors Women vs Barbados Royals Women, 5th Match",
+      "team1": "Guyana Amazon Warriors Women",
+      "team2": "Barbados Royals Women",
+      "match_id": "122126",
+      "match_date": "14/9/2025",
+      "match_time": "11:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=122126"
     }
   ]
 }
