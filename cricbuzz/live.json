@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:45 AM 13-09-2025",
+  "last update time": "06:44 AM 13-09-2025",
   "matches": [
     {
       "title": "South Zone vs Central Zone, Final",
@@ -11,24 +11,6 @@
       "match_date": "11/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123688"
-    },
-    {
-      "title": "Philippines Women vs Japan Women, 10th Match, Group B",
-      "team1": "Philippines Women",
-      "team2": "Japan Women",
-      "match_id": "131801",
-      "match_date": "12/9/2025",
-      "match_time": "3:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131801"
-    },
-    {
-      "title": "Cook Islands Women vs Indonesia Women, 9th Match, Group A",
-      "team1": "Cook Islands Women",
-      "team2": "Indonesia Women",
-      "match_id": "131790",
-      "match_date": "12/9/2025",
-      "match_time": "3:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131790"
     },
     {
       "title": "Barbados Royals vs St Kitts and Nevis Patriots, 27th Match",
@@ -103,15 +85,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=105804"
     },
     {
-      "title": "Samoa Women vs Cook Islands Women, Playoffs - Match 1",
-      "team1": "Samoa Women",
-      "team2": "Cook Islands Women",
-      "match_id": "131823",
-      "match_date": "13/9/2025",
-      "match_time": "2:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131823"
-    },
-    {
       "title": "Fiji Women vs Philippines Women, Playoffs - Match 2",
       "team1": "Fiji Women",
       "team2": "Philippines Women",
@@ -119,6 +92,15 @@
       "match_date": "13/9/2025",
       "match_time": "2:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131829"
+    },
+    {
+      "title": "Samoa Women vs Cook Islands Women, Playoffs - Match 1",
+      "team1": "Samoa Women",
+      "team2": "Cook Islands Women",
+      "match_id": "131823",
+      "match_date": "13/9/2025",
+      "match_time": "2:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131823"
     },
     {
       "title": "Barbados Royals vs Trinbago Knight Riders, 28th Match",
@@ -130,15 +112,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116795"
     },
     {
-      "title": "Vanuatu Women vs Japan Women, 2nd Semi-Final",
-      "team1": "Vanuatu Women",
-      "team2": "Japan Women",
-      "match_id": "131845",
-      "match_date": "13/9/2025",
-      "match_time": "7:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131845"
-    },
-    {
       "title": "Papua New Guinea Women vs Indonesia Women, 1st Semi-Final",
       "team1": "Papua New Guinea Women",
       "team2": "Indonesia Women",
@@ -146,6 +119,15 @@
       "match_date": "13/9/2025",
       "match_time": "7:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131834"
+    },
+    {
+      "title": "Vanuatu Women vs Japan Women, 2nd Semi-Final",
+      "team1": "Vanuatu Women",
+      "team2": "Japan Women",
+      "match_id": "131845",
+      "match_date": "13/9/2025",
+      "match_time": "7:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131845"
     },
     {
       "title": "Eswatini vs Mozambique, 3rd T20I",
