@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:46 AM 14-09-2025",
+  "last update time": "03:44 AM 14-09-2025",
   "matches": [
     {
       "title": "South Zone vs Central Zone, Final",
@@ -11,15 +11,6 @@
       "match_date": "11/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123688"
-    },
-    {
-      "title": "England vs South Africa, 2nd T20I",
-      "team1": "England",
-      "team2": "South Africa",
-      "match_id": "105804",
-      "match_date": "12/9/2025",
-      "match_time": "11:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=105804"
     },
     {
       "title": "Samoa Women vs Cook Islands Women, Playoffs - Match 1",
@@ -227,6 +218,24 @@
       "match_date": "14/9/2025",
       "match_time": "11:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=122126"
+    },
+    {
+      "title": "Tbc vs Tbc, 7th Place Play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131867",
+      "match_date": "15/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131867"
+    },
+    {
+      "title": "Tbc vs Tbc, 5th Place Play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131856",
+      "match_date": "15/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131856"
     }
   ]
 }
