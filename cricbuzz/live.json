@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:01 PM 14-09-2025",
+  "last update time": "07:44 PM 14-09-2025",
   "matches": [
     {
       "title": "South Zone vs Central Zone, Final",
@@ -11,15 +11,6 @@
       "match_date": "11/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123688"
-    },
-    {
-      "title": "Lancashire vs Somerset, 1st Semi-Final",
-      "team1": "Lancashire",
-      "team2": "Somerset",
-      "match_id": "111085",
-      "match_date": "13/9/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=111085"
     },
     {
       "title": "Eswatini vs Mozambique, 4th T20I",
@@ -85,15 +76,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122115"
     },
     {
-      "title": "South Africa A vs New Zealand A, 2nd Unofficial Test",
-      "team1": "South Africa A",
-      "team2": "New Zealand A",
-      "match_id": "116498",
-      "match_date": "14/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116498"
-    },
-    {
       "title": "India Women vs Australia Women, 1st ODI",
       "team1": "India Women",
       "team2": "Australia Women",
@@ -103,9 +85,18 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=119819"
     },
     {
-      "title": "Tbc vs Tbc, 3rd Place Play-off",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "South Africa A vs New Zealand A, 2nd Unofficial Test",
+      "team1": "South Africa A",
+      "team2": "New Zealand A",
+      "match_id": "116498",
+      "match_date": "14/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116498"
+    },
+    {
+      "title": "Austria Women vs Luxembourg Women, 3rd Place Play-off",
+      "team1": "Austria Women",
+      "team2": "Luxembourg Women",
       "match_id": "133836",
       "match_date": "14/9/2025",
       "match_time": "2:00:00 pm",
@@ -121,9 +112,9 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134705"
     },
     {
-      "title": "Tbc vs Tbc, Final",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Luxembourg Women vs Switzerland Women, Final",
+      "team1": "Luxembourg Women",
+      "team2": "Switzerland Women",
       "match_id": "133847",
       "match_date": "14/9/2025",
       "match_time": "6:00:00 pm",
@@ -175,31 +166,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134711"
     },
     {
-      "title": "Gloucestershire vs Northamptonshire, 51st Match",
-      "team1": "Gloucestershire",
-      "team2": "Northamptonshire",
-      "match_id": "113640",
+      "title": "Durham vs Worcestershire, 62nd Match",
+      "team1": "Durham",
+      "team2": "Worcestershire",
+      "match_id": "113229",
       "match_date": "15/9/2025",
       "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113640"
-    },
-    {
-      "title": "Lancashire vs Middlesex, 50th Match",
-      "team1": "Lancashire",
-      "team2": "Middlesex",
-      "match_id": "113634",
-      "match_date": "15/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113634"
-    },
-    {
-      "title": "Tbc vs Tbc, 7th Place Play-off",
-      "team1": "Tbc",
-      "team2": "Tbc",
-      "match_id": "131867",
-      "match_date": "15/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131867"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113229"
     },
     {
       "title": "Derbyshire vs Glamorgan, 52nd Match",
@@ -211,13 +184,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113649"
     },
     {
-      "title": "Tbc vs Tbc, 5th Place Play-off",
-      "team1": "Tbc",
-      "team2": "Tbc",
-      "match_id": "131856",
+      "title": "Lancashire vs Middlesex, 50th Match",
+      "team1": "Lancashire",
+      "team2": "Middlesex",
+      "match_id": "113634",
       "match_date": "15/9/2025",
       "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131856"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113634"
     },
     {
       "title": "Leicestershire vs Kent, 49th Match",
@@ -229,22 +202,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113631"
     },
     {
-      "title": "Durham vs Worcestershire, 62nd Match",
-      "team1": "Durham",
-      "team2": "Worcestershire",
-      "match_id": "113229",
+      "title": "Sussex vs Yorkshire, 63rd Match",
+      "team1": "Sussex",
+      "team2": "Yorkshire",
+      "match_id": "113235",
       "match_date": "15/9/2025",
       "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113229"
-    },
-    {
-      "title": "Surrey vs Nottinghamshire, 64th Match",
-      "team1": "Surrey",
-      "team2": "Nottinghamshire",
-      "match_id": "113244",
-      "match_date": "15/9/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113244"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113235"
     },
     {
       "title": "Warwickshire vs Essex, 61st Match",
@@ -252,17 +216,17 @@
       "team2": "Essex",
       "match_id": "113226",
       "match_date": "15/9/2025",
-      "match_time": "3:30:00 pm",
+      "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113226"
     },
     {
-      "title": "Sussex vs Yorkshire, 63rd Match",
-      "team1": "Sussex",
-      "team2": "Yorkshire",
-      "match_id": "113235",
+      "title": "Tbc vs Tbc, 5th Place Play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131856",
       "match_date": "15/9/2025",
-      "match_time": "3:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113235"
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131856"
     },
     {
       "title": "Somerset vs Hampshire, 65th Match",
@@ -270,8 +234,35 @@
       "team2": "Hampshire",
       "match_id": "113253",
       "match_date": "15/9/2025",
-      "match_time": "3:30:00 pm",
+      "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=113253"
+    },
+    {
+      "title": "Gloucestershire vs Northamptonshire, 51st Match",
+      "team1": "Gloucestershire",
+      "team2": "Northamptonshire",
+      "match_id": "113640",
+      "match_date": "15/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113640"
+    },
+    {
+      "title": "Surrey vs Nottinghamshire, 64th Match",
+      "team1": "Surrey",
+      "team2": "Nottinghamshire",
+      "match_id": "113244",
+      "match_date": "15/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113244"
+    },
+    {
+      "title": "Tbc vs Tbc, 7th Place Play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131867",
+      "match_date": "15/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131867"
     },
     {
       "title": "United Arab Emirates vs Oman, 7th Match, Group A",
@@ -283,15 +274,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130074"
     },
     {
-      "title": "Tbc vs Tbc, 3rd place play-off",
-      "team1": "Tbc",
-      "team2": "Tbc",
-      "match_id": "131884",
-      "match_date": "15/9/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131884"
-    },
-    {
       "title": "Tbc vs Tbc, Final",
       "team1": "Tbc",
       "team2": "Tbc",
@@ -299,6 +281,15 @@
       "match_date": "15/9/2025",
       "match_time": "7:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131873"
+    },
+    {
+      "title": "Tbc vs Tbc, 3rd place play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131884",
+      "match_date": "15/9/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131884"
     }
   ]
 }
