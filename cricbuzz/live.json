@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:30 AM 14-09-2025",
+  "last update time": "09:49 AM 14-09-2025",
   "matches": [
     {
       "title": "South Zone vs Central Zone, Final",
@@ -121,15 +121,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122115"
     },
     {
-      "title": "South Africa A vs New Zealand A, 2nd Unofficial Test",
-      "team1": "South Africa A",
-      "team2": "New Zealand A",
-      "match_id": "116498",
-      "match_date": "14/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116498"
-    },
-    {
       "title": "India Women vs Australia Women, 1st ODI",
       "team1": "India Women",
       "team2": "Australia Women",
@@ -137,6 +128,15 @@
       "match_date": "14/9/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=119819"
+    },
+    {
+      "title": "South Africa A vs New Zealand A, 2nd Unofficial Test",
+      "team1": "South Africa A",
+      "team2": "New Zealand A",
+      "match_id": "116498",
+      "match_date": "14/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116498"
     },
     {
       "title": "Tbc vs Tbc, 3rd Place Play-off",
@@ -202,6 +202,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=116810"
     },
     {
+      "title": "Tbc vs Tbc, 5th Place Play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131856",
+      "match_date": "15/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131856"
+    },
+    {
       "title": "Tbc vs Tbc, 7th Place Play-off",
       "team1": "Tbc",
       "team2": "Tbc",
@@ -211,13 +220,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131867"
     },
     {
-      "title": "Tbc vs Tbc, 5th Place Play-off",
+      "title": "Tbc vs Tbc, Final",
       "team1": "Tbc",
       "team2": "Tbc",
-      "match_id": "131856",
+      "match_id": "131873",
       "match_date": "15/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131856"
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131873"
+    },
+    {
+      "title": "Tbc vs Tbc, 3rd place play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131884",
+      "match_date": "15/9/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131884"
     }
   ]
 }
