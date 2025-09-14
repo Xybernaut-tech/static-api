@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:54 AM 14-09-2025",
+  "last update time": "08:30 AM 14-09-2025",
   "matches": [
     {
       "title": "South Zone vs Central Zone, Final",
@@ -13,13 +13,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=123688"
     },
     {
-      "title": "Barbados Royals vs Trinbago Knight Riders, 28th Match",
-      "team1": "Barbados Royals",
-      "team2": "Trinbago Knight Riders",
-      "match_id": "116795",
+      "title": "Vanuatu Women vs Japan Women, 2nd Semi-Final",
+      "team1": "Vanuatu Women",
+      "team2": "Japan Women",
+      "match_id": "131845",
       "match_date": "13/9/2025",
-      "match_time": "4:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116795"
+      "match_time": "7:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131845"
     },
     {
       "title": "Papua New Guinea Women vs Indonesia Women, 1st Semi-Final",
@@ -29,15 +29,6 @@
       "match_date": "13/9/2025",
       "match_time": "7:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131834"
-    },
-    {
-      "title": "Vanuatu Women vs Japan Women, 2nd Semi-Final",
-      "team1": "Vanuatu Women",
-      "team2": "Japan Women",
-      "match_id": "131845",
-      "match_date": "13/9/2025",
-      "match_time": "7:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131845"
     },
     {
       "title": "Eswatini vs Mozambique, 3rd T20I",
@@ -130,15 +121,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122115"
     },
     {
-      "title": "India Women vs Australia Women, 1st ODI",
-      "team1": "India Women",
-      "team2": "Australia Women",
-      "match_id": "119819",
-      "match_date": "14/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=119819"
-    },
-    {
       "title": "South Africa A vs New Zealand A, 2nd Unofficial Test",
       "team1": "South Africa A",
       "team2": "New Zealand A",
@@ -146,6 +128,15 @@
       "match_date": "14/9/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116498"
+    },
+    {
+      "title": "India Women vs Australia Women, 1st ODI",
+      "team1": "India Women",
+      "team2": "Australia Women",
+      "match_id": "119819",
+      "match_date": "14/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=119819"
     },
     {
       "title": "Tbc vs Tbc, 3rd Place Play-off",
