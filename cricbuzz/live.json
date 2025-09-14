@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:44 PM 14-09-2025",
+  "last update time": "09:48 PM 14-09-2025",
   "matches": [
     {
       "title": "South Zone vs Central Zone, Final",
@@ -11,24 +11,6 @@
       "match_date": "11/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=123688"
-    },
-    {
-      "title": "Eswatini vs Mozambique, 4th T20I",
-      "team1": "Eswatini",
-      "team2": "Mozambique",
-      "match_id": "134694",
-      "match_date": "13/9/2025",
-      "match_time": "5:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134694"
-    },
-    {
-      "title": "Austria Women vs Switzerland Women, 3rd Match",
-      "team1": "Austria Women",
-      "team2": "Switzerland Women",
-      "match_id": "133831",
-      "match_date": "13/9/2025",
-      "match_time": "6:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133831"
     },
     {
       "title": "Northamptonshire vs Hampshire, 2nd Semi-Final",
@@ -175,40 +157,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113229"
     },
     {
-      "title": "Derbyshire vs Glamorgan, 52nd Match",
-      "team1": "Derbyshire",
-      "team2": "Glamorgan",
-      "match_id": "113649",
+      "title": "Tbc vs Tbc, 7th Place Play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131867",
       "match_date": "15/9/2025",
       "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113649"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131867"
     },
     {
-      "title": "Lancashire vs Middlesex, 50th Match",
-      "team1": "Lancashire",
-      "team2": "Middlesex",
-      "match_id": "113634",
+      "title": "Somerset vs Hampshire, 65th Match",
+      "team1": "Somerset",
+      "team2": "Hampshire",
+      "match_id": "113253",
       "match_date": "15/9/2025",
       "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113634"
-    },
-    {
-      "title": "Leicestershire vs Kent, 49th Match",
-      "team1": "Leicestershire",
-      "team2": "Kent",
-      "match_id": "113631",
-      "match_date": "15/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113631"
-    },
-    {
-      "title": "Sussex vs Yorkshire, 63rd Match",
-      "team1": "Sussex",
-      "team2": "Yorkshire",
-      "match_id": "113235",
-      "match_date": "15/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113235"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113253"
     },
     {
       "title": "Warwickshire vs Essex, 61st Match",
@@ -229,13 +193,40 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131856"
     },
     {
-      "title": "Somerset vs Hampshire, 65th Match",
-      "team1": "Somerset",
-      "team2": "Hampshire",
-      "match_id": "113253",
+      "title": "Sussex vs Yorkshire, 63rd Match",
+      "team1": "Sussex",
+      "team2": "Yorkshire",
+      "match_id": "113235",
       "match_date": "15/9/2025",
       "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113253"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113235"
+    },
+    {
+      "title": "Leicestershire vs Kent, 49th Match",
+      "team1": "Leicestershire",
+      "team2": "Kent",
+      "match_id": "113631",
+      "match_date": "15/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113631"
+    },
+    {
+      "title": "Derbyshire vs Glamorgan, 52nd Match",
+      "team1": "Derbyshire",
+      "team2": "Glamorgan",
+      "match_id": "113649",
+      "match_date": "15/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113649"
+    },
+    {
+      "title": "Lancashire vs Middlesex, 50th Match",
+      "team1": "Lancashire",
+      "team2": "Middlesex",
+      "match_id": "113634",
+      "match_date": "15/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113634"
     },
     {
       "title": "Gloucestershire vs Northamptonshire, 51st Match",
@@ -256,15 +247,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113244"
     },
     {
-      "title": "Tbc vs Tbc, 7th Place Play-off",
-      "team1": "Tbc",
-      "team2": "Tbc",
-      "match_id": "131867",
-      "match_date": "15/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131867"
-    },
-    {
       "title": "United Arab Emirates vs Oman, 7th Match, Group A",
       "team1": "United Arab Emirates",
       "team2": "Oman",
@@ -272,6 +254,15 @@
       "match_date": "15/9/2025",
       "match_time": "5:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130074"
+    },
+    {
+      "title": "Tbc vs Tbc, 3rd place play-off",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "131884",
+      "match_date": "15/9/2025",
+      "match_time": "7:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131884"
     },
     {
       "title": "Tbc vs Tbc, Final",
@@ -283,13 +274,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131873"
     },
     {
-      "title": "Tbc vs Tbc, 3rd place play-off",
-      "team1": "Tbc",
-      "team2": "Tbc",
-      "match_id": "131884",
+      "title": "Sri Lanka vs Hong Kong, 8th Match, Group B",
+      "team1": "Sri Lanka",
+      "team2": "Hong Kong",
+      "match_id": "130080",
       "match_date": "15/9/2025",
-      "match_time": "7:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131884"
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130080"
     }
   ]
 }
