@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:48 PM 20-09-2025",
+  "last update time": "11:51 PM 20-09-2025",
   "matches": [
     {
       "title": "Pakistan Women vs South Africa Women, 2nd ODI",
@@ -11,15 +11,6 @@
       "match_date": "19/9/2025",
       "match_time": "4:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133693"
-    },
-    {
-      "title": "India vs Oman, 12th Match, Group A",
-      "team1": "India",
-      "team2": "Oman",
-      "match_id": "130113",
-      "match_date": "19/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130113"
     },
     {
       "title": "New South Wales vs South Australia, 4th Match",
@@ -76,7 +67,7 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=111985"
     },
     {
-      "title": "Sri Lanka vs Bangladesh, Super Fours, Match 1 (B1 v B2)",
+      "title": "Sri Lanka vs Bangladesh, Super Fours, Match 13th (B1 v B2)",
       "team1": "Sri Lanka",
       "team2": "Bangladesh",
       "match_id": "130124",
