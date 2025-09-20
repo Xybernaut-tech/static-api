@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:51 PM 20-09-2025",
+  "last update time": "01:46 AM 21-09-2025",
   "matches": [
-    {
-      "title": "Pakistan Women vs South Africa Women, 2nd ODI",
-      "team1": "Pakistan Women",
-      "team2": "South Africa Women",
-      "match_id": "133693",
-      "match_date": "19/9/2025",
-      "match_time": "4:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133693"
-    },
     {
       "title": "New South Wales vs South Australia, 4th Match",
       "team1": "New South Wales",
@@ -103,7 +94,7 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=105858"
     },
     {
-      "title": "India vs Pakistan, Super Fours, Match 2 (A1 v A2)",
+      "title": "India vs Pakistan, Super Fours, Match 14th (A1 v A2)",
       "team1": "India",
       "team2": "Pakistan",
       "match_id": "130129",
