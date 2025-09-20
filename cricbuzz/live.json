@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:22 AM 20-09-2025",
+  "last update time": "09:50 AM 20-09-2025",
   "matches": [
     {
       "title": "India A vs Australia A, 1st Unofficial Test",
@@ -110,6 +110,15 @@
       "match_date": "20/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130124"
+    },
+    {
+      "title": "Queensland vs Western Australia, 5th Match",
+      "team1": "Queensland",
+      "team2": "Western Australia",
+      "match_id": "133484",
+      "match_date": "21/9/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133484"
     }
   ]
 }
