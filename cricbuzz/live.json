@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:44 PM 20-09-2025",
+  "last update time": "09:48 PM 20-09-2025",
   "matches": [
     {
       "title": "Pakistan Women vs South Africa Women, 2nd ODI",
@@ -11,15 +11,6 @@
       "match_date": "19/9/2025",
       "match_time": "4:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133693"
-    },
-    {
-      "title": "Ireland vs England, 2nd T20I",
-      "team1": "Ireland",
-      "team2": "England",
-      "match_id": "105850",
-      "match_date": "19/9/2025",
-      "match_time": "6:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=105850"
     },
     {
       "title": "India vs Oman, 12th Match, Group A",
@@ -119,6 +110,15 @@
       "match_date": "21/9/2025",
       "match_time": "6:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=105858"
+    },
+    {
+      "title": "India vs Pakistan, Super Fours, Match 2 (A1 v A2)",
+      "team1": "India",
+      "team2": "Pakistan",
+      "match_id": "130129",
+      "match_date": "21/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130129"
     }
   ]
 }
