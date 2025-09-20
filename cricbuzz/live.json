@@ -1,26 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:46 PM 20-09-2025",
+  "last update time": "06:03 PM 20-09-2025",
   "matches": [
-    {
-      "title": "India A vs Australia A, 1st Unofficial Test",
-      "team1": "India A",
-      "team2": "Australia A",
-      "match_id": "119843",
-      "match_date": "16/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=119843"
-    },
-    {
-      "title": "Victoria vs Tasmania, 3rd Match",
-      "team1": "Victoria",
-      "team2": "Tasmania",
-      "match_id": "133468",
-      "match_date": "19/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133468"
-    },
     {
       "title": "Pakistan Women vs South Africa Women, 2nd ODI",
       "team1": "Pakistan Women",
@@ -128,6 +110,15 @@
       "match_date": "21/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130993"
+    },
+    {
+      "title": "Ireland vs England, 3rd T20I",
+      "team1": "Ireland",
+      "team2": "England",
+      "match_id": "105858",
+      "match_date": "21/9/2025",
+      "match_time": "6:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=105858"
     }
   ]
 }
