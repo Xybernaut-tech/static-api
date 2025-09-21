@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:55 AM 21-09-2025",
+  "last update time": "01:49 PM 21-09-2025",
   "matches": [
-    {
-      "title": "New South Wales vs South Australia, 4th Match",
-      "team1": "New South Wales",
-      "team2": "South Australia",
-      "match_id": "133479",
-      "match_date": "20/9/2025",
-      "match_time": "5:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133479"
-    },
     {
       "title": "Myanmar Women vs Hong Kong Women, 2nd Match",
       "team1": "Myanmar Women",
