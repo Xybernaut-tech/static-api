@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:46 PM 21-09-2025",
+  "last update time": "06:03 PM 21-09-2025",
   "matches": [
     {
       "title": "India Women vs Australia Women, 3rd ODI",
@@ -92,6 +92,15 @@
       "match_date": "22/9/2025",
       "match_time": "11:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135002"
+    },
+    {
+      "title": "Pakistan Women vs South Africa Women, 3rd ODI",
+      "team1": "Pakistan Women",
+      "team2": "South Africa Women",
+      "match_id": "133699",
+      "match_date": "22/9/2025",
+      "match_time": "4:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133699"
     }
   ]
 }
