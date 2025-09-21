@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:44 AM 21-09-2025",
+  "last update time": "06:56 AM 21-09-2025",
   "matches": [
     {
       "title": "New South Wales vs South Australia, 4th Match",
@@ -101,6 +101,24 @@
       "match_date": "21/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130129"
+    },
+    {
+      "title": "Guyana Amazon Warriors vs Trinbago Knight Riders, Final",
+      "team1": "Guyana Amazon Warriors",
+      "team2": "Trinbago Knight Riders",
+      "match_id": "116828",
+      "match_date": "22/9/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116828"
+    },
+    {
+      "title": "Hong Kong Women vs Mongolia Women, 3rd Match",
+      "team1": "Hong Kong Women",
+      "team2": "Mongolia Women",
+      "match_id": "134991",
+      "match_date": "22/9/2025",
+      "match_time": "6:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134991"
     }
   ]
 }
