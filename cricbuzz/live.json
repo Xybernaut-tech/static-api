@@ -1,26 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:48 PM 22-09-2025",
+  "last update time": "09:52 PM 22-09-2025",
   "matches": [
-    {
-      "title": "India Women vs Australia Women, 3rd ODI",
-      "team1": "India Women",
-      "team2": "Australia Women",
-      "match_id": "119834",
-      "match_date": "20/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=119834"
-    },
-    {
-      "title": "Australia U19 vs India U19, 1st Youth ODI",
-      "team1": "Australia U19",
-      "team2": "India U19",
-      "match_id": "130993",
-      "match_date": "21/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130993"
-    },
     {
       "title": "Ireland vs England, 3rd T20I",
       "team1": "Ireland",
@@ -101,6 +83,15 @@
       "match_date": "23/9/2025",
       "match_time": "11:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135013"
+    },
+    {
+      "title": "Pakistan vs Sri Lanka, Super Fours, 15th Match (A2 v B1)",
+      "team1": "Pakistan",
+      "team2": "Sri Lanka",
+      "match_id": "130140",
+      "match_date": "23/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130140"
     }
   ]
 }
