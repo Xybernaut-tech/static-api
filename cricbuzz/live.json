@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:50 PM 22-09-2025",
+  "last update time": "06:07 PM 22-09-2025",
   "matches": [
     {
       "title": "India Women vs Australia Women, 3rd ODI",
@@ -20,15 +20,6 @@
       "match_date": "21/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130993"
-    },
-    {
-      "title": "Queensland vs Western Australia, 5th Match",
-      "team1": "Queensland",
-      "team2": "Western Australia",
-      "match_id": "133484",
-      "match_date": "21/9/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133484"
     },
     {
       "title": "Ireland vs England, 3rd T20I",
