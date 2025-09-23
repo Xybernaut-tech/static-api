@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:26 AM 23-09-2025",
+  "last update time": "09:50 AM 23-09-2025",
   "matches": [
     {
       "title": "Ireland vs England, 3rd T20I",
@@ -101,6 +101,15 @@
       "match_date": "24/9/2025",
       "match_time": "6:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133495"
+    },
+    {
+      "title": "Australia U19 vs India U19, 2nd Youth ODI",
+      "team1": "Australia U19",
+      "team2": "India U19",
+      "match_id": "130998",
+      "match_date": "24/9/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130998"
     }
   ]
 }
