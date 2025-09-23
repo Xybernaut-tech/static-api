@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:50 AM 23-09-2025",
+  "last update time": "11:57 AM 23-09-2025",
   "matches": [
     {
       "title": "Ireland vs England, 3rd T20I",
@@ -29,15 +29,6 @@
       "match_date": "22/9/2025",
       "match_time": "5:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116828"
-    },
-    {
-      "title": "Hong Kong Women vs Mongolia Women, 3rd Match",
-      "team1": "Hong Kong Women",
-      "team2": "Mongolia Women",
-      "match_id": "134991",
-      "match_date": "22/9/2025",
-      "match_time": "6:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134991"
     },
     {
       "title": "China Women vs Myanmar Women, 4th Match",
