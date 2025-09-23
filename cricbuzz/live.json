@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:53 PM 23-09-2025",
+  "last update time": "03:48 PM 23-09-2025",
   "matches": [
     {
       "title": "Ireland vs England, 3rd T20I",
@@ -29,15 +29,6 @@
       "match_date": "22/9/2025",
       "match_time": "5:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=116828"
-    },
-    {
-      "title": "China Women vs Myanmar Women, 4th Match",
-      "team1": "China Women",
-      "team2": "Myanmar Women",
-      "match_id": "135002",
-      "match_date": "22/9/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135002"
     },
     {
       "title": "Pakistan Women vs South Africa Women, 3rd ODI",
@@ -101,6 +92,87 @@
       "match_date": "24/9/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130998"
+    },
+    {
+      "title": "Nottinghamshire vs Warwickshire, 67th Match",
+      "team1": "Nottinghamshire",
+      "team2": "Warwickshire",
+      "match_id": "113271",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113271"
+    },
+    {
+      "title": "Worcestershire vs Sussex, 69th Match",
+      "team1": "Worcestershire",
+      "team2": "Sussex",
+      "match_id": "113280",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113280"
+    },
+    {
+      "title": "Yorkshire vs Durham, 70th Match",
+      "team1": "Yorkshire",
+      "team2": "Durham",
+      "match_id": "113289",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113289"
+    },
+    {
+      "title": "Kent vs Derbyshire, 54th Match",
+      "team1": "Kent",
+      "team2": "Derbyshire",
+      "match_id": "113661",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113661"
+    },
+    {
+      "title": "Northamptonshire vs Leicestershire, 53rd Match",
+      "team1": "Northamptonshire",
+      "team2": "Leicestershire",
+      "match_id": "113658",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113658"
+    },
+    {
+      "title": "Essex vs Somerset, 66th Match",
+      "team1": "Essex",
+      "team2": "Somerset",
+      "match_id": "113262",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113262"
+    },
+    {
+      "title": "Middlesex vs Gloucestershire, 55th Match",
+      "team1": "Middlesex",
+      "team2": "Gloucestershire",
+      "match_id": "113670",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113670"
+    },
+    {
+      "title": "Hampshire vs Surrey, 68th Match",
+      "team1": "Hampshire",
+      "team2": "Surrey",
+      "match_id": "113274",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113274"
+    },
+    {
+      "title": "Glamorgan vs Lancashire, 56th Match",
+      "team1": "Glamorgan",
+      "team2": "Lancashire",
+      "match_id": "113676",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113676"
     }
   ]
 }
