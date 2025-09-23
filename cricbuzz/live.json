@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:46 AM 23-09-2025",
+  "last update time": "06:49 AM 23-09-2025",
   "matches": [
     {
       "title": "Ireland vs England, 3rd T20I",
@@ -92,6 +92,15 @@
       "match_date": "23/9/2025",
       "match_time": "8:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130140"
+    },
+    {
+      "title": "South Australia vs Western Australia, 6th Match",
+      "team1": "South Australia",
+      "team2": "Western Australia",
+      "match_id": "133495",
+      "match_date": "24/9/2025",
+      "match_time": "6:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133495"
     }
   ]
 }
