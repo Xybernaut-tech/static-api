@@ -1,34 +1,16 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:49 AM 28-09-2025",
+  "last update time": "03:46 AM 28-09-2025",
   "matches": [
     {
-      "title": "Essex vs Somerset, 66th Match",
-      "team1": "Essex",
-      "team2": "Somerset",
-      "match_id": "113262",
+      "title": "Glamorgan vs Lancashire, 56th Match",
+      "team1": "Glamorgan",
+      "team2": "Lancashire",
+      "match_id": "113676",
       "match_date": "24/9/2025",
       "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113262"
-    },
-    {
-      "title": "Hampshire vs Surrey, 68th Match",
-      "team1": "Hampshire",
-      "team2": "Surrey",
-      "match_id": "113274",
-      "match_date": "24/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113274"
-    },
-    {
-      "title": "Nottinghamshire vs Warwickshire, 67th Match",
-      "team1": "Nottinghamshire",
-      "team2": "Warwickshire",
-      "match_id": "113271",
-      "match_date": "24/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113271"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113676"
     },
     {
       "title": "Northamptonshire vs Leicestershire, 53rd Match",
@@ -40,22 +22,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113658"
     },
     {
-      "title": "Glamorgan vs Lancashire, 56th Match",
-      "team1": "Glamorgan",
-      "team2": "Lancashire",
-      "match_id": "113676",
+      "title": "Essex vs Somerset, 66th Match",
+      "team1": "Essex",
+      "team2": "Somerset",
+      "match_id": "113262",
       "match_date": "24/9/2025",
       "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113676"
-    },
-    {
-      "title": "Kent vs Derbyshire, 54th Match",
-      "team1": "Kent",
-      "team2": "Derbyshire",
-      "match_id": "113661",
-      "match_date": "24/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=113661"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113262"
     },
     {
       "title": "Middlesex vs Gloucestershire, 55th Match",
@@ -85,13 +58,31 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=113280"
     },
     {
-      "title": "North West vs KwaZulu-Natal Inland, 3rd Match",
-      "team1": "North West",
-      "team2": "KwaZulu-Natal Inland",
-      "match_id": "133869",
-      "match_date": "25/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133869"
+      "title": "Kent vs Derbyshire, 54th Match",
+      "team1": "Kent",
+      "team2": "Derbyshire",
+      "match_id": "113661",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113661"
+    },
+    {
+      "title": "Hampshire vs Surrey, 68th Match",
+      "team1": "Hampshire",
+      "team2": "Surrey",
+      "match_id": "113274",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113274"
+    },
+    {
+      "title": "Nottinghamshire vs Warwickshire, 67th Match",
+      "team1": "Nottinghamshire",
+      "team2": "Warwickshire",
+      "match_id": "113271",
+      "match_date": "24/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=113271"
     },
     {
       "title": "Boland vs Titans, 1st Match",
@@ -119,6 +110,15 @@
       "match_date": "25/9/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134469"
+    },
+    {
+      "title": "North West vs KwaZulu-Natal Inland, 3rd Match",
+      "team1": "North West",
+      "team2": "KwaZulu-Natal Inland",
+      "match_id": "133869",
+      "match_date": "25/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133869"
     },
     {
       "title": "Pakistan vs Bangladesh, Super Fours, 17th Match (A2 v B2)",
@@ -175,15 +175,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135156"
     },
     {
-      "title": "Uganda vs Tanzania, 6th Match, Group B",
-      "team1": "Uganda",
-      "team2": "Tanzania",
-      "match_id": "134799",
-      "match_date": "28/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134799"
-    },
-    {
       "title": "Namibia vs Nigeria, 5th Match, Group A",
       "team1": "Namibia",
       "team2": "Nigeria",
@@ -193,13 +184,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134793"
     },
     {
-      "title": "South Africa Women vs Pakistan Women, 7th Match",
-      "team1": "South Africa Women",
-      "team2": "Pakistan Women",
-      "match_id": "135129",
+      "title": "Uganda vs Tanzania, 6th Match, Group B",
+      "team1": "Uganda",
+      "team2": "Tanzania",
+      "match_id": "134799",
       "match_date": "28/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135129"
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134799"
     },
     {
       "title": "England Women vs Australia Women, 8th Match",
@@ -209,6 +200,15 @@
       "match_date": "28/9/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135140"
+    },
+    {
+      "title": "South Africa Women vs Pakistan Women, 7th Match",
+      "team1": "South Africa Women",
+      "team2": "Pakistan Women",
+      "match_id": "135129",
+      "match_date": "28/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135129"
     },
     {
       "title": "Zimbabwe vs Botswana, 7th Match, Group B",
