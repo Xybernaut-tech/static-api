@@ -1,26 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:49 AM 29-09-2025",
+  "last update time": "03:47 AM 29-09-2025",
   "matches": [
-    {
-      "title": "Warriors vs Western Province, 2nd Match",
-      "team1": "Warriors",
-      "team2": "Western Province",
-      "match_id": "133864",
-      "match_date": "25/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133864"
-    },
-    {
-      "title": "North West vs KwaZulu-Natal Inland, 3rd Match",
-      "team1": "North West",
-      "team2": "KwaZulu-Natal Inland",
-      "match_id": "133869",
-      "match_date": "25/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133869"
-    },
     {
       "title": "Boland vs Titans, 1st Match",
       "team1": "Boland",
@@ -31,6 +13,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133858"
     },
     {
+      "title": "Warriors vs Western Province, 2nd Match",
+      "team1": "Warriors",
+      "team2": "Western Province",
+      "match_id": "133864",
+      "match_date": "25/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133864"
+    },
+    {
       "title": "Eastern Storm vs Limpopo, 1st Match",
       "team1": "Eastern Storm",
       "team2": "Limpopo",
@@ -38,6 +29,15 @@
       "match_date": "25/9/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134469"
+    },
+    {
+      "title": "North West vs KwaZulu-Natal Inland, 3rd Match",
+      "team1": "North West",
+      "team2": "KwaZulu-Natal Inland",
+      "match_id": "133869",
+      "match_date": "25/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133869"
     },
     {
       "title": "India vs Sri Lanka, Super Fours, 18th Match (A1 v B1)",
@@ -76,15 +76,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134799"
     },
     {
-      "title": "England Women vs Australia Women, 8th Match",
-      "team1": "England Women",
-      "team2": "Australia Women",
-      "match_id": "135140",
-      "match_date": "28/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135140"
-    },
-    {
       "title": "South Africa Women vs Pakistan Women, 7th Match",
       "team1": "South Africa Women",
       "team2": "Pakistan Women",
@@ -94,13 +85,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135129"
     },
     {
-      "title": "Kenya vs Malawi, 8th Match, Group A",
-      "team1": "Kenya",
-      "team2": "Malawi",
-      "match_id": "134815",
+      "title": "England Women vs Australia Women, 8th Match",
+      "team1": "England Women",
+      "team2": "Australia Women",
+      "match_id": "135140",
       "match_date": "28/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134815"
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135140"
     },
     {
       "title": "Zimbabwe vs Botswana, 7th Match, Group B",
@@ -110,6 +101,15 @@
       "match_date": "28/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134810"
+    },
+    {
+      "title": "Kenya vs Malawi, 8th Match, Group A",
+      "team1": "Kenya",
+      "team2": "Malawi",
+      "match_id": "134815",
+      "match_date": "28/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134815"
     },
     {
       "title": "India vs Pakistan, Final",
