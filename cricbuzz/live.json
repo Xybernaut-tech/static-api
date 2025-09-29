@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:57 PM 29-09-2025",
+  "last update time": "03:50 PM 29-09-2025",
   "matches": [
     {
       "title": "North West vs KwaZulu-Natal Inland, 3rd Match",
@@ -11,6 +11,15 @@
       "match_date": "25/9/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133869"
+    },
+    {
+      "title": "Eastern Storm vs Limpopo, 1st Match",
+      "team1": "Eastern Storm",
+      "team2": "Limpopo",
+      "match_id": "134469",
+      "match_date": "25/9/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134469"
     },
     {
       "title": "Boland vs Titans, 1st Match",
@@ -29,24 +38,6 @@
       "match_date": "25/9/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133864"
-    },
-    {
-      "title": "Eastern Storm vs Limpopo, 1st Match",
-      "team1": "Eastern Storm",
-      "team2": "Limpopo",
-      "match_id": "134469",
-      "match_date": "25/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134469"
-    },
-    {
-      "title": "India vs Sri Lanka, Super Fours, 18th Match (A1 v B1)",
-      "team1": "India",
-      "team2": "Sri Lanka",
-      "match_id": "130168",
-      "match_date": "26/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130168"
     },
     {
       "title": "Zimbabwe Women vs United Arab Emirates Women, 2nd ODI",
@@ -182,6 +173,15 @@
       "match_date": "30/9/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=119855"
+    },
+    {
+      "title": "India Women vs Sri Lanka Women, 1st Match",
+      "team1": "India Women",
+      "team2": "Sri Lanka Women",
+      "match_id": "121439",
+      "match_date": "30/9/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=121439"
     }
   ]
 }
