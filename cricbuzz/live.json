@@ -1,44 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:52 PM 29-09-2025",
+  "last update time": "09:49 PM 29-09-2025",
   "matches": [
-    {
-      "title": "North West vs KwaZulu-Natal Inland, 3rd Match",
-      "team1": "North West",
-      "team2": "KwaZulu-Natal Inland",
-      "match_id": "133869",
-      "match_date": "25/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133869"
-    },
-    {
-      "title": "Eastern Storm vs Limpopo, 1st Match",
-      "team1": "Eastern Storm",
-      "team2": "Limpopo",
-      "match_id": "134469",
-      "match_date": "25/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134469"
-    },
-    {
-      "title": "Warriors vs Western Province, 2nd Match",
-      "team1": "Warriors",
-      "team2": "Western Province",
-      "match_id": "133864",
-      "match_date": "25/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133864"
-    },
-    {
-      "title": "Boland vs Titans, 1st Match",
-      "team1": "Boland",
-      "team2": "Titans",
-      "match_id": "133858",
-      "match_date": "25/9/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133858"
-    },
     {
       "title": "Zimbabwe Women vs United Arab Emirates Women, 2nd ODI",
       "team1": "Zimbabwe Women",
@@ -47,15 +11,6 @@
       "match_date": "28/9/2025",
       "match_time": "12:45:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135156"
-    },
-    {
-      "title": "England Women vs Australia Women, 8th Match",
-      "team1": "England Women",
-      "team2": "Australia Women",
-      "match_id": "135140",
-      "match_date": "28/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135140"
     },
     {
       "title": "South Africa Women vs Pakistan Women, 7th Match",
@@ -67,22 +22,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135129"
     },
     {
-      "title": "Kenya vs Malawi, 8th Match, Group A",
-      "team1": "Kenya",
-      "team2": "Malawi",
-      "match_id": "134815",
+      "title": "England Women vs Australia Women, 8th Match",
+      "team1": "England Women",
+      "team2": "Australia Women",
+      "match_id": "135140",
       "match_date": "28/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134815"
-    },
-    {
-      "title": "Zimbabwe vs Botswana, 7th Match, Group B",
-      "team1": "Zimbabwe",
-      "team2": "Botswana",
-      "match_id": "134810",
-      "match_date": "28/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134810"
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135140"
     },
     {
       "title": "India vs Pakistan, Final",
@@ -130,15 +76,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135167"
     },
     {
-      "title": "Zimbabwe vs Tanzania, 9th Match, Group B",
-      "team1": "Zimbabwe",
-      "team2": "Tanzania",
-      "match_id": "134826",
-      "match_date": "30/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134826"
-    },
-    {
       "title": "Uganda vs Botswana, 10th Match, Group B",
       "team1": "Uganda",
       "team2": "Botswana",
@@ -146,6 +83,15 @@
       "match_date": "30/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134832"
+    },
+    {
+      "title": "Zimbabwe vs Tanzania, 9th Match, Group B",
+      "team1": "Zimbabwe",
+      "team2": "Tanzania",
+      "match_id": "134826",
+      "match_date": "30/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134826"
     },
     {
       "title": "India A vs Australia A, 1st Unofficial ODI",
@@ -182,6 +128,24 @@
       "match_date": "30/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134843"
+    },
+    {
+      "title": "West Indies vs Nepal, 3rd T20I",
+      "team1": "West Indies",
+      "team2": "Nepal",
+      "match_id": "121362",
+      "match_date": "30/9/2025",
+      "match_time": "8:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=121362"
+    },
+    {
+      "title": "Oman vs Kuwait, 2nd T20I",
+      "team1": "Oman",
+      "team2": "Kuwait",
+      "match_id": "135354",
+      "match_date": "30/9/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135354"
     }
   ]
 }
