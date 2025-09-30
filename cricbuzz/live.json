@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:28 AM 30-09-2025",
+  "last update time": "09:52 AM 30-09-2025",
   "matches": [
     {
       "title": "India vs Pakistan, Final",
@@ -85,6 +85,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121439"
     },
     {
+      "title": "Oman vs Kuwait, 2nd T20I",
+      "team1": "Oman",
+      "team2": "Kuwait",
+      "match_id": "135354",
+      "match_date": "30/9/2025",
+      "match_time": "4:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135354"
+    },
+    {
       "title": "Namibia vs Malawi, 11th Match, Group A",
       "team1": "Namibia",
       "team2": "Malawi",
@@ -112,13 +121,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121362"
     },
     {
-      "title": "Oman vs Kuwait, 2nd T20I",
-      "team1": "Oman",
-      "team2": "Kuwait",
-      "match_id": "135354",
-      "match_date": "30/9/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135354"
+      "title": "Vidarbha vs Rest Of India, Irani Cup",
+      "team1": "Vidarbha",
+      "team2": "Rest Of India",
+      "match_id": "123650",
+      "match_date": "1/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123650"
     }
   ]
 }
