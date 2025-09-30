@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:58 AM 30-09-2025",
+  "last update time": "01:57 PM 30-09-2025",
   "matches": [
     {
       "title": "India vs Pakistan, Final",
@@ -135,7 +135,7 @@
       "team2": "Australia",
       "match_id": "122517",
       "match_date": "1/10/2025",
-      "match_time": "11:40:00 am",
+      "match_time": "11:45:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=122517"
     }
   ]
