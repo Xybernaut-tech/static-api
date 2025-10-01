@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:40 AM 01-10-2025",
+  "last update time": "09:51 AM 01-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 1st Youth Test",
@@ -119,6 +119,15 @@
       "match_date": "1/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121450"
+    },
+    {
+      "title": "India vs West Indies, 1st Test",
+      "team1": "India",
+      "team2": "West Indies",
+      "match_id": "117359",
+      "match_date": "2/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=117359"
     }
   ]
 }
