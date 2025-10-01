@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:47 AM 01-10-2025",
+  "last update time": "06:58 AM 01-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 1st Youth Test",
@@ -22,15 +22,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135167"
     },
     {
-      "title": "Uganda vs Botswana, 10th Match, Group B",
-      "team1": "Uganda",
-      "team2": "Botswana",
-      "match_id": "134832",
-      "match_date": "30/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134832"
-    },
-    {
       "title": "Zimbabwe vs Tanzania, 9th Match, Group B",
       "team1": "Zimbabwe",
       "team2": "Tanzania",
@@ -38,6 +29,15 @@
       "match_date": "30/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134826"
+    },
+    {
+      "title": "Uganda vs Botswana, 10th Match, Group B",
+      "team1": "Uganda",
+      "team2": "Botswana",
+      "match_id": "134832",
+      "match_date": "30/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134832"
     },
     {
       "title": "India A vs Australia A, 1st Unofficial ODI",
