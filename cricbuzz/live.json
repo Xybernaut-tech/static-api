@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:49 PM 01-10-2025",
+  "last update time": "06:10 PM 01-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 1st Youth Test",
@@ -20,24 +20,6 @@
       "match_date": "30/9/2025",
       "match_time": "12:45:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135167"
-    },
-    {
-      "title": "Uganda vs Botswana, 10th Match, Group B",
-      "team1": "Uganda",
-      "team2": "Botswana",
-      "match_id": "134832",
-      "match_date": "30/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134832"
-    },
-    {
-      "title": "Zimbabwe vs Tanzania, 9th Match, Group B",
-      "team1": "Zimbabwe",
-      "team2": "Tanzania",
-      "match_id": "134826",
-      "match_date": "30/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134826"
     },
     {
       "title": "India A vs Australia A, 1st Unofficial ODI",
@@ -112,6 +94,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122517"
     },
     {
+      "title": "India A vs Australia A, 1st Unofficial ODI (Rescheduled match)",
+      "team1": "India A",
+      "team2": "Australia A",
+      "match_id": "135444",
+      "match_date": "1/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135444"
+    },
+    {
       "title": "Australia Women vs New Zealand Women, 2nd Match",
       "team1": "Australia Women",
       "team2": "New Zealand Women",
@@ -166,42 +157,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134865"
     },
     {
-      "title": "Knights vs Eastern Storm, 2nd Match",
-      "team1": "Knights",
-      "team2": "Eastern Storm",
-      "match_id": "134480",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
-    },
-    {
-      "title": "Northern Cape vs Mpumalanga Rhinos, 3rd Match",
-      "team1": "Northern Cape",
-      "team2": "Mpumalanga Rhinos",
-      "match_id": "134485",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134485"
-    },
-    {
-      "title": "North West vs Titans, 7th Match",
-      "team1": "North West",
-      "team2": "Titans",
-      "match_id": "133897",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133897"
-    },
-    {
-      "title": "Boland vs Dolphins, 4th Match",
-      "team1": "Boland",
-      "team2": "Dolphins",
-      "match_id": "133875",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133875"
-    },
-    {
       "title": "Limpopo vs South Western Districts, 4th Match",
       "team1": "Limpopo",
       "team2": "South Western Districts",
@@ -220,6 +175,42 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133880"
     },
     {
+      "title": "Knights vs Eastern Storm, 2nd Match",
+      "team1": "Knights",
+      "team2": "Eastern Storm",
+      "match_id": "134480",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
+    },
+    {
+      "title": "Boland vs Dolphins, 4th Match",
+      "team1": "Boland",
+      "team2": "Dolphins",
+      "match_id": "133875",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133875"
+    },
+    {
+      "title": "North West vs Titans, 7th Match",
+      "team1": "North West",
+      "team2": "Titans",
+      "match_id": "133897",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133897"
+    },
+    {
+      "title": "Northern Cape vs Mpumalanga Rhinos, 3rd Match",
+      "team1": "Northern Cape",
+      "team2": "Mpumalanga Rhinos",
+      "match_id": "134485",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134485"
+    },
+    {
       "title": "Bangladesh Women vs Pakistan Women, 3rd Match",
       "team1": "Bangladesh Women",
       "team2": "Pakistan Women",
@@ -227,6 +218,24 @@
       "match_date": "2/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121455"
+    },
+    {
+      "title": "Zimbabwe vs Kenya, 2nd Semi-Final",
+      "team1": "Zimbabwe",
+      "team2": "Kenya",
+      "match_id": "134876",
+      "match_date": "2/10/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134876"
+    },
+    {
+      "title": "Malawi vs Uganda, 5th Place Play-off 2nd Semi-Final",
+      "team1": "Malawi",
+      "team2": "Uganda",
+      "match_id": "134881",
+      "match_date": "2/10/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134881"
     }
   ]
 }
