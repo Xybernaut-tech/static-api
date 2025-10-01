@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:58 AM 01-10-2025",
+  "last update time": "08:40 AM 01-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 1st Youth Test",
@@ -22,15 +22,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135167"
     },
     {
-      "title": "Zimbabwe vs Tanzania, 9th Match, Group B",
-      "team1": "Zimbabwe",
-      "team2": "Tanzania",
-      "match_id": "134826",
-      "match_date": "30/9/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134826"
-    },
-    {
       "title": "Uganda vs Botswana, 10th Match, Group B",
       "team1": "Uganda",
       "team2": "Botswana",
@@ -38,6 +29,15 @@
       "match_date": "30/9/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134832"
+    },
+    {
+      "title": "Zimbabwe vs Tanzania, 9th Match, Group B",
+      "team1": "Zimbabwe",
+      "team2": "Tanzania",
+      "match_id": "134826",
+      "match_date": "30/9/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134826"
     },
     {
       "title": "India A vs Australia A, 1st Unofficial ODI",
@@ -67,15 +67,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135354"
     },
     {
-      "title": "Kenya vs Nigeria, 12th Match, Group A",
-      "team1": "Kenya",
-      "team2": "Nigeria",
-      "match_id": "134848",
-      "match_date": "30/9/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134848"
-    },
-    {
       "title": "Namibia vs Malawi, 11th Match, Group A",
       "team1": "Namibia",
       "team2": "Malawi",
@@ -83,6 +74,15 @@
       "match_date": "30/9/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134843"
+    },
+    {
+      "title": "Kenya vs Nigeria, 12th Match, Group A",
+      "team1": "Kenya",
+      "team2": "Nigeria",
+      "match_id": "134848",
+      "match_date": "30/9/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134848"
     },
     {
       "title": "West Indies vs Nepal, 3rd T20I",
