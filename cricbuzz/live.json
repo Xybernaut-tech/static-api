@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:54 PM 01-10-2025",
+  "last update time": "11:57 PM 01-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 1st Youth Test",
@@ -13,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131020"
     },
     {
-      "title": "India Women vs Sri Lanka Women, 1st Match",
-      "team1": "India Women",
-      "team2": "Sri Lanka Women",
-      "match_id": "121439",
-      "match_date": "30/9/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121439"
-    },
-    {
       "title": "Oman vs Kuwait, 2nd T20I",
       "team1": "Oman",
       "team2": "Kuwait",
@@ -29,15 +20,6 @@
       "match_date": "30/9/2025",
       "match_time": "4:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135354"
-    },
-    {
-      "title": "West Indies vs Nepal, 3rd T20I",
-      "team1": "West Indies",
-      "team2": "Nepal",
-      "match_id": "121362",
-      "match_date": "30/9/2025",
-      "match_time": "8:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121362"
     },
     {
       "title": "Vidarbha vs Rest of India, Irani Cup",
@@ -103,15 +85,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135173"
     },
     {
-      "title": "Namibia vs Tanzania, 1st Semi-Final",
-      "team1": "Namibia",
-      "team2": "Tanzania",
-      "match_id": "134859",
-      "match_date": "2/10/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134859"
-    },
-    {
       "title": "Botswana vs Nigeria, 5th Place Play-off 1st Semi-Final",
       "team1": "Botswana",
       "team2": "Nigeria",
@@ -121,13 +94,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134865"
     },
     {
-      "title": "Northern Cape vs Mpumalanga Rhinos, 3rd Match",
-      "team1": "Northern Cape",
-      "team2": "Mpumalanga Rhinos",
-      "match_id": "134485",
+      "title": "Namibia vs Tanzania, 1st Semi-Final",
+      "team1": "Namibia",
+      "team2": "Tanzania",
+      "match_id": "134859",
+      "match_date": "2/10/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134859"
+    },
+    {
+      "title": "Knights vs Eastern Storm, 2nd Match",
+      "team1": "Knights",
+      "team2": "Eastern Storm",
+      "match_id": "134480",
       "match_date": "2/10/2025",
       "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134485"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
     },
     {
       "title": "Boland vs Dolphins, 4th Match",
@@ -137,6 +119,24 @@
       "match_date": "2/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133875"
+    },
+    {
+      "title": "Western Province vs Lions, 5th Match",
+      "team1": "Western Province",
+      "team2": "Lions",
+      "match_id": "133880",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133880"
+    },
+    {
+      "title": "Northern Cape vs Mpumalanga Rhinos, 3rd Match",
+      "team1": "Northern Cape",
+      "team2": "Mpumalanga Rhinos",
+      "match_id": "134485",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134485"
     },
     {
       "title": "North West vs Titans, 7th Match",
@@ -157,24 +157,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134491"
     },
     {
-      "title": "Knights vs Eastern Storm, 2nd Match",
-      "team1": "Knights",
-      "team2": "Eastern Storm",
-      "match_id": "134480",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
-    },
-    {
-      "title": "Western Province vs Lions, 5th Match",
-      "team1": "Western Province",
-      "team2": "Lions",
-      "match_id": "133880",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133880"
-    },
-    {
       "title": "Bangladesh Women vs Pakistan Women, 3rd Match",
       "team1": "Bangladesh Women",
       "team2": "Pakistan Women",
@@ -184,15 +166,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121455"
     },
     {
-      "title": "Malawi vs Uganda, 5th Place Play-off 2nd Semi-Final",
-      "team1": "Malawi",
-      "team2": "Uganda",
-      "match_id": "134881",
-      "match_date": "2/10/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134881"
-    },
-    {
       "title": "Zimbabwe vs Kenya, 2nd Semi-Final",
       "team1": "Zimbabwe",
       "team2": "Kenya",
@@ -200,6 +173,15 @@
       "match_date": "2/10/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134876"
+    },
+    {
+      "title": "Malawi vs Uganda, 5th Place Play-off 2nd Semi-Final",
+      "team1": "Malawi",
+      "team2": "Uganda",
+      "match_id": "134881",
+      "match_date": "2/10/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134881"
     },
     {
       "title": "Afghanistan vs Bangladesh, 1st T20I",
