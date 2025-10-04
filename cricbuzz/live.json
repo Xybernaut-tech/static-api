@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:50 PM 04-10-2025",
+  "last update time": "03:46 PM 04-10-2025",
   "matches": [
     {
       "title": "Vidarbha vs Rest of India, Irani Cup",
@@ -31,22 +31,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133886"
     },
     {
-      "title": "North West vs Titans, 7th Match",
-      "team1": "North West",
-      "team2": "Titans",
-      "match_id": "133897",
+      "title": "Knights vs Eastern Storm, 2nd Match",
+      "team1": "Knights",
+      "team2": "Eastern Storm",
+      "match_id": "134480",
       "match_date": "2/10/2025",
       "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133897"
-    },
-    {
-      "title": "Limpopo vs South Western Districts, 4th Match",
-      "team1": "Limpopo",
-      "team2": "South Western Districts",
-      "match_id": "134491",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134491"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
     },
     {
       "title": "Northern Cape vs Mpumalanga Rhinos, 3rd Match",
@@ -58,13 +49,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134485"
     },
     {
-      "title": "Knights vs Eastern Storm, 2nd Match",
-      "team1": "Knights",
-      "team2": "Eastern Storm",
-      "match_id": "134480",
+      "title": "Boland vs Dolphins, 4th Match",
+      "team1": "Boland",
+      "team2": "Dolphins",
+      "match_id": "133875",
       "match_date": "2/10/2025",
       "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133875"
+    },
+    {
+      "title": "Limpopo vs South Western Districts, 4th Match",
+      "team1": "Limpopo",
+      "team2": "South Western Districts",
+      "match_id": "134491",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134491"
     },
     {
       "title": "Western Province vs Lions, 5th Match",
@@ -76,22 +76,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133880"
     },
     {
-      "title": "Boland vs Dolphins, 4th Match",
-      "team1": "Boland",
-      "team2": "Dolphins",
-      "match_id": "133875",
+      "title": "North West vs Titans, 7th Match",
+      "team1": "North West",
+      "team2": "Titans",
+      "match_id": "133897",
       "match_date": "2/10/2025",
       "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133875"
-    },
-    {
-      "title": "New Zealand vs Australia, 2nd T20I",
-      "team1": "New Zealand",
-      "team2": "Australia",
-      "match_id": "122522",
-      "match_date": "3/10/2025",
-      "match_time": "11:45:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=122522"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133897"
     },
     {
       "title": "India A vs Australia A, 2nd Unofficial ODI",
@@ -236,6 +227,15 @@
       "match_date": "5/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=119870"
+    },
+    {
+      "title": "India Women vs Pakistan Women, 6th Match",
+      "team1": "India Women",
+      "team2": "Pakistan Women",
+      "match_id": "121488",
+      "match_date": "5/10/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=121488"
     }
   ]
 }
