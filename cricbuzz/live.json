@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:53 AM 04-10-2025",
+  "last update time": "01:50 PM 04-10-2025",
   "matches": [
-    {
-      "title": "Australia U19 vs India U19, 1st Youth Test",
-      "team1": "Australia U19",
-      "team2": "India U19",
-      "match_id": "131020",
-      "match_date": "30/9/2025",
-      "match_time": "5:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131020"
-    },
     {
       "title": "Vidarbha vs Rest of India, Irani Cup",
       "team1": "Vidarbha",
@@ -58,6 +49,24 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134491"
     },
     {
+      "title": "Northern Cape vs Mpumalanga Rhinos, 3rd Match",
+      "team1": "Northern Cape",
+      "team2": "Mpumalanga Rhinos",
+      "match_id": "134485",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134485"
+    },
+    {
+      "title": "Knights vs Eastern Storm, 2nd Match",
+      "team1": "Knights",
+      "team2": "Eastern Storm",
+      "match_id": "134480",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
+    },
+    {
       "title": "Western Province vs Lions, 5th Match",
       "team1": "Western Province",
       "team2": "Lions",
@@ -74,24 +83,6 @@
       "match_date": "2/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133875"
-    },
-    {
-      "title": "Knights vs Eastern Storm, 2nd Match",
-      "team1": "Knights",
-      "team2": "Eastern Storm",
-      "match_id": "134480",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
-    },
-    {
-      "title": "Northern Cape vs Mpumalanga Rhinos, 3rd Match",
-      "team1": "Northern Cape",
-      "team2": "Mpumalanga Rhinos",
-      "match_id": "134485",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134485"
     },
     {
       "title": "New Zealand vs Australia, 2nd T20I",
@@ -175,15 +166,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=122528"
     },
     {
-      "title": "Botswana vs Malawi, 7th Place Play-off",
-      "team1": "Botswana",
-      "team2": "Malawi",
-      "match_id": "134903",
-      "match_date": "4/10/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134903"
-    },
-    {
       "title": "Tanzania vs Kenya, 3rd Place Play-off",
       "team1": "Tanzania",
       "team2": "Kenya",
@@ -191,6 +173,15 @@
       "match_date": "4/10/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134892"
+    },
+    {
+      "title": "Botswana vs Malawi, 7th Place Play-off",
+      "team1": "Botswana",
+      "team2": "Malawi",
+      "match_id": "134903",
+      "match_date": "4/10/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134903"
     },
     {
       "title": "Sri Lanka Women vs Australia Women, 5th Match",
@@ -227,6 +218,24 @@
       "match_date": "5/10/2025",
       "match_time": "7:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135505"
+    },
+    {
+      "title": "Zimbabwe Women vs United Arab Emirates Women, 1st T20I",
+      "team1": "Zimbabwe Women",
+      "team2": "United Arab Emirates Women",
+      "match_id": "135184",
+      "match_date": "5/10/2025",
+      "match_time": "12:45:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135184"
+    },
+    {
+      "title": "India A vs Australia A, 3rd unofficial ODI",
+      "team1": "India A",
+      "team2": "Australia A",
+      "match_id": "119870",
+      "match_date": "5/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=119870"
     }
   ]
 }
