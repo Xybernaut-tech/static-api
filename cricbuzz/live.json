@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:56 AM 05-10-2025",
+  "last update time": "08:35 AM 05-10-2025",
   "matches": [
     {
       "title": "Vidarbha vs Rest of India, Irani Cup",
@@ -31,40 +31,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133886"
     },
     {
-      "title": "Boland vs Dolphins, 4th Match",
-      "team1": "Boland",
-      "team2": "Dolphins",
-      "match_id": "133875",
+      "title": "Northern Cape vs Mpumalanga Rhinos, 3rd Match",
+      "team1": "Northern Cape",
+      "team2": "Mpumalanga Rhinos",
+      "match_id": "134485",
       "match_date": "2/10/2025",
       "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133875"
-    },
-    {
-      "title": "Knights vs Eastern Storm, 2nd Match",
-      "team1": "Knights",
-      "team2": "Eastern Storm",
-      "match_id": "134480",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
-    },
-    {
-      "title": "Western Province vs Lions, 5th Match",
-      "team1": "Western Province",
-      "team2": "Lions",
-      "match_id": "133880",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133880"
-    },
-    {
-      "title": "Limpopo vs South Western Districts, 4th Match",
-      "team1": "Limpopo",
-      "team2": "South Western Districts",
-      "match_id": "134491",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134491"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134485"
     },
     {
       "title": "North West vs Titans, 7th Match",
@@ -76,13 +49,40 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133897"
     },
     {
-      "title": "Northern Cape vs Mpumalanga Rhinos, 3rd Match",
-      "team1": "Northern Cape",
-      "team2": "Mpumalanga Rhinos",
-      "match_id": "134485",
+      "title": "Knights vs Eastern Storm, 2nd Match",
+      "team1": "Knights",
+      "team2": "Eastern Storm",
+      "match_id": "134480",
       "match_date": "2/10/2025",
       "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134485"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
+    },
+    {
+      "title": "Limpopo vs South Western Districts, 4th Match",
+      "team1": "Limpopo",
+      "team2": "South Western Districts",
+      "match_id": "134491",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134491"
+    },
+    {
+      "title": "Western Province vs Lions, 5th Match",
+      "team1": "Western Province",
+      "team2": "Lions",
+      "match_id": "133880",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133880"
+    },
+    {
+      "title": "Boland vs Dolphins, 4th Match",
+      "team1": "Boland",
+      "team2": "Dolphins",
+      "match_id": "133875",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133875"
     },
     {
       "title": "Queensland vs Tasmania, 1st Match",
@@ -157,15 +157,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121477"
     },
     {
-      "title": "Zimbabwe vs Namibia, Final",
-      "team1": "Zimbabwe",
-      "team2": "Namibia",
-      "match_id": "134925",
-      "match_date": "4/10/2025",
-      "match_time": "5:20:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134925"
-    },
-    {
       "title": "Nigeria vs Uganda, 5th Place Play-off",
       "team1": "Nigeria",
       "team2": "Uganda",
@@ -173,6 +164,15 @@
       "match_date": "4/10/2025",
       "match_time": "5:20:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134914"
+    },
+    {
+      "title": "Zimbabwe vs Namibia, Final",
+      "team1": "Zimbabwe",
+      "team2": "Namibia",
+      "match_id": "134925",
+      "match_date": "4/10/2025",
+      "match_time": "5:20:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134925"
     },
     {
       "title": "Malaysia Women vs Nepal Women, 3rd T20I",
