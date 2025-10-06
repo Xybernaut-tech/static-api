@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:45 AM 06-10-2025",
+  "last update time": "06:50 AM 06-10-2025",
   "matches": [
     {
       "title": "Vidarbha vs Rest of India, Irani Cup",
@@ -29,15 +29,6 @@
       "match_date": "2/10/2025",
       "match_time": "12:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133886"
-    },
-    {
-      "title": "North West vs Titans, 7th Match",
-      "team1": "North West",
-      "team2": "Titans",
-      "match_id": "133897",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133897"
     },
     {
       "title": "Knights vs Eastern Storm, 2nd Match",
@@ -74,6 +65,15 @@
       "match_date": "2/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133880"
+    },
+    {
+      "title": "North West vs Titans, 7th Match",
+      "team1": "North West",
+      "team2": "Titans",
+      "match_id": "133897",
+      "match_date": "2/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133897"
     },
     {
       "title": "Limpopo vs South Western Districts, 4th Match",
@@ -182,6 +182,15 @@
       "match_date": "6/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121494"
+    },
+    {
+      "title": "Australia U19 vs India U19, 2nd Youth Test",
+      "team1": "Australia U19",
+      "team2": "India U19",
+      "match_id": "131026",
+      "match_date": "7/10/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131026"
     }
   ]
 }
