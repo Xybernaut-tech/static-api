@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:48 PM 06-10-2025",
+  "last update time": "09:52 PM 06-10-2025",
   "matches": [
     {
       "title": "India vs West Indies, 1st Test",
@@ -11,60 +11,6 @@
       "match_date": "2/10/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=117359"
-    },
-    {
-      "title": "North West vs Titans, 7th Match",
-      "team1": "North West",
-      "team2": "Titans",
-      "match_id": "133897",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133897"
-    },
-    {
-      "title": "Western Province vs Lions, 5th Match",
-      "team1": "Western Province",
-      "team2": "Lions",
-      "match_id": "133880",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133880"
-    },
-    {
-      "title": "Knights vs Eastern Storm, 2nd Match",
-      "team1": "Knights",
-      "team2": "Eastern Storm",
-      "match_id": "134480",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134480"
-    },
-    {
-      "title": "Northern Cape vs Mpumalanga Rhinos, 3rd Match",
-      "team1": "Northern Cape",
-      "team2": "Mpumalanga Rhinos",
-      "match_id": "134485",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134485"
-    },
-    {
-      "title": "Boland vs Dolphins, 4th Match",
-      "team1": "Boland",
-      "team2": "Dolphins",
-      "match_id": "133875",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133875"
-    },
-    {
-      "title": "Limpopo vs South Western Districts, 4th Match",
-      "team1": "Limpopo",
-      "team2": "South Western Districts",
-      "match_id": "134491",
-      "match_date": "2/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134491"
     },
     {
       "title": "Queensland vs Tasmania, 1st Match",
@@ -110,15 +56,6 @@
       "match_date": "5/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121488"
-    },
-    {
-      "title": "Zimbabwe Women vs United Arab Emirates Women, 1st T20I",
-      "team1": "Zimbabwe Women",
-      "team2": "United Arab Emirates Women",
-      "match_id": "135184",
-      "match_date": "5/10/2025",
-      "match_time": "5:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135184"
     },
     {
       "title": "Afghanistan vs Bangladesh, 3rd T20I",
