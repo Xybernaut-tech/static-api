@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:57 AM 07-10-2025",
+  "last update time": "01:54 PM 07-10-2025",
   "matches": [
     {
       "title": "India vs West Indies, 1st Test",
@@ -38,6 +38,15 @@
       "match_date": "4/10/2025",
       "match_time": "8:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133220"
+    },
+    {
+      "title": "India Women vs Pakistan Women, 6th Match",
+      "team1": "India Women",
+      "team2": "Pakistan Women",
+      "match_id": "121488",
+      "match_date": "5/10/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=121488"
     },
     {
       "title": "New Zealand Women vs South Africa Women, 7th Match",
@@ -101,6 +110,15 @@
       "match_date": "8/10/2025",
       "match_time": "11:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130817"
+    },
+    {
+      "title": "Dolphins vs Lions, 8th Match",
+      "team1": "Dolphins",
+      "team2": "Lions",
+      "match_id": "133908",
+      "match_date": "8/10/2025",
+      "match_time": "12:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133908"
     }
   ]
 }
