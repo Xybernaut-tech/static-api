@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:48 PM 07-10-2025",
+  "last update time": "06:08 PM 07-10-2025",
   "matches": [
-    {
-      "title": "India vs West Indies, 1st Test",
-      "team1": "India",
-      "team2": "West Indies",
-      "match_id": "117359",
-      "match_date": "2/10/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=117359"
-    },
     {
       "title": "Queensland vs Tasmania, 1st Match",
       "team1": "Queensland",
@@ -128,6 +119,24 @@
       "match_date": "8/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121516"
+    },
+    {
+      "title": "United Arab Emirates vs Qatar, 2nd Match, Group 1",
+      "team1": "United Arab Emirates",
+      "team2": "Qatar",
+      "match_id": "130822",
+      "match_date": "8/10/2025",
+      "match_time": "4:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130822"
+    },
+    {
+      "title": "Afghanistan vs Bangladesh, 1st ODI",
+      "team1": "Afghanistan",
+      "team2": "Bangladesh",
+      "match_id": "133671",
+      "match_date": "8/10/2025",
+      "match_time": "5:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133671"
     }
   ]
 }
