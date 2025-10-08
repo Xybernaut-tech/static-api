@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:26 AM 08-10-2025",
+  "last update time": "09:51 AM 08-10-2025",
   "matches": [
     {
       "title": "Queensland vs Tasmania, 1st Match",
@@ -31,24 +31,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133220"
     },
     {
-      "title": "India Women vs Pakistan Women, 6th Match",
-      "team1": "India Women",
-      "team2": "Pakistan Women",
-      "match_id": "121488",
-      "match_date": "5/10/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121488"
-    },
-    {
-      "title": "New Zealand Women vs South Africa Women, 7th Match",
-      "team1": "New Zealand Women",
-      "team2": "South Africa Women",
-      "match_id": "121494",
-      "match_date": "6/10/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121494"
-    },
-    {
       "title": "Australia U19 vs India U19, 2nd Youth Test",
       "team1": "Australia U19",
       "team2": "India U19",
@@ -76,15 +58,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121505"
     },
     {
-      "title": "Nepal vs Kuwait, 3rd Match, Group 2",
-      "team1": "Nepal",
-      "team2": "Kuwait",
-      "match_id": "130833",
-      "match_date": "8/10/2025",
-      "match_time": "7:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130833"
-    },
-    {
       "title": "Malaysia Women vs Nepal Women, 5th T20I",
       "team1": "Malaysia Women",
       "team2": "Nepal Women",
@@ -92,6 +65,15 @@
       "match_date": "8/10/2025",
       "match_time": "7:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135516"
+    },
+    {
+      "title": "Nepal vs Kuwait, 3rd Match, Group 2",
+      "team1": "Nepal",
+      "team2": "Kuwait",
+      "match_id": "130833",
+      "match_date": "8/10/2025",
+      "match_time": "7:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130833"
     },
     {
       "title": "Oman vs Samoa, 1st Match, Group 3",
