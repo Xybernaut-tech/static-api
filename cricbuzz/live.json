@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:46 AM 09-10-2025",
+  "last update time": "06:50 AM 09-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 2nd Youth Test",
@@ -85,31 +85,22 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130833"
     },
     {
-      "title": "South Australia vs Victoria, 7th Match",
-      "team1": "South Australia",
-      "team2": "Victoria",
-      "match_id": "133506",
-      "match_date": "9/10/2025",
-      "match_time": "5:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133506"
-    },
-    {
-      "title": "Queensland vs Tasmania, 8th Match",
+      "title": "Queensland vs Tasmania, 7th Match",
       "team1": "Queensland",
       "team2": "Tasmania",
       "match_id": "133517",
       "match_date": "9/10/2025",
-      "match_time": "6:00:00 am",
+      "match_time": "5:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133517"
     },
     {
-      "title": "Western Australia vs New South Wales, 9th Match",
-      "team1": "Western Australia",
-      "team2": "New South Wales",
-      "match_id": "133523",
+      "title": "South Australia vs Victoria, 8th Match",
+      "team1": "South Australia",
+      "team2": "Victoria",
+      "match_id": "133506",
       "match_date": "9/10/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133523"
+      "match_time": "6:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133506"
     },
     {
       "title": "Malaysia vs Qatar, 4th Match, Group 1",
@@ -119,6 +110,15 @@
       "match_date": "9/10/2025",
       "match_time": "11:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130844"
+    },
+    {
+      "title": "Western Australia vs New South Wales, 9th Match",
+      "team1": "Western Australia",
+      "team2": "New South Wales",
+      "match_id": "133523",
+      "match_date": "9/10/2025",
+      "match_time": "11:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133523"
     },
     {
       "title": "Romania Women vs Austria Women, 1st Match",
