@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:48 PM 09-10-2025",
+  "last update time": "09:54 PM 09-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 2nd Youth Test",
@@ -67,15 +67,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133506"
     },
     {
-      "title": "Western Australia vs New South Wales, 9th Match",
-      "team1": "Western Australia",
-      "team2": "New South Wales",
-      "match_id": "133523",
-      "match_date": "9/10/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133523"
-    },
-    {
       "title": "Malaysia vs Qatar, 4th Match, Group 1",
       "team1": "Malaysia",
       "team2": "Qatar",
@@ -83,6 +74,15 @@
       "match_date": "9/10/2025",
       "match_time": "11:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130844"
+    },
+    {
+      "title": "Western Australia vs New South Wales, 9th Match",
+      "team1": "Western Australia",
+      "team2": "New South Wales",
+      "match_id": "133523",
+      "match_date": "9/10/2025",
+      "match_time": "11:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133523"
     },
     {
       "title": "Romania Women vs Austria Women, 1st Match",
@@ -200,6 +200,15 @@
       "match_date": "10/10/2025",
       "match_time": "5:45:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135675"
+    },
+    {
+      "title": "Oman vs Papua New Guinea, 9th Match, Group 3",
+      "team1": "Oman",
+      "team2": "Papua New Guinea",
+      "match_id": "130888",
+      "match_date": "10/10/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130888"
     }
   ]
 }
