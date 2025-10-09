@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:56 PM 09-10-2025",
+  "last update time": "01:50 AM 10-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 2nd Youth Test",
@@ -40,15 +40,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133671"
     },
     {
-      "title": "Nepal vs Kuwait, 3rd Match, Group 2",
-      "team1": "Nepal",
-      "team2": "Kuwait",
-      "match_id": "130833",
-      "match_date": "8/10/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130833"
-    },
-    {
       "title": "Queensland vs Tasmania, 7th Match",
       "team1": "Queensland",
       "team2": "Tasmania",
@@ -67,15 +58,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133506"
     },
     {
-      "title": "Malaysia vs Qatar, 4th Match, Group 1",
-      "team1": "Malaysia",
-      "team2": "Qatar",
-      "match_id": "130844",
-      "match_date": "9/10/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130844"
-    },
-    {
       "title": "Western Australia vs New South Wales, 9th Match",
       "team1": "Western Australia",
       "team2": "New South Wales",
@@ -83,6 +65,15 @@
       "match_date": "9/10/2025",
       "match_time": "11:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133523"
+    },
+    {
+      "title": "Malaysia vs Qatar, 4th Match, Group 1",
+      "team1": "Malaysia",
+      "team2": "Qatar",
+      "match_id": "130844",
+      "match_date": "9/10/2025",
+      "match_time": "11:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130844"
     },
     {
       "title": "Romania Women vs Austria Women, 1st Match",
