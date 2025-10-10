@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:54 PM 10-10-2025",
+  "last update time": "03:49 PM 10-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 2nd Youth Test",
@@ -40,15 +40,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133671"
     },
     {
-      "title": "South Australia vs Victoria, 8th Match",
-      "team1": "South Australia",
-      "team2": "Victoria",
-      "match_id": "133506",
-      "match_date": "9/10/2025",
-      "match_time": "6:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133506"
-    },
-    {
       "title": "Western Australia vs New South Wales, 9th Match",
       "team1": "Western Australia",
       "team2": "New South Wales",
@@ -56,15 +47,6 @@
       "match_date": "9/10/2025",
       "match_time": "11:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133523"
-    },
-    {
-      "title": "Malaysia vs Qatar, 4th Match, Group 1",
-      "team1": "Malaysia",
-      "team2": "Qatar",
-      "match_id": "130844",
-      "match_date": "9/10/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130844"
     },
     {
       "title": "Romania Women vs Austria Women, 1st Match",
@@ -200,6 +182,24 @@
       "match_date": "11/10/2025",
       "match_time": "10:45:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135677"
+    },
+    {
+      "title": "Bulgaria Women vs Austria Women, 7th Match",
+      "team1": "Bulgaria Women",
+      "team2": "Austria Women",
+      "match_id": "135688",
+      "match_date": "11/10/2025",
+      "match_time": "2:15:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135688"
+    },
+    {
+      "title": "England Women vs Sri Lanka Women, 12th Match",
+      "team1": "England Women",
+      "team2": "Sri Lanka Women",
+      "match_id": "121538",
+      "match_date": "11/10/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=121538"
     }
   ]
 }
