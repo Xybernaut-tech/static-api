@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:51 AM 10-10-2025",
+  "last update time": "11:57 AM 10-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 2nd Youth Test",
@@ -200,6 +200,15 @@
       "match_date": "10/10/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130888"
+    },
+    {
+      "title": "Turkey Women vs Norway Women, 6th Match",
+      "team1": "Turkey Women",
+      "team2": "Norway Women",
+      "match_id": "135677",
+      "match_date": "11/10/2025",
+      "match_time": "10:45:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135677"
     }
   ]
 }
