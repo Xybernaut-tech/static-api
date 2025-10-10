@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:07 PM 10-10-2025",
+  "last update time": "07:47 PM 10-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 2nd Youth Test",
@@ -22,33 +22,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133908"
     },
     {
-      "title": "Australia Women vs Pakistan Women, 9th Match",
-      "team1": "Australia Women",
-      "team2": "Pakistan Women",
-      "match_id": "121516",
-      "match_date": "8/10/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121516"
-    },
-    {
-      "title": "Afghanistan vs Bangladesh, 1st ODI",
-      "team1": "Afghanistan",
-      "team2": "Bangladesh",
-      "match_id": "133671",
-      "match_date": "8/10/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133671"
-    },
-    {
-      "title": "Western Australia vs New South Wales, 9th Match",
-      "team1": "Western Australia",
-      "team2": "New South Wales",
-      "match_id": "133523",
-      "match_date": "9/10/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133523"
-    },
-    {
       "title": "Border vs Northern Cape, 5th Match",
       "team1": "Border",
       "team2": "Northern Cape",
@@ -65,15 +38,6 @@
       "match_date": "9/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121521"
-    },
-    {
-      "title": "Kuwait vs Japan, 5th Match, Group 2",
-      "team1": "Kuwait",
-      "team2": "Japan",
-      "match_id": "130855",
-      "match_date": "9/10/2025",
-      "match_time": "4:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130855"
     },
     {
       "title": "Turkey Women vs Bulgaria Women, 2nd Match",
@@ -193,15 +157,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121538"
     },
     {
-      "title": "Afghanistan vs Bangladesh, 2nd ODI",
-      "team1": "Afghanistan",
-      "team2": "Bangladesh",
-      "match_id": "133677",
-      "match_date": "11/10/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133677"
-    },
-    {
       "title": "Namibia vs South Africa, Only T20I",
       "team1": "Namibia",
       "team2": "South Africa",
@@ -209,6 +164,15 @@
       "match_date": "11/10/2025",
       "match_time": "5:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128930"
+    },
+    {
+      "title": "Afghanistan vs Bangladesh, 2nd ODI",
+      "team1": "Afghanistan",
+      "team2": "Bangladesh",
+      "match_id": "133677",
+      "match_date": "11/10/2025",
+      "match_time": "5:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133677"
     },
     {
       "title": "Norway Women vs Romania Women, 8th Match",
