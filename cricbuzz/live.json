@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:56 PM 10-10-2025",
+  "last update time": "01:49 AM 11-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 2nd Youth Test",
@@ -29,15 +29,6 @@
       "match_date": "9/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134496"
-    },
-    {
-      "title": "Papua New Guinea vs Samoa, 6th Match, Group 3",
-      "team1": "Papua New Guinea",
-      "team2": "Samoa",
-      "match_id": "130866",
-      "match_date": "9/10/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130866"
     },
     {
       "title": "India vs West Indies, 2nd Test",
@@ -139,15 +130,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121538"
     },
     {
-      "title": "Afghanistan vs Bangladesh, 2nd ODI",
-      "team1": "Afghanistan",
-      "team2": "Bangladesh",
-      "match_id": "133677",
-      "match_date": "11/10/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133677"
-    },
-    {
       "title": "Namibia vs South Africa, Only T20I",
       "team1": "Namibia",
       "team2": "South Africa",
@@ -155,6 +137,15 @@
       "match_date": "11/10/2025",
       "match_time": "5:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128930"
+    },
+    {
+      "title": "Afghanistan vs Bangladesh, 2nd ODI",
+      "team1": "Afghanistan",
+      "team2": "Bangladesh",
+      "match_id": "133677",
+      "match_date": "11/10/2025",
+      "match_time": "5:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133677"
     },
     {
       "title": "Norway Women vs Romania Women, 8th Match",
