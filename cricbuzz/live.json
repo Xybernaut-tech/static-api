@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:52 PM 10-10-2025",
+  "last update time": "11:56 PM 10-10-2025",
   "matches": [
     {
       "title": "Australia U19 vs India U19, 2nd Youth Test",
@@ -29,15 +29,6 @@
       "match_date": "9/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134496"
-    },
-    {
-      "title": "India Women vs South Africa Women, 10th Match",
-      "team1": "India Women",
-      "team2": "South Africa Women",
-      "match_id": "121521",
-      "match_date": "9/10/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121521"
     },
     {
       "title": "Papua New Guinea vs Samoa, 6th Match, Group 3",
