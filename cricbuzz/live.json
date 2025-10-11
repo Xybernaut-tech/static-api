@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:46 PM 11-10-2025",
+  "last update time": "06:03 PM 11-10-2025",
   "matches": [
     {
       "title": "Dolphins vs Lions, 8th Match",
@@ -29,15 +29,6 @@
       "match_date": "10/10/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=117362"
-    },
-    {
-      "title": "Romania Women vs Turkey Women, 4th Match",
-      "team1": "Romania Women",
-      "team2": "Turkey Women",
-      "match_id": "135664",
-      "match_date": "10/10/2025",
-      "match_time": "2:15:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135664"
     },
     {
       "title": "New Zealand Women vs Bangladesh Women, 11th Match",
@@ -103,15 +94,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121538"
     },
     {
-      "title": "Afghanistan vs Bangladesh, 2nd ODI",
-      "team1": "Afghanistan",
-      "team2": "Bangladesh",
-      "match_id": "133677",
-      "match_date": "11/10/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133677"
-    },
-    {
       "title": "Namibia vs South Africa, Only T20I",
       "team1": "Namibia",
       "team2": "South Africa",
@@ -119,6 +101,15 @@
       "match_date": "11/10/2025",
       "match_time": "5:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128930"
+    },
+    {
+      "title": "Afghanistan vs Bangladesh, 2nd ODI",
+      "team1": "Afghanistan",
+      "team2": "Bangladesh",
+      "match_id": "133677",
+      "match_date": "11/10/2025",
+      "match_time": "5:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133677"
     },
     {
       "title": "Norway Women vs Romania Women, 8th Match",
@@ -135,7 +126,7 @@
       "team2": "South Africa",
       "match_id": "134353",
       "match_date": "12/10/2025",
-      "match_time": "10:00:00 am",
+      "match_time": "10:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134353"
     },
     {
@@ -164,6 +155,24 @@
       "match_date": "12/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121549"
+    },
+    {
+      "title": "Tbc vs Tbc, Super Six, Match 2 (G1 Q1 v G2 Q1)",
+      "team1": "Tbc",
+      "team2": "Tbc",
+      "match_id": "130899",
+      "match_date": "12/10/2025",
+      "match_time": "4:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130899"
+    },
+    {
+      "title": "Norway Women vs Bulgaria Women, 10th Match",
+      "team1": "Norway Women",
+      "team2": "Bulgaria Women",
+      "match_id": "135716",
+      "match_date": "12/10/2025",
+      "match_time": "4:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135716"
     }
   ]
 }
