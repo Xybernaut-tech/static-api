@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:50 PM 11-10-2025",
+  "last update time": "03:46 PM 11-10-2025",
   "matches": [
     {
       "title": "Dolphins vs Lions, 8th Match",
@@ -29,24 +29,6 @@
       "match_date": "10/10/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=117362"
-    },
-    {
-      "title": "Austria Women vs Turkey Women, 3rd Match",
-      "team1": "Austria Women",
-      "team2": "Turkey Women",
-      "match_id": "135655",
-      "match_date": "10/10/2025",
-      "match_time": "10:45:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135655"
-    },
-    {
-      "title": "United Arab Emirates vs Malaysia, 7th Match, Group 1",
-      "team1": "United Arab Emirates",
-      "team2": "Malaysia",
-      "match_id": "130872",
-      "match_date": "10/10/2025",
-      "match_time": "11:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130872"
     },
     {
       "title": "Romania Women vs Turkey Women, 4th Match",
@@ -173,6 +155,15 @@
       "match_date": "12/10/2025",
       "match_time": "12:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=135705"
+    },
+    {
+      "title": "India Women vs Australia Women, 13th Match",
+      "team1": "India Women",
+      "team2": "Australia Women",
+      "match_id": "121549",
+      "match_date": "12/10/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=121549"
     }
   ]
 }
