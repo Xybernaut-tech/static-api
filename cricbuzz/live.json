@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:49 PM 11-10-2025",
+  "last update time": "11:51 PM 11-10-2025",
   "matches": [
     {
       "title": "Dolphins vs Lions, 8th Match",
@@ -29,15 +29,6 @@
       "match_date": "10/10/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=117362"
-    },
-    {
-      "title": "New Zealand Women vs Bangladesh Women, 11th Match",
-      "team1": "New Zealand Women",
-      "team2": "Bangladesh Women",
-      "match_id": "121527",
-      "match_date": "10/10/2025",
-      "match_time": "3:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=121527"
     },
     {
       "title": "Oman vs Papua New Guinea, 9th Match, Group 3",
@@ -112,9 +103,9 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134353"
     },
     {
-      "title": "Tbc vs Tbc, Super Six, Match 1 (G3 Q1 v G1 Q2)",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Oman vs Qatar, Super Six, Match 1 (G3 Q1 v G1 Q2)",
+      "team1": "Oman",
+      "team2": "Qatar",
       "match_id": "130894",
       "match_date": "12/10/2025",
       "match_time": "11:30:00 am",
@@ -139,9 +130,9 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121549"
     },
     {
-      "title": "Tbc vs Tbc, Super Six, Match 2 (G1 Q1 v G2 Q1)",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Nepal vs United Arab Emirates, Super Six, Match 2 (G1 Q1 v G2 Q1)",
+      "team1": "Nepal",
+      "team2": "United Arab Emirates",
       "match_id": "130899",
       "match_date": "12/10/2025",
       "match_time": "4:00:00 pm",
@@ -157,9 +148,9 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135716"
     },
     {
-      "title": "Tbc vs Tbc, Super Six, Match 3 (G3 Q2 v G2 Q2)",
-      "team1": "Tbc",
-      "team2": "Tbc",
+      "title": "Japan vs Samoa, Super Six, Match 3 (G3 Q2 v G2 Q2)",
+      "team1": "Japan",
+      "team2": "Samoa",
       "match_id": "130905",
       "match_date": "12/10/2025",
       "match_time": "8:30:00 pm",
