@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:50 PM 12-10-2025",
+  "last update time": "03:46 PM 12-10-2025",
   "matches": [
     {
       "title": "Dolphins vs Lions, 8th Match",
@@ -31,15 +31,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=117362"
     },
     {
-      "title": "Turkey Women vs Norway Women, 6th Match",
-      "team1": "Turkey Women",
-      "team2": "Norway Women",
-      "match_id": "135677",
-      "match_date": "11/10/2025",
-      "match_time": "10:45:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135677"
-    },
-    {
       "title": "Bulgaria Women vs Austria Women, 7th Match",
       "team1": "Bulgaria Women",
       "team2": "Austria Women",
@@ -58,15 +49,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121538"
     },
     {
-      "title": "Afghanistan vs Bangladesh, 2nd ODI",
-      "team1": "Afghanistan",
-      "team2": "Bangladesh",
-      "match_id": "133677",
-      "match_date": "11/10/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133677"
-    },
-    {
       "title": "Namibia vs South Africa, Only T20I",
       "team1": "Namibia",
       "team2": "South Africa",
@@ -74,6 +56,15 @@
       "match_date": "11/10/2025",
       "match_time": "5:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128930"
+    },
+    {
+      "title": "Afghanistan vs Bangladesh, 2nd ODI",
+      "team1": "Afghanistan",
+      "team2": "Bangladesh",
+      "match_id": "133677",
+      "match_date": "11/10/2025",
+      "match_time": "5:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133677"
     },
     {
       "title": "Norway Women vs Romania Women, 8th Match",
@@ -146,6 +137,15 @@
       "match_date": "12/10/2025",
       "match_time": "8:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130905"
+    },
+    {
+      "title": "South Africa Women vs Bangladesh Women, 14th Match",
+      "team1": "South Africa Women",
+      "team2": "Bangladesh Women",
+      "match_id": "121554",
+      "match_date": "13/10/2025",
+      "match_time": "3:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=121554"
     }
   ]
 }
