@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:44 PM 12-10-2025",
+  "last update time": "09:49 PM 12-10-2025",
   "matches": [
     {
       "title": "Border vs Northern Cape, 5th Match",
@@ -47,15 +47,6 @@
       "match_date": "11/10/2025",
       "match_time": "5:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=128930"
-    },
-    {
-      "title": "Norway Women vs Romania Women, 8th Match",
-      "team1": "Norway Women",
-      "team2": "Romania Women",
-      "match_id": "135694",
-      "match_date": "11/10/2025",
-      "match_time": "5:45:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135694"
     },
     {
       "title": "Pakistan vs South Africa, 1st Test",
@@ -137,6 +128,15 @@
       "match_date": "13/10/2025",
       "match_time": "4:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=130910"
+    },
+    {
+      "title": "Nepal vs Qatar, Super Six, Match 5 (G2 Q1 v G1 Q2)",
+      "team1": "Nepal",
+      "team2": "Qatar",
+      "match_id": "130916",
+      "match_date": "13/10/2025",
+      "match_time": "8:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=130916"
     },
     {
       "title": "Papua New Guinea Women vs United Arab Emirates Women, 1st ODI",
