@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:03 PM 12-10-2025",
+  "last update time": "07:44 PM 12-10-2025",
   "matches": [
-    {
-      "title": "Dolphins vs Lions, 8th Match",
-      "team1": "Dolphins",
-      "team2": "Lions",
-      "match_id": "133908",
-      "match_date": "8/10/2025",
-      "match_time": "12:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133908"
-    },
     {
       "title": "Border vs Northern Cape, 5th Match",
       "team1": "Border",
