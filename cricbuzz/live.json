@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:54 AM 12-10-2025",
+  "last update time": "01:50 PM 12-10-2025",
   "matches": [
     {
       "title": "Dolphins vs Lions, 8th Match",
@@ -58,15 +58,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121538"
     },
     {
-      "title": "Namibia vs South Africa, Only T20I",
-      "team1": "Namibia",
-      "team2": "South Africa",
-      "match_id": "128930",
-      "match_date": "11/10/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=128930"
-    },
-    {
       "title": "Afghanistan vs Bangladesh, 2nd ODI",
       "team1": "Afghanistan",
       "team2": "Bangladesh",
@@ -74,6 +65,15 @@
       "match_date": "11/10/2025",
       "match_time": "5:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133677"
+    },
+    {
+      "title": "Namibia vs South Africa, Only T20I",
+      "team1": "Namibia",
+      "team2": "South Africa",
+      "match_id": "128930",
+      "match_date": "11/10/2025",
+      "match_time": "5:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=128930"
     },
     {
       "title": "Norway Women vs Romania Women, 8th Match",
