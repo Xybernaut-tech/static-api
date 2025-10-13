@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:08 PM 13-10-2025",
+  "last update time": "07:49 PM 13-10-2025",
   "matches": [
     {
       "title": "Border vs Northern Cape, 5th Match",
@@ -47,15 +47,6 @@
       "match_date": "12/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121549"
-    },
-    {
-      "title": "Nepal vs United Arab Emirates, Super Six, Match 2 (G1 Q1 v G2 Q1)",
-      "team1": "Nepal",
-      "team2": "United Arab Emirates",
-      "match_id": "130899",
-      "match_date": "12/10/2025",
-      "match_time": "4:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130899"
     },
     {
       "title": "Norway Women vs Bulgaria Women, 10th Match",
@@ -130,15 +121,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133935"
     },
     {
-      "title": "Warriors vs Boland, 10th Match",
-      "team1": "Warriors",
-      "team2": "Boland",
-      "match_id": "133924",
-      "match_date": "14/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133924"
-    },
-    {
       "title": "Western Province vs North West, 9th Match",
       "team1": "Western Province",
       "team2": "North West",
@@ -146,6 +128,15 @@
       "match_date": "14/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133919"
+    },
+    {
+      "title": "Warriors vs Boland, 10th Match",
+      "team1": "Warriors",
+      "team2": "Boland",
+      "match_id": "133924",
+      "match_date": "14/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133924"
     },
     {
       "title": "Sri Lanka Women vs New Zealand Women, 15th Match",
