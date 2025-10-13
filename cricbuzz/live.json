@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:51 PM 13-10-2025",
+  "last update time": "06:08 PM 13-10-2025",
   "matches": [
     {
       "title": "Border vs Northern Cape, 5th Match",
@@ -31,15 +31,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=128930"
     },
     {
-      "title": "Afghanistan vs Bangladesh, 2nd ODI",
-      "team1": "Afghanistan",
-      "team2": "Bangladesh",
-      "match_id": "133677",
-      "match_date": "11/10/2025",
-      "match_time": "5:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133677"
-    },
-    {
       "title": "Pakistan vs South Africa, 1st Test",
       "team1": "Pakistan",
       "team2": "South Africa",
@@ -47,15 +38,6 @@
       "match_date": "12/10/2025",
       "match_time": "10:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134353"
-    },
-    {
-      "title": "Austria Women vs Norway Women, 9th Match",
-      "team1": "Austria Women",
-      "team2": "Norway Women",
-      "match_id": "135705",
-      "match_date": "12/10/2025",
-      "match_time": "12:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135705"
     },
     {
       "title": "India Women vs Australia Women, 13th Match",
@@ -148,15 +130,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133935"
     },
     {
-      "title": "Western Province vs North West, 9th Match",
-      "team1": "Western Province",
-      "team2": "North West",
-      "match_id": "133919",
-      "match_date": "14/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133919"
-    },
-    {
       "title": "Warriors vs Boland, 10th Match",
       "team1": "Warriors",
       "team2": "Boland",
@@ -166,6 +139,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133924"
     },
     {
+      "title": "Western Province vs North West, 9th Match",
+      "team1": "Western Province",
+      "team2": "North West",
+      "match_id": "133919",
+      "match_date": "14/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133919"
+    },
+    {
       "title": "Sri Lanka Women vs New Zealand Women, 15th Match",
       "team1": "Sri Lanka Women",
       "team2": "New Zealand Women",
@@ -173,6 +155,15 @@
       "match_date": "14/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121560"
+    },
+    {
+      "title": "Afghanistan vs Bangladesh, 3rd ODI",
+      "team1": "Afghanistan",
+      "team2": "Bangladesh",
+      "match_id": "133682",
+      "match_date": "14/10/2025",
+      "match_time": "5:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133682"
     }
   ]
 }
