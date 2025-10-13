@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:55 PM 13-10-2025",
+  "last update time": "01:50 AM 14-10-2025",
   "matches": [
     {
       "title": "India vs West Indies, 2nd Test",
@@ -40,15 +40,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=121549"
     },
     {
-      "title": "Japan vs Samoa, Super Six, Match 3 (G3 Q2 v G2 Q2)",
-      "team1": "Japan",
-      "team2": "Samoa",
-      "match_id": "130905",
-      "match_date": "12/10/2025",
-      "match_time": "8:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=130905"
-    },
-    {
       "title": "Papua New Guinea Women vs United Arab Emirates Women, 1st ODI",
       "team1": "Papua New Guinea Women",
       "team2": "United Arab Emirates Women",
@@ -85,15 +76,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=130916"
     },
     {
-      "title": "Dolphins vs Kwazulu-natal Inland, 11th Match",
-      "team1": "Dolphins",
-      "team2": "Kwazulu-natal Inland",
-      "match_id": "133935",
-      "match_date": "14/10/2025",
-      "match_time": "12:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133935"
-    },
-    {
       "title": "Titans vs Lions, 12th Match",
       "team1": "Titans",
       "team2": "Lions",
@@ -103,13 +85,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133941"
     },
     {
-      "title": "Western Province vs North West, 9th Match",
-      "team1": "Western Province",
-      "team2": "North West",
-      "match_id": "133919",
+      "title": "Dolphins vs Kwazulu-natal Inland, 11th Match",
+      "team1": "Dolphins",
+      "team2": "Kwazulu-natal Inland",
+      "match_id": "133935",
       "match_date": "14/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133919"
+      "match_time": "12:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133935"
     },
     {
       "title": "Warriors vs Boland, 10th Match",
@@ -119,6 +101,15 @@
       "match_date": "14/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133924"
+    },
+    {
+      "title": "Western Province vs North West, 9th Match",
+      "team1": "Western Province",
+      "team2": "North West",
+      "match_id": "133919",
+      "match_date": "14/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133919"
     },
     {
       "title": "Sri Lanka Women vs New Zealand Women, 15th Match",
