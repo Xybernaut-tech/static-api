@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:49 PM 13-10-2025",
+  "last update time": "09:52 PM 13-10-2025",
   "matches": [
-    {
-      "title": "Border vs Northern Cape, 5th Match",
-      "team1": "Border",
-      "team2": "Northern Cape",
-      "match_id": "134496",
-      "match_date": "9/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134496"
-    },
     {
       "title": "India vs West Indies, 2nd Test",
       "team1": "India",
@@ -47,15 +38,6 @@
       "match_date": "12/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121549"
-    },
-    {
-      "title": "Norway Women vs Bulgaria Women, 10th Match",
-      "team1": "Norway Women",
-      "team2": "Bulgaria Women",
-      "match_id": "135716",
-      "match_date": "12/10/2025",
-      "match_time": "4:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135716"
     },
     {
       "title": "Japan vs Samoa, Super Six, Match 3 (G3 Q2 v G2 Q2)",
