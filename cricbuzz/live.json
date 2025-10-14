@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:46 AM 14-10-2025",
+  "last update time": "06:50 AM 14-10-2025",
   "matches": [
     {
       "title": "India vs West Indies, 2nd Test",
@@ -128,6 +128,42 @@
       "match_date": "14/10/2025",
       "match_time": "5:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133682"
+    },
+    {
+      "title": "Victoria vs New South Wales, 4th Match",
+      "team1": "Victoria",
+      "team2": "New South Wales",
+      "match_id": "133226",
+      "match_date": "15/10/2025",
+      "match_time": "5:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133226"
+    },
+    {
+      "title": "Tasmania vs Western Australia, 5th Match",
+      "team1": "Tasmania",
+      "team2": "Western Australia",
+      "match_id": "133231",
+      "match_date": "15/10/2025",
+      "match_time": "5:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133231"
+    },
+    {
+      "title": "South Australia vs Queensland, 6th Match",
+      "team1": "South Australia",
+      "team2": "Queensland",
+      "match_id": "133242",
+      "match_date": "15/10/2025",
+      "match_time": "5:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133242"
+    },
+    {
+      "title": "Papua New Guinea Women vs United Arab Emirates Women, 2nd ODI",
+      "team1": "Papua New Guinea Women",
+      "team2": "United Arab Emirates Women",
+      "match_id": "135762",
+      "match_date": "16/10/2025",
+      "match_time": "5:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135762"
     }
   ]
 }
