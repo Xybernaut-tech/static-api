@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:08 AM 19-10-2025",
+  "last update time": "08:44 AM 19-10-2025",
   "matches": [
     {
       "title": "Tasmania vs Western Australia, 5th Match",
@@ -67,31 +67,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=124128"
     },
     {
-      "title": "Jammu and Kashmir vs Mumbai, Elite Group D",
-      "team1": "Jammu and Kashmir",
-      "team2": "Mumbai",
-      "match_id": "124222",
+      "title": "Hyderabad vs Delhi, Elite Group D",
+      "team1": "Hyderabad",
+      "team2": "Delhi",
+      "match_id": "124233",
       "match_date": "15/10/2025",
       "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124222"
-    },
-    {
-      "title": "Railways vs Haryana, Elite Group C",
-      "team1": "Railways",
-      "team2": "Haryana",
-      "match_id": "124205",
-      "match_date": "15/10/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124205"
-    },
-    {
-      "title": "Goa vs Chandigarh, Elite Group B",
-      "team1": "Goa",
-      "team2": "Chandigarh",
-      "match_id": "124156",
-      "match_date": "15/10/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124156"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=124233"
     },
     {
       "title": "Saurashtra vs Karnataka, Elite Group B",
@@ -103,51 +85,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=124178"
     },
     {
-      "title": "Madhya Pradesh vs Punjab, Elite Group B",
-      "team1": "Madhya Pradesh",
-      "team2": "Punjab",
-      "match_id": "124167",
-      "match_date": "15/10/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124167"
-    },
-    {
-      "title": "Puducherry vs Himachal Pradesh, Elite Group D",
-      "team1": "Puducherry",
-      "team2": "Himachal Pradesh",
-      "match_id": "124211",
-      "match_date": "15/10/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124211"
-    },
-    {
-      "title": "Services vs Tripura, Elite Group C",
-      "team1": "Services",
-      "team2": "Tripura",
-      "match_id": "124183",
-      "match_date": "15/10/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124183"
-    },
-    {
-      "title": "Tamil Nadu vs Jharkhand, Elite Group A",
-      "team1": "Tamil Nadu",
-      "team2": "Jharkhand",
-      "match_id": "124117",
-      "match_date": "15/10/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124117"
-    },
-    {
-      "title": "Bihar vs Arunachal Pradesh, Plate",
-      "team1": "Bihar",
-      "team2": "Arunachal Pradesh",
-      "match_id": "123699",
-      "match_date": "15/10/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=123699"
-    },
-    {
       "title": "Kerala vs Maharashtra, Elite Group B",
       "team1": "Kerala",
       "team2": "Maharashtra",
@@ -155,15 +92,6 @@
       "match_date": "15/10/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=124150"
-    },
-    {
-      "title": "Uttar Pradesh vs Andhra, Elite Group A",
-      "team1": "Uttar Pradesh",
-      "team2": "Andhra",
-      "match_id": "124112",
-      "match_date": "15/10/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124112"
     },
     {
       "title": "Nagaland vs Vidarbha, Elite Group A",
@@ -175,22 +103,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=124139"
     },
     {
-      "title": "Rajasthan vs Chhattisgarh, Elite Group D",
-      "team1": "Rajasthan",
-      "team2": "Chhattisgarh",
-      "match_id": "124227",
+      "title": "Tamil Nadu vs Jharkhand, Elite Group A",
+      "team1": "Tamil Nadu",
+      "team2": "Jharkhand",
+      "match_id": "124117",
       "match_date": "15/10/2025",
       "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124227"
-    },
-    {
-      "title": "Hyderabad vs Delhi, Elite Group D",
-      "team1": "Hyderabad",
-      "team2": "Delhi",
-      "match_id": "124233",
-      "match_date": "15/10/2025",
-      "match_time": "9:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=124233"
+      "details": "https://allrounderscoreboard.onrender.com/score?id=124117"
     },
     {
       "title": "Gujarat vs Assam, Elite Group C",
@@ -200,6 +119,87 @@
       "match_date": "15/10/2025",
       "match_time": "9:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=124194"
+    },
+    {
+      "title": "Uttar Pradesh vs Andhra, Elite Group A",
+      "team1": "Uttar Pradesh",
+      "team2": "Andhra",
+      "match_id": "124112",
+      "match_date": "15/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=124112"
+    },
+    {
+      "title": "Madhya Pradesh vs Punjab, Elite Group B",
+      "team1": "Madhya Pradesh",
+      "team2": "Punjab",
+      "match_id": "124167",
+      "match_date": "15/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=124167"
+    },
+    {
+      "title": "Railways vs Haryana, Elite Group C",
+      "team1": "Railways",
+      "team2": "Haryana",
+      "match_id": "124205",
+      "match_date": "15/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=124205"
+    },
+    {
+      "title": "Rajasthan vs Chhattisgarh, Elite Group D",
+      "team1": "Rajasthan",
+      "team2": "Chhattisgarh",
+      "match_id": "124227",
+      "match_date": "15/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=124227"
+    },
+    {
+      "title": "Bihar vs Arunachal Pradesh, Plate",
+      "team1": "Bihar",
+      "team2": "Arunachal Pradesh",
+      "match_id": "123699",
+      "match_date": "15/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=123699"
+    },
+    {
+      "title": "Goa vs Chandigarh, Elite Group B",
+      "team1": "Goa",
+      "team2": "Chandigarh",
+      "match_id": "124156",
+      "match_date": "15/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=124156"
+    },
+    {
+      "title": "Services vs Tripura, Elite Group C",
+      "team1": "Services",
+      "team2": "Tripura",
+      "match_id": "124183",
+      "match_date": "15/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=124183"
+    },
+    {
+      "title": "Puducherry vs Himachal Pradesh, Elite Group D",
+      "team1": "Puducherry",
+      "team2": "Himachal Pradesh",
+      "match_id": "124211",
+      "match_date": "15/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=124211"
+    },
+    {
+      "title": "Jammu and Kashmir vs Mumbai, Elite Group D",
+      "team1": "Jammu and Kashmir",
+      "team2": "Mumbai",
+      "match_id": "124222",
+      "match_date": "15/10/2025",
+      "match_time": "9:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=124222"
     },
     {
       "title": "South Western Districts vs Mpumalanga Rhinos, 6th Match",
@@ -319,15 +319,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135752"
     },
     {
-      "title": "Victoria vs New South Wales, 10th Match",
-      "team1": "Victoria",
-      "team2": "New South Wales",
-      "match_id": "133528",
-      "match_date": "20/10/2025",
-      "match_time": "4:30:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133528"
-    },
-    {
       "title": "Tasmania vs Western Australia, 11th Match",
       "team1": "Tasmania",
       "team2": "Western Australia",
@@ -337,12 +328,21 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133539"
     },
     {
+      "title": "Victoria vs New South Wales, 10th Match",
+      "team1": "Victoria",
+      "team2": "New South Wales",
+      "match_id": "133528",
+      "match_date": "20/10/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133528"
+    },
+    {
       "title": "South Australia vs Queensland, 12th Match",
       "team1": "South Australia",
       "team2": "Queensland",
       "match_id": "133550",
       "match_date": "20/10/2025",
-      "match_time": "5:00:00 am",
+      "match_time": "6:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133550"
     }
   ]
