@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:46 AM 20-10-2025",
+  "last update time": "06:57 AM 20-10-2025",
   "matches": [
-    {
-      "title": "Knights vs Limpopo, 7th Match",
-      "team1": "Knights",
-      "team2": "Limpopo",
-      "match_id": "134518",
-      "match_date": "16/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134518"
-    },
     {
       "title": "Eastern Storm vs Border, 8th Match",
       "team1": "Eastern Storm",
@@ -29,6 +20,15 @@
       "match_date": "16/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134507"
+    },
+    {
+      "title": "Knights vs Limpopo, 7th Match",
+      "team1": "Knights",
+      "team2": "Limpopo",
+      "match_id": "134518",
+      "match_date": "16/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134518"
     },
     {
       "title": "Bangladesh vs West Indies, 1st ODI",
@@ -155,6 +155,24 @@
       "match_date": "20/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121604"
+    },
+    {
+      "title": "Brisbane Heat Women vs Melbourne Renegades Women, 3rd Match",
+      "team1": "Brisbane Heat Women",
+      "team2": "Melbourne Renegades Women",
+      "match_id": "131262",
+      "match_date": "21/10/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131262"
+    },
+    {
+      "title": "Sydney Sixers Women vs Hobart Hurricanes Women, 1st Match",
+      "team1": "Sydney Sixers Women",
+      "team2": "Hobart Hurricanes Women",
+      "match_id": "131246",
+      "match_date": "21/10/2025",
+      "match_time": "4:30:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131246"
     }
   ]
 }
