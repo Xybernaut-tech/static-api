@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:50 PM 20-10-2025",
+  "last update time": "06:09 PM 20-10-2025",
   "matches": [
     {
       "title": "Knights vs Limpopo, 7th Match",
@@ -13,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134518"
     },
     {
-      "title": "South Western Districts vs Mpumalanga Rhinos, 6th Match",
-      "team1": "South Western Districts",
-      "team2": "Mpumalanga Rhinos",
-      "match_id": "134507",
-      "match_date": "16/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134507"
-    },
-    {
       "title": "Eastern Storm vs Border, 8th Match",
       "team1": "Eastern Storm",
       "team2": "Border",
@@ -31,22 +22,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134529"
     },
     {
-      "title": "Australia vs India, 1st ODI",
-      "team1": "Australia",
-      "team2": "India",
-      "match_id": "116912",
-      "match_date": "19/10/2025",
-      "match_time": "9:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=116912"
-    },
-    {
-      "title": "Romania vs Austria, 3rd T20I",
-      "team1": "Romania",
-      "team2": "Austria",
-      "match_id": "135741",
-      "match_date": "19/10/2025",
-      "match_time": "1:00:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135741"
+      "title": "South Western Districts vs Mpumalanga Rhinos, 6th Match",
+      "team1": "South Western Districts",
+      "team2": "Mpumalanga Rhinos",
+      "match_id": "134507",
+      "match_date": "16/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134507"
     },
     {
       "title": "India Women vs England Women, 20th Match",
@@ -175,8 +157,8 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131257"
     },
     {
-      "title": "Kwazulu-natal Inland vs Boland, 14th Match",
-      "team1": "Kwazulu-natal Inland",
+      "title": "KwaZulu-Natal Inland vs Boland, 14th Match",
+      "team1": "KwaZulu-Natal Inland",
       "team2": "Boland",
       "match_id": "133957",
       "match_date": "21/10/2025",
@@ -191,6 +173,15 @@
       "match_date": "21/10/2025",
       "match_time": "1:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134936"
+    },
+    {
+      "title": "Titans vs Warriors, 16th Match",
+      "team1": "Titans",
+      "team2": "Warriors",
+      "match_id": "133979",
+      "match_date": "21/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133979"
     },
     {
       "title": "Western Province vs Dolphins, 13th Match",
@@ -211,15 +202,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=133968"
     },
     {
-      "title": "Titans vs Warriors, 16th Match",
-      "team1": "Titans",
-      "team2": "Warriors",
-      "match_id": "133979",
-      "match_date": "21/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133979"
-    },
-    {
       "title": "South Africa Women vs Pakistan Women, 22nd Match",
       "team1": "South Africa Women",
       "team2": "Pakistan Women",
@@ -227,6 +209,15 @@
       "match_date": "21/10/2025",
       "match_time": "3:00:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=121615"
+    },
+    {
+      "title": "Uganda Women vs Canada Women, 2nd T20I",
+      "team1": "Uganda Women",
+      "team2": "Canada Women",
+      "match_id": "135806",
+      "match_date": "21/10/2025",
+      "match_time": "4:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135806"
     }
   ]
 }
