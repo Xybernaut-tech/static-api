@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:44 AM 20-10-2025",
+  "last update time": "09:54 AM 20-10-2025",
   "matches": [
     {
       "title": "Knights vs Limpopo, 7th Match",
@@ -13,15 +13,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134518"
     },
     {
-      "title": "Eastern Storm vs Border, 8th Match",
-      "team1": "Eastern Storm",
-      "team2": "Border",
-      "match_id": "134529",
-      "match_date": "16/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134529"
-    },
-    {
       "title": "South Western Districts vs Mpumalanga Rhinos, 6th Match",
       "team1": "South Western Districts",
       "team2": "Mpumalanga Rhinos",
@@ -29,6 +20,15 @@
       "match_date": "16/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134507"
+    },
+    {
+      "title": "Eastern Storm vs Border, 8th Match",
+      "team1": "Eastern Storm",
+      "team2": "Border",
+      "match_id": "134529",
+      "match_date": "16/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134529"
     },
     {
       "title": "Bangladesh vs West Indies, 1st ODI",
@@ -173,6 +173,24 @@
       "match_date": "21/10/2025",
       "match_time": "4:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131246"
+    },
+    {
+      "title": "Sydney Thunder Women vs Act Women, 2nd Match",
+      "team1": "Sydney Thunder Women",
+      "team2": "Act Women",
+      "match_id": "131257",
+      "match_date": "21/10/2025",
+      "match_time": "9:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131257"
+    },
+    {
+      "title": "Adelaide Strikers Women vs Melbourne Stars Women, 4th Match",
+      "team1": "Adelaide Strikers Women",
+      "team2": "Melbourne Stars Women",
+      "match_id": "131273",
+      "match_date": "21/10/2025",
+      "match_time": "9:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131273"
     }
   ]
 }
