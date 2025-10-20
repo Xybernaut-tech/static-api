@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:58 AM 20-10-2025",
+  "last update time": "01:55 PM 20-10-2025",
   "matches": [
-    {
-      "title": "Knights vs Limpopo, 7th Match",
-      "team1": "Knights",
-      "team2": "Limpopo",
-      "match_id": "134518",
-      "match_date": "16/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=134518"
-    },
     {
       "title": "Eastern Storm vs Border, 8th Match",
       "team1": "Eastern Storm",
@@ -22,6 +13,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134529"
     },
     {
+      "title": "Knights vs Limpopo, 7th Match",
+      "team1": "Knights",
+      "team2": "Limpopo",
+      "match_id": "134518",
+      "match_date": "16/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134518"
+    },
+    {
       "title": "South Western Districts vs Mpumalanga Rhinos, 6th Match",
       "team1": "South Western Districts",
       "team2": "Mpumalanga Rhinos",
@@ -29,15 +29,6 @@
       "match_date": "16/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=134507"
-    },
-    {
-      "title": "Papua New Guinea Women vs United Arab Emirates Women, 4th ODI",
-      "team1": "Papua New Guinea Women",
-      "team2": "United Arab Emirates Women",
-      "match_id": "135784",
-      "match_date": "19/10/2025",
-      "match_time": "5:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135784"
     },
     {
       "title": "Australia vs India, 1st ODI",
@@ -182,6 +173,51 @@
       "match_date": "21/10/2025",
       "match_time": "9:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131257"
+    },
+    {
+      "title": "Kwazulu-natal Inland vs Boland, 14th Match",
+      "team1": "Kwazulu-natal Inland",
+      "team2": "Boland",
+      "match_id": "133957",
+      "match_date": "21/10/2025",
+      "match_time": "12:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133957"
+    },
+    {
+      "title": "Bangladesh vs West Indies, 2nd ODI",
+      "team1": "Bangladesh",
+      "team2": "West Indies",
+      "match_id": "134936",
+      "match_date": "21/10/2025",
+      "match_time": "1:00:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=134936"
+    },
+    {
+      "title": "Lions vs North West, 15th Match",
+      "team1": "Lions",
+      "team2": "North West",
+      "match_id": "133968",
+      "match_date": "21/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133968"
+    },
+    {
+      "title": "Western Province vs Dolphins, 13th Match",
+      "team1": "Western Province",
+      "team2": "Dolphins",
+      "match_id": "133952",
+      "match_date": "21/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133952"
+    },
+    {
+      "title": "Titans vs Warriors, 16th Match",
+      "team1": "Titans",
+      "team2": "Warriors",
+      "match_id": "133979",
+      "match_date": "21/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133979"
     }
   ]
 }
