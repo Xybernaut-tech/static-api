@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:51 AM 22-10-2025",
+  "last update time": "03:46 AM 22-10-2025",
   "matches": [
     {
       "title": "Pakistan vs South Africa, 2nd Test",
@@ -40,15 +40,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131262"
     },
     {
-      "title": "Sydney Thunder Women vs ACT Women, 2nd Match",
-      "team1": "Sydney Thunder Women",
-      "team2": "ACT Women",
-      "match_id": "131257",
-      "match_date": "21/10/2025",
-      "match_time": "9:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131257"
-    },
-    {
       "title": "Adelaide Strikers Women vs Melbourne Stars Women, 4th Match",
       "team1": "Adelaide Strikers Women",
       "team2": "Melbourne Stars Women",
@@ -58,13 +49,13 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131273"
     },
     {
-      "title": "Uganda Women vs Canada Women, 2nd T20I",
-      "team1": "Uganda Women",
-      "team2": "Canada Women",
-      "match_id": "135806",
+      "title": "Sydney Thunder Women vs ACT Women, 2nd Match",
+      "team1": "Sydney Thunder Women",
+      "team2": "ACT Women",
+      "match_id": "131257",
       "match_date": "21/10/2025",
-      "match_time": "12:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=135806"
+      "match_time": "9:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131257"
     },
     {
       "title": "KwaZulu-Natal Inland vs Boland, 14th Match",
@@ -74,6 +65,15 @@
       "match_date": "21/10/2025",
       "match_time": "12:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133957"
+    },
+    {
+      "title": "Uganda Women vs Canada Women, 2nd T20I",
+      "team1": "Uganda Women",
+      "team2": "Canada Women",
+      "match_id": "135806",
+      "match_date": "21/10/2025",
+      "match_time": "12:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=135806"
     },
     {
       "title": "Bangladesh vs West Indies, 2nd ODI",
