@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:34 AM 21-10-2025",
+  "last update time": "09:51 AM 21-10-2025",
   "matches": [
     {
       "title": "Victoria vs New South Wales, 10th Match",
@@ -94,15 +94,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=131246"
     },
     {
-      "title": "Sydney Thunder Women vs ACT Women, 2nd Match",
-      "team1": "Sydney Thunder Women",
-      "team2": "ACT Women",
-      "match_id": "131257",
-      "match_date": "21/10/2025",
-      "match_time": "9:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131257"
-    },
-    {
       "title": "Adelaide Strikers Women vs Melbourne Stars Women, 4th Match",
       "team1": "Adelaide Strikers Women",
       "team2": "Melbourne Stars Women",
@@ -110,6 +101,15 @@
       "match_date": "21/10/2025",
       "match_time": "9:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131273"
+    },
+    {
+      "title": "Sydney Thunder Women vs ACT Women, 2nd Match",
+      "team1": "Sydney Thunder Women",
+      "team2": "ACT Women",
+      "match_id": "131257",
+      "match_date": "21/10/2025",
+      "match_time": "9:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131257"
     },
     {
       "title": "KwaZulu-Natal Inland vs Boland, 14th Match",
@@ -182,6 +182,15 @@
       "match_date": "22/10/2025",
       "match_time": "4:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131284"
+    },
+    {
+      "title": "Hobart Hurricanes Women vs Sydney Thunder Women, 6th Match",
+      "team1": "Hobart Hurricanes Women",
+      "team2": "Sydney Thunder Women",
+      "match_id": "131295",
+      "match_date": "22/10/2025",
+      "match_time": "9:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131295"
     }
   ]
 }
