@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:39 AM 22-10-2025",
+  "last update time": "09:51 AM 22-10-2025",
   "matches": [
     {
       "title": "Pakistan vs South Africa, 2nd Test",
@@ -22,15 +22,6 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=135450"
     },
     {
-      "title": "Adelaide Strikers Women vs Melbourne Stars Women, 4th Match",
-      "team1": "Adelaide Strikers Women",
-      "team2": "Melbourne Stars Women",
-      "match_id": "131273",
-      "match_date": "21/10/2025",
-      "match_time": "9:00:00 am",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=131273"
-    },
-    {
       "title": "Sydney Thunder Women vs ACT Women, 2nd Match",
       "team1": "Sydney Thunder Women",
       "team2": "ACT Women",
@@ -38,6 +29,15 @@
       "match_date": "21/10/2025",
       "match_time": "9:00:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131257"
+    },
+    {
+      "title": "Adelaide Strikers Women vs Melbourne Stars Women, 4th Match",
+      "team1": "Adelaide Strikers Women",
+      "team2": "Melbourne Stars Women",
+      "match_id": "131273",
+      "match_date": "21/10/2025",
+      "match_time": "9:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131273"
     },
     {
       "title": "Uganda Women vs Canada Women, 2nd T20I",
@@ -67,6 +67,15 @@
       "details": "https://allrounderscoreboard.onrender.com/score?id=134936"
     },
     {
+      "title": "Lions vs North West, 15th Match",
+      "team1": "Lions",
+      "team2": "North West",
+      "match_id": "133968",
+      "match_date": "21/10/2025",
+      "match_time": "1:30:00 pm",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=133968"
+    },
+    {
       "title": "Titans vs Warriors, 16th Match",
       "team1": "Titans",
       "team2": "Warriors",
@@ -83,15 +92,6 @@
       "match_date": "21/10/2025",
       "match_time": "1:30:00 pm",
       "details": "https://allrounderscoreboard.onrender.com/score?id=133952"
-    },
-    {
-      "title": "Lions vs North West, 15th Match",
-      "team1": "Lions",
-      "team2": "North West",
-      "match_id": "133968",
-      "match_date": "21/10/2025",
-      "match_time": "1:30:00 pm",
-      "details": "https://allrounderscoreboard.onrender.com/score?id=133968"
     },
     {
       "title": "South Africa Women vs Pakistan Women, 22nd Match",
@@ -137,6 +137,24 @@
       "match_date": "23/10/2025",
       "match_time": "4:30:00 am",
       "details": "https://allrounderscoreboard.onrender.com/score?id=131301"
+    },
+    {
+      "title": "Australia vs India, 2nd ODI",
+      "team1": "Australia",
+      "team2": "India",
+      "match_id": "116921",
+      "match_date": "23/10/2025",
+      "match_time": "9:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=116921"
+    },
+    {
+      "title": "Perth Scorchers Women vs Brisbane Heat Women, 8th Match",
+      "team1": "Perth Scorchers Women",
+      "team2": "Brisbane Heat Women",
+      "match_id": "131306",
+      "match_date": "23/10/2025",
+      "match_time": "9:00:00 am",
+      "details": "https://allrounderscoreboard.onrender.com/score?id=131306"
     }
   ]
 }
